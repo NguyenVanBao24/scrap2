@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-3363",
+    "address": "street: 2500 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "T.J.Maxx",
+    "description": "Clothing Stores",
+    "phone": "(386) 681-1076",
+    "address": "street: 2455 W International Speedway Blvd Ste 800 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-1086",
+    "address": "street: 2500 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(386) 252-8279",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-3838",
+    "address": "street: 1700 W International Speedway Blvd Ste 240 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-1730",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(386) 252-9772",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-5028",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-2424",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(386) 238-3470",
+    "address": "street: 1700 W International Speedway Blvd Ste 124 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "First Look Fashion",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-4756",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-3230",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "East Coast Customs",
+    "description": "Clothing Stores",
+    "phone": "(386) 256-7557",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-5028",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(386) 255-2167",
+    "address": "street: 1698 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Yeoko, LLC.",
+    "description": "Clothing Stores",
+    "phone": "(404) 725-4881",
+    "address": "street: N/A location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "On Wax Branding Company",
+    "description": "Clothing Stores",
+    "phone": "(386) 295-7641",
+    "address": "street: N/A location: Palm Coast, FL 32164"
+  },
+  {
+    "name": "First Uniform Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 425-0196",
+    "address": "street: 303 N Clyde Morris Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(386) 253-7859",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-2262",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(386) 947-0556",
+    "address": "street: 1700 W International Speedway Blvd Ste 316 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(386) 947-8148",
+    "address": "street: 1008 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "5.11 Tactical",
+    "description": "Clothing Stores",
+    "phone": "(386) 888-8356",
+    "address": "street: 1115 Cornerstone Blvd Unit B location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "VF Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4926",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4051",
+    "address": "street: 1100 Cornerstone Blvd Ste 690 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-3376",
+    "address": "street: 1100 Cornerstone Blvd Ste 540 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 233-9078",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Gap Factory",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-2970",
+    "address": "street: 1100 Cornerstone Blvd Ste 400 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "J. Crew Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4051",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Columbia Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 682-3985",
+    "address": "street: 1100 Cornerstone Blvd Ste 105 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Hanesbrands",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4457",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1304",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "GUESS Factory",
+    "description": "Clothing Stores",
+    "phone": "(386) 506-8086",
+    "address": "street: 1100 Cornerstone Blvd Ste 990 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Salt Life",
+    "description": "Clothing Stores",
+    "phone": "(904) 595-5375",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(386) 350-6668",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "BB’S Boutique",
+    "description": "Clothing Stores",
+    "phone": "(386) 999-0480",
+    "address": "street: 1100 Cornerstone Blvd Ste #850 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "V.I. DIVAZ BOUTIQUE",
+    "description": "Clothing Stores",
+    "phone": "(386) 898-2276",
+    "address": "street: 1363 Beville Rd location: Daytona Beach, FL 32119"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1804",
+    "address": "street: 1473 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "NSB Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(386) 523-2858",
+    "address": "street: 944 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(386) 492-0600",
+    "address": "street: 878 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(386) 238-6484",
+    "address": "street: 892 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "DOTS Motor Coaches",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-5411",
+    "address": "street: 1034 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "City Streetz Urban Apparrel",
+    "description": "Clothing Stores",
+    "phone": "(386) 868-0134",
+    "address": "street: 622 Mason Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Lots A Panache",
+    "description": "Clothing Stores",
+    "phone": "(386) 310-3069",
+    "address": "street: 3751 Clyde Morris Blvd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Avon Independant Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(352) 318-2179",
+    "address": "street: 140 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Purple Haze",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-6945",
+    "address": "street: 2250 S Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Daytona Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(386) 615-1416",
+    "address": "street: 712 N Beach St location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Bruce Rossmeyer's Daytona Harley-Davidson Clothing Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-2555",
+    "address": "street: 510 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Onesexybikerchick",
+    "description": "Clothing Stores",
+    "phone": "(612) 695-4299",
+    "address": "street: 508 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Uptown Girl Clothing Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 872-3664",
+    "address": "street: 244 Seabreeze Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-2770",
+    "address": "street: 1458 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "MANO SUITS LLC",
+    "description": "Clothing Stores",
+    "phone": "(386) 225-6816",
+    "address": "street: 1657 Taylor Rd Ste 108 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Diversified Sales Co",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-6642",
+    "address": "street: 413 Oak Pl location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Corbis",
+    "description": "Clothing Stores",
+    "phone": "(386) 675-0080",
+    "address": "street: 105 John Anderson Dr location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Jopp's Tack Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-4756",
+    "address": "street: 2579 Tribble Dr location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Jesus Surfed Apparel Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 323-9360",
+    "address": "street: 62 Sandcastle Dr location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Prep School Vintage",
+    "description": "Clothing Stores",
+    "phone": "(386) 453-9978",
+    "address": "street: 94 Jana Dr location: Ponce Inlet, FL 32127"
+  },
+  {
+    "name": "Lots A Panache",
+    "description": "Clothing Stores",
+    "phone": "(386) 310-3069",
+    "address": "street: 3751 Clyde Morris Blvd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(386) 238-6484",
+    "address": "street: 890 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Avon Independant Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(352) 318-2179",
+    "address": "street: 140 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Purple Haze",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-6945",
+    "address": "street: 2250 S Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Daytona Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(386) 615-1416",
+    "address": "street: 712 N Beach St location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Bruce Rossmeyer's Daytona Harley-Davidson Clothing Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-2555",
+    "address": "street: 510 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Onesexybikerchick",
+    "description": "Clothing Stores",
+    "phone": "(612) 695-4299",
+    "address": "street: 508 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Uptown Girl Clothing Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 872-3664",
+    "address": "street: 244 Seabreeze Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(386) 322-3674",
+    "address": "street: 5509 S Williamson Blvd Ste 105 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-2770",
+    "address": "street: 1458 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "MANO SUITS LLC",
+    "description": "Clothing Stores",
+    "phone": "(386) 225-6816",
+    "address": "street: 1657 Taylor Rd Ste 108 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Diversified Sales Co",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-6642",
+    "address": "street: 413 Oak Pl location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-0421",
+    "address": "street: 5509 S Wlmsn Blvd St 105 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-9047",
+    "address": "street: 2505 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Corbis",
+    "description": "Clothing Stores",
+    "phone": "(386) 675-0080",
+    "address": "street: 105 John Anderson Dr location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Jopp's Tack Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-4756",
+    "address": "street: 2579 Tribble Dr location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Jesus Surfed Apparel Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 323-9360",
+    "address": "street: 62 Sandcastle Dr location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Prep School Vintage",
+    "description": "Clothing Stores",
+    "phone": "(386) 453-9978",
+    "address": "street: 94 Jana Dr location: Ponce Inlet, FL 32127"
+  },
+  {
+    "name": "Bikers Pride Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 492-5997",
+    "address": "street: 873 Hull Rd Unit 10 location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Dawn Patrol Surf Shop/ Board Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 947-7873",
+    "address": "street: 1368 Ocean Shore Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Oceanwear Earth",
+    "description": "Clothing Stores",
+    "phone": "(386) 405-0636",
+    "address": "street: 55 Inlet Point Blvd location: Ponce Inlet, FL 32127"
+  },
+  {
+    "name": "Sock It Up Club LLC",
+    "description": "Clothing Stores",
+    "phone": "(386) 518-3166",
+    "address": "street: 26 Morning Star Ave location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "SFS Sport Fashion Style",
+    "description": "Clothing Stores",
+    "phone": "(785) 816-1416",
+    "address": "street: 548 Aldenham Ln location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 427-1358",
+    "address": "street: 727 E 3rd Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "My Girlfriends Closet Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 957-4907",
+    "address": "street: 320 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Grom Gear",
+    "description": "Clothing Stores",
+    "phone": "(386) 423-3004",
+    "address": "street: 100 N Cooper St Unit 4 location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(386) 233-3212",
+    "address": "street: 2455 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 252-4952",
+    "address": "street: 2455 W International Speedway Blvd Ste 803 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-5190",
+    "address": "street: 1910 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Skips Shoea & Western Boots",
+    "description": "Clothing Stores",
+    "phone": "(386) 255-0455",
+    "address": "street: 2990 W International Speedway Blvd location: Daytona Beach, FL 32124"
+  },
+  {
+    "name": "Volusia Mall",
+    "description": "Clothing Stores",
+    "phone": "(386) 253-6783",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(386) 255-0971",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(386) 253-3533",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Plato's Closet",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-5000",
+    "address": "street: 1808 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-8855",
+    "address": "street: 1808 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-3300",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(386) 323-9732",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-1249",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(386) 253-5316",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-7020",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Styles",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-5048",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(386) 252-4104",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Just Hookin",
+    "description": "Clothing Stores",
+    "phone": "(386) 527-2291",
+    "address": "street: N/A location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(386) 676-3970",
+    "address": "street: N/A location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(386) 868-0013",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-1844",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4770",
+    "address": "street: 1115 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-5028",
+    "address": "street: 1700 West Int Speedway Blvd 128 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Daytona Shirt Shop",
+    "description": "Clothing Stores",
+    "phone": "(386) 252-5699",
+    "address": "street: 827 E International Speedway B location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1991",
+    "address": "street: 1100 Cornerstone Blvd Ste 1045 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Urban Planet",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4571",
+    "address": "street: 1100 Cornerstone Blvd Ste 490 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Lee Wrangler",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4423",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-3678",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "LOFT Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-2291",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Michael Kors Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 281-6822",
+    "address": "street: 1100 Cornerstone Blvd Ste 1090 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Old Navy Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-4971",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Polo Ralph Lauren Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1304",
+    "address": "street: 1100 Cornerstone Blvd Ste 600 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "COACH Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1630",
+    "address": "street: 1100 Cornerstone Blvd Ste 660 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Van Heusen",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1593",
+    "address": "street: 1100 Cornerstone Blvd Ste 830 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(386) 239-1141",
+    "address": "street: 1100 Cornerstone Blvd Ste 660 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Palmetto Moon",
+    "description": "Clothing Stores",
+    "phone": "(386) 256-3589",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Levi's",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-6195",
+    "address": "street: 1100 Cornerstone Blvd Ste 1010 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(386) 256-7149",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "vineyard vines Outlet",
+    "description": "Clothing Stores",
+    "phone": "(386) 233-9644",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(386) 877-0175",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-1156",
+    "address": "street: 1511 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Ross",
+    "description": "Clothing Stores",
+    "phone": "(386) 226-0141",
+    "address": "street: 814 S Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(386) 888-1420",
+    "address": "street: 1415 S Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Uniforms & More",
+    "description": "Clothing Stores",
+    "phone": "(386) 274-3200",
+    "address": "street: 1400 Mason Ave Ste 140 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Ross",
+    "description": "Clothing Stores",
+    "phone": "(386) 226-0141",
+    "address": "street: 808 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Looking Good Menswear",
+    "description": "Clothing Stores",
+    "phone": "(386) 255-8285",
+    "address": "street: 840 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Bum John",
+    "description": "Clothing Stores",
+    "phone": "(855) 581-0985",
+    "address": "street: 1201 10th St location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Designer Closet",
+    "description": "Clothing Stores",
+    "phone": "(386) 275-1476",
+    "address": "street: 622 Mason Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Nana and Me Kid's Exchange",
+    "description": "Clothing Stores",
+    "phone": "(386) 212-7367",
+    "address": "street: 2250 S Nova Rd location: South Daytona, FL 32119"
+  },
+  {
+    "name": "USA Action Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-6865",
+    "address": "street: 615 Fern Ave location: Holly Hill, FL 32117"
+  },
+  {
+    "name": "Americas Bikers Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 453-3330",
+    "address": "street: 823 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Beach Street Impressions",
+    "description": "Clothing Stores",
+    "phone": "(386) 947-1919",
+    "address": "street: 134 S Beach St location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Miracle Lace Visor",
+    "description": "Clothing Stores",
+    "phone": "(386) 254-0927",
+    "address": "street: 475 Carswell Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Joe Cool",
+    "description": "Clothing Stores",
+    "phone": "(386) 257-4280",
+    "address": "street: 1052 N Beach St location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "danny daytona",
+    "description": "Clothing Stores",
+    "phone": "(386) 275-1319",
+    "address": "street: 509 E Int Speedway Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(386) 676-3970",
+    "address": "street: 2461n Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Hot Leathers",
+    "description": "Clothing Stores",
+    "phone": "(386) 238-1048",
+    "address": "street: 801 Main St location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Total Fashion",
+    "description": "Clothing Stores",
+    "phone": "(386) 492-6914",
+    "address": "street: 42 S Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(386) 255-0971",
+    "address": "street: 1700 W Intl Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(386) 253-3533",
+    "address": "street: 1700 W Intl Speedway Blvd Ste 244 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Apollo-n Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(386) 258-7836",
+    "address": "street: 2412 S Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-5085",
+    "address": "street: 1682 Taylor Rd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Classy Kids by Susie",
+    "description": "Clothing Stores",
+    "phone": "(386) 323-5744",
+    "address": "street: 1757 N Nova Rd location: Holly Hill, FL 32117"
+  },
+  {
+    "name": "T-Shirt Madness",
+    "description": "Clothing Stores",
+    "phone": "(386) 265-1987",
+    "address": "street: 2335 S Ridgewood Ave location: South Daytona, FL 32119"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 763-5787",
+    "address": "street: 2400 S Ridgewood Ave Ste 39 location: South Daytona, FL 32119"
+  },
+  {
+    "name": "Dance Depot",
+    "description": "Clothing Stores",
+    "phone": "(386) 760-4858",
+    "address": "street: 2644 S Ridgewood Ave location: South Daytona, FL 32119"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(386) 356-2264",
+    "address": "street: 5503 S Williamson Blvd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Marshalls & HomeGoods",
+    "description": "Clothing Stores",
+    "phone": "(386) 763-4681",
+    "address": "street: 5505 S Williamson Blvd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(386) 304-9409",
+    "address": "street: 5509 S Williamson Blvd Ste 115 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-2770",
+    "address": "street: 1458 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Lacey's Manufac Turing",
+    "description": "Clothing Stores",
+    "phone": "(386) 767-0932",
+    "address": "street: 503 Herbert St location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 756-7940",
+    "address": "street: 3813 S Nova Rd location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(386) 677-0871",
+    "address": "street: 1466 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(386) 304-2763",
+    "address": "street: 3803 S Nova Rd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Chez Aline",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-3075",
+    "address": "street: 142 E Granada Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(386) 672-1229",
+    "address": "street: 260 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(386) 677-7225",
+    "address": "street: 280 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(386) 356-2258",
+    "address": "street: 2435 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 671-9047",
+    "address": "street: 2505 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(386) 677-8137",
+    "address": "street: 2617 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 677-8137",
+    "address": "street: 2617 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bargains & Treasures Thrift Shop",
+    "description": "Clothing Stores",
+    "phone": "(386) 310-8732",
+    "address": "street: 30 Lincoln Ave location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Worldwide Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(386) 761-2688",
+    "address": "street: 4471 Eastport Park Way location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 672-6546",
+    "address": "street: 120 S Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(386) 672-5127",
+    "address": "street: 258 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Lighthouse Treasures Thrift Store& More",
+    "description": "Clothing Stores",
+    "phone": "(386) 405-6488",
+    "address": "street: 5346 s ridgewood ave location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Purple Haze",
+    "description": "Clothing Stores",
+    "phone": "(386) 944-9051",
+    "address": "street: 396 S Atlantic Ave location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Bikini Company",
+    "description": "Clothing Stores",
+    "phone": "(386) 676-2525",
+    "address": "street: 235 E Granada Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Biker's Pride Inc.",
+    "description": "Clothing Stores",
+    "phone": "(386) 492-5997",
+    "address": "street: 301 Division Ave Unit 1 location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Healthy Souls Apparel",
+    "description": "Clothing Stores",
+    "phone": "(386) 316-6760",
+    "address": "street: 6823 Stoneheath Ln location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(386) 441-7661",
+    "address": "street: 1250 Ocean Shore Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 441-7661",
+    "address": "street: 1250 Ocean Shore Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Deep Sea...",
+    "description": "Clothing Stores",
+    "phone": "(386) 402-8487",
+    "address": "street: 501 N Causeway location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Wild Side Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(386) 427-1664",
+    "address": "street: 521 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Lolo's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(386) 478-0442",
+    "address": "street: 384 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(386) 428-5974",
+    "address": "street: 1998 State Road 44 Ste 1 location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(386) 428-5974",
+    "address": "street: 1998 State Road 44 Ste 1 location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "m2 Distribution, Inc",
+    "description": "Clothing Stores",
+    "phone": "(386) 279-7542",
+    "address": "street: 1200 Flight Line Blvd location: Deland, FL 32724"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(386) 427-8282",
+    "address": "street: 727 E 3rd Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(386) 427-1358",
+    "address": "street: 727 E 3rd Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "CAD Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(386) 734-2978",
+    "address": "street: 609 E Rich Ave location: Deland, FL 32724"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(386) 257-4778",
+    "address": "street: 2380 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(386) 252-3160",
+    "address": "street: 2500 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(386) 255-5533",
+    "address": "street: 2500 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(386) 238-5004",
+    "address": "street: 2455 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(386) 255-5533",
+    "address": "street: 2500 W International Speedway Blvd Ste 100 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(386) 248-2135",
+    "address": "street: 2500 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Charming Charlie",
+    "description": "Women's Clothing",
+    "phone": "(386) 226-3011",
+    "address": "street: 2500 W International Speedway Blvd Ste 550 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "B J Retail Corp",
+    "description": "Women's Clothing",
+    "phone": "(386) 252-8707",
+    "address": "street: 2591 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(386) 258-3766",
+    "address": "street: 2110 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Mid-Florida Sportswear",
+    "description": "Screen Printing",
+    "phone": "(386) 258-5632",
+    "address": "street: 2415 Bellevue Ave location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(386) 255-6002",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Sports Fanatics Pluss",
+    "description": "Sports Cards & Memorabilia",
+    "phone": "(407) 473-5826",
+    "address": "street: 2987 Bellevue Ave location: Daytona Beach, FL 32124"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(386) 238-6949",
+    "address": "street: 1808 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Pro's Choice",
+    "description": "Sportswear",
+    "phone": "(386) 258-6110",
+    "address": "street: 1425 Tomoka Farms Rd location: Daytona Beach, FL 32124"
+  },
+  {
+    "name": "Fashion Fair Inc",
+    "description": "Women's Clothing",
+    "phone": "(386) 214-3790",
+    "address": "street: 1425 Tomoka Farms Rd location: Daytona Beach, FL 32124"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(386) 255-8161",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Windsor",
+    "description": "Women's Clothing",
+    "phone": "(888) 495-4957",
+    "address": "street: 1700 W International Speedway Blvd Ste 228 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(386) 252-3338",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(386) 254-2860",
+    "address": "street: 1700 W International Speedway Blvd Ste 528 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(386) 257-3007",
+    "address": "street: 1700 W International Speedway Blvd Ste 508 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(386) 257-0196",
+    "address": "street: 1700 W International Speedway Blvd Ste 558 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(386) 323-1778",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(386) 257-2056",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Artsy Abode at Daytona Beach",
+    "description": "Women's Clothing",
+    "phone": "(386) 238-0509",
+    "address": "street: 1700 W International Speedway Blvd Ste 570 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(386) 947-4857",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(215) 555-1212",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(386) 258-8117",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Women's Clothing",
+    "phone": "(386) 888-4216",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(386) 258-8907",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "PPi Sports",
+    "description": "Sportswear",
+    "phone": "(612) 386-3952",
+    "address": "street: 2441 Bellevue Ave location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Eye Candy Pigments",
+    "description": "Department Stores",
+    "phone": "(386) 281-3463",
+    "address": "street: 480 Fentress Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "What A Deal We Got",
+    "description": "Department Stores",
+    "phone": "(386) 492-7280",
+    "address": "street: 337 Bill France Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(386) 947-4595",
+    "address": "street: 1700 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Pricemasters",
+    "description": "Department Stores",
+    "phone": "(850) 299-2002",
+    "address": "street: 1700 W. International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(386) 255-2013",
+    "address": "street: 1300 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "R U Game",
+    "description": "Sportswear",
+    "phone": "(386) 677-0404",
+    "address": "street: N/A location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "K.I.T. Jean & Co., LLC.",
+    "description": "Textiles",
+    "phone": "(877) 218-4422",
+    "address": "street: N/A location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(386) 323-0670",
+    "address": "street: 1700 W International Speedway Blvd Ste 414 location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(386) 760-7880",
+    "address": "street: 1101 Beville Rd location: Daytona Beach, FL 32119"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(786) 681-1825",
+    "address": "street: 1115 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Sassey Style Clothing",
+    "description": "Women's Clothing",
+    "phone": "(386) 315-1075",
+    "address": "street: 124 Westwood Dr location: Daytona Beach, FL 32119"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(386) 944-1179",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(386) 281-6820",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "ASICS Outlet",
+    "description": "Shoe Stores",
+    "phone": "(386) 274-1080",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(386) 274-4844",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Crocs at Tanger Outlets Daytona",
+    "description": "Shoe Stores",
+    "phone": "(386) 233-9431",
+    "address": "street: 1100 Cornerstone Blvd Ste 925 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "SKECHERS Factory Outlet",
+    "description": "Shoe Stores",
+    "phone": "(386) 265-4730",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(386) 274-1468",
+    "address": "street: 1100 Cornerstone Blvd Ste 220 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Kate Spade Outlet",
+    "description": "Women's Clothing",
+    "phone": "(386) 274-4428",
+    "address": "street: 1100 Cornerstone Blvd Ste 640 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Lane Bryant Outlet",
+    "description": "Shoe Stores",
+    "phone": "(386) 274-1402",
+    "address": "street: 1100 Cornerstone Blvd Ste 840 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Under Armour Factory House",
+    "description": "Sportswear",
+    "phone": "(386) 274-2461",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "The PUMA Store",
+    "description": "Shoe Stores",
+    "phone": "(386) 206-7340",
+    "address": "street: 1100 Cornerstone Blvd Ste 420 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(386) 262-4650",
+    "address": "street: 1100 Cornerstone Blvd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Reebok",
+    "description": "Shoe Stores",
+    "phone": "(386) 310-0365",
+    "address": "street: 1100 Cornerstone Blvd Ste 930 location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Ladies High Fashions",
+    "description": "Consumer Electronics",
+    "phone": "(386) 453-3597",
+    "address": "street: 535 Colfax Dr location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Columbia Sportswear",
+    "description": "Sportswear",
+    "phone": "(386) 682-3985",
+    "address": "street: 1100 Cornerstone Blvd. Suite 105 Tanger Outlets location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Simply Fashion",
+    "description": "Women's Clothing",
+    "phone": "(386) 258-8155",
+    "address": "street: 132 N Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(386) 671-0455",
+    "address": "street: 266 N Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(386) 257-3007",
+    "address": "street: 1700 Volusia Ave location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(386) 255-2048",
+    "address": "street: 1415 S Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(386) 255-2048",
+    "address": "street: 1415 S Nova Rd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(386) 254-8387",
+    "address": "street: 816 N Nova Rd location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Poolsure",
+    "description": "Department Stores",
+    "phone": "(713) 683-6406",
+    "address": "street: 567 3rd St location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Blue Island Company",
+    "description": "Men's Clothing",
+    "phone": "(321) 328-7767",
+    "address": "street: Po Box 2144 location: Daytona Beach, FL 32121"
+  },
+  {
+    "name": "Gucci",
+    "description": "Women's Clothing",
+    "phone": "(561) 776-6351",
+    "address": "street: 3101 N Florida Pga Ln location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(386) 253-2739",
+    "address": "street: 230 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Styles for Less",
+    "description": "Women's Clothing",
+    "phone": "(386) 258-5048",
+    "address": "street: 116 W International Speedway Blvd location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Alexander's",
+    "description": "Department Stores",
+    "phone": "(386) 675-6029",
+    "address": "street: 222 S Beach St location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Myuna Cay",
+    "description": "Men's Clothing",
+    "phone": "(321) 961-4070",
+    "address": "street: 1897 Magnolia Ave location: South Daytona, FL 32119"
+  },
+  {
+    "name": "Spikes Athletic Footwear",
+    "description": "Diabetic Equipment & Supplies",
+    "phone": "(386) 677-2494",
+    "address": "street: 1237 Ridgewood Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Judy's Jazzy Boutique",
+    "description": "Women's Clothing",
+    "phone": "(386) 252-7563",
+    "address": "street: 719 N Ridgewood Ave location: Daytona Beach, FL 32114"
+  },
+  {
+    "name": "RideNow Powersports Daytona Beach",
+    "description": "Motorcycle Dealers",
+    "phone": "(386) 238-0888",
+    "address": "street: 450 Ridgewood Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(386) 253-2739",
+    "address": "street: 230 E International Speedway Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Sonny Designs",
+    "description": "Department Stores",
+    "phone": "(386) 677-0909",
+    "address": "street: 919 Alabama Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Daytona Sportswear",
+    "description": "Sportswear",
+    "phone": "(386) 615-1416",
+    "address": "street: 1525 State Ave location: Daytona Beach, FL 32117"
+  },
+  {
+    "name": "Rusty Cat",
+    "description": "Sportswear",
+    "phone": "(386) 257-0630",
+    "address": "street: 619 Seabreeze Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "The Fashion Safari",
+    "description": "Consignment Service",
+    "phone": "(386) 760-3600",
+    "address": "street: 4649 Clyde Morris Blvd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Bike One",
+    "description": "Bicycle Racks & Security Systems",
+    "phone": "(386) 304-8777",
+    "address": "street: 3840 S Nova Rd location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Wal-Mart SuperCenter",
+    "description": "General Merchandise",
+    "phone": "(386) 672-2104",
+    "address": "street: 1521 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(386) 756-2711",
+    "address": "street: 1590 Dunlawton Ave location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Four Angels Discount",
+    "description": "Discount Stores",
+    "phone": "(386) 256-2137",
+    "address": "street: 600 Ridgewood Ave location: Holly Hill, FL 32117"
+  },
+  {
+    "name": "Bon Worth Inc",
+    "description": "Women's Clothing",
+    "phone": "(386) 760-4794",
+    "address": "street: 2400 S Ridgewood Ave location: South Daytona, FL 32119"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(386) 760-5822",
+    "address": "street: 5509 S Williamson Blvd Ste 110 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "4Crowns Boutique",
+    "description": "Boutique Items",
+    "phone": "(386) 256-4306",
+    "address": "street: 5515 S Williamson Blvd Ste 212 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(386) 760-6440",
+    "address": "street: 5517 S Williamson Blvd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(386) 304-3901",
+    "address": "street: 5519 S Williamson Blvd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Adornments",
+    "description": "Women's Clothing",
+    "phone": "(386) 788-8802",
+    "address": "street: 5521 S Williamson Blvd Ste 440 location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Loraines Fashion Jewelry & Accessories",
+    "description": "Handbags",
+    "phone": "(386) 756-9535",
+    "address": "street: 5523 S Williamson Blvd location: Port Orange, FL 32128"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(386) 756-0106",
+    "address": "street: 3771 S Nova Rd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(386) 756-0106",
+    "address": "street: 3771 S Nova Rd location: Port Orange, FL 32129"
+  },
+  {
+    "name": "Comfort Zone Shoes",
+    "description": "Shoe Stores",
+    "phone": "(386) 677-7011",
+    "address": "street: 1474 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(386) 671-2770",
+    "address": "street: 1458 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Sara's Shop and Mall",
+    "description": "Department Stores",
+    "phone": "(855) 672-2306",
+    "address": "street: 32 Ribbon Falls Dr location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(386) 322-1348",
+    "address": "street: 1771 Dunlawton Ave location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Bealls",
+    "description": "Department Stores",
+    "phone": "(386) 756-7940",
+    "address": "street: 3813 S Nova Rd location: Port Orange, FL 32127"
+  },
+  {
+    "name": "National Sportswear & Emblem",
+    "description": "Sportswear",
+    "phone": "(407) 294-0032",
+    "address": "street: 4191 Dairy Ct Ste A location: Port Orange, FL 32127"
+  },
+  {
+    "name": "Sussman's Inc",
+    "description": "Women's Clothing",
+    "phone": "(386) 253-4514",
+    "address": "street: 303 Seabreeze Blvd location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(386) 671-9047",
+    "address": "street: 2505 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Anything Bowling",
+    "description": "Bowling Equipment & Accessories",
+    "phone": "(386) 673-9900",
+    "address": "street: 2575 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Home Centric",
+    "description": "Housewares",
+    "phone": "(386) 677-8137",
+    "address": "street: 2617 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(386) 615-7423",
+    "address": "street: 2651 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Big Shark",
+    "description": "Gift Shops",
+    "phone": "(386) 677-4041",
+    "address": "street: 2715 N Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Crystailor.com - Custom Rhinestone Apparel and Gifts",
+    "description": "Women's Clothing",
+    "phone": "(772) 405-7557",
+    "address": "street: 3621 S Atlantic Ave location: Daytona Beach, FL 32118"
+  },
+  {
+    "name": "Hot Action Sportswear",
+    "description": "Screen Printing",
+    "phone": "(386) 677-5680",
+    "address": "street: 307 Division Ave location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "True Love Boutique",
+    "description": "Consignment Service",
+    "phone": "(386) 872-7848",
+    "address": "street: 370 W Granada Blvd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(386) 672-1229",
+    "address": "street: 260 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Elite Futbol",
+    "description": "Soccer Clubs",
+    "phone": "(386) 334-1525",
+    "address": "street: 264 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(386) 671-0455",
+    "address": "street: 266 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(386) 672-1998",
+    "address": "street: 286 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(386) 677-5823",
+    "address": "street: 332 N Nova Rd location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Whims and Waves",
+    "description": "Women's Clothing",
+    "phone": "(404) 210-5283",
+    "address": "street: 3843 South Atlantic Ave location: Daytona Beach Shores, FL 32118"
+  },
+  {
+    "name": "Scruples Boutique",
+    "description": "Women's Clothing",
+    "phone": "(386) 676-0000",
+    "address": "street: 161 E Granada Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Game Day Girls",
+    "description": "Sportswear",
+    "phone": "(386) 256-2503",
+    "address": "street: 218 E Granada Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Bikini Company Beach Boutique",
+    "description": "Women's Clothing",
+    "phone": "(386) 672-2515",
+    "address": "street: 235 E Granada Blvd location: Ormond Beach, FL 32176"
+  },
+  {
+    "name": "Rabid Outdoors",
+    "description": "Sportswear",
+    "phone": "(386) 671-6101",
+    "address": "street: 1457 N Us Highway 1 location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Flamingo Rose",
+    "description": "Women's Clothing",
+    "phone": "(386) 677-4200",
+    "address": "street: 104 Addison Dr location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Bonnie's Boutique",
+    "description": "Boutique Items",
+    "phone": "(386) 673-6983",
+    "address": "street: 489 Venetian Villa Dr location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "J&P Cycles",
+    "description": "Motorcycle Dealers",
+    "phone": "(386) 615-0950",
+    "address": "street: 253 Destination Daytona Ln location: Ormond Beach, FL 32174"
+  },
+  {
+    "name": "Sel Swim & Boutique",
+    "description": "Women's Clothing",
+    "phone": "(386) 428-5433",
+    "address": "street: 300 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Sue Who",
+    "description": "Women's Clothing",
+    "phone": "(386) 428-9002",
+    "address": "street: 504 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(386) 427-5767",
+    "address": "street: 3155 State Road 44 location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "Wal-Mart 1079",
+    "description": "General Merchandise",
+    "phone": "(386) 427-5767",
+    "address": "street: 1996 State Road 44 location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "The Ann Anne Market",
+    "description": "Women's Fashion Accessories",
+    "phone": "(386) 530-5266",
+    "address": "street: 700 Canal St location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(386) 624-7657",
+    "address": "street: 1019 Cedar Glen Dr location: Deland, FL 32724"
+  },
+  {
+    "name": "Angels By The Sea",
+    "description": "Women's Clothing",
+    "phone": "(386) 427-1977",
+    "address": "street: 308 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Island Soul",
+    "description": "Women's Clothing",
+    "phone": "(386) 410-3774",
+    "address": "street: 311 Flagler Ave Unit 105 location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Look Charmed",
+    "description": "Women's Clothing",
+    "phone": "(386) 957-4262",
+    "address": "street: 311 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Sea Fox",
+    "description": "Women's Clothing",
+    "phone": "(386) 428-3577",
+    "address": "street: 501 Flagler Ave location: New Smyrna Beach, FL 32169"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(386) 423-8001",
+    "address": "street: 1441 S Dixie Fwy location: New Smyrna Beach, FL 32168"
+  },
+  {
+    "name": "Country Store",
+    "description": "Women's Clothing",
+    "phone": "(386) 736-4117",
+    "address": "street: 1871 W S*R 44 location: Deland, FL 32724"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(386) 740-1366",
+    "address": "street: 273 E Intl Speedway Blvd location: Deland, FL 32724"
+  },
+  {
+    "name": "Jeanette's Fashions",
+    "description": "Women's Clothing",
+    "phone": "(386) 736-0302",
+    "address": "street: 1000 E New York Ave location: Deland, FL 32724"
+  },
+  {
+    "name": "Woman of Purpose Boutique",
+    "description": "Boutique Items",
+    "phone": "(407) 247-5731",
+    "address": "street: 335 S Kentucky Ave location: Deland, FL 32724"
+  }
+]

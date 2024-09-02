@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Bloomin Deals Costume Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 615-8183",
+    "address": "street: 821 King St location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(321) 448-0355",
+    "address": "street: 801 Dixon Blvd Ste 1123 location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "S & Q Clothing and Shoes LLC",
+    "description": "Clothing Stores",
+    "phone": "(321) 317-0442",
+    "address": "street: 1417 Clearlake Rd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Sweet Realities",
+    "description": "Clothing Stores",
+    "phone": "(321) 877-0025",
+    "address": "street: 116 Harrison St location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Aqua Cowboy",
+    "description": "Clothing Stores",
+    "phone": "(321) 591-4389",
+    "address": "street: 2550 fairfield dr location: cocoa, FL 32926"
+  },
+  {
+    "name": "A Little Piece of Heaven for Children",
+    "description": "Clothing Stores",
+    "phone": "(321) 458-3731",
+    "address": "street: 1199 Us Highway 1 location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Bows and Bros Accessories",
+    "description": "Clothing Stores",
+    "phone": "(321) 482-8149",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "AJaM INK",
+    "description": "Clothing Stores",
+    "phone": "(321) 213-5279",
+    "address": "street: N/A location: Cape Canaveral, FL 32920"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "My 1 Stop T-Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 507-0481",
+    "address": "street: 507 A Ln location: Cocoa, FL 32926"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-2814",
+    "address": "street: 120 S Courtenay Pkwy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-8203",
+    "address": "street: 248 Barton Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Sandy Slippah's Aloha Wear",
+    "description": "Clothing Stores",
+    "phone": "(321) 252-0501",
+    "address": "street: 392 Richard Rd location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-3880",
+    "address": "street: 77 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Sid's Mens Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6011",
+    "address": "street: 77 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "DD's Discounts",
+    "description": "Clothing Stores",
+    "phone": "(321) 986-8374",
+    "address": "street: 230 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Jimmy D's Custom T's",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2323",
+    "address": "street: 119 Mustang Way Ste 1 location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Handler Fishing Supply",
+    "description": "Clothing Stores",
+    "phone": "(321) 799-9708",
+    "address": "street: 270 Borman Dr location: merritt island, FL 32953"
+  },
+  {
+    "name": "Vratim",
+    "description": "Clothing Stores",
+    "phone": "(321) 806-3249",
+    "address": "street: 150 Venetian Way location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-5141",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3690",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-1245",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "EWC Clothing USA 4 Kids",
+    "description": "Clothing Stores",
+    "phone": "(321) 248-6041",
+    "address": "street: 410 Palm Blvd location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Warmsley Jean",
+    "description": "Clothing Stores",
+    "phone": "(321) 455-2872",
+    "address": "street: 1200 S Courtenay Pkwy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "AVON Independent Representative Lisa Waite",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-3620",
+    "address": "street: PO Box 000 location: Rockledge, FL 32956"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-1690",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "J Grace and Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 369-9157",
+    "address": "street: 2270 Town Center Ave Ste 109 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "It's Sew Adorable",
+    "description": "Clothing Stores",
+    "phone": "(321) 622-6815",
+    "address": "street: 6059 Apple Ave location: Cocoa, FL 32927"
+  },
+  {
+    "name": "Gerb USA",
+    "description": "Clothing Stores",
+    "phone": "(321) 525-1406",
+    "address": "street: 5614 Jamaica Rd location: Cocoa, FL 32927"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(321) 338-1078",
+    "address": "street: 2281 Town Center Ave Ste 113 location: Viera, FL 32940"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-5252",
+    "address": "street: 2251 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Catalyst",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-1530",
+    "address": "street: 109 N Orlando Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "Thee Brand USA",
+    "description": "Clothing Stores",
+    "phone": "(321) 795-9975",
+    "address": "street: 100 E Central Blvd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(321) 259-5775",
+    "address": "street: 4100 N Wickham Rd location: Melbourne, FL 32935"
+  },
+  {
+    "name": "A & M Auto Salvage",
+    "description": "Clothing Stores",
+    "phone": "(321) 307-2310",
+    "address": "street: 2617 Aurora Road location: Melbourne, FL 32935"
+  },
+  {
+    "name": "Indian River Antique Mall",
+    "description": "Clothing Stores",
+    "phone": "(321) 759-6255",
+    "address": "street: 1433 S Patrick Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "name": "Dots",
+    "description": "Clothing Stores",
+    "phone": "(321) 567-3527",
+    "address": "street: 4424 S Hopkins Ave location: Titusville, FL 32780"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(321) 342-3667",
+    "address": "street: 4100 N Wickham Rd Ste 132 location: Melbourne, FL 32935"
+  },
+  {
+    "name": "The Yellow Gecko",
+    "description": "Clothing Stores",
+    "phone": "(321) 745-8903",
+    "address": "street: 599 Sherwood Avenue #207 location: Satellite Beach, FL 32937"
+  },
+  {
+    "name": "Bartman Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 259-4898",
+    "address": "street: 2735 Center Pl location: Melbourne, FL 32940"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(321) 633-6666",
+    "address": "street: 1044 Clearlake Rd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "C-S Western Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 403-4450",
+    "address": "street: 2130 King St location: Cocoa, FL 32926"
+  },
+  {
+    "name": "The Remix",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-3888",
+    "address": "street: 509 S Cocoa Blvd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Sun Ray Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(321) 632-6666",
+    "address": "street: 211 Willard St location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Frankly My Dear",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3327",
+    "address": "street: 404 Brevard Ave Ste A location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Tropics",
+    "description": "Clothing Stores",
+    "phone": "(321) 632-1887",
+    "address": "street: 118 Harrison St location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-3711",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Koru Swimwear",
+    "description": "Clothing Stores",
+    "phone": "(877) 754-1269",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(321) 986-8278",
+    "address": "street: 240 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Custom Prints",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3652",
+    "address": "street: 1740 Huntington Ln location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-0475",
+    "address": "street: 224 Barton Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-0475",
+    "address": "street: 224 Barton Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Masters Clothier",
+    "description": "Clothing Stores",
+    "phone": "(321) 576-0806",
+    "address": "street: 1011 Rockledge Dr location: Rockledge, FL 32955"
+  },
+  {
+    "name": "U Design It Custom TS Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 301-4452",
+    "address": "street: 1129 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3665",
+    "address": "street: 77 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Jimmy D's Custom T's and Sporting Goods",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2323",
+    "address": "street: 124 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Karin Konnects",
+    "description": "Clothing Stores",
+    "phone": "(321) 474-0925",
+    "address": "street: 420 Catamaran Dr Apt 88 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6811",
+    "address": "street: 777 E Merritt Island Cswy Ste 210 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3665",
+    "address": "street: 77 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Jimmy D's Custom T's and Sporting Goods",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2323",
+    "address": "street: 124 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3665",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Karin Konnects",
+    "description": "Clothing Stores",
+    "phone": "(321) 474-0925",
+    "address": "street: 420 Catamaran Dr Apt 88 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6811",
+    "address": "street: 777 E Merritt Island Cswy Ste 210 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-6990",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(321) 455-6255",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6811",
+    "address": "street: 777 E Merritt Island Cswy Ste 210 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-2375",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-5141",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-1300",
+    "address": "street: 777 E Merritt Island Cswy Ste 139 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Male Attractions Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-0996",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "On Deck",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2809",
+    "address": "street: 1735 N Banana River Dr location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-4121",
+    "address": "street: 2271 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(321) 639-8126",
+    "address": "street: 2261 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-2400",
+    "address": "street: 2281 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(321) 294-4658",
+    "address": "street: 2261 Town Center Ave Ste 585 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(321) 212-7010",
+    "address": "street: 2261 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(321) 637-0494",
+    "address": "street: 2271 Town Center Ave Ste 119 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Pike Products, Inc. Space Shirts",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-7453",
+    "address": "street: 6116 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(321) 433-3647",
+    "address": "street: 2251 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Beach Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(321) 784-3310",
+    "address": "street: 3650 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(321) 784-4555",
+    "address": "street: 140 Canaveral Plaza Blvd location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(321) 784-4555",
+    "address": "street: 140 Canaveral Plaza Blvd location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "The Pier Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-7549",
+    "address": "street: 401 Meade Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "Tropical Threads Boutique",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-7549",
+    "address": "street: 401 Meade Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3970",
+    "address": "street: 6729 Colonnade Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-8870",
+    "address": "street: 6729 Colonnade Ave Ste 131 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-0814",
+    "address": "street: 7171 Lake Andrew Dr location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(321) 639-2255",
+    "address": "street: 7201 Shoppes Dr location: Viera, FL 32940"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(321) 426-9198",
+    "address": "street: 4100 N Wickham Rd location: Melbourne, FL 32935"
+  },
+  {
+    "name": "U.S. Patriot",
+    "description": "Clothing Stores",
+    "phone": "(321) 425-5713",
+    "address": "street: 1221 S Patrick Dr Ste 101 location: Patrick Afb, FL 32925"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(321) 264-1579",
+    "address": "street: 3055 Columbia Blvd location: Titusville, FL 32780"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(321) 253-8846",
+    "address": "street: 4100 N Wickham Rd Ste 130 location: Melbourne, FL 32935"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 253-8846",
+    "address": "street: 4100 N Wickham Rd Ste 130 location: Melbourne, FL 32935"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(321) 300-0927",
+    "address": "street: 4100 N Wickham Rd Ste 132 location: Melbourne, FL 32935"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(321) 499-6667",
+    "address": "street: 3055 Columbia Blvd location: Titusville, FL 32780"
+  },
+  {
+    "name": "Carlsen's Trophy Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 777-2381",
+    "address": "street: 575 Jackson Ave location: Satellite Beach, FL 32937"
+  },
+  {
+    "name": "L & H Silkscreen",
+    "description": "Clothing Stores",
+    "phone": "(321) 773-0910",
+    "address": "street: 517 Sheridan Ave location: Satellite Beach, FL 32937"
+  },
+  {
+    "name": "Brevard Team Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 639-8326",
+    "address": "street: 606 S Cocoa Blvd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(321) 639-1610",
+    "address": "street: 2700 Clearlake Rd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Fresh Street",
+    "description": "Department Stores",
+    "phone": "(321) 631-6464",
+    "address": "street: 511 S Cocoa Blvd location: Cocoa, FL 32922"
+  },
+  {
+    "name": "warehouse216",
+    "description": "Women's Clothing",
+    "phone": "(321) 368-2307",
+    "address": "street: 216 florida ave location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Michele Jonice",
+    "description": "Fashion Designers",
+    "phone": "(321) 544-2260",
+    "address": "street: 226 King St Suite 150 location: Cocoa, FL 32922"
+  },
+  {
+    "name": "New Look Boutique",
+    "description": "Women's Clothing",
+    "phone": "(321) 750-7704",
+    "address": "street: 209 Brevard Ave location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Season Tickets Boutique",
+    "description": "Boutique Items",
+    "phone": "(321) 690-1919",
+    "address": "street: 301 Brevard Ave location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Mangos",
+    "description": "Boutique Items",
+    "phone": "(321) 639-3292",
+    "address": "street: 319 Brevard Ave location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Green Apples Inc",
+    "description": "Women's Clothing",
+    "phone": "(321) 635-8728",
+    "address": "street: 111 Harrison St location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Village Cycle Shoppe",
+    "description": "Bicycle Shops",
+    "phone": "(321) 806-3917",
+    "address": "street: 4 Harrison St Suite 105 location: Cocoa, FL 32922"
+  },
+  {
+    "name": "Robin's Resale",
+    "description": "Consignment Service",
+    "phone": "(321) 258-4986",
+    "address": "street: N/A location: Rockledge, FL 32955"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(321) 452-4661",
+    "address": "street: 320 W Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Warehouse On Grove",
+    "description": "Women's Clothing",
+    "phone": "(321) 417-5457",
+    "address": "street: 255 N Grove St., Ste C location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Rebecca's Of Merritt Island",
+    "description": "Women's Clothing",
+    "phone": "(321) 452-5577",
+    "address": "street: 150 N Grove St location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(321) 452-1014",
+    "address": "street: 250 Crockett Blvd location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Dollar General Market",
+    "description": "Discount Stores",
+    "phone": "(321) 453-1983",
+    "address": "street: 239 Crockett Blvd location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(321) 456-9902",
+    "address": "street: 777 E Merritt Island Cswy Ste E7 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 452-7796",
+    "address": "street: 150 E Merritt Island Cswy Ste B location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Finish Line Inc",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-7602",
+    "address": "street: 1480 Mercury St location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "PIRATA Group LLC",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(877) 366-0616",
+    "address": "street: 2460 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(321) 452-9181",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(321) 456-5905",
+    "address": "street: 777 E Merritt Island Cswy Spc H3 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Sid's Mens Fashions",
+    "description": "Men's Clothing",
+    "phone": "(321) 452-6011",
+    "address": "street: 777 E Merritt Island Cswy Ste 150 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(321) 452-6411",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(321) 453-2888",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(321) 459-1044",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Sports Heaven",
+    "description": "Sportswear",
+    "phone": "(321) 456-5869",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(321) 452-0751",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Dollar Star",
+    "description": "Variety Stores",
+    "phone": "(321) 449-7316",
+    "address": "street: 777 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-9137",
+    "address": "street: 777 E Merritt Island Cswy Space J-9 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Drift House Surf Shop",
+    "description": "Boutique Items",
+    "phone": "(321) 455-1522",
+    "address": "street: 777 E Merritt Island Cswy Suite 126 location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Lewandowski Stanley",
+    "description": "Women's Clothing",
+    "phone": "(321) 455-2334",
+    "address": "street: 1200 S Courtenay Pkwy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-9554",
+    "address": "street: 250 S Sykes Creek Pkwy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(321) 452-6058",
+    "address": "street: 1500 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "name": "Elifeguard Inc",
+    "description": "Swimwear & Accessories",
+    "phone": "(321) 433-3630",
+    "address": "street: 265 Barnes Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Stan Oley's Tennis Equipment Sales and Services",
+    "description": "Tennis Equipment & Supplies",
+    "phone": "(800) 352-6878",
+    "address": "street: 4711 Chardonnay Dr location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Vanity",
+    "description": "Women's Clothing",
+    "phone": "(321) 978-5444",
+    "address": "street: 684 West Ave location: Cocoa, FL 32927"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(321) 632-6674",
+    "address": "street: 2281 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(321) 510-0609",
+    "address": "street: 2271 Town Center Ave Ste 107 location: Viera, FL 32940"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(321) 482-5861",
+    "address": "street: 2271 Town Center Ave Ste 103 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(321) 745-2169",
+    "address": "street: 2271 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(321) 637-1290",
+    "address": "street: 2271 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(321) 632-6674",
+    "address": "street: 2291 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(321) 639-8805",
+    "address": "street: 2271 Town Center Ave Ste 107 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(321) 636-1033",
+    "address": "street: 2261 Town Center Ave Ste 131 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(321) 504-6330",
+    "address": "street: 2261 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(321) 639-3200",
+    "address": "street: 2261 Town Center Ave Ste 105 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(321) 639-8126",
+    "address": "street: 2261 Town Center Ave Ste 101 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Finishline",
+    "description": "Shoe Stores",
+    "phone": "(321) 634-5139",
+    "address": "street: 2251 Town Center Ave Ste 117 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Squishy Bath and Body Goods",
+    "description": "Cosmetics & Perfumes",
+    "phone": "(844) 200-2284",
+    "address": "street: 2250 Town Center Ave Ste 109 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(321) 636-1717",
+    "address": "street: 2270 Town Center Ave location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(321) 632-5382",
+    "address": "street: 6670 Colonnade Ave location: Viera, FL 32940"
+  },
+  {
+    "name": "Sins of Skin",
+    "description": "Women's Clothing",
+    "phone": "(321) 613-3999",
+    "address": "street: 7011 N Atlantic Ave location: Cape Canaveral, FL 32920"
+  },
+  {
+    "name": "Suntree Consignment Boutique",
+    "description": "Consignment Service",
+    "phone": "(321) 242-0016",
+    "address": "street: 3199 Suntree Blvd Ste 4 location: Rockledge, FL 32955"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(321) 637-1290",
+    "address": "street: 7200 Lake Andrew Dr location: Melbourne, FL 32940"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(321) 343-6435",
+    "address": "street: 7201 Shoppes Dr location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Wal-Mart SuperCenter",
+    "description": "General Merchandise",
+    "phone": "(321) 242-0225",
+    "address": "street: 8500 N Wickham Rd location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(321) 242-9631",
+    "address": "street: 8455 N Wickham Rd location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Patrick Air Force Base Exchange",
+    "description": "Department Stores",
+    "phone": "(321) 428-4560",
+    "address": "street: 1221 S Patrick Dr location: Patrick Afb, FL 32925"
+  },
+  {
+    "name": "Swanky Sole",
+    "description": "Shoe Stores",
+    "phone": "(321) 428-4915",
+    "address": "street: 6395 N Wickham Rd location: Melbourne, FL 32940"
+  },
+  {
+    "name": "La Moda Boutique",
+    "description": "Boutique Items",
+    "phone": "(321) 773-5234",
+    "address": "street: 6395 N Wickham Rd Ste 105 location: Melbourne, FL 32940"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(321) 253-8846",
+    "address": "street: 4100 N Wickham Rd location: Melbourne, FL 32935"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 269-2879",
+    "address": "street: 3065 Columbia Blvd location: Titusville, FL 32780"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(321) 267-5825",
+    "address": "street: 3175 Cheney Hwy location: Titusville, FL 32780"
+  },
+  {
+    "name": "Galls - Patriot Outfitters",
+    "description": "Sportswear",
+    "phone": "(321) 425-5713",
+    "address": "street: 1221 S Patrick Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "name": "Oneliners Designs",
+    "description": "Men's Clothing",
+    "phone": "(321) 288-0627",
+    "address": "street: 265 Jackson Ave location: Satellite Beach, FL 32937"
+  }
+]

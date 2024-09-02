@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Dragon's Leathers",
+    "description": "Clothing Stores",
+    "phone": "(352) 634-4849",
+    "address": "street: 2536 N Florida Ave location: Hernando, FL 34442"
+  },
+  {
+    "name": "Valrich Sports Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(352) 765-4909",
+    "address": "street: 3451 E Louise Ln Ste 106 location: Hernando, FL 34442"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "The Green Footprint, LLC",
+    "description": "Clothing Stores",
+    "phone": "(352) 257-5403",
+    "address": "street: N/A location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Patrizia's Paradise Emporium",
+    "description": "Clothing Stores",
+    "phone": "(352) 464-1448",
+    "address": "street: N/A location: Beverly Hills, FL 34465"
+  },
+  {
+    "name": "Color Me Wicked",
+    "description": "Clothing Stores",
+    "phone": "(352) 410-6171",
+    "address": "street: 3850 E Gulf To Lake Hwy Ste 7 location: Inverness, FL 34453"
+  },
+  {
+    "name": "Gators Apparel and Accesories",
+    "description": "Clothing Stores",
+    "phone": "(352) 419-4956",
+    "address": "street: 1783 W Main St location: Inverness, FL 34450"
+  },
+  {
+    "name": "Rebecca Belanger",
+    "description": "Clothing Stores",
+    "phone": "(352) 257-7301",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(352) 344-2315",
+    "address": "street: 2675 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "The Silicone Sock Store",
+    "description": "Clothing Stores",
+    "phone": "(352) 615-1912",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-6250",
+    "address": "street: 2851 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-6250",
+    "address": "street: 2851 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(352) 726-5294",
+    "address": "street: 1430 Highway 41 N location: Inverness, FL 34450"
+  },
+  {
+    "name": "Wear To Go",
+    "description": "Clothing Stores",
+    "phone": "(352) 344-9327",
+    "address": "street: 3802 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Baby Bargains",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-5437",
+    "address": "street: 162 N Florida Ave location: Inverness, FL 34453"
+  },
+  {
+    "name": "MG Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(813) 417-4611",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Cindirelli bridal",
+    "description": "Clothing Stores",
+    "phone": "(352) 497-0187",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(352) 637-2300",
+    "address": "street: 2461 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Bag Ladies Edl",
+    "description": "Handbags",
+    "phone": "(866) 503-1940",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Walmart - Pharmacy",
+    "description": "General Merchandise",
+    "phone": "(352) 637-2400",
+    "address": "street: 2461 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(352) 344-1120",
+    "address": "street: 2669 E Gulf To Lake Hwy location: Inverness, FL 34453"
+  },
+  {
+    "name": "Esmithenterprizes",
+    "description": "Jewelry Buyers",
+    "phone": "(813) 425-2339",
+    "address": "street: 3870 e ryan st location: inverness, FL 34453"
+  },
+  {
+    "name": "Pride Sports And Apparel",
+    "description": "Sporting Goods",
+    "phone": "(352) 527-1441",
+    "address": "street: 43 S Columbus St location: Beverly Hills, FL 34465"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(352) 341-1591",
+    "address": "street: 1488 Highway 41 N location: Inverness, FL 34450"
+  },
+  {
+    "name": "Heaven On Earth",
+    "description": "Clothing Stores",
+    "phone": "(352) 527-7727",
+    "address": "street: 5220 W Gulf To Lake Hwy location: Lecanto, FL 34461"
+  },
+  {
+    "name": "Sgt's Bargain Outlet",
+    "description": "Clothing Stores",
+    "phone": "(352) 419-7920",
+    "address": "street: 4535 S Florida Ave location: Inverness, FL 34450"
+  },
+  {
+    "name": "Shirtin Around",
+    "description": "Clothing Stores",
+    "phone": "(352) 842-8854",
+    "address": "street: 5700 S Luray Ter location: Inverness, FL 34452"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(352) 527-9519",
+    "address": "street: 1194 N Commerce Ter location: Lecanto, FL 34461"
+  },
+  {
+    "name": "Chic Shack",
+    "description": "Women's Clothing",
+    "phone": "(352) 419-8900",
+    "address": "street: 310 W Main St location: Inverness, FL 34450"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(352) 237-0233",
+    "address": "street: 4300 SW Highway 484 location: Ocala, FL 34473"
+  },
+  {
+    "name": "Citrus Sports & Apparel",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-9402",
+    "address": "street: 6843 N Citrus Ave Unit W location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Fusion-Wrap",
+    "description": "Clothing Stores",
+    "phone": "(352) 220-9496",
+    "address": "street: 1005 NE 4th Ave location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Forever Young Clothing",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-3800",
+    "address": "street: 1801 NW Us Highway 19 Ste 467 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Bollywood Fashion",
+    "description": "Clothing Stores",
+    "phone": "(352) 693-5055",
+    "address": "street: 166 Marion Oaks Blvd location: Ocala, FL 34473"
+  },
+  {
+    "name": "Military Outlet Inc",
+    "description": "Clothing Stores",
+    "phone": "(352) 795-2330",
+    "address": "street: 550 N Citrus Ave location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Fashion Line",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-3892",
+    "address": "street: 8010 W Gulf To Lake Hwy location: Crystal River, FL 34429"
+  },
+  {
+    "name": "La-Te-Da Boutique",
+    "description": "Clothing Stores",
+    "phone": "(352) 563-2572",
+    "address": "street: 707 N Citrus Ave Ste E location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Alpaca Magic USA",
+    "description": "Clothing Stores",
+    "phone": "(352) 628-0156",
+    "address": "street: 4920 W Grover Cleveland Blvd location: Homosassa, FL 34446"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(352) 563-5899",
+    "address": "street: 1801 NW US Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(352) 522-0861",
+    "address": "street: 11223 N Williams St location: Dunnellon, FL 34432"
+  },
+  {
+    "name": "Clementine Children's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-6146",
+    "address": "street: 521 W Fort Island Trl location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-4100",
+    "address": "street: 10131 N Citrus Ave location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Rural King Supply",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-0039",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Just Kids School Clothing",
+    "description": "Clothing Stores",
+    "phone": "(352) 347-8847",
+    "address": "street: 17267 SW 17th Cir location: Ocala, FL 34473"
+  },
+  {
+    "name": "Longrider Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(352) 628-3635",
+    "address": "street: 7342 W Grover Cleveland Blvd location: Homosassa, FL 34446"
+  },
+  {
+    "name": "Citrus Sports & Apparel",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-9402",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(352) 503-2005",
+    "address": "street: 3936 S Suncoast Blvd location: Homosassa, FL 34448"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(352) 563-1414",
+    "address": "street: 1801 NW Us Highway 19 Ste 101 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(352) 795-7900",
+    "address": "street: 346 N Suncoast Blvd location: Crystal River, FL 34429"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(352) 563-0003",
+    "address": "street: 160 SE Us Highway 19 location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Murtaza Group",
+    "description": "Gloves",
+    "phone": "(909) 529-2347",
+    "address": "street: 14991 SW 37th Ter location: Ocala, FL 34473"
+  },
+  {
+    "name": "Odd Shop",
+    "description": "Department Stores",
+    "phone": "(352) 462-7002",
+    "address": "street: 20553 W Pennsylvania Ave location: Dunnellon, FL 34431"
+  },
+  {
+    "name": "Citrus Sports and Apparel",
+    "description": "Sportswear",
+    "phone": "(352) 564-9402",
+    "address": "street: 903 NE Us Highway 19 location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Pawsha Lopez Retail",
+    "description": "Department Stores",
+    "phone": "(352) 364-6709",
+    "address": "street: 3460 S Suncoast Blvd location: Homosassa Springs, FL 34448"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(352) 795-8753",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(352) 563-5262",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Crystal River Mall",
+    "description": "Department Stores",
+    "phone": "(352) 795-1885",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Gloria's Golf Apparel",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(352) 236-0423",
+    "address": "street: 128 Marion Oaks Blvd location: Ocala, FL 34473"
+  },
+  {
+    "name": "Papaw's Country Store",
+    "description": "Variety Stores",
+    "phone": "(352) 793-1080",
+    "address": "street: 8271 W C 48 location: Bushnell, FL 33513"
+  },
+  {
+    "name": "Longrider Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(352) 628-3635",
+    "address": "street: 7342 W Grover Cleveland Blvd location: Homosassa, FL 34446"
+  },
+  {
+    "name": "Citrus Sports & Apparel",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-9402",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(352) 503-2005",
+    "address": "street: 3936 S Suncoast Blvd location: Homosassa, FL 34448"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(352) 628-4161",
+    "address": "street: 6885 S Suncoast Blvd location: Homosassa, FL 34446"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(352) 628-4161",
+    "address": "street: 3826 S Suncoast Blvd location: Homosassa, FL 34448"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(352) 795-7900",
+    "address": "street: 346 N Suncoast Blvd location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(352) 563-1414",
+    "address": "street: 1801 NW Us Highway 19 Ste 101 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(352) 522-0861",
+    "address": "street: 11223 N Williams St Ste M location: Dunnellon, FL 34432"
+  },
+  {
+    "name": "WalMart SuperCenter",
+    "description": "General Merchandise",
+    "phone": "(352) 489-4210",
+    "address": "street: 11012 N Williams St location: Dunnellon, FL 34432"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(352) 795-7900",
+    "address": "street: 346 N Suncoast Blvd location: Crystal River, FL 34429"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(352) 563-0003",
+    "address": "street: 160 SE Us Highway 19 location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(352) 291-7512",
+    "address": "street: 9570 SW Highway 200 location: Ocala, FL 34481"
+  },
+  {
+    "name": "Murtaza Group",
+    "description": "Gloves",
+    "phone": "(909) 529-2347",
+    "address": "street: 14991 SW 37th Ter location: Ocala, FL 34473"
+  },
+  {
+    "name": "Odd Shop",
+    "description": "Department Stores",
+    "phone": "(352) 462-7002",
+    "address": "street: 20553 W Pennsylvania Ave location: Dunnellon, FL 34431"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(352) 563-0003",
+    "address": "street: 160 S Suncoast Blvd location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Citrus Sports and Apparel",
+    "description": "Sportswear",
+    "phone": "(352) 564-9402",
+    "address": "street: 903 NE Us Highway 19 location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Pawsha Lopez Retail",
+    "description": "Department Stores",
+    "phone": "(352) 364-6709",
+    "address": "street: 3460 S Suncoast Blvd location: Homosassa Springs, FL 34448"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(352) 795-8753",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(352) 563-5262",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Crystal River Mall",
+    "description": "Department Stores",
+    "phone": "(352) 795-1885",
+    "address": "street: 1801 NW Us Highway 19 location: Crystal River, FL 34428"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Discount Stores",
+    "phone": "(352) 854-4888",
+    "address": "street: 8585 SW Highway 200 location: Ocala, FL 34481"
+  },
+  {
+    "name": "Gloria's Golf Apparel",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(352) 236-0423",
+    "address": "street: 128 Marion Oaks Blvd location: Ocala, FL 34473"
+  },
+  {
+    "name": "Papaw's Country Store",
+    "description": "Variety Stores",
+    "phone": "(352) 793-1080",
+    "address": "street: 8271 W C 48 location: Bushnell, FL 33513"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(352) 512-6628",
+    "address": "street: 7855 SW Highway 200 location: Ocala, FL 34476"
+  },
+  {
+    "name": "Vals Boutique",
+    "description": "Boutique Items",
+    "phone": "(352) 563-1234",
+    "address": "street: 600 SE Us Highway 19 location: Crystal River, FL 34429"
+  },
+  {
+    "name": "Rdccollection",
+    "description": "Women's Clothing",
+    "phone": "(877) 515-3866",
+    "address": "street: 14490 SW 41st Ter location: Ocala, FL 34473"
+  },
+  {
+    "name": "Dempsey Charlotte",
+    "description": "Women's Clothing",
+    "phone": "(352) 347-0449",
+    "address": "street: 1741 SW 157th Place Rd location: Ocala, FL 34473"
+  },
+  {
+    "name": "R & D Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(877) 926-9604",
+    "address": "street: 367 NW 85th Blvd location: Wildwood, FL 34785"
+  },
+  {
+    "name": "Cordelia Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(954) 543-2565",
+    "address": "street: 3834 SW 103rd Ln location: Ocala, FL 34476"
+  },
+  {
+    "name": "Lake Pan Biker Apparel & More",
+    "description": "Clothing Stores",
+    "phone": "(352) 569-4710",
+    "address": "street: 2004 N C 470 location: Lake Panasoffkee, FL 33538"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  }
+]

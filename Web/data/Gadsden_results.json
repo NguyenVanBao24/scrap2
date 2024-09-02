@@ -1,0 +1,266 @@
+[
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-6831",
+    "address": "street: 1616 W Jefferson St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(850) 253-7411",
+    "address": "street: 1323 W Crawford St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Kim's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 875-2023",
+    "address": "street: 6 N Adams St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Ice Age Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 933-9331",
+    "address": "street: 1 W Jefferson St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Distinguished Young Gentlemen of America",
+    "description": "Clothing Stores",
+    "phone": "(850) 662-4182",
+    "address": "street: 18290 Blue Star Hwy location: Quincy, FL 32351"
+  },
+  {
+    "name": "Shoe Show",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-1805",
+    "address": "street: 1954 Pat Thomas Pkwy location: Quincy, FL 32351"
+  },
+  {
+    "name": "Ivy Shop",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-6661",
+    "address": "street: 1327 W Jefferson St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Classic Shirts",
+    "description": "Clothing Stores",
+    "phone": "(850) 875-2200",
+    "address": "street: 110 Zeta St location: Quincy, FL 32351"
+  },
+  {
+    "name": "MsBre'",
+    "description": "Clothing Stores",
+    "phone": "(844) 526-9297",
+    "address": "street: 91 Kelly Ave location: Quincy, FL 32352"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(850) 875-1661",
+    "address": "street: 1940 Pat Thomas Pkwy location: Quincy, FL 32351"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(850) 491-3055",
+    "address": "street: 1604 W Jefferson St # 7A location: Quincy, FL 32351"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(850) 627-0734",
+    "address": "street: 1972 Pat Thomas Pkwy location: Quincy, FL 32351"
+  },
+  {
+    "name": "G Q Fashions",
+    "description": "Men's Clothing",
+    "phone": "(850) 627-6699",
+    "address": "street: 22 E Washington St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Dynasty Sportswear USA",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(850) 629-8834",
+    "address": "street: 110 Zeta St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Just 99 Cents",
+    "description": "Discount Stores",
+    "phone": "(850) 627-3402",
+    "address": "street: 108 E Jefferson St location: Quincy, FL 32351"
+  },
+  {
+    "name": "Country Store",
+    "description": "Women's Clothing",
+    "phone": "(850) 875-1978",
+    "address": "street: 5667 Bainbridge Hwy location: Quincy, FL 32352"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Busara Intimates",
+    "description": "Clothing Stores",
+    "phone": "(904) 392-8365",
+    "address": "street: N/A location: Tallahassee, FL 32304"
+  },
+  {
+    "name": "Chic Diva Boutique",
+    "description": "Clothing Stores",
+    "phone": "(855) 460-8855",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Thick & Sexy",
+    "description": "Clothing Stores",
+    "phone": "(844) 818-4834",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Expressit, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(850) 894-9480",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "WildstylezStudio",
+    "description": "Clothing Stores",
+    "phone": "(850) 743-9573",
+    "address": "street: N/A location: Tallahassee, FL 32304"
+  },
+  {
+    "name": "Manousheekas",
+    "description": "Clothing Stores",
+    "phone": "(850) 575-7183",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "A T-Shirt Prince",
+    "description": "Clothing Stores",
+    "phone": "(561) 792-1415",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Broadway Menswear",
+    "description": "Clothing Stores",
+    "phone": "(850) 942-7200",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Custom Threads",
+    "description": "Clothing Stores",
+    "phone": "(850) 216-0401",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Kimsie's Whimsies",
+    "description": "Clothing Stores",
+    "phone": "(850) 320-3962",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Carleh's Creations",
+    "description": "Clothing Stores",
+    "phone": "(850) 556-0034",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Bramazing",
+    "description": "Bras",
+    "phone": "(850) 559-3080",
+    "address": "street: N/A location: Crawfordville, FL 32327"
+  },
+  {
+    "name": "Charisma Apparel",
+    "description": "Wigs & Hair Pieces",
+    "phone": "(850) 543-4414",
+    "address": "street: N/A location: Tallahassee, FL 32303"
+  },
+  {
+    "name": "Avon Independent Sales Representative",
+    "description": "Children & Infants Clothing",
+    "phone": "(850) 980-1063",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Avon",
+    "description": "Watches",
+    "phone": "(850) 212-4823",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "10 02 Boutique",
+    "description": "Women's Clothing",
+    "phone": "(866) 587-8619",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Shop MJ Fashions",
+    "description": "Women's Clothing",
+    "phone": "(877) 259-9669",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Becky's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 663-3700",
+    "address": "street: 303 W Washington St location: Chattahoochee, FL 32324"
+  },
+  {
+    "name": "Bryan's",
+    "description": "Clothing Stores",
+    "phone": "(850) 663-9798",
+    "address": "street: 513 W Washington St location: Chattahoochee, FL 32324"
+  },
+  {
+    "name": "Wanderings",
+    "description": "Clothing Stores",
+    "phone": "(850) 539-7711",
+    "address": "street: 312 NW 1st St location: Havana, FL 32333"
+  },
+  {
+    "name": "Uneek Dvingns",
+    "description": "Clothing Stores",
+    "phone": "(850) 350-0034",
+    "address": "street: 212 Joyner Rd location: Midway, FL 32343"
+  },
+  {
+    "name": "Fly Beautie Chic",
+    "description": "Beauty Salons",
+    "phone": "(844) 322-9328",
+    "address": "street: 329 Seminole Cir location: Havana, FL 32333"
+  },
+  {
+    "name": "Alco",
+    "description": "Department Stores",
+    "phone": "(850) 539-9054",
+    "address": "street: 1548 Beaver Creek Dr location: Havana, FL 32333"
+  },
+  {
+    "name": "Havana's General Store",
+    "description": "Variety Stores",
+    "phone": "(850) 539-6900",
+    "address": "street: 308 N Main St location: Havana, FL 32333"
+  },
+  {
+    "name": "A.C.E Of Spade 1K Corporation",
+    "description": "Women's Clothing",
+    "phone": "(850) 251-0037",
+    "address": "street: 170 Tranquility Ln location: Havana, FL 32333"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  }
+]

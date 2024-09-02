@@ -1,0 +1,4016 @@
+[
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-8832",
+    "address": "street: 7351 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 395-0109",
+    "address": "street: 7845 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": ".B.",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-0421",
+    "address": "street: 11201 Park Blvd Ste N location: Seminole, FL 33772"
+  },
+  {
+    "name": "Your CBD Store - Seminole, FL",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-4223",
+    "address": "street: 7182 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 398-2255",
+    "address": "street: 7191 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "T & J Ministries and Thrift Store Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-0353",
+    "address": "street: 5125 Seminole Blvd location: Saint Petersburg, FL 33708"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0120",
+    "address": "street: 7185 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0396",
+    "address": "street: 7931 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Next Gifts",
+    "description": "Clothing Stores",
+    "phone": "(619) 274-3987",
+    "address": "street: 10751 75th St location: Seminole, FL 33777"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0120",
+    "address": "street: 7185 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-9792",
+    "address": "street: 7919 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Talbots Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 214-1013",
+    "address": "street: 7927 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-6809",
+    "address": "street: 11201 Park Blvd Ste 50 location: Seminole, FL 33772"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(863) 225-4407",
+    "address": "street: 10086 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Island Traders Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "street: 10490 75th St Ste A location: Seminole, FL 33777"
+  },
+  {
+    "name": "Bronze Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-9500",
+    "address": "street: 6190 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Cottonseed Casual Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-2437",
+    "address": "street: 8920 118th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Fantasy Planet Beach Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2776",
+    "address": "street: 11235 Kapok Grand Cir location: Saint Petersburg, FL 33708"
+  },
+  {
+    "name": "Manatee Bay Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(800) 444-6231",
+    "address": "street: 6911 Bryan Dairy Rd location: Seminole, FL 33777"
+  },
+  {
+    "name": "T J's Unique Boutique",
+    "description": "Consignment Service",
+    "phone": "(727) 397-1073",
+    "address": "street: 9148 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 319-0018",
+    "address": "street: 7943 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 347-1188",
+    "address": "street: 10237 Bay Pines Blvd location: Saint Petersburg, FL 33708"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(727) 393-9792",
+    "address": "street: 7919 113th St location: Seminole, FL 33772"
+  },
+  {
+    "name": "Gator Haven",
+    "description": "Sportswear",
+    "phone": "(727) 541-9809",
+    "address": "street: 7976 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Half Moon Direct Yoga Apparel & Accessories",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-2701",
+    "address": "street: P.O. Box 8007 location: Seminole, FL 33775"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 393-7716",
+    "address": "street: 10992 Park Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "Discount Palms & Plants",
+    "description": "Department Stores",
+    "phone": "(727) 385-7913",
+    "address": "street: 9009 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "name": "JIM&apos;S BICYCLE SHOP",
+    "description": "Sporting Goods",
+    "phone": "(727) 263-4133",
+    "address": "street: 5018 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "rue21- Closed",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-4163",
+    "address": "street: 10500 Ulmerton Rd Ste 706-710 location: Largo, FL 33771"
+  },
+  {
+    "name": "Anarchrist Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 289-7297",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Attitudes Dancewear Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-0447",
+    "address": "street: 13002 Seminole Blvd location: Largo, FL 33778"
+  },
+  {
+    "name": "Avon Largo Independent Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(727) 410-3224",
+    "address": "street: 12100 Seminole Blvd Lot 205 location: Largo, FL 33778"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6423",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Teed Off Sports",
+    "description": "Clothing Stores",
+    "phone": "(727) 430-5133",
+    "address": "street: N/A location: largo, FL 33773"
+  },
+  {
+    "name": "Bay Pines Bait & Tackle",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2687",
+    "address": "street: 9385 Bay Pines Blvd location: Saint Petersburg, FL 33708"
+  },
+  {
+    "name": "Wild Time Island Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "street: 12932 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Flaming Pearl Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-5683",
+    "address": "street: 8016 31st Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Wild Style USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 391-8800",
+    "address": "street: 12801 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Tarpon Bay Trading Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-6191",
+    "address": "street: 180 Johns Pass Boardwalk W location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Pants Towne",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-0099",
+    "address": "street: 6000 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Great White Cus Tom Appare",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-5388",
+    "address": "street: 13090 91st St location: Largo, FL 33773"
+  },
+  {
+    "name": "FOE Threads Co.",
+    "description": "Clothing Stores",
+    "phone": "(727) 247-9953",
+    "address": "street: N/A location: Tarpon Springs, FL 34688"
+  },
+  {
+    "name": "Ten C Seas",
+    "description": "Clothing Stores",
+    "phone": "(727) 687-3450",
+    "address": "street: N/A location: Palm Harbor, FL 34683"
+  },
+  {
+    "name": "Tru;mpstufffl.com",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-6555",
+    "address": "street: N/A location: Clearwater, FL 33764"
+  },
+  {
+    "name": "BeDonaldTrump",
+    "description": "Clothing Stores",
+    "phone": "(642) 466-9044",
+    "address": "street: N/A location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Camp Muscle Bodywear",
+    "description": "Clothing Stores",
+    "phone": "(727) 743-2405",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Blue Sand Textiles",
+    "description": "Clothing Stores",
+    "phone": "(844) 615-0206",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(727) 797-3236",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Beautiful & Big",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2646",
+    "address": "street: 6996 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Ebay Success Today",
+    "description": "Clothing Stores",
+    "phone": "(727) 727-5428",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Sofresh Soclean Fits",
+    "description": "Clothing Stores",
+    "phone": "(727) 954-3942",
+    "address": "street: 11561 Walsingham Rd Ste G location: Largo, FL 33778"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "1st Dance Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 490-1746",
+    "address": "street: 5098 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Bella Babies Consignment",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2229",
+    "address": "street: 7187 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Spencers Western World Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-2606",
+    "address": "street: 7108 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Cool Styles",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2525",
+    "address": "street: 12921 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-1531",
+    "address": "street: 4820 Park St N location: St Petersburg, FL 33709"
+  },
+  {
+    "name": "Scrubs N Stuff",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6750",
+    "address": "street: 3993 Tyrone Blvd N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Gator Haven",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-9809",
+    "address": "street: 6280 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Cool Styles",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2525",
+    "address": "street: 12921 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-1531",
+    "address": "street: 4820 Park St N location: St Petersburg, FL 33709"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-1996",
+    "address": "street: 10500 Ulmerton Rd Ste 700 location: Largo, FL 33771"
+  },
+  {
+    "name": "Scrubs N Stuff",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6750",
+    "address": "street: 3993 Tyrone Blvd N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-1996",
+    "address": "street: 10500 Ulmerton Rd Ste 700 location: Largo, FL 33771"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 501-9415",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 596-6377",
+    "address": "street: 12030 Indian Rocks Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "Gator Haven",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-9809",
+    "address": "street: 6280 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8004",
+    "address": "street: 6000 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2088",
+    "address": "street: 3700 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 596-6377",
+    "address": "street: 12030 Indian Rocks Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(727) 585-5587",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-5824",
+    "address": "street: 7400 66th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(800) 469-4663",
+    "address": "street: 4600 Park St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Alligator Alley",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-2789",
+    "address": "street: 12901 Gulf Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "John's Pass Trading Co.",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-6910",
+    "address": "street: 12901 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(727) 250-5192",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Bonworth",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0639",
+    "address": "street: 10500 Ulmerton Rd Ste 698 location: Largo, FL 33771"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-0543",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Surf West",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-0211",
+    "address": "street: 15327 Gulf Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Island Attitudes",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-7966",
+    "address": "street: 13003 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Wild Time Surf Shop",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "street: 12930 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "The Tee Hive",
+    "description": "Clothing Stores",
+    "phone": "(727) 601-4604",
+    "address": "street: 9310 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Dollar Discount",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-1639",
+    "address": "street: 5208 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-2160",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(727) 726-5214",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Monarchy",
+    "description": "Clothing Stores",
+    "phone": "(727) 773-5019",
+    "address": "street: N/A location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Est. Famous Co.",
+    "description": "Clothing Stores",
+    "phone": "(727) 599-8463",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Little Layla's Finery - Baby Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 465-6839",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Future Glory Promos",
+    "description": "Clothing Stores",
+    "phone": "(813) 391-1124",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 723-3860",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-3690",
+    "address": "street: 4860 Park St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(727) 846-6233",
+    "address": "street: 10211 139th St location: Largo, FL 33774"
+  },
+  {
+    "name": "Royal Cothiers",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8000",
+    "address": "street: 14219 Walsingham Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "JBY LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 657-6923",
+    "address": "street: N/A location: Clearwater, FL 33763"
+  },
+  {
+    "name": "Sam's Club",
+    "description": "Department Stores",
+    "phone": "(727) 547-8955",
+    "address": "street: 7001 Park Blvd N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 548-0400",
+    "address": "street: 4450 Park St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 344-0601",
+    "address": "street: 3942 Tyrone Blvd N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 345-8319",
+    "address": "street: 3993 Tyrone Blvd N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Colette's Fashions & Swimwear",
+    "description": "Women's Clothing",
+    "phone": "(727) 392-2796",
+    "address": "street: 15033 Madeira Way location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 581-6000",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(727) 513-8871",
+    "address": "street: 4600 Park St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 585-6603",
+    "address": "street: 10500 Ulmerton Rd Ste 626 location: Largo, FL 33771"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 587-0839",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Pheeney's Boutique",
+    "description": "Candles",
+    "phone": "(727) 565-0207",
+    "address": "street: 14953 Gulf Blvd Ste A location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(727) 585-5485",
+    "address": "street: 10357 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(727) 585-5485",
+    "address": "street: 10359 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 392-4939",
+    "address": "street: 203 150th Ave location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 544-1819",
+    "address": "street: 4990 Park St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Seminole Sports and Apparel",
+    "description": "Sportswear",
+    "phone": "(727) 474-5009",
+    "address": "street: 12561 Ulmerton Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "Sports Fan Attic",
+    "description": "Sporting Goods",
+    "phone": "(727) 393-7941",
+    "address": "street: 12929 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 393-7941",
+    "address": "street: 12929 Village Blvd location: Madeira Beach, FL 33708"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 530-9730",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "The Hunt",
+    "description": "Department Stores",
+    "phone": "(727) 506-3200",
+    "address": "street: 12690 Starkey Rd location: Largo, FL 33773"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 535-2149",
+    "address": "street: 8625 126th Ave location: Largo, FL 33773"
+  },
+  {
+    "name": "Swim Zone",
+    "description": "Swimwear & Accessories",
+    "phone": "(727) 563-9663",
+    "address": "street: N/A location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Pamela M",
+    "description": "Women's Clothing",
+    "phone": "(727) 319-2088",
+    "address": "street: 16701 Gulf Blvd location: North Redington Beach, FL 33708"
+  },
+  {
+    "name": "Solomon's Casual Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 541-1606",
+    "address": "street: 7801 Park Blvd N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 581-8994",
+    "address": "street: 10500 Ulmerton Rd Ste 618 location: Largo, FL 33771"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Handbags",
+    "phone": "(727) 585-7548",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Lush Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 914-3503",
+    "address": "street: 5526 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Group USA",
+    "description": "Women's Clothing",
+    "phone": "(727) 685-5595",
+    "address": "street: 4940 66th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(727) 796-3020",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Fashion Imports",
+    "description": "Women's Clothing",
+    "phone": "(727) 584-7905",
+    "address": "street: 3995 South Cir location: Largo, FL 33774"
+  },
+  {
+    "name": "Tennis Glamour",
+    "description": "Sportswear",
+    "phone": "(727) 560-3806",
+    "address": "street: N/A location: Tarpon Springs, FL 34689"
+  },
+  {
+    "name": "ThinkGeek",
+    "description": "Bras",
+    "phone": "(888) 433-5788",
+    "address": "street: N/A location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Tokio Pink, LLC",
+    "description": "Women's Clothing",
+    "phone": "(305) 209-0091",
+    "address": "street: N/A location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Get-N-The Game Sports, LLC.",
+    "description": "T-Shirts",
+    "phone": "(727) 480-9254",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Trendsetter's Men's ExCHANGE",
+    "description": "Consignment Service",
+    "phone": "(727) 386-2196",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Amora's Bridal",
+    "description": "Gloves",
+    "phone": "(800) 405-2480",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "keep Sweatin Gear",
+    "description": "Sportswear",
+    "phone": "(877) 755-6983",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Frosting",
+    "description": "Women's Clothing",
+    "phone": "(913) 486-3770",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Wrap'em By \"M\"",
+    "description": "Women's Clothing",
+    "phone": "(727) 599-9739",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Hello Fabulous Fitness Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 460-4050",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(727) 371-4927",
+    "address": "street: 1279 S Missouri Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(727) 371-4644",
+    "address": "street: 3275 Central Ave location: St Petersburg, FL 33713"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "street: 2399 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-3229",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 322-6492",
+    "address": "street: 3270 Central Ave location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Be Robin Hood",
+    "description": "Clothing Stores",
+    "phone": "(813) 444-8701",
+    "address": "street: 204 4th Ave location: Indian Rocks Beach, FL 33785"
+  },
+  {
+    "name": "ValRich Sports Paradise Golf",
+    "description": "Clothing Stores",
+    "phone": "(727) 240-0288",
+    "address": "street: 7500 Ulmerton Rd Ste 30 location: Largo, FL 33771"
+  },
+  {
+    "name": "The pants towne Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8804",
+    "address": "street: 6000 49th St N location: Saint Petersburg, FL 33709"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0720",
+    "address": "street: 6901 Tyrone Sq Ste 230 location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Embrace Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 424-9446",
+    "address": "street: 7124 49th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Get Reel Get Fish",
+    "description": "Clothing Stores",
+    "phone": "(727) 528-2111",
+    "address": "street: 4590 62nd Ave N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-2004",
+    "address": "street: 2105 66th St N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 585-4854",
+    "address": "street: 1301 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-9701",
+    "address": "street: 6969 Tyrone Sq location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6484",
+    "address": "street: 6933 Tyrone Sq location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0123",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 472-3569",
+    "address": "street: 5280 E Bay Dr location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-3336",
+    "address": "street: 7500 Bayshore Dr location: Treasure Island, FL 33706"
+  },
+  {
+    "name": "Star Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "street: 1261 Gulf Blvd location: Clearwater, FL 33767"
+  },
+  {
+    "name": "Patchington",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3561",
+    "address": "street: 6399 142nd Ave N location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Criativity",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-4191",
+    "address": "street: 720 9th Ave SW location: Largo, FL 33770"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "street: 6901 22nd Ave N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "lularoe.cathyadams.Find your UNICORN with the CAT",
+    "description": "Clothing Stores",
+    "phone": "(727) 804-9958",
+    "address": "street: 8045 13th Ave S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-3066",
+    "address": "street: 6992 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Orvis",
+    "description": "Clothing Stores",
+    "phone": "(727) 576-4169",
+    "address": "street: 9501 Us Highway 19 N location: Pinellas Park, FL 33782"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2230",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-1789",
+    "address": "street: 2281 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 292-1755",
+    "address": "street: 1900 Tyrone Blvd N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-4921",
+    "address": "street: 7314 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 298-0561",
+    "address": "street: 1293 S Missouri Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Tilly's",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6396",
+    "address": "street: 1020 S Fort Harrison Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 327-5901",
+    "address": "street: 3295 Central Ave location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-5900",
+    "address": "street: 1031 112th Avenue A location: Treasure Island, FL 33706"
+  },
+  {
+    "name": "Patchington",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-6196",
+    "address": "street: 280 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Elizabeth Bargain Bin Corp",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-2299",
+    "address": "street: 6901 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Florida Jean Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 365-8440",
+    "address": "street: 6418 107th Ter N location: Pinellas Park, FL 33782"
+  },
+  {
+    "name": "Undergound by Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Snipes",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6276",
+    "address": "street: 6901 22nd Ave N Spc 854B location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Jas-Lin's LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 313-4542",
+    "address": "street: 7500 Ulmerton Rd Ste 10 location: Largo, FL 33771"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-8907",
+    "address": "street: 6752 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Niles Dresses",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7602",
+    "address": "street: 3703 141st Ave location: Largo, FL 33771"
+  },
+  {
+    "name": "Ayeeshas African Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-0310",
+    "address": "street: 5800 87th Ave N location: Pinellas Park, FL 33782"
+  },
+  {
+    "name": "Couture'd Largo",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-5081",
+    "address": "street: 910 W Bay Dr location: Largo, FL 33770"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "street: 12315 62nd St location: Largo, FL 33773"
+  },
+  {
+    "name": "After Hour Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-5752",
+    "address": "street: 12880 US Highway 19 N location: Clearwater, FL 33764"
+  },
+  {
+    "name": "True Victory",
+    "description": "Clothing Stores",
+    "phone": "(843) 732-0316",
+    "address": "street: 2600 Bay Blvd Apt A location: Indian Rocks Beach, FL 33785"
+  },
+  {
+    "name": "Salted Air Mercantile",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5250",
+    "address": "street: 596 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Champagne Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 588-4385",
+    "address": "street: 940 Clearwater Largo Rd N location: Largo, FL 33770"
+  },
+  {
+    "name": "Sea Fear",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-6904",
+    "address": "street: 14770 62nd St N location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Tommy's",
+    "description": "Clothing Stores",
+    "phone": "(407) 694-7507",
+    "address": "street: 16117 Us Highway 19 N location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Seyler Angelia",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7279",
+    "address": "street: 7907 Sailboat Key Blvd S location: South Pasadena, FL 33707"
+  },
+  {
+    "name": "Hydro Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 289-5619",
+    "address": "street: 4505 131st Ave N location: Clearwater, FL 33762"
+  },
+  {
+    "name": "Fashion Scrub Depot St Petersburg",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8892",
+    "address": "street: 5329 Central Ave location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "David & Goliath Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-6205",
+    "address": "street: 1419 S Martin Luther King Jr Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Outrageous Styles by Taye",
+    "description": "Clothing Stores",
+    "phone": "(833) 453-1862",
+    "address": "street: 138 49th St S location: St Petersburg, FL 33707"
+  },
+  {
+    "name": "Avalon Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3662",
+    "address": "street: 2963 44th Ave N location: Saint Petersburg, FL 33714"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "street: 1277 S Highland Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Chrislee Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4600",
+    "address": "street: 1211 Hamlet Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "J & K Custom Ma De Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4278",
+    "address": "street: 4750 10th Ave S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Galli Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 754-3018",
+    "address": "street: 1310 S Belcher Rd location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Sunset Sport",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "street: 1261 Gulf Blvd location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Uzuri Kente",
+    "description": "Clothing Stores",
+    "phone": "(727) 329-6848",
+    "address": "street: 1834 49th St S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "Freaky Tiki Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2958",
+    "address": "street: 5210 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "McFly Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4412",
+    "address": "street: 1623 Gulf To Bay Blvd location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Girl Talk",
+    "description": "Clothing Stores",
+    "phone": "(727) 685-7422",
+    "address": "street: 2510 20th Ave N Apt 2 location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Jeffy Tees",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-6210",
+    "address": "street: 5012 Gulfport Blvd S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "Miami Access Direct",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-1615",
+    "address": "street: 1863 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2230",
+    "address": "street: 6901 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-4710",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 527-2672",
+    "address": "street: 7328 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Vonda's Passion For Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 623-0952",
+    "address": "street: 6651 49th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Gs Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 420-4860",
+    "address": "street: 118 49th St S location: Saint Petersburg, FL 33707"
+  },
+  {
+    "name": "Tilly's",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6484",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Wallstwear.com",
+    "description": "Clothing Stores",
+    "phone": "(727) 530-5901",
+    "address": "street: 12600 Belcher Rd S location: Largo, FL 33773"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6401",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Snowdonia",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "street: 14100 Us Highway 19 N location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Lucky Sew & Sew Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-1565",
+    "address": "street: 1775 Woodridge Dr location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Frumenda Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-7873",
+    "address": "street: 620 28th St N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-3066",
+    "address": "street: 6826 Tyrone Sq location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-1789",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-8311",
+    "address": "street: 6901 22nd Ave N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-9701",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-6800",
+    "address": "street: 6901 22nd Ave N Ste 476A location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Off The Rack",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-5508",
+    "address": "street: 7500 Ulmerton Rd location: Largo, FL 33771"
+  },
+  {
+    "name": "Golfpendant",
+    "description": "Clothing Stores",
+    "phone": "(727) 687-1731",
+    "address": "street: 702 Country Club Dr location: Largo, FL 33771"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-8111",
+    "address": "street: 2050 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Reliable Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 449-1316",
+    "address": "street: 807A Court St location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-2578",
+    "address": "street: 4501 66th St N location: Kenneth City, FL 33709"
+  },
+  {
+    "name": "Bridals and Tux",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-9926",
+    "address": "street: 7250 Ulmerton Rd Suite A location: Largo, FL 33771"
+  },
+  {
+    "name": "Supera-Tec Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-1294",
+    "address": "street: 4491 62nd Ave N Ste 110 location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Whitehouse Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-7398",
+    "address": "street: 7183 30th Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Big Sarge Hats",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-5147",
+    "address": "street: 2265 6th Ave SW location: Largo, FL 33770"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-2611",
+    "address": "street: 7000 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-1170",
+    "address": "street: 2036 66th St N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 527-1756",
+    "address": "street: 7244 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-7888",
+    "address": "street: 6901 22nd Ave N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Deko Source",
+    "description": "Clothing Stores",
+    "phone": "(800) 517-7780",
+    "address": "street: 2810 Scherer Dr N Ste 135 location: Saint Petersburg, FL 33716"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(727) 346-2300",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Shoe Palace",
+    "description": "Clothing Stores",
+    "phone": "(727) 456-1182",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-5434",
+    "address": "street: 2288 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "street: 6901 22nd Ave N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(727) 855-4811",
+    "address": "street: 400-490 Indian Rocks Road location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(727) 855-4811",
+    "address": "street: 400-406 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 594-5102",
+    "address": "street: 4541 66th St N location: Kenneth City, FL 33709"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-5426",
+    "address": "street: 6665 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-8604",
+    "address": "street: 2020 66th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 518-2379",
+    "address": "street: 2158 E Bay Dr location: Largo, FL 33771"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(727) 573-5811",
+    "address": "street: 5251 110th Ave N Ste 120 location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-4163",
+    "address": "street: 3635 49th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-1361",
+    "address": "street: 5060 E Bay Dr location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6500",
+    "address": "street: 6864 Gulfport Blvd S location: South Pasadena, FL 33707"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 282-5979",
+    "address": "street: 7170 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8210",
+    "address": "street: 1271 S Missouri Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Surf Style 117: Surf, Swimwear, Sporting Goods in Treasure Island",
+    "description": "Clothing Stores",
+    "phone": "(954) 924-9779",
+    "address": "street: 10701 Gulf Blvd location: Treasure Island, FL 33706"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "street: 6797 Tyrone Square 22nd Ave location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "For the Love of Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0700",
+    "address": "street: 428 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Nilla Shields",
+    "description": "Clothing Stores",
+    "phone": "(727) 489-0305",
+    "address": "street: 3051 Tech Dr N location: Saint Petersburg, FL 33716"
+  },
+  {
+    "name": "Liberty Creative | Screen Printing, Embroidery, Design, & Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-0444",
+    "address": "street: 1299 Starkey Rd Ste 103 location: Largo, FL 33771"
+  },
+  {
+    "name": "Cranial Creations",
+    "description": "Clothing Stores",
+    "phone": "(970) 390-5015",
+    "address": "street: PO Box 48643 location: Saint Petersburg, FL 33743"
+  },
+  {
+    "name": "Proforma Source1 Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 266-7559",
+    "address": "street: 240 Sand Key Estates Dr Apt 78 location: Clearwater, FL 33767"
+  },
+  {
+    "name": "Breeza Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-1617",
+    "address": "street: 6705 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Agora Leather Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-0707",
+    "address": "street: 2101 28th St N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3239",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-8604",
+    "address": "street: 2020 66th St N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 518-2379",
+    "address": "street: 2158 E Bay Dr location: Largo, FL 33771"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-4163",
+    "address": "street: 3635 49th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6500",
+    "address": "street: 6864 Gulfport Blvd S location: South Pasadena, FL 33707"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8210",
+    "address": "street: 1271 S Missouri Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4114",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Fresh Rags",
+    "description": "Clothing Stores",
+    "phone": "(727) 803-6878",
+    "address": "street: 7620 49th St N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-8604",
+    "address": "street: 2020 66th St N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Paris Isabella Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-4900",
+    "address": "street: 4930 Park Blvd N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-4163",
+    "address": "street: 3635 49th St N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-2391",
+    "address": "street: 900 58th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 322-8304",
+    "address": "street: 2010 34th St N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-5987",
+    "address": "street: 6864 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "street: 6797 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Blu Spero",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-4119",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9585",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Latin Touch Salon",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-5161",
+    "address": "street: 5791 54th Ave N location: Kenneth City, FL 33709"
+  },
+  {
+    "name": "Suzette's on the Rocks",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8700",
+    "address": "street: 400 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Clothing Stores",
+    "phone": "(727) 522-1287",
+    "address": "street: 3615 49th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-1207",
+    "address": "street: 2926 Roosevelt Blvd location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Pj Design Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-0599",
+    "address": "street: 2830 46th Ave N location: Saint Petersburg, FL 33714"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-1084",
+    "address": "street: 1224 S Highland Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Sweet Rebel",
+    "description": "Clothing Stores",
+    "phone": "(727) 280-6239",
+    "address": "street: 1106 34th St N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0496",
+    "address": "street: 6901 22nd St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "street: 7621 124th Ave Ste D location: Largo, FL 33773"
+  },
+  {
+    "name": "Apparel World II Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 533-9331",
+    "address": "street: 2101 34th Way location: Largo, FL 33771"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-3441",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-0104",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Designers Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9080",
+    "address": "street: 2278 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "street: 6797 Tyrone Sq 22nd Ave location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-3505",
+    "address": "street: 1401 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Angies Bouticue",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7696",
+    "address": "street: 1658 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 530-0501",
+    "address": "street: 5220 E Bay Dr location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Sheepskin and Things Ltd",
+    "description": "Clothing Stores",
+    "phone": "(250) 585-1600",
+    "address": "street: 314 US Highway 19 N location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Windsor Industries",
+    "description": "Clothing Stores",
+    "phone": "(727) 447-7142",
+    "address": "street: 624 Pinellas St location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Bikini Key",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5400",
+    "address": "street: 1261 Gulf Blvd location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-1717",
+    "address": "street: 2008 66th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-3617",
+    "address": "street: 10500 Ulmerton Rd location: Largo, FL 33770"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6401",
+    "address": "street: 6901 22nd Ave N # 230 location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6003",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4691",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Suzette's On The Rocks",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8700",
+    "address": "street: 13042 Indian Rocks Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "Designer Exchange",
+    "description": "Consignment Service",
+    "phone": "(727) 345-1400",
+    "address": "street: 7038 Central Ave location: Saint Petersburg, FL 33707"
+  },
+  {
+    "name": "Palm Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 596-0194",
+    "address": "street: 1261 Gulf Blvd location: Clearwater, FL 33767"
+  },
+  {
+    "name": "Eye Doctor's Optical Outlets",
+    "description": "Optical Goods",
+    "phone": "(727) 547-4856",
+    "address": "street: 3740 Park Blvd N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-3345",
+    "address": "street: 6754 Tyrone Sq location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 344-8550",
+    "address": "street: 6714 Tyrone Sq Ste 288 location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(727) 291-0015",
+    "address": "street: 5251 110th Ave N Ste 120 location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Advantage Yours Tennis",
+    "description": "Tennis Equipment & Supplies",
+    "phone": "(727) 442-7923",
+    "address": "street: 1875 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Cassi & Co",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "street: 100 Indian Rocks Rd N Ste 3 location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Lu'nique Bridal & Fashion Boutique",
+    "description": "Bridal Shops",
+    "phone": "(727) 223-6498",
+    "address": "street: 7230 Central Ave location: Saint Petersburg, FL 33707"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(727) 536-2195",
+    "address": "street: 13920 58th St N Ste 1006 location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(727) 344-4611",
+    "address": "street: 6990 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 343-0179",
+    "address": "street: 6738 Tyrone Sq Ste 270 location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 343-0179",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(727) 345-9520",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(727) 347-6748",
+    "address": "street: 6901 22nd Ave N Spc 812 location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 345-4165",
+    "address": "street: 6978 Tyrone Sq Ste 776 location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 347-4996",
+    "address": "street: 6766 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 347-4996",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 381-3133",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 342-8001",
+    "address": "street: 2010 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 587-7822",
+    "address": "street: 990 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 803-0022",
+    "address": "street: 7150 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 803-4961",
+    "address": "street: 201 34th St N location: St Petersburg, FL 33713"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 323-8672",
+    "address": "street: 3301 Central Ave location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 327-5701",
+    "address": "street: 3235 Central Ave location: St Petersburg, FL 33713"
+  },
+  {
+    "name": "Salted Air Mercantile",
+    "description": "Women's Clothing",
+    "phone": "(727) 408-5250",
+    "address": "street: 13128 Indian Rocks Rd location: Largo, FL 33774"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "street: 6924 Tyrone Sq location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "street: 6924 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 347-7190",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(727) 345-7700",
+    "address": "street: 2444 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-9833",
+    "address": "street: 2480 66th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Simply Fab Dress",
+    "description": "Bridal Shops",
+    "phone": "(754) 260-8244",
+    "address": "street: 13575 58th Street North #287 location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Annabel's & Annabel's Petites",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-1534",
+    "address": "street: 347 Corey Ave location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Tom James Company Tampa Bay",
+    "description": "Men's Clothing",
+    "phone": "(727) 916-7848",
+    "address": "street: 12100 31st Ct N Suite A location: Saint Petersburg, FL 33716"
+  },
+  {
+    "name": "Fashionista Trendy Thrifty",
+    "description": "Men's Clothing",
+    "phone": "(727) 641-9970",
+    "address": "street: 14099 Belcher Rd S Lot 1152 location: Largo, FL 33771"
+  },
+  {
+    "name": "Kingdom Stylz",
+    "description": "Men's Clothing",
+    "phone": "(727) 277-2199",
+    "address": "street: Po Box 11343 location: Saint Petersburg, FL 33733"
+  },
+  {
+    "name": "Manatee Bay Enterprises",
+    "description": "Sportswear",
+    "phone": "(727) 539-0759",
+    "address": "street: 12420 73rd Ct location: Largo, FL 33773"
+  },
+  {
+    "name": "The Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(727) 346-2300",
+    "address": "street: 6899 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "SKECHERS Retail",
+    "description": "Shoe Stores",
+    "phone": "(727) 345-1061",
+    "address": "street: 6901 22nd Ave N # 492a location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "St Pete Running Company",
+    "description": "Sporting Goods",
+    "phone": "(727) 800-5043",
+    "address": "street: 6986 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Sports Fan Attic",
+    "description": "Sporting Goods",
+    "phone": "(727) 347-3595",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 381-4820",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Shoe Stores",
+    "phone": "(727) 343-5434",
+    "address": "street: 2288 Tyrone Sq # 922 location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Sports Fan-Attic",
+    "description": "Sportswear",
+    "phone": "(727) 347-3595",
+    "address": "street: 2367 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(214) 218-8900",
+    "address": "street: 2367 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 347-3595",
+    "address": "street: 2367 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Locker Room By Lids",
+    "description": "Sporting Goods",
+    "phone": "(727) 347-3595",
+    "address": "street: 2367 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(727) 381-3133",
+    "address": "street: 2287 Tyrone Blvd N Ste 110 location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 573-2678",
+    "address": "street: 11477 US Highway 19 N location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Coast 2 Coast Bargain's",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(727) 226-7782",
+    "address": "street: 447 6th Ave NE location: Largo, FL 33770"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(727) 573-5811",
+    "address": "street: 5251 110th Ave N Ste 120 location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(727) 559-0978",
+    "address": "street: 1111 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Dollar Plus & Party Inc",
+    "description": "Discount Stores",
+    "phone": "(727) 530-0010",
+    "address": "street: 4315 E Bay Dr location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Best Price Deals",
+    "description": "Discount Stores",
+    "phone": "(727) 954-8859",
+    "address": "street: 9151 Us Highway 19 N location: Pinellas Park, FL 33782"
+  },
+  {
+    "name": "Clothezline",
+    "description": "Department Stores",
+    "phone": "(727) 346-9000",
+    "address": "street: 940 58th St N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Fast Frontier",
+    "description": "Department Stores",
+    "phone": "(727) 601-5673",
+    "address": "street: 13920 58th St N location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Walmart Health Center",
+    "description": "General Merchandise",
+    "phone": "(727) 369-2677",
+    "address": "street: 8001 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 528-1115",
+    "address": "street: 200 Avenue Des Palais Suite 226 location: South Pasadena, FL 33707"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 431-5917",
+    "address": "street: 2677 Roosevelt Blvd location: Clearwater, FL 33760"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 521-1400",
+    "address": "street: 7180 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Bucs Stuff",
+    "description": "Sportswear",
+    "phone": "(727) 525-2827",
+    "address": "street: 7101 US Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Cerulean Blu",
+    "description": "Department Stores",
+    "phone": "(727) 498-8984",
+    "address": "street: 3725 26th Ave N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Bargain Basement",
+    "description": "Discount Stores",
+    "phone": "(727) 527-3553",
+    "address": "street: 2890 34th St N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Consumers Companies of America Inc",
+    "description": "Department Stores",
+    "phone": "(727) 507-0525",
+    "address": "street: 1458 S Belcher Rd location: Clearwater, FL 33764"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 447-5320",
+    "address": "street: 1721 Gulf To Bay Blvd location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Fms Purchasing and Service Inc",
+    "description": "Department Stores",
+    "phone": "(727) 725-2909",
+    "address": "street: 711 S Belcher Rd location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Warm Weather Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 367-7120",
+    "address": "street: 845 115th Ave location: Treasure Island, FL 33706"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(727) 343-3478",
+    "address": "street: 6924 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-0491",
+    "address": "street: 6901 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "D212",
+    "description": "Women's Clothing",
+    "phone": "(727) 302-0495",
+    "address": "street: 6797 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(727) 345-7700",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(727) 343-3478",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "L M T D",
+    "description": "Men's Clothing",
+    "phone": "(727) 346-9200",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-6003",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "street: 6901 22nd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(727) 362-7490",
+    "address": "street: 6901 22nd Ave N location: St Petersburg, FL 33710"
+  },
+  {
+    "name": "Kickz N Lidz",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-8330",
+    "address": "street: 2353 Tyrone Sq location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(727) 344-6156",
+    "address": "street: 2468 Tyrone Blvd N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "name": "Palms-Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-5400",
+    "address": "street: 10671 Gulf Blvd location: Treasure Island, FL 33706"
+  },
+  {
+    "name": "The 802 Gypsy",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-1980",
+    "address": "street: 10365 Paradise Blvd location: Saint Petersburg, FL 33706"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(727) 501-0432",
+    "address": "street: 100 Indian Rocks Rd N Ste H location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Marsha Jay Uhle R",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "street: 100 Indian Rocks Rd N location: Belleair Bluffs, FL 33770"
+  },
+  {
+    "name": "Sabella Boutique",
+    "description": "Boutique Items",
+    "phone": "(727) 800-9955",
+    "address": "street: 4500 Park Blvd N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "La Panache",
+    "description": "Boutique Items",
+    "phone": "(727) 367-6188",
+    "address": "street: 9524 Blind Pass Rd Ste 4 location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(727) 581-8680",
+    "address": "street: 1399 Missouri Ave N location: Largo, FL 33770"
+  },
+  {
+    "name": "Mizz Sunshine Dresses",
+    "description": "Women's Clothing",
+    "phone": "(727) 754-2788",
+    "address": "street: 1600 Missouri Ave N Ste 40 location: Largo, FL 33770"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 522-2836",
+    "address": "street: 7170 US Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Sil-O-Ette International Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 571-3338",
+    "address": "street: 12890 Automobile Blvd location: Clearwater, FL 33762"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(727) 572-4700",
+    "address": "street: 3630 103rd Ave N location: Clearwater, FL 33762"
+  },
+  {
+    "name": "Women of Royalty Designer Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 233-0114",
+    "address": "street: 2159 Nursery Rd location: Clearwater, FL 33764"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 347-7190",
+    "address": "street: 6901 22nd St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Island Treasure Gifts",
+    "description": "Gift Baskets",
+    "phone": "(727) 216-6770",
+    "address": "street: 1261 Gulf Blvd location: Clearwater, FL 33767"
+  },
+  {
+    "name": "Dana's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(727) 517-9551",
+    "address": "street: 1261 Gulf Blvd location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Yes Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 323-0363",
+    "address": "street: 5005 Gulfport Blvd S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "Shopbymale.com",
+    "description": "Men's Clothing",
+    "phone": "(844) 420-6253",
+    "address": "street: PO Box 56535 location: St Petersburg, FL 33732"
+  },
+  {
+    "name": "Curv Exchange Clearwater",
+    "description": "Women's Clothing",
+    "phone": "(727) 330-6925",
+    "address": "street: 1916 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Madrag 67",
+    "description": "Women's Clothing",
+    "phone": "(727) 525-8080",
+    "address": "street: 7332 Us Highway 19 N location: Pinellas Park, FL 33781"
+  },
+  {
+    "name": "Eurofashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-4693",
+    "address": "street: 55 Baymont St location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Bum Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6107",
+    "address": "street: 399 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "On Point Fashion Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 592-1955",
+    "address": "street: 2132 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8829",
+    "address": "street: 320 Cleveland St location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Arts and Graphics Beyond",
+    "description": "Clothing Stores",
+    "phone": "(727) 228-0143",
+    "address": "street: 1215 Drew St location: Clearwater, FL 33755"
+  },
+  {
+    "name": "T.J.Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 577-1350",
+    "address": "street: 7701 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Paradiso Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-8831",
+    "address": "street: 104 8th Ave location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-4083",
+    "address": "street: 163 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6423",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "The Fashion Spot",
+    "description": "Clothing Stores",
+    "phone": "(850) 687-5076",
+    "address": "street: 1010 Central Ave Apt 103 location: St Petersburg, FL 33705"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 577-1350",
+    "address": "street: 8201 Dr Martin Luther King Jr St N location: St Petersburg, FL 33702"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 799-0776",
+    "address": "street: 2541 Countryside Blvd location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 205-0300",
+    "address": "street: 2669 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(727) 371-4975",
+    "address": "street: 1101 62nd Ave S location: St Petersburg, FL 33705"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-0362",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 576-7404",
+    "address": "street: 7899 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-0996",
+    "address": "street: 2830 54th Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Elizabeth's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-9526",
+    "address": "street: 4765 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-5900",
+    "address": "street: 1031 62nd Ave S location: St Petersburg, FL 33705"
+  },
+  {
+    "name": "Lothian Kilt Rentals & Bagpipe Supplies",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-6838",
+    "address": "street: 1570 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-4083",
+    "address": "street: 153 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 799-4633",
+    "address": "street: 25805 US Highway 19 N location: Clearwater, FL 33763"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-5201",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Celebrity",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-0298",
+    "address": "street: 472 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Skinz Swimwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8789",
+    "address": "street: 2027 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Watersister Dry Goods",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-9987",
+    "address": "street: 2259 2nd Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Step In Style",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-1200",
+    "address": "street: 2940 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Vintage Clothin",
+    "description": "Clothing Stores",
+    "phone": "(727) 253-4993",
+    "address": "street: 357 Scotland St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Mirabella Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 288-2999",
+    "address": "street: 481 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Rose Garden Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 734-5052",
+    "address": "street: 101 Main St Ste A location: Safety Harbor, FL 34695"
+  },
+  {
+    "name": "Gioffrè",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4172",
+    "address": "street: 8 S Fort Harrison Ave location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Shoetrapper",
+    "description": "Clothing Stores",
+    "phone": "(727) 400-5282",
+    "address": "street: 3030 Central Ave location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Slimers Value Center",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-7409",
+    "address": "street: 257 Valencia Cir location: Saint Petersburg, FL 33716"
+  },
+  {
+    "name": "Trinas Fashion & Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 256-8383",
+    "address": "street: 1103 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "D'klaze",
+    "description": "Clothing Stores",
+    "phone": "(727) 488-5062",
+    "address": "street: PO Box 22791 location: Saint Petersburg, FL 33742"
+  },
+  {
+    "name": "Galli Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 754-3018",
+    "address": "street: 714 N Fort Harrison Ave location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Clothes to Kids",
+    "description": "Clothing Stores",
+    "phone": "(727) 327-7100",
+    "address": "street: 2168 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Gjiapparel",
+    "description": "Clothing Stores",
+    "phone": "(858) 886-8658",
+    "address": "street: 7901 4th St N Ste 300 location: St Petersburg, FL 33702"
+  },
+  {
+    "name": "La Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-6625",
+    "address": "street: 134 Island Way location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Second Chances Thrift Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2948",
+    "address": "street: 174 13th St N location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Keep Sweatin Workout Gear",
+    "description": "Clothing Stores",
+    "phone": "(855) 581-6034",
+    "address": "street: 1646 Harbor Dr location: Clearwater, FL 33755"
+  },
+  {
+    "name": "E & V Apparell L Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4028",
+    "address": "street: 415 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "D'klaze",
+    "description": "Clothing Stores",
+    "phone": "(727) 488-5062",
+    "address": "street: 1601 22nd St S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Five Dollar Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-2610",
+    "address": "street: 1650 N Hercules Ave Ste A location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Birch International Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-9184",
+    "address": "street: 190 N Tessier Dr location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Clean Jeans",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-7940",
+    "address": "street: 601C Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Racks727",
+    "description": "Clothing Stores",
+    "phone": "(727) 318-8663",
+    "address": "street: 1512 16th St S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "August",
+    "description": "Clothing Stores",
+    "phone": "(941) 894-1648",
+    "address": "street: 2250 20th St S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "The Trunk Stylists",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6861",
+    "address": "street: 651 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Fresh Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 201-8307",
+    "address": "street: 1400 18th Ave S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Florida Jean",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6922",
+    "address": "street: 169 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Tracy Negoshian & His",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7913",
+    "address": "street: 113 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Juxtapose Apparel Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2831",
+    "address": "street: 111 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "In Search of Balance",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-0320",
+    "address": "street: 104 2nd Ave NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Cory's Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 275-0956",
+    "address": "street: 2915 State Road 590 location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Looking Good Alterations, Repairs, and Tailoring",
+    "description": "Clothing Stores",
+    "phone": "(727) 551-9061",
+    "address": "street: 1125 38th Ave NE location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Lularoe Leggings",
+    "description": "Clothing Stores",
+    "phone": "(937) 838-1288",
+    "address": "street: 5101 Dover St NE location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "Good Karma Trading",
+    "description": "Clothing Stores",
+    "phone": "(727) 895-1900",
+    "address": "street: 800 2nd Ave NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Beautifully Defined",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-6956",
+    "address": "street: 520 26th Ave S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Backwater Provisions Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 357-3474",
+    "address": "street: 230 Main St location: Safety Harbor, FL 34695"
+  },
+  {
+    "name": "Chix From The Stix",
+    "description": "Clothing Stores",
+    "phone": "(727) 331-3770",
+    "address": "street: 1497 Main St # 229 location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-7525",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Shoetrapper",
+    "description": "Clothing Stores",
+    "phone": "(727) 400-5282",
+    "address": "street: 897 65th Ave S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Retail For Cause LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-3595",
+    "address": "street: 495 43rd Ave N location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 799-4633",
+    "address": "street: 25813 US Highway 19 N location: Clearwater, FL 33763"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(727) 797-6349",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "All N 1 Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5249",
+    "address": "street: 1327 N Highland Ave location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Sunkissed Enterprise",
+    "description": "Clothing Stores",
+    "phone": "(727) 461-7547",
+    "address": "street: 1223 N Hercules Ave location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Premier Fitness Marketing",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6700",
+    "address": "street: 21917 US Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(727) 228-6053",
+    "address": "street: 23672 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6396",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(727) 726-4023",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8814",
+    "address": "street: 218 37th Ave N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-3134",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Revolve Clothing Exchange",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-7788",
+    "address": "street: 2000 4th St N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-6560",
+    "address": "street: 2565 Countryside Blvd location: Clearwater, FL 33761"
+  },
+  {
+    "name": "My Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-0011",
+    "address": "street: 405 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Freaky Tiki Surf Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-6775",
+    "address": "street: 458 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-4246",
+    "address": "street: 107 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-0312",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-3032",
+    "address": "street: 27001 Us Highway 19 N Ste 2062 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "On Pointe Dancewear & More",
+    "description": "Clothing Stores",
+    "phone": "(855) 238-6784",
+    "address": "street: 2113 Central Ave location: St Petersburg, FL 33713"
+  },
+  {
+    "name": "Stellie Bellies",
+    "description": "Clothing Stores",
+    "phone": "(727) 894-0906",
+    "address": "street: 3475 4th St N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-1035",
+    "address": "street: 26996 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 799-7800",
+    "address": "street: 21323 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(727) 712-5525",
+    "address": "street: 26256 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "DXL Big + Tall",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-0866",
+    "address": "street: 2539 Countryside Blvd Ste 1 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Uniform City Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7100",
+    "address": "street: 2472 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 712-3860",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 576-7404",
+    "address": "street: 7899 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-0996",
+    "address": "street: 2830 54th Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-2191",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Nordstrom Rack Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-2525",
+    "address": "street: 2435 State Road 580 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Swim & Play",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-1713",
+    "address": "street: 4677 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "the unKAGEd Shop",
+    "description": "Clothing Stores",
+    "phone": "(813) 326-7383",
+    "address": "street: 115 112th Ave NE location: St Petersburg, FL 33716"
+  },
+  {
+    "name": "Jackie Z Style Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4849",
+    "address": "street: 113 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 298-8595",
+    "address": "street: 2122 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-2190",
+    "address": "street: 1113 62nd Ave N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 217-0895",
+    "address": "street: 7715 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(727) 374-1306",
+    "address": "street: 9500 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 282-5929",
+    "address": "street: 2739 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 865-3413",
+    "address": "street: 5123 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-1612",
+    "address": "street: 23678 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-0487",
+    "address": "street: 914 Patricia Ave location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Anglo Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-5800",
+    "address": "street: 689 Central Ave # 100-101 location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8727",
+    "address": "street: 103 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8727",
+    "address": "street: 103 2nd Ave N location: St Petersburg, FL 33701"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-8740",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Charming Charlie",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6900",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Botiki Ladies Apparel & Gifts",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8757",
+    "address": "street: 3015 Beach Blvd S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "Far Out Groovy & Kool",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-7600",
+    "address": "street: 1032 4th St N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Stitch Logo",
+    "description": "Clothing Stores",
+    "phone": "(877) 652-8600",
+    "address": "street: 2165 Sunnydale Blvd Ste H location: Clearwater, FL 33765"
+  },
+  {
+    "name": "NautiGirl Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9380",
+    "address": "street: 216 2nd St N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-5066",
+    "address": "street: 23668 Us Highway 19 N Unit 20 location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 298-8595",
+    "address": "street: 2122 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-2190",
+    "address": "street: 1113 62nd Ave N location: St Petersburg, FL 33702"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 865-3413",
+    "address": "street: 5123 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-3335",
+    "address": "street: 23662 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-0487",
+    "address": "street: 914 Patricia Ave location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Roma NYC",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-4466",
+    "address": "street: 410 Cleveland St location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-4600",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-8101",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "The Edinburgh Fringe",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-7359",
+    "address": "street: 966 Douglas Ave Ste 102 location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-2190",
+    "address": "street: 1113 62nd Ave N location: St Petersburg, FL 33702"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 520-1401",
+    "address": "street: 1035 62nd Ave N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "The Urban Unit Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-2633",
+    "address": "street: 1413 N Betty Ln location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Miami Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-8775",
+    "address": "street: 2950 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 865-3413",
+    "address": "street: 5123 34th St S location: St Petersburg, FL 33711"
+  },
+  {
+    "name": "Adventures in Paradise Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-4943",
+    "address": "street: 40 Beach Dr NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 712-8676",
+    "address": "street: 2420 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "St Pete Threads",
+    "description": "Clothing Stores",
+    "phone": "(727) 502-6850",
+    "address": "street: 2622 Fairfield Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Suzette's On Central",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-8404",
+    "address": "street: 2109 Central Ave location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Clothing Stores",
+    "phone": "(727) 328-8535",
+    "address": "street: 2201 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "The Oxford Clothing Compa",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-3740",
+    "address": "street: 4336 4th St N location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 527-1400",
+    "address": "street: 3440 4th St N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Matter of Fact",
+    "description": "Clothing Stores",
+    "phone": "(727) 826-0416",
+    "address": "street: 1029 Central Ave location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Ashe Couture Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9925",
+    "address": "street: 1027 Central Ave location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Freshly Squeezed",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-2197",
+    "address": "street: 900 1st Ave N location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-6905",
+    "address": "street: 821 1st Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-1061",
+    "address": "street: 1201 Sunset Point Rd location: Clearwater, FL 33755"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-2244",
+    "address": "street: 662 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 437-3923",
+    "address": "street: 1520 N Mcmullen Booth Rd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Aqua Dizayn",
+    "description": "Clothing Stores",
+    "phone": "(727) 557-4427",
+    "address": "street: 100 Pierce St Apt 508 location: Clearwater, FL 33756"
+  },
+  {
+    "name": "My Fashion World",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-0296",
+    "address": "street: 1746 Drew St location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Jetwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 465-8888",
+    "address": "street: 1754 Drew St location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Moda Vacuera",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-4237",
+    "address": "street: 2095 Drew St location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-1208",
+    "address": "street: 2733 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Little Llamas Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-5216",
+    "address": "street: 2319 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "name": "Kleid's Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-7900",
+    "address": "street: 22075 US Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Fit 2 Run",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-2786",
+    "address": "street: 256 2nd St N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Bamboozle Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 360-1166",
+    "address": "street: 103 8th Ave Fl 33706 location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Little Llamas Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-5216",
+    "address": "street: 2319 Dr Martin Luther King Jr St S Fl 33704 location: St Petersburg, FL 33705"
+  },
+  {
+    "name": "Big Frog CustomT-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(866) 971-3764",
+    "address": "street: 533 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(727) 723-3860",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Afryl's Accessories",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-5934",
+    "address": "street: Store #1031b 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Hat Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7389",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-7312",
+    "address": "street: 27001 Us Highway 19 N Ste 8280 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "McB's",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4932",
+    "address": "street: 1045 Central Ave location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 373-3672",
+    "address": "street: 27001 Us Highway 19 N Ste 2030 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(727) 799-9959",
+    "address": "street: 2675 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "The T-Shirt Diner",
+    "description": "Clothing Stores",
+    "phone": "(727) 386-4195",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-1266",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Gooddess Closet",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-0303",
+    "address": "street: 1558 16th St S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Swim & Play",
+    "description": "Women's Clothing",
+    "phone": "(727) 461-4499",
+    "address": "street: 407 Mandalay Ave location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Rituals Aveda Salon",
+    "description": "Beauty Salons",
+    "phone": "(727) 797-2800",
+    "address": "street: 2760 Gulf To Bay Blvd Ste B location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 431-0231",
+    "address": "street: 2747 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 799-4481",
+    "address": "street: 27001 Us Highway 19 N Ste 1005 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "AB2B Boutique (All Brides 2 Be)",
+    "description": "Bridal Shops",
+    "phone": "(813) 406-0403",
+    "address": "street: 27001 US Hwy 19 N Suite 2022 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "LottoBoat Club & Rental",
+    "description": "Amusement Places & Arcades",
+    "phone": "(727) 230-0990",
+    "address": "street: 100 14th Ave S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(727) 796-2242",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 724-7777",
+    "address": "street: 23106 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Sportswear",
+    "phone": "(727) 712-3281",
+    "address": "street: 2753 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Bucs Stuff's Sports City",
+    "description": "Sportswear",
+    "phone": "(727) 209-2827",
+    "address": "street: 211 1st St NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "American Running Company",
+    "description": "Sportswear",
+    "phone": "(727) 799-1227",
+    "address": "street: 26024 Us Highway 19 N location: Clearwater, FL 33763"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 724-9780",
+    "address": "street: 27001 Us Highway 19 N Ste 2001 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(727) 866-1829",
+    "address": "street: 2930 54th Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(727) 723-9545",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(727) 725-2675",
+    "address": "street: 27001 Us Highway 19 N Ste 2047 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Macy's Backstage",
+    "description": "Men's Clothing",
+    "phone": "(727) 724-7312",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 298-0030",
+    "address": "street: 2128 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(727) 576-7404",
+    "address": "street: 7899 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 576-2735",
+    "address": "street: 8151 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 793-0380",
+    "address": "street: 2739 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 431-0231",
+    "address": "street: 2747 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Feet First",
+    "description": "Sporting Goods",
+    "phone": "(727) 898-1130",
+    "address": "street: 4949 4th St N location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "Tampa Bay Team Fan Shop",
+    "description": "Caps",
+    "phone": "(727) 302-1600",
+    "address": "street: 203 1st St NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 725-0653",
+    "address": "street: 23666 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(727) 866-0996",
+    "address": "street: 2830 54th Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(727) 791-8580",
+    "address": "street: 26583 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(727) 726-0434",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 724-5785",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 791-8191",
+    "address": "street: 27001 Us Highway 19 N Ste 1053 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(727) 725-9400",
+    "address": "street: 27001 Us Highway 19 N Ste 1049 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 669-7125",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(727) 669-7306",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Tieguys.com Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 475-4452",
+    "address": "street: 807 Park St location: Clearwater, FL 33756"
+  },
+  {
+    "name": "Body'kon Fash'yon",
+    "description": "Women's Clothing",
+    "phone": "(727) 600-3210",
+    "address": "street: United States location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(727) 796-0152",
+    "address": "street: 2719 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Marion's",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-2345",
+    "address": "street: 1301 4th St N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Superior Group of Companies, Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 397-9611",
+    "address": "street: 200 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(727) 725-4038",
+    "address": "street: 27001 Us Highway 19 N Ste 2019 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Windsor",
+    "description": "Women's Clothing",
+    "phone": "(888) 495-4957",
+    "address": "street: 27001 Us Highway 19 N Ste 1048 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 796-1089",
+    "address": "street: 27001 Us Highway 19 N Ste 1012 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(727) 799-1683",
+    "address": "street: 2613 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(727) 527-9161",
+    "address": "street: 5004 4th St N location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "Bartique",
+    "description": "Women's Clothing",
+    "phone": "(727) 290-6829",
+    "address": "street: 648 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 445-7000",
+    "address": "street: 795 Bayway Blvd location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Shoe Stores",
+    "phone": "(727) 791-4048",
+    "address": "street: 2663 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Surfing USA",
+    "description": "Sportswear",
+    "phone": "(727) 446-9173",
+    "address": "street: 325 S Gulfview Blvd location: Clearwater Beach, FL 33767"
+  },
+  {
+    "name": "Bohemian Reves",
+    "description": "Department Stores",
+    "phone": "(727) 873-6864",
+    "address": "street: 1620 Central Ave location: Saint Petersburg, FL 33712"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "description": "Sportswear",
+    "phone": "(727) 825-3487",
+    "address": "street: 1 Tropicana Dr location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Justin Vannatter",
+    "description": "Sportswear",
+    "phone": "(727) 446-6224",
+    "address": "street: 2096 Range Rd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Baker Boys Sport Apparel",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 712-8089",
+    "address": "street: 21951 US Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(727) 906-4647",
+    "address": "street: 3501 34th St S location: St Petersburg, FL 33711"
+  },
+  {
+    "name": "Nacl H2o Sports",
+    "description": "Sportswear",
+    "phone": "(727) 528-1300",
+    "address": "street: 420 Rotary Pl NE location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "Ny Hip Hop Clothing",
+    "description": "Department Stores",
+    "phone": "(727) 446-8800",
+    "address": "street: 1889 N Highland Ave location: Clearwater, FL 33755"
+  },
+  {
+    "name": "The Merchant",
+    "description": "Department Stores",
+    "phone": "(727) 954-0117",
+    "address": "street: 633 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(727) 820-4309",
+    "address": "street: 175 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Talk Of The Town Shopping",
+    "description": "Department Stores",
+    "phone": "(727) 896-5400",
+    "address": "street: 111 2nd Ave NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 822-6565",
+    "address": "street: 119 1st Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Central Station Owner",
+    "description": "Department Stores",
+    "phone": "(727) 821-0147",
+    "address": "street: 100 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(727) 516-4065",
+    "address": "street: 23682 Us Highway 19 N location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Sports Katz",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 723-9062",
+    "address": "street: 2555 Blackburn St location: Clearwater, FL 33763"
+  },
+  {
+    "name": "D & D Sales",
+    "description": "Department Stores",
+    "phone": "(727) 734-4220",
+    "address": "street: 500 Douglas Ave location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Whitewood on Main",
+    "description": "Department Stores",
+    "phone": "(727) 281-9643",
+    "address": "street: 801 Main St location: Safety Harbor, FL 34695"
+  },
+  {
+    "name": "Safety Harbor Galleria",
+    "description": "Department Stores",
+    "phone": "(727) 799-1600",
+    "address": "street: 123 2nd Ave S location: Safety Harbor, FL 34695"
+  },
+  {
+    "name": "Karoll Brazil Sportswear",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(727) 432-7145",
+    "address": "street: 220 43rd Ave SE location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 726-4040",
+    "address": "street: 2567 Countryside Blvd location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 791-7389",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Pro Image Sports",
+    "description": "Sporting Goods",
+    "phone": "(215) 582-2025",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Skinz Masks",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 441-8789",
+    "address": "street: 2027 Gulf To Bay Blvd location: Clearwater, FL 33765"
+  },
+  {
+    "name": "Avon South Tampa",
+    "description": "Hair Supplies & Accessories",
+    "phone": "(727) 641-3390",
+    "address": "street: 4941 29th Ave S location: Gulfport, FL 33707"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Men's Clothing",
+    "phone": "(727) 327-1756",
+    "address": "street: 1201 34th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "name": "New Charisma Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 363-0228",
+    "address": "street: 4227 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "name": "Spinderella's Steals",
+    "description": "Women's Clothing",
+    "phone": "(727) 522-3325",
+    "address": "street: 6393 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+  },
+  {
+    "name": "Violet's Vanity",
+    "description": "Women's Clothing",
+    "phone": "(727) 329-8685",
+    "address": "street: 2327 Central Ave location: Saint Petersburg, FL 33713"
+  },
+  {
+    "name": "Men's Wearhouse & Tux",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(727) 726-2262",
+    "address": "street: 2663 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Shoe Stores",
+    "phone": "(727) 791-3490",
+    "address": "street: 2679 Gulf To Bay Blvd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "dressbarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 669-7143",
+    "address": "street: 2729 Gulf To Bay Blvd Ste 310 location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Live Fast Die Rich Studio",
+    "description": "Women's Clothing",
+    "phone": "(727) 400-4838",
+    "address": "street: 1409 N Betty Ln location: Clearwater, FL 33755"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(727) 865-0767",
+    "address": "street: 5901 Sun Blvd location: Saint Petersburg, FL 33715"
+  },
+  {
+    "name": "Studs and Stones 4 U",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-5609",
+    "address": "street: 10410 1st St N Unit 8 location: Saint Petersburg, FL 33716"
+  },
+  {
+    "name": "Miss Too Much",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-6919",
+    "address": "street: 1554 16th St S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "Luv Ya Style",
+    "description": "Women's Clothing",
+    "phone": "(727) 895-8642",
+    "address": "street: 1558 16th St S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "name": "K Hendrix",
+    "description": "Women's Clothing",
+    "phone": "(727) 822-0902",
+    "address": "street: 349 Grey Eagle Ct S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Daniels",
+    "description": "Men's Clothing",
+    "phone": "(727) 498-8805",
+    "address": "street: 111 2nd Ave NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Sartorial Inc",
+    "description": "Men's Clothing",
+    "phone": "(727) 290-6783",
+    "address": "street: 400 Beach Dr NE Ste 169 location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Five Fish",
+    "description": "Women's Clothing",
+    "phone": "(727) 823-3030",
+    "address": "street: 300 Beach Dr NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "name": "Bonworth",
+    "description": "Women's Clothing",
+    "phone": "(727) 712-0158",
+    "address": "street: 1530 N Mcmullen Booth Rd location: Clearwater, FL 33759"
+  },
+  {
+    "name": "Retail Marketing Group Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 520-1210",
+    "address": "street: 3127 Bayshore Blvd NE location: Saint Petersburg, FL 33703"
+  },
+  {
+    "name": "The Rose Garden",
+    "description": "Women's Clothing",
+    "phone": "(727) 734-5052",
+    "address": "street: 737 Broadway location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Our House",
+    "description": "Women's Clothing",
+    "phone": "(727) 614-8198",
+    "address": "street: 475 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Palm Latitudes",
+    "description": "Women's Clothing",
+    "phone": "(727) 733-7343",
+    "address": "street: 322 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "M J Fashions & Gifts",
+    "description": "Women's Clothing",
+    "phone": "(727) 736-6276",
+    "address": "street: 314 Main St location: Dunedin, FL 34698"
+  },
+  {
+    "name": "Lolas Laces",
+    "description": "Women's Clothing",
+    "phone": "(727) 444-0947",
+    "address": "street: 101 Main St Ste B location: Safety Harbor, FL 34695"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(727) 799-2034",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(727) 724-0312",
+    "address": "street: 27001 Us Highway 19 N Ste 2058 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Cc's Boutique Bridal & Prom",
+    "description": "Bridal Shops",
+    "phone": "(727) 614-9219",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(727) 683-7358",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 796-1089",
+    "address": "street: 27001 Us Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(727) 726-8620",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(727) 796-1232",
+    "address": "street: 27001 US Highway 19 N location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-1850",
+    "address": "street: 2522 N McMullen Booth Rd location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Galli Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 754-3018",
+    "address": "street: 2758 Summerdale Dr location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Confident Self Image",
+    "description": "Clothing Stores",
+    "phone": "(727) 444-0909",
+    "address": "street: 2753 State Road 580 Ste 205A location: Clearwater, FL 33761"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-9100",
+    "address": "street: 2514 State Road 580 location: Clearwater, FL 33761"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(727) 797-2299",
+    "address": "street: 2570 N McMullen Booth Rd location: Clearwater, FL 33761"
+  },
+  {
+    "name": "The Scrubs Store",
+    "description": "Men's Clothing",
+    "phone": "(813) 545-6789",
+    "address": "street: 180 Race Track Rd N location: Oldsmar, FL 34677"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  }
+]

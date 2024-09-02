@@ -1,0 +1,956 @@
+[
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Road Diva Products",
+    "description": "Clothing Stores",
+    "phone": "(904) 635-7200",
+    "address": "street: N/A location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Prolific Dynasty",
+    "description": "Clothing Stores",
+    "phone": "(904) 415-7795",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Pink Seahorse Boutique",
+    "description": "Clothing Stores",
+    "phone": "(904) 874-5175",
+    "address": "street: 1671 Margarets Walk Rd location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "This N' That",
+    "description": "Clothing Stores",
+    "phone": "(706) 412-1258",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-8478",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Wade's World",
+    "description": "Clothing Stores",
+    "phone": "(904) 644-8098",
+    "address": "street: 1489 County Road 220 location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-5259",
+    "address": "street: 1910 Wells Road A 10a location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(904) 215-8260",
+    "address": "street: 1514 County Road 220 location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "HalfPipe Orange Park",
+    "description": "Clothing Stores",
+    "phone": "(904) 276-0047",
+    "address": "street: 179 College Dr Ste 18 location: Orange Park, FL 32065"
+  },
+  {
+    "name": "HAI Solutions",
+    "description": "Clothing Stores",
+    "phone": "(904) 849-5482",
+    "address": "street: 1293 Harbour Town Dr location: Orange Park, FL 32065"
+  },
+  {
+    "name": "The Supply Bunker",
+    "description": "Clothing Stores",
+    "phone": "(904) 375-9795",
+    "address": "street: 1280 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "name": "B N B Boutique",
+    "description": "Clothing Stores",
+    "phone": "(904) 710-9224",
+    "address": "street: 950 Blanding Blvd Ste 23 location: Orange Park, FL 32065"
+  },
+  {
+    "name": "ABDS Inc",
+    "description": "Clothing Stores",
+    "phone": "(904) 677-0627",
+    "address": "street: 555F Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Adam Last Wear",
+    "description": "Clothing Stores",
+    "phone": "(904) 458-4380",
+    "address": "street: 1988 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "name": "HR Formal Wear",
+    "description": "Clothing Stores",
+    "phone": "(617) 991-0503",
+    "address": "street: 1205 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-7034",
+    "address": "street: 1995 Eastwest Pkwy location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "Chocolate Shoe Boutique",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-1976",
+    "address": "street: 1524 CR 220, #6 location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-1792",
+    "address": "street: 661 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-3204",
+    "address": "street: 950 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Style Boutique by JP Fashions",
+    "description": "Clothing Stores",
+    "phone": "(904) 579-3057",
+    "address": "street: 1811 Golden Eagle Way Ste 28 location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "MoonBabies Children's Resale",
+    "description": "Clothing Stores",
+    "phone": "(904) 337-0978",
+    "address": "street: 1805 Eastwest Pkwy location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "Boot Barn",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-3838",
+    "address": "street: 249 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "The Ink Cartel Print Shop",
+    "description": "Clothing Stores",
+    "phone": "(904) 762-8187",
+    "address": "street: 1165 Spanish Bay Ct location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-3204",
+    "address": "street: 950 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-0757",
+    "address": "street: 510 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(904) 215-3424",
+    "address": "street: 1987 Eastwest Pkwy location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "All Laced Up Lingerie",
+    "description": "Clothing Stores",
+    "phone": "(904) 375-9832",
+    "address": "street: 365 College Dr Ste 105 location: Middleburg, FL 32068"
+  },
+  {
+    "name": "Custom Shirts & Uniforms",
+    "description": "Clothing Stores",
+    "phone": "(904) 479-4420",
+    "address": "street: 2285 Kingsley Ave Ste D location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Southeast Screenprinting",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-6645",
+    "address": "street: 2175 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(904) 272-4905",
+    "address": "street: 510 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-8988",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(904) 215-9356",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Uptown Cheapskate",
+    "description": "Clothing Stores",
+    "phone": "(904) 438-5258",
+    "address": "street: 10601 San Jose Blvd location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-6762",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Love Rosey",
+    "description": "Clothing Stores",
+    "phone": "(904) 312-0421",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(904) 527-3382",
+    "address": "street: 11112 San Jose Blvd., Unit 5 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Fashion Dollz Boutique",
+    "description": "Clothing Stores",
+    "phone": "(904) 844-9770",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Mandarin Express",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-2003",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-8816",
+    "address": "street: 1900 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-5225",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Tonieh Fashions and Cosignment",
+    "description": "Clothing Stores",
+    "phone": "(904) 516-8446",
+    "address": "street: 1236 Harbour Town Dr location: Orange Park, FL 32065"
+  },
+  {
+    "name": "youravon.com/cleckrone",
+    "description": "Clothing Stores",
+    "phone": "(904) 485-7694",
+    "address": "street: 130 mars ct location: orange park, FL 32073"
+  },
+  {
+    "name": "Sunshine Fashions",
+    "description": "Clothing Stores",
+    "phone": "(904) 213-0759",
+    "address": "street: 3314 Country Club Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "DoYou247",
+    "description": "Clothing Stores",
+    "phone": "(904) 990-7496",
+    "address": "street: 1120 Park Ave location: Orange Park, FL 32073"
+  },
+  {
+    "name": "On Time Fashion",
+    "description": "Clothing Stores",
+    "phone": "(904) 375-9795",
+    "address": "street: 66 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Sophisticated Ladies of Excellence",
+    "description": "Clothing Stores",
+    "phone": "(904) 541-4714",
+    "address": "street: 1580 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "F & T Apparel",
+    "description": "Clothing Stores",
+    "phone": "(610) 828-8400",
+    "address": "street: 600 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Stylo Clothing and Shoes for Women",
+    "description": "Clothing Stores",
+    "phone": "(904) 725-0660",
+    "address": "street: 11917 Remsen Rd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "My Clothing",
+    "description": "Clothing Stores",
+    "phone": "(904) 422-5881",
+    "address": "street: 25 Arrowwood Dr location: Jacksonville, FL 32259"
+  },
+  {
+    "name": "Lacoste",
+    "description": "Clothing Stores",
+    "phone": "(904) 262-8300",
+    "address": "street: 11594 Lake Ride Dr location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Snatched Fitness",
+    "description": "Clothing Stores",
+    "phone": "(904) 697-9591",
+    "address": "street: 10336 Walnut Bnd N location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Cheekadees",
+    "description": "Clothing Stores",
+    "phone": "(904) 371-5717",
+    "address": "street: 11345 Landing Estates Dr location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Makk Fashions",
+    "description": "Clothing Stores",
+    "phone": "(904) 580-6255",
+    "address": "street: 2750 Race Track Rd Ste 303 location: Saint Johns, FL 32259"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-2772",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-5225",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-2927",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(904) 292-4698",
+    "address": "street: 11111 San Jose Blvd Ste 42 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-8255",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-2927",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(904) 288-6122",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(904) 292-4698",
+    "address": "street: 11111 San Jose Blvd Ste 42 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Crown Trophy",
+    "description": "Clothing Stores",
+    "phone": "(904) 260-4871",
+    "address": "street: 11792 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(904) 579-2372",
+    "address": "street: 68 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-8660",
+    "address": "street: 1910 Wells Rd Ste A14 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(904) 213-8007",
+    "address": "street: 1910 Wells Rd Spc 803 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(904) 880-2287",
+    "address": "street: 12200 San Jose Blvd Ste 12 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(904) 268-0899",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(904) 414-4460",
+    "address": "street: 10500 San Jose Blvd location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Velocity Athletics",
+    "description": "Clothing Stores",
+    "phone": "(904) 880-4226",
+    "address": "street: 2950 Halcyon Ln Ste 503 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Courtneys Closet",
+    "description": "Clothing Stores",
+    "phone": "(904) 379-8497",
+    "address": "street: 10308 Marble Egret Dr location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-8816",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-7041",
+    "address": "street: 1910 Wells Rd Ste G location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(904) 637-4577",
+    "address": "street: 1910 Wells Rd Ste H02 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-6180",
+    "address": "street: 1910 Wells Rd Ste C20A location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-0892",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(904) 215-2419",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(904) 260-6205",
+    "address": "street: 11111 San Jose Blvd Ste 16 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(904) 292-0081",
+    "address": "street: 11250 Old Saint Augustine Rd Ste 32 location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(904) 264-1809",
+    "address": "street: 1910 Wells Rd # G-14 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-1910",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(904) 269-5259",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(904) 262-5660",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(904) 288-8349",
+    "address": "street: 10993 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(904) 278-6816",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Baker's Sports",
+    "description": "Clothing Stores",
+    "phone": "(904) 388-8126",
+    "address": "street: 3600 Beachwood Ct location: Jacksonville, FL 32224"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Boot Barn",
+    "description": "Western Apparel & Supplies",
+    "phone": "(904) 264-3838",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(904) 269-2222",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Ivey's",
+    "description": "Department Stores",
+    "phone": "(904) 269-2222",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Island Cheer and Tumbling",
+    "description": "Cheerleading",
+    "phone": "(904) 327-2337",
+    "address": "street: 3245 Business Park Ct location: Green Cove Springs, FL 32043"
+  },
+  {
+    "name": "A Klassy Kloset Boutique",
+    "description": "Women's Clothing",
+    "phone": "(888) 995-2024",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Academy Sports + Outdoors",
+    "description": "Sporting Goods",
+    "phone": "(904) 213-2080",
+    "address": "street: 661 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(904) 272-0757",
+    "address": "street: 510 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(904) 214-9411",
+    "address": "street: 1580 Branan Field Rd location: Middleburg, FL 32068"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(904) 278-1836",
+    "address": "street: 1505 County Road 220 location: Orange Park, FL 32003"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(904) 278-8652",
+    "address": "street: 1490 County Road 220 location: Orange Park, FL 32003"
+  },
+  {
+    "name": "Home Centric",
+    "description": "Housewares",
+    "phone": "(904) 272-3204",
+    "address": "street: 950 Blanding Blvd Ste 16 location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(904) 272-0036",
+    "address": "street: 899 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(904) 272-0757",
+    "address": "street: 510 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Town & Country Alterations & Cleaners",
+    "description": "Bridal Shops",
+    "phone": "(904) 213-9449",
+    "address": "street: 1101 Blanding Blvd Ste 121-b location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(904) 272-7887",
+    "address": "street: 661 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Clelia's Party Dresses",
+    "description": "Women's Clothing",
+    "phone": "(904) 342-2144",
+    "address": "street: 585 State Road 13 location: Saint Johns, FL 32259"
+  },
+  {
+    "name": "The Pink nickl",
+    "description": "Women's Clothing",
+    "phone": "(904) 230-9288",
+    "address": "street: 108 Bartram Oaks Walk location: Saint Johns, FL 32259"
+  },
+  {
+    "name": "Store-Shopping-Center",
+    "description": "Boys Clothing",
+    "phone": "(904) 203-7263",
+    "address": "street: 3064 Tower Oaks Dr location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(904) 215-1654",
+    "address": "street: 1991 Eastwest Pkwy location: Fleming Island, FL 32003"
+  },
+  {
+    "name": "Play to Win Sports Company Inc.",
+    "description": "Embroidery",
+    "phone": "(904) 735-2800",
+    "address": "street: 331 Parkridge Ave location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(904) 272-0036",
+    "address": "street: 661 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(904) 458-1201",
+    "address": "street: 311 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Thrifty Dollar",
+    "description": "Discount Stores",
+    "phone": "(904) 644-8749",
+    "address": "street: 724 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "name": "VV Apparel",
+    "description": "Women's Clothing",
+    "phone": "(904) 449-6570",
+    "address": "street: 3869 Creek Hollow Ln location: Middleburg, FL 32068"
+  },
+  {
+    "name": "Avon Independent Sales Rep.",
+    "description": "Bras",
+    "phone": "(904) 282-0219",
+    "address": "street: 4614 Antelope St location: Middleburg, FL 32068"
+  },
+  {
+    "name": "Figaro Couture",
+    "description": "Men's Clothing",
+    "phone": "(904) 365-1493",
+    "address": "street: 3595 Live Oak Hollow Dr location: Orange Park, FL 32065"
+  },
+  {
+    "name": "Shops of Bartram Walk",
+    "description": "Department Stores",
+    "phone": "(904) 287-0334",
+    "address": "street: 112 Bartram Oaks Blvd location: Saint Augustine, FL 32092"
+  },
+  {
+    "name": "Shops of Bartram Walk",
+    "description": "Department Stores",
+    "phone": "(904) 287-0334",
+    "address": "street: 112 Bartram Oaks Walk location: Saint Johns, FL 32259"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(904) 215-0207",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(904) 262-2203",
+    "address": "street: 11111 San Jose Blvd Ste 1 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Isyss&Company,LLC",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(904) 458-7037",
+    "address": "street: crossing blvd location: orange park, FL 32073"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(904) 269-1211",
+    "address": "street: 1910 Wells Rd Lot 44 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(904) 269-2294",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(904) 269-0833",
+    "address": "street: 1910 Wells Rd Ste H21B location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(904) 264-5005",
+    "address": "street: 1910 Wells Rd Ste J05 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(904) 264-6122",
+    "address": "street: 1910 Wells Rd Ste F15B location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(904) 269-6991",
+    "address": "street: 1910 Wells Rd Ste E17 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(904) 264-9801",
+    "address": "street: 1540 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(904) 264-9199",
+    "address": "street: 1939 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(904) 264-0132",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(904) 268-7442",
+    "address": "street: 11111 San Jose Blvd Ste 27 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Homesense",
+    "description": "Housewares",
+    "phone": "(904) 880-1845",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(904) 260-4402",
+    "address": "street: 10991 San Jose Blvd Ste 1 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(904) 268-4334",
+    "address": "street: 10490 San Jose Blvd location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Up N Atom Closet Design",
+    "description": "Closets & Accessories",
+    "phone": "(904) 288-9799",
+    "address": "street: 12108 Weatherwood Estates Dr W location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(904) 260-0881",
+    "address": "street: 10991 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(904) 880-2287",
+    "address": "street: 12200 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(904) 272-1242",
+    "address": "street: 70 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "S & S Menswear",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(904) 644-7192",
+    "address": "street: 1910 Wells Rd Ste D01b location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Gayfers Department Stores",
+    "description": "Department Stores",
+    "phone": "(904) 278-9324",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Legionmark",
+    "description": "Department Stores",
+    "phone": "(904) 385-0717",
+    "address": "street: 34 Industrial Loop N location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(904) 269-0739",
+    "address": "street: 1910 Wells Rd Ste J9/10 location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(904) 278-6660",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(904) 269-9090",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Angel Fashion",
+    "description": "Women's Clothing",
+    "phone": "(904) 541-0766",
+    "address": "street: 1910 Wells Rd Ste E21A location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Instyle",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(904) 602-5350",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(904) 269-1224",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(904) 264-5740",
+    "address": "street: 1910 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(904) 262-8015",
+    "address": "street: 10311 Big Tree Ln location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Let's Inspire",
+    "description": "Department Stores",
+    "phone": "(904) 551-7532",
+    "address": "street: 12200 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Lus Place",
+    "description": "Sportswear",
+    "phone": "(904) 217-3341",
+    "address": "street: 9155 County Road 13 N location: Saint Augustine, FL 32092"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(904) 292-1717",
+    "address": "street: 11701 San Jose Blvd Ste 30 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(904) 292-1393",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(904) 262-2203",
+    "address": "street: 11111 San Jose Blvd Ste 1 location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Country Store",
+    "description": "Women's Clothing",
+    "phone": "(904) 940-3320",
+    "address": "street: 9155 County Road 13 N location: Saint Augustine, FL 32092"
+  },
+  {
+    "name": "An Avon Representative",
+    "description": "Hair Supplies & Accessories",
+    "phone": "(904) 504-4200",
+    "address": "street: 11570 N Ride Cir W location: Jacksonville, FL 32223"
+  },
+  {
+    "name": "Kim's Corner",
+    "description": "Men's Clothing",
+    "phone": "(904) 770-5579",
+    "address": "street: 1265 Paradise Pond Rd location: Saint Augustine, FL 32092"
+  },
+  {
+    "name": "Fifi's Fine Resale Apparel of Mandarin",
+    "description": "Consignment Service",
+    "phone": "(904) 288-0035",
+    "address": "street: 10400 San Jose Blvd location: Jacksonville, FL 32257"
+  },
+  {
+    "name": "Cycling and Fitness Centeinc",
+    "description": "Sporting Goods",
+    "phone": "(904) 277-3227",
+    "address": "street: 11 S 8th St location: Fernandina Beach, FL 32034"
+  }
+]

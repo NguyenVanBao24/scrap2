@@ -1,0 +1,3482 @@
+[
+  {
+    "name": "Metal Sky Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 780-3908",
+    "address": "street: 2114 Bispham Rd location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Curvacious Corner Shop",
+    "description": "Clothing Stores",
+    "phone": "(888) 524-9660",
+    "address": "street: N/A location: Sarasota, FL 34230"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-1452",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-0458",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Bodycandy.com",
+    "description": "Clothing Stores",
+    "phone": "(877) 829-5191",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Coconuts of Siesta Key",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-2954",
+    "address": "street: 1215 Old Stickney Point Rd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Jalal Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-4600",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-8233",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-0340",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-7320",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "H&M (Hennes & Mauritz)",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-5314",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-0529",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-8462",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Rocketman Shop",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-2096",
+    "address": "street: 1888 Stickney Point Rd location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 499-3450",
+    "address": "street: 8372 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Wave Inspired",
+    "description": "Clothing Stores",
+    "phone": "(941) 554-8720",
+    "address": "street: 1514 Stickney Point Rd location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(941) 210-3897",
+    "address": "street: 3442 Clark Rd location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Apc Fashion Biz Consulting",
+    "description": "Clothing Stores",
+    "phone": "(941) 313-7166",
+    "address": "street: 4283 Express Ln location: Sarasota, FL 34249"
+  },
+  {
+    "name": "Jules Lerner",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-7525",
+    "address": "street: 3435 Fox Run Rd location: Sarasota, FL 34231"
+  },
+  {
+    "name": "OJB Clothing",
+    "description": "Clothing Stores",
+    "phone": "(407) 906-1869",
+    "address": "street: N/A location: Sebring, FL 33875"
+  },
+  {
+    "name": "Parisi",
+    "description": "Clothing Stores",
+    "phone": "(772) 207-1099",
+    "address": "street: N/A location: Punta Gorda, FL 33982"
+  },
+  {
+    "name": "4U4Less",
+    "description": "Clothing Stores",
+    "phone": "(804) 239-2612",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Davinci Clothing",
+    "description": "Clothing Stores",
+    "phone": "(941) 538-6941",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Log Frog Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 713-2401",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Divine Design Graphics",
+    "description": "Clothing Stores",
+    "phone": "(941) 525-8920",
+    "address": "street: N/A location: Venice, FL 34293"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(941) 926-7196",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(941) 927-1337",
+    "address": "street: 6535 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-3233",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(941) 926-4402",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-6901",
+    "address": "street: 8201 S Tamiami Trl Unit A2 location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Fitch A W",
+    "description": "Clothing Stores",
+    "phone": "(941) 798-8591",
+    "address": "street: N/A location: Bradenton, FL 34209"
+  },
+  {
+    "name": "Liqud Rodeo",
+    "description": "Clothing Stores",
+    "phone": "(941) 321-5457",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Professional Images",
+    "description": "Clothing Stores",
+    "phone": "(561) 626-8897",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Redneck Outpost",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-7829",
+    "address": "street: 4401 Ashton Rd Unit F location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-4416",
+    "address": "street: 5451 Palmer Crossing Cir location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Closet Divas",
+    "description": "Clothing Stores",
+    "phone": "(941) 927-7467",
+    "address": "street: 3576 Webber St location: Sarasota, FL 34239"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-5395",
+    "address": "street: 3700 S Tuttle Ave location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Stitchin' Waves",
+    "description": "Clothing Stores",
+    "phone": "(941) 929-1155",
+    "address": "street: 4433 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "King James Big and Tall",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-1873",
+    "address": "street: 4333 S Tamiami Trl Ste D location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-6373",
+    "address": "street: 5989 Approach Rd location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Eddie Bauer",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-4536",
+    "address": "street: 747 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-8958",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Muse Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-4066",
+    "address": "street: 3809 McIntosh Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Fashion Room",
+    "description": "Clothing Stores",
+    "phone": "(941) 952-3170",
+    "address": "street: 2083 Siesta Dr location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Casa Smeralda",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1305",
+    "address": "street: 5121 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Srq Lady Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 208-8128",
+    "address": "street: PO Box 5942 location: Sarasota, FL 34277"
+  },
+  {
+    "name": "Marley Vibes",
+    "description": "Clothing Stores",
+    "phone": "(941) 203-5749",
+    "address": "street: 5055 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "These Quiet Sounds",
+    "description": "Clothing Stores",
+    "phone": "(941) 203-5108",
+    "address": "street: 3533 Tangier Ter location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Tom Co",
+    "description": "Clothing Stores",
+    "phone": "(941) 306-4028",
+    "address": "street: 3625 Webber St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Susanmmall",
+    "description": "Clothing Stores",
+    "phone": "(941) 342-1569",
+    "address": "street: 5746 Lake Breeze Ct location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Coastal Clothing Consignments",
+    "description": "Clothing Stores",
+    "phone": "(941) 218-6153",
+    "address": "street: 107 N Tamiami Trl location: Osprey, FL 34229"
+  },
+  {
+    "name": "Fifis Fine Resale Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 451-8298",
+    "address": "street: 11 S Tamiami Trl location: Osprey, FL 34229"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(941) 491-4408",
+    "address": "street: 5132 Ocean Blvd location: Siesta Key, FL 34242"
+  },
+  {
+    "name": "Lularoe Sonya Ivester",
+    "description": "Clothing Stores",
+    "phone": "(307) 797-0932",
+    "address": "street: 536 Bayview Ave location: Osprey, FL 34229"
+  },
+  {
+    "name": "Eliett's On Palm",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-2999",
+    "address": "street: 45 S Palm Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Tiara Trading",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-4554",
+    "address": "street: 1620 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Stockyard-Feed & Western Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-1771",
+    "address": "street: 1010 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "On the Trashy Side",
+    "description": "Clothing Stores",
+    "phone": "(941) 302-7003",
+    "address": "street: 3221 Vesper Ave location: Sarasota, FL 34232"
+  },
+  {
+    "name": "LuLaRoe by Cathy L.",
+    "description": "Clothing Stores",
+    "phone": "(941) 216-6126",
+    "address": "street: 2128 Hyde Park Cir location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Stockyard-Feed & Western Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-1771",
+    "address": "street: 1010 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "On the Trashy Side",
+    "description": "Clothing Stores",
+    "phone": "(941) 302-7003",
+    "address": "street: 3221 Vesper Ave location: Sarasota, FL 34232"
+  },
+  {
+    "name": "LuLaRoe by Cathy L.",
+    "description": "Clothing Stores",
+    "phone": "(941) 216-6126",
+    "address": "street: 2128 Hyde Park Cir location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 379-5849",
+    "address": "street: 4001 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Stitchin' Kitty",
+    "description": "Clothing Stores",
+    "phone": "(941) 545-8591",
+    "address": "street: 2035 Linwood Way location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Eddy Dick & Jean",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-2750",
+    "address": "street: 5248 Manz Pl location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Blaklader",
+    "description": "Clothing Stores",
+    "phone": "(941) 342-4936",
+    "address": "street: 6311 Porter Rd location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Rollo Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(941) 349-4372",
+    "address": "street: 1685 Laurel St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Jenn's Personalized Impressions",
+    "description": "Clothing Stores",
+    "phone": "(941) 915-3896",
+    "address": "street: 5207 Indian Mound St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "La Femme Fatale",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-5100",
+    "address": "street: 80 S Palm Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 373-6333",
+    "address": "street: 73 S Palm Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Greiners Fine Mens Clothing",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2143",
+    "address": "street: 45 S Palm Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Johnson Marketing Group",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-3200",
+    "address": "street: 1727 Hyde Park St location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 379-8878",
+    "address": "street: 3941 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Oh My Gauze!",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1964",
+    "address": "street: 374 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Breezin' Up Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2950",
+    "address": "street: 362 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Island Pursuit",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2849",
+    "address": "street: 400 Madison Dr Ste 206 location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Ivory Coast",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1999",
+    "address": "street: 15 N Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Go Fish Clothing & Jewelry",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-5730",
+    "address": "street: 1463 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "The DanceWEAR Shoppe",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-6312",
+    "address": "street: 315 Interstate Blvd location: Sarasota, FL 34240"
+  },
+  {
+    "name": "McMahon Fur Storage",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6041",
+    "address": "street: 233 Avant St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Sahara",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0587",
+    "address": "street: 362 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Everything But Water",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1205",
+    "address": "street: 331 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Print My T's",
+    "description": "Clothing Stores",
+    "phone": "(941) 225-9809",
+    "address": "street: 2040 Dr Martin Luther King Way location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-4505",
+    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Floridafied HD",
+    "description": "Clothing Stores",
+    "phone": "(941) 961-3471",
+    "address": "street: 905 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Olivia",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1677",
+    "address": "street: 9 S Blvd Of Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Mercantile",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-2457",
+    "address": "street: 1463 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Foxy Lady Siesta Key Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-4611",
+    "address": "street: 14 S Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Tommy Bahama Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2446",
+    "address": "street: 371 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Darci",
+    "description": "Clothing Stores",
+    "phone": "(941) 330-2800",
+    "address": "street: 1441 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 373-6333",
+    "address": "street: 1439 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "I Tesori",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-9296",
+    "address": "street: 1405 1st St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Butterfly Beach",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-6785",
+    "address": "street: 313 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Grab Life by the Gills",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-0957",
+    "address": "street: 2041 Misty Sunrise Trl location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(941) 866-6614",
+    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Look at Me Now Urban Wear & Beauty Supply",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-5989",
+    "address": "street: 3251 17th St location: Sarasota, FL 34235"
+  },
+  {
+    "name": "Fada Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-5354",
+    "address": "street: 2000 N Washington Blvd Ste B location: Sarasota, FL 34234"
+  },
+  {
+    "name": "New Beginnings Childrens Consignment LLC.",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-8187",
+    "address": "street: 4952 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Bold & Beautiful",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-9109",
+    "address": "street: 2063 Fruitville Rd location: Sarasota, FL 34237"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-8664",
+    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Free People",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1175",
+    "address": "street: 140 University Town Center Dr Unit 246 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Queen Custom Creations",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-4230",
+    "address": "street: 1026 Colleton Dr location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Souzou Design House",
+    "description": "Clothing Stores",
+    "phone": "(941) 376-3468",
+    "address": "street: 5891 Milton Ave location: Sarasota, FL 34243"
+  },
+  {
+    "name": "David Yurman at Saks Fifth Avenue",
+    "description": "Clothing Stores",
+    "phone": "(941) 364-5300",
+    "address": "street: 120 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Topaz Design Group",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-7939",
+    "address": "street: 1870 University Pkwy location: Sarasota, FL 34243"
+  },
+  {
+    "name": "American Eagle & Aerie",
+    "description": "Clothing Stores",
+    "phone": "(941) 256-0200",
+    "address": "street: 140 University Town Center Dr Unit 187 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-2503",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(941) 256-0442",
+    "address": "street: 140 University Town Center Dr Unit 283 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(941) 256-0446",
+    "address": "street: 140 University Town Center Dr Unit 182 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Charlotte Tilbury",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9491",
+    "address": "street: 140 University Town Center Dr Unit 279 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(941) 296-7046",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-0458",
+    "address": "street: 140 University Town Center Dr Unit 190 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Urban Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(941) 213-1426",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "UNTUCKit",
+    "description": "Clothing Stores",
+    "phone": "(941) 724-8844",
+    "address": "street: 140 University Town Center Dr Unit 143 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(941) 231-1251",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "J. Crew",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-3664",
+    "address": "street: 140 University Town Center Dr Unit 271 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(941) 866-6614",
+    "address": "street: 140 University Town Center Dr Unit 164 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(941) 866-6332",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Calypso St Barth",
+    "description": "Clothing Stores",
+    "phone": "(941) 306-1414",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1148",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "H&M (Hennes & Mauritz)",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Hugo Boss",
+    "description": "Clothing Stores",
+    "phone": "(941) 536-9000",
+    "address": "street: 140 University Town Center Dr Unit 261 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Vineyard Vines",
+    "description": "Clothing Stores",
+    "phone": "(941) 926-6085",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(941) 256-0446",
+    "address": "street: 140 University Town Center Dr Unit 182 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-8664",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-1300",
+    "address": "street: 125 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Jalal Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-4600",
+    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "WSW Apparel Direct",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-9327",
+    "address": "street: 121 Triple Diamond Blvd location: North Venice, FL 34275"
+  },
+  {
+    "name": "Wurkin Stiffs",
+    "description": "Clothing Stores",
+    "phone": "(941) 379-8163",
+    "address": "street: 105 Triple Diamond Blvd location: North Venice, FL 34275"
+  },
+  {
+    "name": "5.11 Tactical",
+    "description": "Clothing Stores",
+    "phone": "(941) 538-5402",
+    "address": "street: 5231 University Pkwy Unit 101 location: University Park, FL 34201"
+  },
+  {
+    "name": "Boden",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-3458",
+    "address": "street: 6290 Lake Osprey Dr location: Lakewood Ranch, FL 34240"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(941) 351-3206",
+    "address": "street: 8219 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 667-6751",
+    "address": "street: 8107 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Style",
+    "description": "Clothing Stores",
+    "phone": "(941) 451-8857",
+    "address": "street: 319 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(941) 277-6000",
+    "address": "street: 117 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "T.J. Maxx & HomeGoods",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-6461",
+    "address": "street: 450 Us Highway 41 Byp N location: Venice, FL 34285"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-1156",
+    "address": "street: 1560 Us Highway 41 Byp S location: Venice, FL 34293"
+  },
+  {
+    "name": "TIKI TYME",
+    "description": "Clothing Stores",
+    "phone": "(941) 416-6505",
+    "address": "street: 1831 Tamiami Trl S location: Venice, FL 34293"
+  },
+  {
+    "name": "Parichat House",
+    "description": "Clothing Stores",
+    "phone": "(941) 486-8130",
+    "address": "street: 116 Nokomis Ave S location: Venice, FL 34285"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(941) 877-2001",
+    "address": "street: 5108 15th St E Ste 501A location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Purabell House of Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-0202",
+    "address": "street: 5002 Lena Rd location: Bradenton, FL 34211"
+  },
+  {
+    "name": "Elle La Peche",
+    "description": "Clothing Stores",
+    "phone": "(847) 340-6382",
+    "address": "street: 372 Montgomery Ave location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Andi's List",
+    "description": "Clothing Stores",
+    "phone": "(941) 284-2020",
+    "address": "street: 553 Magellan Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Debutante Vintage",
+    "description": "Clothing Stores",
+    "phone": "(866) 954-4526",
+    "address": "street: 1531 Tamiami Trl S location: Venice, FL 34285"
+  },
+  {
+    "name": "Style",
+    "description": "Clothing Stores",
+    "phone": "(941) 882-4839",
+    "address": "street: 124 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-6821",
+    "address": "street: 254 Tampa Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Style",
+    "description": "Clothing Stores",
+    "phone": "(941) 451-8745",
+    "address": "street: 209 Miami Ave W location: Venice, FL 34285"
+  },
+  {
+    "name": "Poshy",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2893",
+    "address": "street: 7718 Edmonston Cir location: Bradenton, FL 34201"
+  },
+  {
+    "name": "Bambooty Bodygear",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-2100",
+    "address": "street: 736 Myrtle Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 218-8071",
+    "address": "street: 1683 Us Highway 41 Byp S location: Venice, FL 34293"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(941) 758-2222",
+    "address": "street: 6100 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Raffle Mike",
+    "description": "Clothing Stores",
+    "phone": "(941) 962-4711",
+    "address": "street: 6208 26th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "We Make Custom Teez - Custom T-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(941) 479-0559",
+    "address": "street: 11161 State Road 70 E Unit 110-801 location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-8987",
+    "address": "street: 7365 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Fifi's Fine Resale Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 758-7222",
+    "address": "street: 7343 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Prayers Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 773-2291",
+    "address": "street: 4676 72nd Ct E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Fresh Inc.",
+    "description": "Clothing Stores",
+    "phone": "(855) 787-5059",
+    "address": "street: 4916 21st St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bunulu",
+    "description": "Clothing Stores",
+    "phone": "(844) 507-5374",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(941) 758-8437",
+    "address": "street: 725 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Echo Park Traders",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-0508",
+    "address": "street: 807 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 756-1546",
+    "address": "street: 1205 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bags By Hedwig",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-3831",
+    "address": "street: 428 Autumn Chase Dr location: Venice, FL 34292"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Earsound Customs",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-0201",
+    "address": "street: 2170 Gulf Gate Dr location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Rumor Has It",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2229",
+    "address": "street: 6549 Superior Ave location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-4401",
+    "address": "street: 6569 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-8841",
+    "address": "street: 6571B S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Cravats' Custom Clothiers & Fine Accessories",
+    "description": "Clothing Stores",
+    "phone": "(336) 362-6316",
+    "address": "street: N/A location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Splash Sun & Fun",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-1003",
+    "address": "street: 6508 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(941) 927-2440",
+    "address": "street: 8201 S Tamiami Trl Space A-37a location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Rocketman Shop Old School Head shop",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-2096",
+    "address": "street: 2635 Mall Dr location: Sarasota, FL 34231"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 306-2925",
+    "address": "street: 6583 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-6294",
+    "address": "street: 6571 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-6641",
+    "address": "street: 6561 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-1567",
+    "address": "street: 6555 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-2745",
+    "address": "street: 6507 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-7911",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-9847",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-7911",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-6749",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(941) 926-8655",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Wall Street For Men",
+    "description": "Clothing Stores",
+    "phone": "(941) 927-1501",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-5300",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-3582",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-3583",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-0403",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "A&A Baby & Beach Rentals",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-7688",
+    "address": "street: 3247 Rowena St location: Sarasota, FL 34231"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(941) 966-1917",
+    "address": "street: 8372 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(941) 966-3231",
+    "address": "street: 3950 Central Sarasota Pkwy location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-9151",
+    "address": "street: 6260 McIntosh Rd location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Elite Fitters",
+    "description": "Clothing Stores",
+    "phone": "(954) 864-3177",
+    "address": "street: N/A location: North Port, FL 34291"
+  },
+  {
+    "name": "Proforma Waterlilies",
+    "description": "Clothing Stores",
+    "phone": "(941) 359-0300",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Promotions by THE Bear",
+    "description": "Clothing Stores",
+    "phone": "(405) 823-0617",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Eye-Candy Eyewear",
+    "description": "Clothing Stores",
+    "phone": "(941) 227-4444",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Thatsoome.com",
+    "description": "Clothing Stores",
+    "phone": "(941) 999-7652",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Trixx and Luxe",
+    "description": "Clothing Stores",
+    "phone": "(949) 616-2660",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-8222",
+    "address": "street: N/A location: Sarasota, FL 34230"
+  },
+  {
+    "name": "Blue Collar Shirts",
+    "description": "Clothing Stores",
+    "phone": "(941) 201-2305",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Superiortees",
+    "description": "Clothing Stores",
+    "phone": "(941) 921-9286",
+    "address": "street: 4557 Clark Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Sarasota Messenger Imprin",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-4945",
+    "address": "street: 4662 Ashton Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2948",
+    "address": "street: Siesta Village Plaza 5118 Ocean Boulevard location: Sarasota, FL 34242"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(941) 364-5123",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Foxy Lady",
+    "description": "Clothing Stores",
+    "phone": "(941) 349-6644",
+    "address": "street: 209 Beach Rd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 279-2773",
+    "address": "street: 3800 S Tamiami Trl Unit 24 location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 957-6426",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(941) 404-1218",
+    "address": "street: 3501 S Tamiami Trl Ste 113 location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(941) 951-5200",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Beach Bazaar",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-2995",
+    "address": "street: 5211 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Beach Bazaar",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-7712",
+    "address": "street: 5212 Ocean Blvd Ste 6 location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Lotus Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-6793",
+    "address": "street: 5118 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Royal-Tee's Screen Printing & Embroidery",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-8112",
+    "address": "street: 5556 Palmer Blvd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(941) 329-3300",
+    "address": "street: 600 Southgate Plz location: Sarasota, FL 34239"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-4301",
+    "address": "street: 4092 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-4064",
+    "address": "street: 4084 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-4064",
+    "address": "street: 4084 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Pinos II P",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-2666",
+    "address": "street: 1849 Hillview St location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Suncoast Embroidery & Tees",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-3111",
+    "address": "street: 5405 Cork Oak St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Stark Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 341-0319",
+    "address": "street: 2555 Porter Lake Dr location: Sarasota, FL 34240"
+  },
+  {
+    "name": "The Exchange Inc.",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-7859",
+    "address": "street: 539 S Orange Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "SL Printwear",
+    "description": "Clothing Stores",
+    "phone": "(941) 780-0061",
+    "address": "street: 2876 Ringling Blvd location: Sarasota, FL 34237"
+  },
+  {
+    "name": "Andeansun Corp",
+    "description": "Clothing Stores",
+    "phone": "(239) 277-1877",
+    "address": "street: 242 S Washington Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Pineapple Lain Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 330-8771",
+    "address": "street: 407 S Pineapple Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Clothesline Co",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-1764",
+    "address": "street: 2250 2nd St location: Sarasota, FL 34237"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-5033",
+    "address": "street: 315 & 317 Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Martin Freeman",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-2948",
+    "address": "street: 75 S Palm Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3091",
+    "address": "street: 443A John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Crazy Shirts",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1105",
+    "address": "street: 359 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3354",
+    "address": "street: 28 N Blvd Of Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Aquarius Silk Screen Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-3059",
+    "address": "street: 5931 Palmer Blvd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Brooks Brothers Country Club",
+    "description": "Clothing Stores",
+    "phone": "(941) 954-7545",
+    "address": "street: 1500 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(941) 957-1460",
+    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-4505",
+    "address": "street: 501 N Beneva Rd Ste 280 location: Sarasota, FL 34232"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-3587",
+    "address": "street: 1503 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Marcello Sport St. Armands",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-1357",
+    "address": "street: 18 S Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "India Artisans",
+    "description": "Clothing Stores",
+    "phone": "(941) 203-8913",
+    "address": "street: 1899 Fruitville Rd Unit A location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Island Pursuit",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-4004",
+    "address": "street: 355 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Cariloha",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0412",
+    "address": "street: 478 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Aquarius Graphics",
+    "description": "Clothing Stores",
+    "phone": "(941) 981-2623",
+    "address": "street: 5931 Palmer Blvd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Scout and Molly's of Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-2170",
+    "address": "street: 1413 1st St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1393",
+    "address": "street: 443 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(239) 277-6200",
+    "address": "street: 443 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3091",
+    "address": "street: 443 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Just Cruizin",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-2150",
+    "address": "street: 21 N Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Swim City",
+    "description": "Clothing Stores",
+    "phone": "(941) 954-8800",
+    "address": "street: 50 N Tamiami Trl location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Environeers",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6208",
+    "address": "street: 5373 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Tracht Brothers Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6208",
+    "address": "street: 5373 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-3611",
+    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Rock Bottom Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-8922",
+    "address": "street: 2590 17th St location: Sarasota, FL 34234"
+  },
+  {
+    "name": "XTC Super Center of Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-6969",
+    "address": "street: 2092 17th St location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Nifty Thrifty",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2372",
+    "address": "street: 2101 19th St location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Anthony's Ladies Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-7643",
+    "address": "street: 1087 Tamiami Trl N location: Nokomis, FL 34275"
+  },
+  {
+    "name": "Influence",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2315",
+    "address": "street: 474 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Binjara Traders Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3335",
+    "address": "street: 327 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-5033",
+    "address": "street: 317 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "N Y Connection",
+    "description": "Clothing Stores",
+    "phone": "(941) 358-9203",
+    "address": "street: 3333 N Tamiami Trl location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Sarah Louise Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-9656",
+    "address": "street: 128 Sarasota Center Blvd location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Veith & Associates Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-5694",
+    "address": "street: 201 Field End St location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(941) 232-7300",
+    "address": "street: 110 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Calzedonia",
+    "description": "Clothing Stores",
+    "phone": "(941) 667-2396",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(941) 232-7795",
+    "address": "street: 140 University Town Center Dr Unit 231 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9110",
+    "address": "street: 140 University Town Center Dr Unit 228 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 554-5481",
+    "address": "street: 140 University Town Center Dr Unit 215 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0507",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Oakley Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9932",
+    "address": "street: 140 University Town Center Dr Unit 214 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9665",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Everything But Water",
+    "description": "Clothing Stores",
+    "phone": "(941) 487-2765",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9660",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(941) 259-0101",
+    "address": "street: 140 University Town Center Dr Unit 210 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Athleta",
+    "description": "Clothing Stores",
+    "phone": "(941) 667-2052",
+    "address": "street: 140 University Town Center Dr Unit 136 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Lucky Brand Jeans",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1180",
+    "address": "street: 140 University Town Center Dr Unit 266 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(941) 313-7144",
+    "address": "street: 140 University Town Center Dr Unit 144 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Robert Graham Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 529-1911",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "BOSS Menswear Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 536-9000",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Cotton On Kids",
+    "description": "Clothing Stores",
+    "phone": "(941) 278-8882",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "FP Movement",
+    "description": "Clothing Stores",
+    "phone": "(941) 279-3979",
+    "address": "street: 140 University Town Center Dr Unit 248 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(941) 358-8684",
+    "address": "street: 147 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Contempo Casuals",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-6749",
+    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0507",
+    "address": "street: 140 University Town Center Dr. 263 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Shirt Stop",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-9143",
+    "address": "street: 247 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Garage Service Today",
+    "description": "Clothing Stores",
+    "phone": "(941) 480-0100",
+    "address": "street: 121 Triple Diamond Blvd location: North Venice, FL 34275"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-9074",
+    "address": "street: 5205 University Pkwy location: University Park, FL 34201"
+  },
+  {
+    "name": "Lola Monroe",
+    "description": "Clothing Stores",
+    "phone": "(888) 822-5652",
+    "address": "street: 5429 University Pkwy # 1059 location: University Park, FL 34201"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(941) 359-6828",
+    "address": "street: 8467 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 351-8695",
+    "address": "street: 8249 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 360-2820",
+    "address": "street: 8213 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(941) 351-2769",
+    "address": "street: 8127 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-4184",
+    "address": "street: 8123 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "T.J. Maxx & HomeGoods",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-6461",
+    "address": "street: 450 Us Highway 41 Byp N location: Venice, FL 34285"
+  },
+  {
+    "name": "Flipresaleclothingco",
+    "description": "Clothing Stores",
+    "phone": "(941) 445-9083",
+    "address": "street: 525 E Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Sears Hometown Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 244-9557",
+    "address": "street: 4181 Tamiami Trl S Unit 1 location: Venice, FL 34293"
+  },
+  {
+    "name": "CaribeHeart",
+    "description": "Clothing Stores",
+    "phone": "(754) 600-1337",
+    "address": "street: 8051 N Tamiami Trl Ste E6 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Natural Discoveries Sales Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-0611",
+    "address": "street: 1281 Tallevast Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Premier Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 751-0919",
+    "address": "street: 1176 Whitfield Ave location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Gulf Breeze Silkscreen",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-8337",
+    "address": "street: 616 Cypress Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Captain's Landing",
+    "description": "Clothing Stores",
+    "phone": "(941) 485-2329",
+    "address": "street: 243 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Sandy's Designer Clothing",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-9911",
+    "address": "street: 128 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Krystyna's Designs",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-7400",
+    "address": "street: 120 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Seaside Chic Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-1313",
+    "address": "street: 217 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(941) 960-2071",
+    "address": "street: 515 Bay Isles Pkwy location: Longboat Key, FL 34228"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0507",
+    "address": "street: 8141 Lakewood Main St location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "Main Street Bazaar",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-3456",
+    "address": "street: 8111 Lakewood Main St location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-6779",
+    "address": "street: 515 Tamiami Trl S location: Venice, FL 34285"
+  },
+  {
+    "name": "Kickz N Lidz",
+    "description": "Clothing Stores",
+    "phone": "(941) 748-5455",
+    "address": "street: 6710 71st St E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(941) 485-6196",
+    "address": "street: 3105 Frederick Dr location: Venice, FL 34292"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 408-0461",
+    "address": "street: 1667 Us Highway 41 Byp S location: Venice, FL 34293"
+  },
+  {
+    "name": "Creative Native",
+    "description": "Clothing Stores",
+    "phone": "(941) 756-5659",
+    "address": "street: 6160 15th St E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(941) 492-5519",
+    "address": "street: 1679 Us Highway 41 Byp S location: Venice, FL 34293"
+  },
+  {
+    "name": "Latino's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-2132",
+    "address": "street: 1239 60th Ave W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "The Scrub Club",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-9669",
+    "address": "street: 8527 State Road 70 E location: Bradenton, FL 34202"
+  },
+  {
+    "name": "Eye Care Family Vision Center",
+    "description": "Clothing Stores",
+    "phone": "(941) 753-2020",
+    "address": "street: 6156 State Road 70 E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-7884",
+    "address": "street: 5838 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-7884",
+    "address": "street: 5838 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-3642",
+    "address": "street: 7379 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-3642",
+    "address": "street: 7379 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-8657",
+    "address": "street: 7369 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-8987",
+    "address": "street: 7365 52nd Pl E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Teez By Design",
+    "description": "Clothing Stores",
+    "phone": "(941) 745-2257",
+    "address": "street: 5266 Office Park Blvd location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 750-9419",
+    "address": "street: 2100 47th Ter E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Longboat Resort Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 383-9320",
+    "address": "street: 5380 Gulf Of Mexico Dr location: Longboat Key, FL 34228"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 279-3033",
+    "address": "street: 4127 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Outlet Centrl Fulfill",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-8987",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Team Edition Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-5300",
+    "address": "street: 4208 19th Street Ct E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-0331",
+    "address": "street: 201 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 584-4125",
+    "address": "street: 4210 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 727-7441",
+    "address": "street: 865 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-2992",
+    "address": "street: 4251 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-2992",
+    "address": "street: 4251 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-7599",
+    "address": "street: 4321 Tamiami Trl S location: Venice, FL 34293"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 493-7599",
+    "address": "street: 4321 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2519",
+    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
+  },
+  {
+    "name": "Bealls Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2519",
+    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2519",
+    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
+  },
+  {
+    "name": "American Apparel Designs Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 488-3770",
+    "address": "street: 121 Corporation Way Unit C location: Venice, FL 34285"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(941) 739-6616",
+    "address": "street: 835 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Innovative Imprint Concept",
+    "description": "Clothing Stores",
+    "phone": "(941) 484-5414",
+    "address": "street: 2302 Hermitage Blvd location: Venice, FL 34292"
+  },
+  {
+    "name": "Avenue Garage Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 421-3717",
+    "address": "street: 4138 Electric Way location: Port Charlotte, FL 33980"
+  },
+  {
+    "name": "Miami Girl Fashion",
+    "description": "Women's Clothing",
+    "phone": "(941) 554-8573",
+    "address": "street: 7650 S Tamiami Trl Ste 1 location: Sarasota, FL 34231"
+  },
+  {
+    "name": "First Lady Boutique Inc",
+    "description": "Boutique Items",
+    "phone": "(941) 922-9666",
+    "address": "street: 2053 Reynolds St location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Kinky Kitty",
+    "description": "Lingerie",
+    "phone": "(941) 358-8707",
+    "address": "street: 2246 Gulf Gate Dr location: Sarasota, FL 34231"
+  },
+  {
+    "name": "The British Corner Shop",
+    "description": "Department Stores",
+    "phone": "(941) 346-6004",
+    "address": "street: 2236 Gulf Gate Dr location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Giannini Custom Tailoring",
+    "description": "Men's Clothing",
+    "phone": "(941) 923-1752",
+    "address": "street: 2144 Gulf Gate Dr location: Sarasota, FL 34231"
+  },
+  {
+    "name": "The Island Cabana",
+    "description": "Gift Shops",
+    "phone": "(941) 896-4946",
+    "address": "street: 403 C Pine Avenue location: Anna Maria, FL 34216"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 924-5371",
+    "address": "street: 8201 S Tamiami Trl Unit Ao24 location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 925-3377",
+    "address": "street: 8401 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Westfield Mall - Sarasota Square",
+    "description": "Department Stores",
+    "phone": "(941) 922-9609",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Bealls",
+    "description": "Department Stores",
+    "phone": "(941) 925-2745",
+    "address": "street: 6555 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Sports Fan-Attic",
+    "description": "Sporting Goods",
+    "phone": "(941) 926-2434",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(941) 924-1991",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(941) 922-7408",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 925-7746",
+    "address": "street: 8201 S Tamiami Trl Unit 38 location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(941) 922-3216",
+    "address": "street: 8201 S Tamiami Trl Unit 44 location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Windsor",
+    "description": "Women's Clothing",
+    "phone": "(941) 222-0717",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(215) 555-1212",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Libra Usa",
+    "description": "Department Stores",
+    "phone": "(941) 924-3106",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 923-6406",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(941) 923-9440",
+    "address": "street: 8201 S Tamiami Trl Unit A32 location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(941) 921-6171",
+    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Hot Flash",
+    "description": "Women's Clothing",
+    "phone": "(941) 921-7027",
+    "address": "street: 1742 Dawn St location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 925-7746",
+    "address": "street: 8366 S Tamiami Trl location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Key Casuals",
+    "description": "Women's Clothing",
+    "phone": "(941) 349-6625",
+    "address": "street: 6625 Midnight Pass Rd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Things You Like",
+    "description": "Fashion Designers",
+    "phone": "(941) 349-1994",
+    "address": "street: 6529 Midnight Pass Rd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Nice Day Sports",
+    "description": "Sportswear",
+    "phone": "(941) 538-6941",
+    "address": "street: 4283 Express Ln location: Sarasota, FL 34249"
+  },
+  {
+    "name": "Pelican Knits",
+    "description": "Women's Clothing",
+    "phone": "(941) 923-6421",
+    "address": "street: 8221 Shadow Pine Way location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Tom James Company",
+    "description": "Custom Made Men's Suits",
+    "phone": "(941) 487-0095",
+    "address": "street: 2100 Constitution Blvd Suite 166 location: Sarasota, FL 34231"
+  },
+  {
+    "name": "SCREEN PRINTING OF SWFL",
+    "description": "Heat Transfer Materials",
+    "phone": "(941) 404-8677",
+    "address": "street: N/A location: englewood, FL 34224"
+  },
+  {
+    "name": "Western Stylin', Inc",
+    "description": "Western Apparel & Supplies",
+    "phone": "(863) 990-3416",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Big",
+    "description": "Sporting Goods",
+    "phone": "N/A",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Mikki C. Designs",
+    "description": "Women's Clothing",
+    "phone": "(866) 416-6840",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "The Real Forgotten Woman",
+    "description": "Women's Clothing",
+    "phone": "(855) 254-7386",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(941) 803-3001",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "name": "European Traditions",
+    "description": "Furniture Stores",
+    "phone": "(941) 921-5616",
+    "address": "street: 6030 Clark Center Ave location: Sarasota, FL 34238"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 922-1006",
+    "address": "street: 5247 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "The Perfect Dress of Sarasota",
+    "description": "Bridal Shops",
+    "phone": "(941) 925-5888",
+    "address": "street: 5109 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Hot Flash",
+    "description": "Women's Clothing",
+    "phone": "(941) 921-7027",
+    "address": "street: 4858 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Draper's & Damon's",
+    "description": "Women's Clothing",
+    "phone": "(941) 921-3717",
+    "address": "street: 4820 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Women's Clothing",
+    "phone": "(941) 343-2948",
+    "address": "street: Siesta Village Plaza location: Sarasota, FL 34242"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 360-6000",
+    "address": "street: 4708 Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(941) 921-4416",
+    "address": "street: 5451 Palmer Crossing Cir location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Laura Jean's",
+    "description": "Consignment Service",
+    "phone": "(941) 922-5535",
+    "address": "street: 3830 S Tuttle Ave location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 951-0326",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Giggles",
+    "description": "Lingerie",
+    "phone": "(941) 927-7474",
+    "address": "street: 4407 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Adam & Eve",
+    "description": "Department Stores",
+    "phone": "(941) 203-8651",
+    "address": "street: 4400 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "King James Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 922-1873",
+    "address": "street: 4333 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(941) 924-3239",
+    "address": "street: 4130 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 922-1006",
+    "address": "street: 4014 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Libra Usa",
+    "description": "Department Stores",
+    "phone": "(941) 371-2992",
+    "address": "street: 4081 Taggart Cay N location: Sarasota, FL 34233"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 924-7383",
+    "address": "street: 3979 S Tamiami Trl location: Sarasota, FL 34231"
+  },
+  {
+    "name": "Daisy Cotton Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 925-5833",
+    "address": "street: 3847 S School Ave location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-3639",
+    "address": "street: 747 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(941) 952-9100",
+    "address": "street: 300 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(941) 917-0544",
+    "address": "street: 214 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "description": "Department Stores",
+    "phone": "(941) 364-5300",
+    "address": "street: 100 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-3909",
+    "address": "street: 90 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(941) 954-4218",
+    "address": "street: 129 Southgate Mall location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "description": "Department Stores",
+    "phone": "(941) 364-5300",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(941) 954-4218",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(941) 329-3300",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 365-1437",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(941) 955-2873",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(941) 952-9100",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-1700",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Alexander's",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-5400",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(941) 951-5200",
+    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Island Cotton Co",
+    "description": "Women's Clothing",
+    "phone": "(941) 349-1170",
+    "address": "street: 5221 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Island Styles",
+    "description": "Women's Clothing",
+    "phone": "(941) 960-2338",
+    "address": "street: 5206 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Women's Clothing",
+    "phone": "(941) 343-2948",
+    "address": "street: 5118 Ocean Blvd location: Sarasota, FL 34242"
+  },
+  {
+    "name": "Juraci's Place",
+    "description": "Women's Clothing",
+    "phone": "(941) 217-5327",
+    "address": "street: 3631 Webber St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(941) 918-1247",
+    "address": "street: 13140 S Tamiami Trl location: Osprey, FL 34229"
+  },
+  {
+    "name": "Samba",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-3505",
+    "address": "street: 1652 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(941) 379-3550",
+    "address": "street: 4381 Cattlemen Rd location: Sarasota, FL 34233"
+  },
+  {
+    "name": "Tina's On Osprey",
+    "description": "Boutique Items",
+    "phone": "(941) 366-1555",
+    "address": "street: 1907 S Osprey Ave location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Willow506",
+    "description": "Women's Clothing",
+    "phone": "(941) 955-5506",
+    "address": "street: 1821 Hillview St location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 362-0611",
+    "address": "street: 1507 S Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Good As New Consignment & Brdl",
+    "description": "Consignment Service",
+    "phone": "(941) 366-1234",
+    "address": "street: 1273 Beneva Rd Fl 34232 location: Sarasota, FL 34232"
+  },
+  {
+    "name": "GOOD AS NEW CONSIGNMENT AND BRIDAL SHOPPE",
+    "description": "Bridal Shops",
+    "phone": "(941) 366-1234",
+    "address": "street: 1273 Beneva Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Velella Reasearch Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-1948",
+    "address": "street: 2750 Bahia Vista St Ste 134 location: Sarasota, FL 34239"
+  },
+  {
+    "name": "Designer Consigner of Sarasota",
+    "description": "Consignment Service",
+    "phone": "(941) 953-5995",
+    "address": "street: 3639 Bahia Vista St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Pine Craft Discount Market",
+    "description": "Department Stores",
+    "phone": "(941) 260-9046",
+    "address": "street: 3667 Bahia Vista St location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Stylish Benefactor",
+    "description": "Women's Clothing",
+    "phone": "(877) 310-3817",
+    "address": "street: 4785 Maid Marian Ln location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Oh My Gauze of Wisconsin Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-9046",
+    "address": "street: 502 N Spoonbill Dr location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Southside Sports Inc",
+    "description": "Sporting Goods",
+    "phone": "(941) 379-5688",
+    "address": "street: 2427 Porter Lake Dr Ste 106 location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Ann Taylor Roman",
+    "description": "Women's Clothing",
+    "phone": "(941) 735-4975",
+    "address": "street: 766 S Osprey Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Aluminum Specialties Wholesale",
+    "description": "Aluminum Products",
+    "phone": "(941) 371-3380",
+    "address": "street: 2245 Porter Lake Dr location: Sarasota, FL 34240"
+  },
+  {
+    "name": "CK DANCE SHOES & ACCESSORIES",
+    "description": "Dancing Supplies",
+    "phone": "(239) 826-6089",
+    "address": "street: 1985 Cattlemen Rd Unit 3 location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Fleet Feet Sports",
+    "description": "Shoe Stores",
+    "phone": "(941) 894-3338",
+    "address": "street: 711 S Osprey Ave Ste 1 location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Wurkin Stiffs",
+    "description": "Men's Clothing",
+    "phone": "(941) 379-8163",
+    "address": "street: 2177 Porter Lake Dr location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Oh My Gauze Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 377-6560",
+    "address": "street: 2123 Porter Lake Dr location: Sarasota, FL 34240"
+  },
+  {
+    "name": "Best Buy Awards",
+    "description": "Department Stores",
+    "phone": "(941) 377-6307",
+    "address": "street: 1655 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Imagination & Company",
+    "description": "Department Stores",
+    "phone": "(941) 371-5238",
+    "address": "street: 1575 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Dr. Ann Taylor Roman, Counseling and Clinical Psychology",
+    "description": "Women's Clothing",
+    "phone": "(941) 951-7516",
+    "address": "street: 315 Julia Pl location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Clever Rose",
+    "description": "Women's Clothing",
+    "phone": "(941) 321-4628",
+    "address": "street: 533 S Pineapple Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Latelier F",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-1000",
+    "address": "street: 538 S Pineapple Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(941) 366-6856",
+    "address": "street: 330 S Pineapple Ave location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Rahelia Couture",
+    "description": "Boutique Items",
+    "phone": "(941) 300-1600",
+    "address": "street: 1420 Ringling Blvd, location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Martin Aluminum",
+    "description": "Aluminum Products",
+    "phone": "(941) 953-9890",
+    "address": "street: 1701 Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Apricot Lane Boutique",
+    "description": "Women's Clothing",
+    "phone": "(941) 960-1435",
+    "address": "street: 464 John Ringling Boulevard St. Armand S Circle location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Aliki Yamani Creations",
+    "description": "Women's Clothing",
+    "phone": "(941) 957-6499",
+    "address": "street: 1662 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "The Girl From Brazil",
+    "description": "Women's Clothing",
+    "phone": "(941) 350-4633",
+    "address": "street: 1650 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Wearable Art",
+    "description": "Women's Clothing",
+    "phone": "(941) 957-0105",
+    "address": "street: 1424 State St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 379-6660",
+    "address": "street: 5350 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Evelyn & Arthur",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2210",
+    "address": "street: 1480 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(941) 953-4505",
+    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2435",
+    "address": "street: 1501 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Eileen Fisher Store",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2435",
+    "address": "street: 1501 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Juno & Jove Inc",
+    "description": "Department Stores",
+    "phone": "(941) 953-9500",
+    "address": "street: 1343 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "European Alteration By Toni",
+    "description": "Clothing Alterations",
+    "phone": "(941) 388-1917",
+    "address": "street: 20 S Adams Dr location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(941) 822-0844",
+    "address": "street: 1467 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Jake's Downtown",
+    "description": "Department Stores",
+    "phone": "(941) 955-5253",
+    "address": "street: 1463 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Gia Ventola",
+    "description": "Women's Clothing",
+    "phone": "(941) 706-0423",
+    "address": "street: 14 S Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Lotus",
+    "description": "Boutique Items",
+    "phone": "(941) 906-7080",
+    "address": "street: 1451 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Terra Nova",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-0410",
+    "address": "street: 353 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-1603",
+    "address": "street: 386 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Fantasea Coastal Home Inc",
+    "description": "Home Furnishings",
+    "phone": "(941) 388-3031",
+    "address": "street: 378 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Dream Weaver",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-3706",
+    "address": "street: 364 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Destination Florida",
+    "description": "Sportswear",
+    "phone": "(941) 388-2119",
+    "address": "street: 370 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "PJ's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-3900",
+    "address": "street: 1443 Main St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-3091",
+    "address": "street: 443 Saint Armands Cir location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Natural Discoveries",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-1600",
+    "address": "street: 320 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 388-1704",
+    "address": "street: 443d John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Juno & Jove",
+    "description": "Department Stores",
+    "phone": "(941) 957-0000",
+    "address": "street: 1425 1st St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "LaBella Intimates & Boutique",
+    "description": "Bras",
+    "phone": "(941) 366-4477",
+    "address": "street: 1415 1st St location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Foxy Lady-West",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-5239",
+    "address": "street: 481 John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 388-1704",
+    "address": "street: 443D John Ringling Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Fresh Produce Sportswear",
+    "description": "Sportswear",
+    "phone": "(941) 388-1883",
+    "address": "street: 1 N Blvd Of The Presidents location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 365-1437",
+    "address": "street: 114 Golden Gate Pt location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Expression of Fashion",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-9440",
+    "address": "street: 3327 Ramblewood Way location: Sarasota, FL 34237"
+  },
+  {
+    "name": "Flow N Roll Jiu Jitsu Custom Apparel",
+    "description": "Sportswear",
+    "phone": "(941) 544-8799",
+    "address": "street: 5317 Fruitville Rd Ste 110 location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(941) 378-1477",
+    "address": "street: 5407 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Mindful Medicinal CBD Dispensary and Spa",
+    "description": "Department Stores",
+    "phone": "(941) 388-7289",
+    "address": "street: 5483 Fruitville Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(941) 554-0310",
+    "address": "street: 215 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Mary's Discount Inc",
+    "description": "Discount Stores",
+    "phone": "(941) 366-1762",
+    "address": "street: 1155 N Washington Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(941) 866-6591",
+    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-1060",
+    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+  },
+  {
+    "name": "Dollar Daze of Sarasota Inc",
+    "description": "Variety Stores",
+    "phone": "(941) 217-6549",
+    "address": "street: 1175 N Washington Blvd location: Sarasota, FL 34236"
+  },
+  {
+    "name": "J Phillip Apparel",
+    "description": "Women's Clothing",
+    "phone": "(941) 954-8933",
+    "address": "street: 2401 15th St location: Sarasota, FL 34237"
+  },
+  {
+    "name": "First Lady Botique",
+    "description": "Boutique Items",
+    "phone": "(941) 312-5565",
+    "address": "street: 1709 Chrysler Ave location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Oh My Gauze",
+    "description": "Women's Clothing",
+    "phone": "(941) 342-4992",
+    "address": "street: 2446 19th St location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Designing Women Boutique",
+    "description": "Consignment Service",
+    "phone": "(941) 366-5293",
+    "address": "street: 1226 N Tamiami Trl Ste 101 location: Sarasota, FL 34236"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 362-0611",
+    "address": "street: 1507 Tamiami Trl location: Sarasota, FL 34239"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 351-3431",
+    "address": "street: 3140 N Tamiami Trl location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Tatiana Fashions",
+    "description": "Lingerie",
+    "phone": "(941) 488-0995",
+    "address": "street: 201 Hills Rd location: Nokomis, FL 34275"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 360-7520",
+    "address": "street: 101 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Azuma",
+    "description": "Women's Clothing",
+    "phone": "(941) 358-3388",
+    "address": "street: 4366 Independence Ct location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Town & Country Industries",
+    "description": "Aluminum Products",
+    "phone": "(941) 355-7627",
+    "address": "street: 2320 Industrial Blvd location: Sarasota, FL 34234"
+  },
+  {
+    "name": "J & J Apparel",
+    "description": "Women's Clothing",
+    "phone": "(941) 360-6685",
+    "address": "street: 2201 Industrial Blvd location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Sunshine Apparel Of Sarasota",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(941) 351-3308",
+    "address": "street: 1816 57th St location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Eilieen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(941) 952-3605",
+    "address": "street: 5033 Eastchester Dr location: Sarasota, FL 34234"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(215) 555-1212",
+    "address": "street: 110 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 351-1631",
+    "address": "street: 243 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "description": "Department Stores",
+    "phone": "(941) 364-5300",
+    "address": "street: 120 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(941) 358-9540",
+    "address": "street: 215 N Cattlemen Rd Ste 56 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "ZAGG University Town Center",
+    "description": "Shoe Stores",
+    "phone": "(941) 667-0934",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Madewell",
+    "description": "Women's Clothing",
+    "phone": "(941) 299-0190",
+    "address": "street: 140 University Town Center Dr Unit 266 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(941) 909-3431",
+    "address": "street: 140 University Town Center Dr Unit 275 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Anthropologie",
+    "description": "Women's Clothing",
+    "phone": "(941) 306-4513",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 893-3935",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(941) 893-1065",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(941) 893-3919",
+    "address": "street: 140 University Town Center Dr Unit 208 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 907-2904",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Women's Clothing",
+    "phone": "(941) 527-4200",
+    "address": "street: 140 University Town Center Dr Unit 225 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-1060",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(941) 225-8930",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(941) 225-6670",
+    "address": "street: 140 University Town Center Dr Unit 168 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(941) 203-4370",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "bebe",
+    "description": "Women's Clothing",
+    "phone": "(941) 702-9926",
+    "address": "street: 140 University Town Center Dr Unit 168 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(941) 281-7008",
+    "address": "street: 140 University Town Center Dr Unit 273 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-2128",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Clarks",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-1080",
+    "address": "street: 140 University Town Center Dr Unit 290 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(941) 866-6591",
+    "address": "street: 140 University Town Center Dr Unit 237 location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(941) 893-1155",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Fabletics",
+    "description": "Women's Clothing",
+    "phone": "(941) 263-1320",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(941) 232-7300",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Soft Surroundings",
+    "description": "Women's Clothing",
+    "phone": "(941) 444-3550",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(941) 248-6261",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Johnston & Murphy",
+    "description": "Shoe Stores",
+    "phone": "(941) 702-9666",
+    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(941) 355-8331",
+    "address": "street: 8333 Lockwood Ridge Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Rei",
+    "description": "Sporting Goods",
+    "phone": "(941) 899-0138",
+    "address": "street: 161 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 351-7945",
+    "address": "street: 143 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(941) 351-6969",
+    "address": "street: 8320 Lockwood Ridge Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(941) 355-7238",
+    "address": "street: 119 N Cattlemen Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(941) 527-4878",
+    "address": "street: 200 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 351-1631",
+    "address": "street: 243 University Town Center Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Flying Fish Outfitters",
+    "description": "Camping Equipment",
+    "phone": "(941) 412-4512",
+    "address": "street: 303 Tamiami Trl S Ste H location: Nokomis, FL 34275"
+  },
+  {
+    "name": "The Colony Beach Shop",
+    "description": "Sportswear",
+    "phone": "(941) 383-6431",
+    "address": "street: 1620 Gulf Of Mexico Dr location: Longboat Key, FL 34228"
+  },
+  {
+    "name": "Scout & Molly's",
+    "description": "Women's Clothing",
+    "phone": "(941) 210-4686",
+    "address": "street: 5275 University Pkwy location: University Park, FL 34201"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 359-2847",
+    "address": "street: 8473 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Treasures",
+    "description": "Discount Stores",
+    "phone": "(941) 882-4467",
+    "address": "street: 523 Us Highway 41 Byp location: Venice, FL 34285"
+  },
+  {
+    "name": "Treasures Benefitting Tidewell",
+    "description": "Discount Stores",
+    "phone": "(941) 882-4467",
+    "address": "street: 523 Us Highway 41 Byp N location: Venice, FL 34285"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 359-2847",
+    "address": "street: 8303 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Lane Bryant - Closed",
+    "description": "Women's Clothing",
+    "phone": "(941) 351-3013",
+    "address": "street: 8129 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 359-2847",
+    "address": "street: 8107 Cooper Creek Blvd location: University Park, FL 34201"
+  },
+  {
+    "name": "Barefoot Contessa",
+    "description": "Women's Clothing",
+    "phone": "(941) 484-1898",
+    "address": "street: 305 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Lisa's Classic Rose",
+    "description": "Women's Clothing",
+    "phone": "(941) 488-7788",
+    "address": "street: 303B W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Butterfly Boutique",
+    "description": "Boutique Items",
+    "phone": "(941) 706-1333",
+    "address": "street: 7652 Lockwood Ridge Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Montgomery Ward",
+    "description": "Department Stores",
+    "phone": "(941) 360-9262",
+    "address": "street: 1703 Tallevast Rd location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Unique Wholesale Distr Inc",
+    "description": "General Merchandise",
+    "phone": "(941) 355-1719",
+    "address": "street: 7509 Pennsylvania Ave location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Sun & Starsouls Inc",
+    "description": "General Merchandise",
+    "phone": "(941) 752-8039",
+    "address": "street: 6477 Parkland Dr location: Sarasota, FL 34243"
+  },
+  {
+    "name": "Sunbug at Venice",
+    "description": "Women's Clothing",
+    "phone": "(941) 485-7946",
+    "address": "street: 141 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "American Shore Trading Company",
+    "description": "Men's Clothing",
+    "phone": "(941) 907-1122",
+    "address": "street: 8131 Lakewood Main St Ste 106 location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "Beall's Corporate Offices",
+    "description": "Department Stores",
+    "phone": "(941) 747-2355",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(941) 798-9341",
+    "address": "street: 5315 Cortez Rd W location: Bradenton, FL 34210"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(941) 799-5538",
+    "address": "street: 5810 Ranch Lake Blvd location: Bradenton, FL 34202"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 753-3585",
+    "address": "street: 4569 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(941) 497-0501",
+    "address": "street: 4150 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 492-9224",
+    "address": "street: 4271 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(941) 751-6900",
+    "address": "street: 4108 14th St W location: Bradenton, FL 34205"
+  },
+  {
+    "name": "St Marco Boutique",
+    "description": "Boutique Items",
+    "phone": "(941) 488-5600",
+    "address": "street: 239 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "Erika's Holiday Dreams",
+    "description": "Department Stores",
+    "phone": "(941) 486-4235",
+    "address": "street: 140 W Venice Ave location: Venice, FL 34285"
+  },
+  {
+    "name": "THE SOCIAL BUTTERFLY",
+    "description": "Resale Shops",
+    "phone": "(941) 914-3207",
+    "address": "street: 101 W Venice Ave Ste 7 location: Venice, FL 34285"
+  },
+  {
+    "name": "US Mart",
+    "description": "Department Stores",
+    "phone": "(941) 412-1872",
+    "address": "street: 101 W Venice Ave Ste 12 location: Venice, FL 34285"
+  },
+  {
+    "name": "T R L Enterprises Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 387-3733",
+    "address": "street: 525 Bay Isles Pkwy location: Longboat Key, FL 34228"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(941) 387-0146",
+    "address": "street: 525 Bay Isles Pkwy location: Longboat Key, FL 34228"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 907-2904",
+    "address": "street: 8141 Lakewood Main St Ste 105 location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "Attitudes On Maine Street",
+    "description": "Women's Clothing",
+    "phone": "(941) 929-2928",
+    "address": "street: 8141 Lakewood Ranch Blvd location: Lakewood Ranch, FL 34202"
+  },
+  {
+    "name": "China Wok",
+    "description": "Women's Clothing",
+    "phone": "(941) 488-1988",
+    "address": "street: 1455 E Venice Ave location: Venice, FL 34292"
+  },
+  {
+    "name": "Amf",
+    "description": "Bowling",
+    "phone": "(941) 484-0666",
+    "address": "street: 1100 Us Highway 41 Byp S location: Venice, FL 34285"
+  },
+  {
+    "name": "J & W All American Gen Store",
+    "description": "Variety Stores",
+    "phone": "(941) 882-4453",
+    "address": "street: 1740 E Venice Ave location: Venice, FL 34292"
+  },
+  {
+    "name": "SinCity Playwear",
+    "description": "Swimwear & Accessories",
+    "phone": "(800) 553-8478",
+    "address": "street: 1532 Us Highway 41 Byp S location: Venice, FL 34293"
+  },
+  {
+    "name": "Walmart Wireless Services",
+    "description": "General Merchandise",
+    "phone": "(941) 799-5546",
+    "address": "street: 5810 Ranch Lake Blvd location: Bradenton, FL 34202"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 756-2700",
+    "address": "street: 6150 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(941) 755-5626",
+    "address": "street: 6110 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bradenton Fashion And Cap City",
+    "description": "Women's Clothing",
+    "phone": "(941) 753-1555",
+    "address": "street: 1427 57th Ave E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Your CBD Store",
+    "description": "Department Stores",
+    "phone": "(941) 782-8191",
+    "address": "street: 8724 State Road 70 E location: Bradenton, FL 34202"
+  },
+  {
+    "name": "Walmart Grocery Pickup",
+    "description": "Department Stores",
+    "phone": "(941) 374-0539",
+    "address": "street: 4536 53rd Ave E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 408-8288",
+    "address": "street: 1860 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(941) 752-0025",
+    "address": "street: 2911 53rd Ave E location: Braden River, FL 34203"
+  },
+  {
+    "name": "Walmart Auto Care Center",
+    "description": "General Merchandise",
+    "phone": "(941) 752-0025",
+    "address": "street: 2911 53rd Ave E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "Supermatt",
+    "description": "Department Stores",
+    "phone": "(941) 226-2321",
+    "address": "street: 5026 15th St E location: Bradenton, FL 34203"
+  },
+  {
+    "name": "HR Sportswear",
+    "description": "Sportswear",
+    "phone": "(941) 209-1790",
+    "address": "street: 5002 Lena Rd Unit 112 location: Bradenton, FL 34211"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(941) 755-5168",
+    "address": "street: 4561 14th St W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(941) 752-8987",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(941) 747-2355",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Bealls Westgate Corp",
+    "description": "Department Stores",
+    "phone": "(941) 747-2355",
+    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(941) 747-5300",
+    "address": "street: 4208 19th Street Ct E location: Bradenton, FL 34208"
+  },
+  {
+    "name": "Jackson Hewitt Tax Service in Walmart",
+    "description": "General Merchandise",
+    "phone": "(941) 497-1250",
+    "address": "street: 4150 Tamiami Trl S location: Venice, FL 34293"
+  },
+  {
+    "name": "Pier One",
+    "description": "Department Stores",
+    "phone": "(941) 497-6300",
+    "address": "street: 4210 S Tamiami Trl location: Venice, FL 34293"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Department Stores",
+    "phone": "(941) 493-2992",
+    "address": "street: 4251 Tamiami Trl S location: Venice, FL 34293"
+  },
+  {
+    "name": "Optical Outlet",
+    "description": "Optical Goods",
+    "phone": "(941) 727-0345",
+    "address": "street: 1105 Cortez Rd W location: Bradenton, FL 34207"
+  },
+  {
+    "name": "Loyaltyfitsportwear",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(941) 666-4273",
+    "address": "street: 4880 51st St W location: Bradenton, FL 34210"
+  }
+]
