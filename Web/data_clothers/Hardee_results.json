@@ -3,4416 +3,3409 @@
     "name": "Print My T's",
     "description": "Clothing Stores",
     "phone": "(941) 225-9809",
-    "address": "street: 2040 Dr Martin Luther King Way location: Sarasota, FL 34234"
+    "address": "2040 Dr Martin Luther King Way  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Fada Fashion",
     "description": "Clothing Stores",
     "phone": "(941) 312-5354",
-    "address": "street: 2000 N Washington Blvd Ste B location: Sarasota, FL 34234"
-  },
-  {
-    "name": "Curvacious Corner Shop",
-    "description": "Clothing Stores",
-    "phone": "(888) 524-9660",
-    "address": "street: N/A location: Sarasota, FL 34230"
+    "address": "2000 N Washington Blvd Ste B  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Eliett's On Palm",
     "description": "Clothing Stores",
     "phone": "(941) 953-2999",
-    "address": "street: 45 S Palm Ave location: Sarasota, FL 34236"
+    "address": "45 S Palm Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Tiara Trading",
     "description": "Clothing Stores",
     "phone": "(941) 365-4554",
-    "address": "street: 1620 Main St location: Sarasota, FL 34236"
+    "address": "1620 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Go Fish Clothing & Jewelry",
     "description": "Clothing Stores",
     "phone": "(941) 953-5730",
-    "address": "street: 1463 Main St location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Bodycandy.com",
-    "description": "Clothing Stores",
-    "phone": "(877) 829-5191",
-    "address": "street: N/A location: N/A"
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Look at Me Now Urban Wear & Beauty Supply",
     "description": "Clothing Stores",
     "phone": "(941) 312-5989",
-    "address": "street: 3251 17th St location: Sarasota, FL 34235"
+    "address": "3251 17th St  Sarasota, FL 34235",
+    "location": "Hardee"
   },
   {
     "name": "Queen Custom Creations",
     "description": "Clothing Stores",
     "phone": "(941) 355-4230",
-    "address": "street: 1026 Colleton Dr location: Sarasota, FL 34234"
+    "address": "1026 Colleton Dr  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "I Tesori",
     "description": "Clothing Stores",
     "phone": "(941) 907-9296",
-    "address": "street: 1405 1st St location: Sarasota, FL 34236"
+    "address": "1405 1st St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Mercantile",
     "description": "Clothing Stores",
     "phone": "(941) 366-2457",
-    "address": "street: 1463 Main St location: Sarasota, FL 34236"
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Darci",
     "description": "Clothing Stores",
     "phone": "(941) 330-2800",
-    "address": "street: 1441 Main St location: Sarasota, FL 34236"
+    "address": "1441 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Rue 21",
     "description": "Clothing Stores",
     "phone": "(941) 373-6333",
-    "address": "street: 1439 Main St location: Sarasota, FL 34236"
+    "address": "1439 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Rollo Enterprises",
     "description": "Clothing Stores",
     "phone": "(941) 349-4372",
-    "address": "street: 1685 Laurel St location: Sarasota, FL 34236"
+    "address": "1685 Laurel St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Greiners Fine Mens Clothing",
     "description": "Clothing Stores",
     "phone": "(941) 343-2143",
-    "address": "street: 45 S Palm Ave location: Sarasota, FL 34236"
+    "address": "45 S Palm Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "La Femme Fatale",
     "description": "Clothing Stores",
     "phone": "(941) 365-5100",
-    "address": "street: 80 S Palm Ave location: Sarasota, FL 34236"
+    "address": "80 S Palm Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Bealls Department Store",
     "description": "Clothing Stores",
     "phone": "(941) 953-4505",
-    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
-  },
-  {
-    "name": "OJB Clothing",
-    "description": "Clothing Stores",
-    "phone": "(407) 906-1869",
-    "address": "street: N/A location: Sebring, FL 33875"
-  },
-  {
-    "name": "Parisi",
-    "description": "Clothing Stores",
-    "phone": "(772) 207-1099",
-    "address": "street: N/A location: Punta Gorda, FL 33982"
-  },
-  {
-    "name": "4U4Less",
-    "description": "Clothing Stores",
-    "phone": "(804) 239-2612",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Davinci Clothing",
-    "description": "Clothing Stores",
-    "phone": "(941) 538-6941",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Log Frog Apparel",
-    "description": "Clothing Stores",
-    "phone": "(941) 713-2401",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Divine Design Graphics",
-    "description": "Clothing Stores",
-    "phone": "(941) 525-8920",
-    "address": "street: N/A location: Venice, FL 34293"
+    "address": "501 N Beneva Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Bold & Beautiful",
     "description": "Clothing Stores",
     "phone": "(941) 365-9109",
-    "address": "street: 2063 Fruitville Rd location: Sarasota, FL 34237"
-  },
-  {
-    "name": "Fitch A W",
-    "description": "Clothing Stores",
-    "phone": "(941) 798-8591",
-    "address": "street: N/A location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Liqud Rodeo",
-    "description": "Clothing Stores",
-    "phone": "(941) 321-5457",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Clothing Stores",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
+    "address": "2063 Fruitville Rd  Sarasota, FL 34237",
+    "location": "Hardee"
   },
   {
     "name": "Topaz Design Group",
     "description": "Clothing Stores",
     "phone": "(941) 444-7939",
-    "address": "street: 1870 University Pkwy location: Sarasota, FL 34243"
+    "address": "1870 University Pkwy  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Souzou Design House",
     "description": "Clothing Stores",
     "phone": "(941) 376-3468",
-    "address": "street: 5891 Milton Ave location: Sarasota, FL 34243"
+    "address": "5891 Milton Ave  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "LuLaRoe by Cathy L.",
     "description": "Clothing Stores",
     "phone": "(941) 216-6126",
-    "address": "street: 2128 Hyde Park Cir location: Sarasota, FL 34239"
+    "address": "2128 Hyde Park Cir  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Johnson Marketing Group",
     "description": "Clothing Stores",
     "phone": "(941) 955-3200",
-    "address": "street: 1727 Hyde Park St location: Sarasota, FL 34239"
+    "address": "1727 Hyde Park St  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Oh My Gauze!",
     "description": "Clothing Stores",
     "phone": "(941) 388-1964",
-    "address": "street: 374 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "374 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Closet Divas",
     "description": "Clothing Stores",
     "phone": "(941) 927-7467",
-    "address": "street: 3576 Webber St location: Sarasota, FL 34239"
+    "address": "3576 Webber St  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Island Pursuit",
     "description": "Clothing Stores",
     "phone": "(941) 388-2849",
-    "address": "street: 400 Madison Dr Ste 206 location: Sarasota, FL 34236"
+    "address": "400 Madison Dr Ste 206  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Breezin' Up Inc",
     "description": "Clothing Stores",
     "phone": "(941) 388-2950",
-    "address": "street: 362 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "362 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "T.J. Maxx",
     "description": "Clothing Stores",
     "phone": "(941) 922-5395",
-    "address": "street: 3700 S Tuttle Ave location: Sarasota, FL 34239"
+    "address": "3700 S Tuttle Ave  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Hot Topic",
     "description": "Clothing Stores",
     "phone": "(941) 924-8664",
-    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Ivory Coast",
     "description": "Clothing Stores",
     "phone": "(941) 388-1999",
-    "address": "street: 15 N Blvd Of The Presidents location: Sarasota, FL 34236"
+    "address": "15 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Stockyard-Feed & Western Wear",
     "description": "Clothing Stores",
     "phone": "(941) 444-1771",
-    "address": "street: 1010 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "1010 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "McMahon Fur Storage",
     "description": "Clothing Stores",
     "phone": "(941) 371-6041",
-    "address": "street: 233 Avant St location: Sarasota, FL 34232"
+    "address": "233 Avant St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Sahara",
     "description": "Clothing Stores",
     "phone": "(941) 388-0587",
-    "address": "street: 362 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "362 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Everything But Water",
     "description": "Clothing Stores",
     "phone": "(941) 388-1205",
-    "address": "street: 331 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "331 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Jalal Fashion Inc",
     "description": "Clothing Stores",
     "phone": "(941) 924-4600",
-    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Srq Lady Fashion",
     "description": "Clothing Stores",
     "phone": "(941) 208-8128",
-    "address": "street: PO Box 5942 location: Sarasota, FL 34277"
+    "address": "PO Box 5942  Sarasota, FL 34277",
+    "location": "Hardee"
   },
   {
     "name": "Fashion Room",
     "description": "Clothing Stores",
     "phone": "(941) 952-3170",
-    "address": "street: 2083 Siesta Dr location: Sarasota, FL 34239"
+    "address": "2083 Siesta Dr  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Tom Co",
     "description": "Clothing Stores",
     "phone": "(941) 306-4028",
-    "address": "street: 3625 Webber St location: Sarasota, FL 34232"
+    "address": "3625 Webber St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "These Quiet Sounds",
     "description": "Clothing Stores",
     "phone": "(941) 203-5108",
-    "address": "street: 3533 Tangier Ter location: Sarasota, FL 34239"
+    "address": "3533 Tangier Ter  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Gap",
     "description": "Clothing Stores",
     "phone": "(941) 951-6115",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Abercrombie & Fitch",
     "description": "Clothing Stores",
     "phone": "(941) 366-8958",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Eddie Bauer",
     "description": "Clothing Stores",
     "phone": "(941) 365-4536",
-    "address": "street: 747 Southgate Mall location: Sarasota, FL 34239"
+    "address": "747 Southgate Mall  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Tommy Hilfiger",
     "description": "Clothing Stores",
     "phone": "(941) 953-9300",
-    "address": "street: 600 Southgate Plz location: Sarasota, FL 34239"
+    "address": "600 Southgate Plz  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Express",
     "description": "Clothing Stores",
     "phone": "(941) 366-6877",
-    "address": "street: 108 Southgate Mall location: Sarasota, FL 34239"
+    "address": "108 Southgate Mall  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Olivia",
     "description": "Clothing Stores",
     "phone": "(941) 388-1677",
-    "address": "street: 9 S Blvd Of Presidents location: Sarasota, FL 34236"
+    "address": "9 S Blvd Of Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Jenn's Personalized Impressions",
     "description": "Clothing Stores",
     "phone": "(941) 915-3896",
-    "address": "street: 5207 Indian Mound St location: Sarasota, FL 34232"
+    "address": "5207 Indian Mound St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Foxy Lady Siesta Key Inc",
     "description": "Clothing Stores",
     "phone": "(941) 706-4611",
-    "address": "street: 14 S Blvd Of The Presidents location: Sarasota, FL 34236"
+    "address": "14 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Eddy Dick & Jean",
     "description": "Clothing Stores",
     "phone": "(941) 371-2750",
-    "address": "street: 5248 Manz Pl location: Sarasota, FL 34232"
+    "address": "5248 Manz Pl  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Tommy Bahama Store",
     "description": "Clothing Stores",
     "phone": "(941) 388-2446",
-    "address": "street: 371 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "371 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Stitchin' Kitty",
     "description": "Clothing Stores",
     "phone": "(941) 545-8591",
-    "address": "street: 2035 Linwood Way location: Sarasota, FL 34232"
+    "address": "2035 Linwood Way  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "5.11 Tactical",
     "description": "Clothing Stores",
     "phone": "(941) 538-5402",
-    "address": "street: 5231 University Pkwy Unit 101 location: University Park, FL 34201"
+    "address": "5231 University Pkwy Unit 101  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "New Beginnings Childrens Consignment LLC.",
     "description": "Clothing Stores",
     "phone": "(941) 377-8187",
-    "address": "street: 4952 Fruitville Rd location: Sarasota, FL 34232"
-  },
-  {
-    "name": "New Beginnings Childrens Consignment LLC.",
-    "description": "Clothing Stores",
-    "phone": "(941) 377-8187",
-    "address": "street: 4952 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "4952 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "The DanceWEAR Shoppe",
     "description": "Clothing Stores",
     "phone": "(941) 312-6312",
-    "address": "street: 315 Interstate Blvd location: Sarasota, FL 34240"
+    "address": "315 Interstate Blvd  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Redneck Outpost",
     "description": "Clothing Stores",
     "phone": "(941) 444-7829",
-    "address": "street: 4401 Ashton Rd Unit F location: Sarasota, FL 34233"
+    "address": "4401 Ashton Rd Unit F  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Stitchin' Waves",
     "description": "Clothing Stores",
     "phone": "(941) 929-1155",
-    "address": "street: 4433 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4433 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "King James Big and Tall",
     "description": "Clothing Stores",
     "phone": "(941) 922-1873",
-    "address": "street: 4333 S Tamiami Trl Ste D location: Sarasota, FL 34231"
+    "address": "4333 S Tamiami Trl Ste D  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Free People",
     "description": "Clothing Stores",
     "phone": "(941) 893-1175",
-    "address": "street: 140 University Town Center Dr Unit 246 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 246  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Butterfly Beach",
     "description": "Clothing Stores",
     "phone": "(941) 346-6785",
-    "address": "street: 313 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "313 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Stein Mart",
     "description": "Clothing Stores",
     "phone": "(941) 355-1300",
-    "address": "street: 125 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "125 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Elle La Peche",
     "description": "Clothing Stores",
     "phone": "(847) 340-6382",
-    "address": "street: 372 Montgomery Ave location: Sarasota, FL 34243"
+    "address": "372 Montgomery Ave  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "David Yurman at Saks Fifth Avenue",
     "description": "Clothing Stores",
     "phone": "(941) 364-5300",
-    "address": "street: 120 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "120 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "On the Trashy Side",
     "description": "Clothing Stores",
     "phone": "(941) 302-7003",
-    "address": "street: 3221 Vesper Ave location: Sarasota, FL 34232"
+    "address": "3221 Vesper Ave  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Muse Sarasota",
     "description": "Clothing Stores",
     "phone": "(941) 312-4066",
-    "address": "street: 3809 McIntosh Rd location: Sarasota, FL 34232"
+    "address": "3809 McIntosh Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "American Eagle & Aerie",
     "description": "Clothing Stores",
     "phone": "(941) 256-0200",
-    "address": "street: 140 University Town Center Dr Unit 187 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Express",
-    "description": "Clothing Stores",
-    "phone": "(941) 702-2503",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 187  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Banana Republic",
     "description": "Clothing Stores",
     "phone": "(941) 256-0442",
-    "address": "street: 140 University Town Center Dr Unit 283 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Gap",
-    "description": "Clothing Stores",
-    "phone": "(941) 256-0446",
-    "address": "street: 140 University Town Center Dr Unit 182 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 283  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Charlotte Tilbury",
     "description": "Clothing Stores",
     "phone": "(941) 702-9491",
-    "address": "street: 140 University Town Center Dr Unit 279 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 279  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Hollister",
     "description": "Clothing Stores",
     "phone": "(941) 296-7046",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Buckle",
     "description": "Clothing Stores",
     "phone": "(941) 925-0458",
-    "address": "street: 140 University Town Center Dr Unit 190 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 190  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Urban Outfitters",
     "description": "Clothing Stores",
     "phone": "(941) 213-1426",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "UNTUCKit",
     "description": "Clothing Stores",
     "phone": "(941) 724-8844",
-    "address": "street: 140 University Town Center Dr Unit 143 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Abercrombie & Fitch",
-    "description": "Clothing Stores",
-    "phone": "(941) 231-1251",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 143  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "J. Crew",
     "description": "Clothing Stores",
     "phone": "(941) 893-3664",
-    "address": "street: 140 University Town Center Dr Unit 271 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 271  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Tommy Bahama",
     "description": "Clothing Stores",
     "phone": "(941) 866-6614",
-    "address": "street: 140 University Town Center Dr Unit 164 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 164  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "PacSun",
     "description": "Clothing Stores",
     "phone": "(941) 866-6332",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Calypso St Barth",
     "description": "Clothing Stores",
     "phone": "(941) 306-1414",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "H&M",
     "description": "Clothing Stores",
     "phone": "(941) 893-1148",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "H&M (Hennes & Mauritz)",
     "description": "Clothing Stores",
     "phone": "(855) 466-7467",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Hugo Boss",
     "description": "Clothing Stores",
     "phone": "(941) 536-9000",
-    "address": "street: 140 University Town Center Dr Unit 261 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 261  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Vineyard Vines",
     "description": "Clothing Stores",
     "phone": "(941) 926-6085",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Gap",
-    "description": "Clothing Stores",
-    "phone": "(941) 256-0446",
-    "address": "street: 140 University Town Center Dr Unit 182 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Hot Topic",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-8664",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Tommy Bahama",
-    "description": "Clothing Stores",
-    "phone": "(941) 866-6614",
-    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Andi's List",
     "description": "Clothing Stores",
     "phone": "(941) 284-2020",
-    "address": "street: 553 Magellan Dr location: Sarasota, FL 34243"
+    "address": "553 Magellan Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Floridafied HD",
     "description": "Clothing Stores",
     "phone": "(941) 961-3471",
-    "address": "street: 905 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "905 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Blaklader",
     "description": "Clothing Stores",
     "phone": "(941) 342-4936",
-    "address": "street: 6311 Porter Rd location: Sarasota, FL 34240"
+    "address": "6311 Porter Rd  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Marley Vibes",
     "description": "Clothing Stores",
     "phone": "(941) 203-5749",
-    "address": "street: 5055 Ocean Blvd location: Sarasota, FL 34242"
+    "address": "5055 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Jules Lerner",
     "description": "Clothing Stores",
     "phone": "(941) 923-7525",
-    "address": "street: 3435 Fox Run Rd location: Sarasota, FL 34231"
+    "address": "3435 Fox Run Rd  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Casa Smeralda",
     "description": "Clothing Stores",
     "phone": "(941) 388-1305",
-    "address": "street: 5121 Ocean Blvd location: Sarasota, FL 34242"
+    "address": "5121 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Burlington Coat Factory",
     "description": "Clothing Stores",
     "phone": "(941) 379-5849",
-    "address": "street: 4001 Cattlemen Rd location: Sarasota, FL 34233"
+    "address": "4001 Cattlemen Rd  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Clothes Mentor",
     "description": "Clothing Stores",
     "phone": "(941) 210-3897",
-    "address": "street: 3442 Clark Rd location: Sarasota, FL 34231"
+    "address": "3442 Clark Rd  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Poshy",
     "description": "Clothing Stores",
     "phone": "(941) 388-2893",
-    "address": "street: 7718 Edmonston Cir location: Bradenton, FL 34201"
-  },
-  {
-    "name": "T.J. Maxx",
-    "description": "Clothing Stores",
-    "phone": "(941) 351-3206",
-    "address": "street: 8219 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "7718 Edmonston Cir  Bradenton, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "J.Crew Factory",
     "description": "Clothing Stores",
     "phone": "(941) 667-6751",
-    "address": "street: 8107 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8107 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Boden",
     "description": "Clothing Stores",
     "phone": "(941) 907-3458",
-    "address": "street: 6290 Lake Osprey Dr location: Lakewood Ranch, FL 34240"
-  },
-  {
-    "name": "T.J. Maxx",
-    "description": "Clothing Stores",
-    "phone": "(941) 758-2222",
-    "address": "street: 6100 14th St W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Tommy Bahama",
-    "description": "Clothing Stores",
-    "phone": "(941) 491-4408",
-    "address": "street: 5132 Ocean Blvd location: Siesta Key, FL 34242"
+    "address": "6290 Lake Osprey Dr  Lakewood Ranch, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Raffle Mike",
     "description": "Clothing Stores",
     "phone": "(941) 962-4711",
-    "address": "street: 6208 26th St W location: Bradenton, FL 34207"
+    "address": "6208 26th St W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "Old Navy",
     "description": "Clothing Stores",
     "phone": "(941) 277-6000",
-    "address": "street: 117 N Cattlemen Rd location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Burlington Coat Factory",
-    "description": "Clothing Stores",
-    "phone": "(941) 379-8878",
-    "address": "street: 3941 Cattlemen Rd location: Sarasota, FL 34233"
-  },
-  {
-    "name": "Hot Topic",
-    "description": "Clothing Stores",
-    "phone": "(941) 744-9360",
-    "address": "street: 303 301 Blvd W Ste 464a location: Bradenton, FL 34205"
+    "address": "117 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Citi Trends",
     "description": "Clothing Stores",
     "phone": "(941) 877-2001",
-    "address": "street: 5108 15th St E Ste 501A location: Bradenton, FL 34203"
+    "address": "5108 15th St E Ste 501A  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Purabell House of Fashion",
     "description": "Clothing Stores",
     "phone": "(941) 752-0202",
-    "address": "street: 5002 Lena Rd location: Bradenton, FL 34211"
+    "address": "5002 Lena Rd  Bradenton, FL 34211",
+    "location": "Hardee"
   },
   {
     "name": "Rainbow Shops",
     "description": "Clothing Stores",
     "phone": "(941) 747-9573",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Coconuts of Siesta Key",
     "description": "Clothing Stores",
     "phone": "(941) 346-2954",
-    "address": "street: 1215 Old Stickney Point Rd location: Sarasota, FL 34242"
+    "address": "1215 Old Stickney Point Rd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Susanmmall",
     "description": "Clothing Stores",
     "phone": "(941) 342-1569",
-    "address": "street: 5746 Lake Breeze Ct location: Sarasota, FL 34233"
+    "address": "5746 Lake Breeze Ct  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Grab Life by the Gills",
     "description": "Clothing Stores",
     "phone": "(941) 378-0957",
-    "address": "street: 2041 Misty Sunrise Trl location: Sarasota, FL 34240"
+    "address": "2041 Misty Sunrise Trl  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Rocketman Shop",
     "description": "Clothing Stores",
     "phone": "(941) 923-2096",
-    "address": "street: 1888 Stickney Point Rd location: Sarasota, FL 34231"
+    "address": "1888 Stickney Point Rd  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Apc Fashion Biz Consulting",
     "description": "Clothing Stores",
     "phone": "(941) 313-7166",
-    "address": "street: 4283 Express Ln location: Sarasota, FL 34249"
+    "address": "4283 Express Ln  Sarasota, FL 34249",
+    "location": "Hardee"
   },
   {
     "name": "Wave Inspired",
     "description": "Clothing Stores",
     "phone": "(941) 554-8720",
-    "address": "street: 1514 Stickney Point Rd location: Sarasota, FL 34231"
+    "address": "1514 Stickney Point Rd  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Metal Sky Wear",
     "description": "Clothing Stores",
     "phone": "(941) 780-3908",
-    "address": "street: 2114 Bispham Rd location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-4416",
-    "address": "street: 5451 Palmer Crossing Cir location: Sarasota, FL 34233"
-  },
-  {
-    "name": "Gap",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-6373",
-    "address": "street: 5989 Approach Rd location: Sarasota, FL 34238"
+    "address": "2114 Bispham Rd  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "DD's Discounts",
     "description": "Clothing Stores",
     "phone": "(941) 745-5759",
-    "address": "street: 3611 1st St location: Bradenton, FL 34208"
+    "address": "3611 1st St  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Charlotte Russe",
     "description": "Clothing Stores",
     "phone": "(941) 750-9911",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Fifi's Fine Resale Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 758-7222",
-    "address": "street: 7343 52nd Pl E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 752-8987",
-    "address": "street: 7365 52nd Pl E location: Bradenton, FL 34203"
+    "address": "7343 52nd Pl E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Bunulu",
     "description": "Clothing Stores",
     "phone": "(844) 507-5374",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Prayers Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 773-2291",
-    "address": "street: 4676 72nd Ct E location: Bradenton, FL 34203"
+    "address": "4676 72nd Ct E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Fresh Inc.",
     "description": "Clothing Stores",
     "phone": "(855) 787-5059",
-    "address": "street: 4916 21st St W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Rainbow Shops",
-    "description": "Clothing Stores",
-    "phone": "(941) 758-8437",
-    "address": "street: 725 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "4916 21st St W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "Echo Park Traders",
     "description": "Clothing Stores",
     "phone": "(941) 923-0508",
-    "address": "street: 807 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "807 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "We Make Custom Teez - Custom T-Shirts",
     "description": "Clothing Stores",
     "phone": "(941) 479-0559",
-    "address": "street: 11161 State Road 70 E Unit 110-801 location: Lakewood Ranch, FL 34202"
-  },
-  {
-    "name": "DD's Discounts",
-    "description": "Clothing Stores",
-    "phone": "(941) 745-5759",
-    "address": "street: 3611 1st St E Ste 400 location: Bradenton, FL 34208"
+    "address": "11161 State Road 70 E Unit 110-801  Lakewood Ranch, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "House Of Fine",
     "description": "Clothing Stores",
     "phone": "(941) 748-8111",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Tommy Hilfiger",
-    "description": "Clothing Stores",
-    "phone": "(941) 745-5300",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Fashion Looks",
     "description": "Clothing Stores",
     "phone": "(941) 747-1144",
-    "address": "street: 303 301 Blvd W Ste 237 location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Stein Mart",
-    "description": "Clothing Stores",
-    "phone": "(941) 927-1337",
-    "address": "street: 6535 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "303 301 Blvd W Ste 237  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Street Scences",
     "description": "Clothing Stores",
     "phone": "(941) 746-4511",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Burlington Coat Factory",
-    "description": "Clothing Stores",
-    "phone": "(941) 756-1546",
-    "address": "street: 1205 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Aeropostale",
     "description": "Clothing Stores",
     "phone": "(941) 714-0573",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Scrubs Shoes & Chef",
     "description": "Clothing Stores",
     "phone": "(941) 795-1100",
-    "address": "street: 1002 Manatee Ave E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Hollister",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-1452",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Buckle",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-0458",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Jalal Fashion Inc",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-4600",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "1002 Manatee Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Land's End",
     "description": "Clothing Stores",
     "phone": "(941) 921-8233",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Rue 21",
-    "description": "Clothing Stores",
-    "phone": "(941) 922-0340",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Old Navy",
-    "description": "Clothing Stores",
-    "phone": "(941) 922-7320",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "H&M (Hennes & Mauritz)",
-    "description": "Clothing Stores",
-    "phone": "(855) 466-7467",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Tommy Hilfiger",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-5314",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Hot Topic",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-0529",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Express",
-    "description": "Clothing Stores",
-    "phone": "(941) 343-8462",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Burlington Coat Factory",
-    "description": "Clothing Stores",
-    "phone": "(941) 499-3450",
-    "address": "street: 8372 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "1 OFF TEE",
     "description": "Clothing Stores",
     "phone": "(941) 807-2741",
-    "address": "street: 2214 14th Ave W location: bradenton, FL 34205"
+    "address": "2214 14th Ave W  bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "American Eagle Outfitters",
     "description": "Clothing Stores",
     "phone": "(941) 926-7196",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "PacSun",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-3233",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Charlotte Russe",
-    "description": "Clothing Stores",
-    "phone": "(941) 926-4402",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Aeropostale",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-6901",
-    "address": "street: 8201 S Tamiami Trl Unit A2 location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Designs by Hafapea Gift Shop",
     "description": "Clothing Stores",
     "phone": "(941) 755-6345",
-    "address": "street: PO Box 10660 location: Bradenton, FL 34282"
+    "address": "PO Box 10660  Bradenton, FL 34282",
+    "location": "Hardee"
   },
   {
     "name": "Simply Sexy Beauty Supply.",
     "description": "Clothing Stores",
     "phone": "(941) 251-4925",
-    "address": "street: 628 Martin Luther King Jr Ave W location: bradenton, FL 34205"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-1606",
-    "address": "street: 6355 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "T.J. Maxx",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-7571",
-    "address": "street: 6250 Us Highway 301 N location: Ellenton, FL 34222"
+    "address": "628 Martin Luther King Jr Ave W  bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "American Eagle",
     "description": "Clothing Stores",
     "phone": "(941) 722-6327",
-    "address": "street: 5281 Factory Shops Blvd Spc 770A location: Ellenton, FL 34222"
+    "address": "5281 Factory Shops Blvd Spc 770A  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Rip Current",
     "description": "Clothing Stores",
     "phone": "(941) 554-4388",
-    "address": "street: 6850 Gulf Of Mexico Dr location: Longboat Key, FL 34228"
+    "address": "6850 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Hardee"
   },
   {
     "name": "Coastal Clothing Consignments",
     "description": "Clothing Stores",
     "phone": "(941) 218-6153",
-    "address": "street: 107 N Tamiami Trl location: Osprey, FL 34229"
+    "address": "107 N Tamiami Trl  Osprey, FL 34229",
+    "location": "Hardee"
   },
   {
     "name": "Consign-IT",
     "description": "Clothing Stores",
     "phone": "(941) 580-9961",
-    "address": "street: 3717 Us Highway 301 N location: Ellenton, FL 34222"
+    "address": "3717 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Burkes Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 761-2516",
-    "address": "street: 6355 Manatee Ave W location: Bradenton, FL 34209"
+    "address": "6355 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Hardee"
   },
   {
     "name": "Fifis Fine Resale Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 451-8298",
-    "address": "street: 11 S Tamiami Trl location: Osprey, FL 34229"
+    "address": "11 S Tamiami Trl  Osprey, FL 34229",
+    "location": "Hardee"
   },
   {
     "name": "Loshande",
     "description": "Clothing Stores",
     "phone": "(941) 212-4041",
-    "address": "street: 1020 10th Ave W Unit 115 location: Palmetto, FL 34221"
+    "address": "1020 10th Ave W Unit 115  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "Lularoe Sonya Ivester",
     "description": "Clothing Stores",
     "phone": "(307) 797-0932",
-    "address": "street: 536 Bayview Ave location: Osprey, FL 34229"
-  },
-  {
-    "name": "Clothes Mentor",
-    "description": "Clothing Stores",
-    "phone": "(941) 212-4122",
-    "address": "street: 6142 Us Highway 301 N location: Ellenton, FL 34222"
+    "address": "536 Bayview Ave  Osprey, FL 34229",
+    "location": "Hardee"
   },
   {
     "name": "Ann Taylor",
     "description": "Clothing Stores",
     "phone": "(941) 723-6123",
-    "address": "street: 5201 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5201 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Jockey",
     "description": "Clothing Stores",
     "phone": "(941) 722-3166",
-    "address": "street: 5225 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5225 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Jockey Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 722-3166",
-    "address": "street: 5225 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "J.Crew Factory",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-0954",
-    "address": "street: 5401 Factory Shops Blvd Spc 100 location: Ellenton, FL 34222"
+    "address": "5225 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "J. Crew Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 722-0954",
-    "address": "street: 5401 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5401 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "VF Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 729-4533",
-    "address": "street: 5391 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Calvin Klein",
     "description": "Clothing Stores",
     "phone": "(941) 729-6218",
-    "address": "street: 5387 Factory Shops Blvd # 570 location: Ellenton, FL 34222"
+    "address": "5387 Factory Shops Blvd # 570  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Rue21",
     "description": "Clothing Stores",
     "phone": "(941) 479-0920",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Hurley",
     "description": "Clothing Stores",
     "phone": "(941) 729-6951",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Tommy Hilfiger",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-5117",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Levi's Outlet Store",
     "description": "Clothing Stores",
     "phone": "(941) 722-7578",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Lacoste",
     "description": "Clothing Stores",
     "phone": "(941) 721-7900",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Nautica",
     "description": "Clothing Stores",
     "phone": "(941) 721-7740",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Rue 21",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-6390",
-    "address": "street: 5521 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Under Armour Factory House",
     "description": "Clothing Stores",
     "phone": "(941) 729-6705",
-    "address": "street: 5553 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Lacoste",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-7900",
-    "address": "street: 5569 Factory Shops Blvd Ste 330 location: Ellenton, FL 34222"
+    "address": "5553 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Jones Apparel Group USA",
     "description": "Clothing Stores",
     "phone": "(941) 722-3133",
-    "address": "street: 5571 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Banana Republic",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-3210",
-    "address": "street: 5657 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5571 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Ralph Lauren",
     "description": "Clothing Stores",
     "phone": "(941) 721-0695",
-    "address": "street: 5665 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Nautica",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-7740",
-    "address": "street: 5589 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5665 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Jones New York",
     "description": "Clothing Stores",
     "phone": "(941) 729-7276",
-    "address": "street: 5591 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Calvin Klein",
-    "description": "Clothing Stores",
-    "phone": "(941) 723-1959",
-    "address": "street: 5579 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5591 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "US Polo Association",
     "description": "Clothing Stores",
     "phone": "(941) 722-9230",
-    "address": "street: 5585 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5585 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "LOFT Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 722-8391",
-    "address": "street: 5707 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Jones New York",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-7276",
-    "address": "street: 5613 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Charlotte Russe",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-4804",
-    "address": "street: 5121 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Charlotte Russe",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-4804",
-    "address": "street: 5119 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "PacSun",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-4418",
-    "address": "street: 5189 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Aeropostale",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-6306",
-    "address": "street: 5109 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Rue 21",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-6272",
-    "address": "street: 5185 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5707 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Quiksilver",
     "description": "Clothing Stores",
     "phone": "(941) 721-8507",
-    "address": "street: 5131 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Tommy Hilfiger",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-5117",
-    "address": "street: 5103 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5131 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Haggar Clothing Co",
     "description": "Clothing Stores",
     "phone": "(941) 729-7985",
-    "address": "street: 5183 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Hot Topic",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-8138",
-    "address": "street: 5115 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Levi's Outlet Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-7578",
-    "address": "street: 5177 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "These Quiet Sounds",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-0700",
-    "address": "street: 5147 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Gap",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-1992",
-    "address": "street: 5141 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5183 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Aéropostale",
     "description": "Clothing Stores",
     "phone": "(941) 721-6306",
-    "address": "street: 5109 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5109 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Christopher & Banks",
     "description": "Clothing Stores",
     "phone": "(941) 729-5379",
-    "address": "street: 5461 Factory Shops Blvd Suite 585 location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd Suite 585  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Naughty Paula Jo Sexy Custom Clothing",
     "description": "Clothing Stores",
     "phone": "(386) 864-1188",
-    "address": "street: 16 Meadowlark Cir location: Ellenton, FL 34222"
+    "address": "16 Meadowlark Cir  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Monetti Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 713-3947",
-    "address": "street: 119 Bridge St Unit 100 location: Bradenton Beach, FL 34217"
+    "address": "119 Bridge St Unit 100  Bradenton Beach, FL 34217",
+    "location": "Hardee"
   },
   {
     "name": "J S Macdonald Inc",
     "description": "Clothing Stores",
     "phone": "(941) 792-4156",
-    "address": "street: 4105 129th St W location: Cortez, FL 34215"
+    "address": "4105 129th St W  Cortez, FL 34215",
+    "location": "Hardee"
   },
   {
     "name": "Mister Roberts Resortwear",
     "description": "Clothing Stores",
     "phone": "(941) 778-4505",
-    "address": "street: 103 Gulf Dr S location: Bradenton Beach, FL 34217"
-  },
-  {
-    "name": "MAC Sports Supplies",
-    "description": "Clothing Stores",
-    "phone": "(786) 671-4291",
-    "address": "street: N/A location: N/A"
+    "address": "103 Gulf Dr S  Bradenton Beach, FL 34217",
+    "location": "Hardee"
   },
   {
     "name": "Nifty Thrifty",
     "description": "Clothing Stores",
     "phone": "(941) 343-2372",
-    "address": "street: 2101 19th St location: Sarasota, FL 34234"
+    "address": "2101 19th St  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "XTC Super Center of Sarasota",
     "description": "Clothing Stores",
     "phone": "(941) 366-6969",
-    "address": "street: 2092 17th St location: Sarasota, FL 34234"
+    "address": "2092 17th St  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Rock Bottom Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 365-8922",
-    "address": "street: 2590 17th St location: Sarasota, FL 34234"
-  },
-  {
-    "name": "Cravats' Custom Clothiers & Fine Accessories",
-    "description": "Clothing Stores",
-    "phone": "(336) 362-6316",
-    "address": "street: N/A location: Sarasota, FL 34236"
+    "address": "2590 17th St  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Clothesline Co",
     "description": "Clothing Stores",
     "phone": "(941) 953-1764",
-    "address": "street: 2250 2nd St location: Sarasota, FL 34237"
+    "address": "2250 2nd St  Sarasota, FL 34237",
+    "location": "Hardee"
   },
   {
     "name": "India Artisans",
     "description": "Clothing Stores",
     "phone": "(941) 203-8913",
-    "address": "street: 1899 Fruitville Rd Unit A location: Sarasota, FL 34236"
+    "address": "1899 Fruitville Rd Unit A  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Andeansun Corp",
     "description": "Clothing Stores",
     "phone": "(239) 277-1877",
-    "address": "street: 242 S Washington Blvd location: Sarasota, FL 34236"
+    "address": "242 S Washington Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "SL Printwear",
     "description": "Clothing Stores",
     "phone": "(941) 780-0061",
-    "address": "street: 2876 Ringling Blvd location: Sarasota, FL 34237"
+    "address": "2876 Ringling Blvd  Sarasota, FL 34237",
+    "location": "Hardee"
   },
   {
     "name": "J.McLaughlin",
     "description": "Clothing Stores",
     "phone": "(941) 706-3587",
-    "address": "street: 1503 Main St location: Sarasota, FL 34236"
+    "address": "1503 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "N Y Connection",
     "description": "Clothing Stores",
     "phone": "(941) 358-9203",
-    "address": "street: 3333 N Tamiami Trl location: Sarasota, FL 34234"
+    "address": "3333 N Tamiami Trl  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Scout and Molly's of Sarasota",
     "description": "Clothing Stores",
     "phone": "(941) 955-2170",
-    "address": "street: 1413 1st St location: Sarasota, FL 34236"
+    "address": "1413 1st St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Brooks Brothers Country Club",
     "description": "Clothing Stores",
     "phone": "(941) 954-7545",
-    "address": "street: 1500 Main St location: Sarasota, FL 34236"
+    "address": "1500 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Martin Freeman",
     "description": "Clothing Stores",
     "phone": "(941) 953-2948",
-    "address": "street: 75 S Palm Ave location: Sarasota, FL 34236"
+    "address": "75 S Palm Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Pineapple Lain Boutique",
     "description": "Clothing Stores",
     "phone": "(941) 330-8771",
-    "address": "street: 407 S Pineapple Ave location: Sarasota, FL 34236"
+    "address": "407 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Swim City",
     "description": "Clothing Stores",
     "phone": "(941) 954-8800",
-    "address": "street: 50 N Tamiami Trl location: Sarasota, FL 34236"
+    "address": "50 N Tamiami Trl  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "The Exchange Inc.",
     "description": "Clothing Stores",
     "phone": "(941) 955-7859",
-    "address": "street: 539 S Orange Ave location: Sarasota, FL 34236"
+    "address": "539 S Orange Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Kmart",
     "description": "Clothing Stores",
     "phone": "(941) 957-1460",
-    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 953-4505",
-    "address": "street: 501 N Beneva Rd Ste 280 location: Sarasota, FL 34232"
+    "address": "501 N Beneva Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "White House | Black Market",
     "description": "Clothing Stores",
     "phone": "(941) 388-5033",
-    "address": "street: 315 & 317 Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Elite Fitters",
-    "description": "Clothing Stores",
-    "phone": "(954) 864-3177",
-    "address": "street: N/A location: North Port, FL 34291"
-  },
-  {
-    "name": "Proforma Waterlilies",
-    "description": "Clothing Stores",
-    "phone": "(941) 359-0300",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Promotions by THE Bear",
-    "description": "Clothing Stores",
-    "phone": "(405) 823-0617",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Eye-Candy Eyewear",
-    "description": "Clothing Stores",
-    "phone": "(941) 227-4444",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Thatsoome.com",
-    "description": "Clothing Stores",
-    "phone": "(941) 999-7652",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Trixx and Luxe",
-    "description": "Clothing Stores",
-    "phone": "(949) 616-2660",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Sears",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-8222",
-    "address": "street: N/A location: Sarasota, FL 34230"
-  },
-  {
-    "name": "Blue Collar Shirts",
-    "description": "Clothing Stores",
-    "phone": "(941) 201-2305",
-    "address": "street: N/A location: N/A"
+    "address": "315 & 317 Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Pinos II P",
     "description": "Clothing Stores",
     "phone": "(941) 366-2666",
-    "address": "street: 1849 Hillview St location: Sarasota, FL 34239"
+    "address": "1849 Hillview St  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Chico's",
     "description": "Clothing Stores",
     "phone": "(941) 388-0507",
-    "address": "street: 140 University Town Center Dr. 263 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr. 263  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Lilly Pulitzer",
     "description": "Clothing Stores",
     "phone": "(941) 388-3091",
-    "address": "street: 443A John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "443A John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Crazy Shirts",
     "description": "Clothing Stores",
     "phone": "(941) 388-1105",
-    "address": "street: 359 Saint Armands Cir location: Sarasota, FL 34236"
-  },
-  {
-    "name": "White House | Black Market",
-    "description": "Clothing Stores",
-    "phone": "(941) 364-5123",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "359 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Avenue",
     "description": "Clothing Stores",
     "phone": "(941) 388-3354",
-    "address": "street: 28 N Blvd Of Presidents location: Sarasota, FL 34236"
+    "address": "28 N Blvd Of Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Macy's",
     "description": "Clothing Stores",
     "phone": "(941) 329-3300",
-    "address": "street: 600 Southgate Plz location: Sarasota, FL 34239"
+    "address": "600 Southgate Plz  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Contempo Casuals",
     "description": "Clothing Stores",
     "phone": "(941) 923-6749",
-    "address": "street: 8201 Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Natural Discoveries Sales Inc",
     "description": "Clothing Stores",
     "phone": "(941) 355-0611",
-    "address": "street: 1281 Tallevast Rd location: Sarasota, FL 34243"
+    "address": "1281 Tallevast Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "CaribeHeart",
     "description": "Clothing Stores",
     "phone": "(754) 600-1337",
-    "address": "street: 8051 N Tamiami Trl Ste E6 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(941) 957-6426",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "8051 N Tamiami Trl Ste E6  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Cache",
     "description": "Clothing Stores",
     "phone": "(941) 404-1218",
-    "address": "street: 3501 S Tamiami Trl Ste 113 location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl Ste 113  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Loft",
     "description": "Clothing Stores",
     "phone": "(941) 951-5200",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Five Below",
     "description": "Clothing Stores",
     "phone": "(941) 279-2773",
-    "address": "street: 3800 S Tamiami Trl Unit 24 location: Sarasota, FL 34239"
+    "address": "3800 S Tamiami Trl Unit 24  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Cariloha",
     "description": "Clothing Stores",
     "phone": "(941) 388-0412",
-    "address": "street: 478 John Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-1393",
-    "address": "street: 443 John Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(239) 277-6200",
-    "address": "street: 443 Saint Armands Cir location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-3091",
-    "address": "street: 443 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "478 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Environeers",
     "description": "Clothing Stores",
     "phone": "(941) 371-6208",
-    "address": "street: 5373 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "5373 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Tracht Brothers Inc",
     "description": "Clothing Stores",
     "phone": "(941) 371-6208",
-    "address": "street: 5373 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "5373 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Just Cruizin",
     "description": "Clothing Stores",
     "phone": "(941) 706-2150",
-    "address": "street: 21 N Blvd Of The Presidents location: Sarasota, FL 34236"
+    "address": "21 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Marcello Sport St. Armands",
     "description": "Clothing Stores",
     "phone": "(941) 706-1357",
-    "address": "street: 18 S Blvd Of The Presidents location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Island Pursuit",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-4004",
-    "address": "street: 355 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "18 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "SEPHORA at Kohl's",
     "description": "Clothing Stores",
     "phone": "(941) 355-9074",
-    "address": "street: 5205 University Pkwy location: University Park, FL 34201"
+    "address": "5205 University Pkwy  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Influence",
     "description": "Clothing Stores",
     "phone": "(941) 343-2315",
-    "address": "street: 474 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "474 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Binjara Traders Inc",
     "description": "Clothing Stores",
     "phone": "(941) 388-3335",
-    "address": "street: 327 John Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "White House | Black Market",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-5033",
-    "address": "street: 317 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "327 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Foxy Lady",
     "description": "Clothing Stores",
     "phone": "(941) 349-6644",
-    "address": "street: 209 Beach Rd location: Sarasota, FL 34242"
+    "address": "209 Beach Rd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Royal-Tee's Screen Printing & Embroidery",
     "description": "Clothing Stores",
     "phone": "(941) 378-8112",
-    "address": "street: 5556 Palmer Blvd location: Sarasota, FL 34232"
+    "address": "5556 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Aquarius Silk Screen Inc",
     "description": "Clothing Stores",
     "phone": "(941) 377-3059",
-    "address": "street: 5931 Palmer Blvd location: Sarasota, FL 34232"
+    "address": "5931 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Premier Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 751-0919",
-    "address": "street: 1176 Whitfield Ave location: Sarasota, FL 34243"
+    "address": "1176 Whitfield Ave  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "S.A. Elite",
     "description": "Clothing Stores",
     "phone": "(941) 358-8684",
-    "address": "street: 147 N Cattlemen Rd location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Macy's",
-    "description": "Clothing Stores",
-    "phone": "(941) 232-7300",
-    "address": "street: 110 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "147 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Suncoast Embroidery & Tees",
     "description": "Clothing Stores",
     "phone": "(941) 378-3111",
-    "address": "street: 5405 Cork Oak St location: Sarasota, FL 34232"
+    "address": "5405 Cork Oak St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Calzedonia",
     "description": "Clothing Stores",
     "phone": "(941) 667-2396",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "White House | Black Market",
-    "description": "Clothing Stores",
-    "phone": "(941) 232-7795",
-    "address": "street: 140 University Town Center Dr Unit 231 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Brooks Brothers",
     "description": "Clothing Stores",
     "phone": "(941) 702-9110",
-    "address": "street: 140 University Town Center Dr Unit 228 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 228  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Forever 21",
     "description": "Clothing Stores",
     "phone": "(941) 554-5481",
-    "address": "street: 140 University Town Center Dr Unit 215 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-0507",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 215  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Oakley Store",
     "description": "Clothing Stores",
     "phone": "(941) 702-9932",
-    "address": "street: 140 University Town Center Dr Unit 214 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 214  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Journeys",
     "description": "Clothing Stores",
     "phone": "(941) 702-9665",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Everything But Water",
-    "description": "Clothing Stores",
-    "phone": "(941) 487-2765",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Clothing Stores",
-    "phone": "(941) 702-9660",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Oshkosh B'Gosh",
     "description": "Clothing Stores",
     "phone": "(941) 259-0101",
-    "address": "street: 140 University Town Center Dr Unit 210 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 210  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Athleta",
     "description": "Clothing Stores",
     "phone": "(941) 667-2052",
-    "address": "street: 140 University Town Center Dr Unit 136 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 136  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Lucky Brand Jeans",
     "description": "Clothing Stores",
     "phone": "(941) 893-1180",
-    "address": "street: 140 University Town Center Dr Unit 266 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Cache",
-    "description": "Clothing Stores",
-    "phone": "(941) 313-7144",
-    "address": "street: 140 University Town Center Dr Unit 144 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 266  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Robert Graham Sarasota",
     "description": "Clothing Stores",
     "phone": "(941) 529-1911",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "BOSS Menswear Store",
     "description": "Clothing Stores",
     "phone": "(941) 536-9000",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Cotton On Kids",
     "description": "Clothing Stores",
     "phone": "(941) 278-8882",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "FP Movement",
     "description": "Clothing Stores",
     "phone": "(941) 279-3979",
-    "address": "street: 140 University Town Center Dr Unit 248 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Forever 21",
-    "description": "Clothing Stores",
-    "phone": "(941) 893-3611",
-    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "140 University Town Center Dr Unit 248  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Aquarius Graphics",
     "description": "Clothing Stores",
     "phone": "(941) 981-2623",
-    "address": "street: 5931 Palmer Blvd location: Sarasota, FL 34232"
+    "address": "5931 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Stark Enterprises Inc",
     "description": "Clothing Stores",
     "phone": "(941) 341-0319",
-    "address": "street: 2555 Porter Lake Dr location: Sarasota, FL 34240"
+    "address": "2555 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Lotus Boutique",
     "description": "Clothing Stores",
     "phone": "(941) 346-6793",
-    "address": "street: 5118 Ocean Blvd location: Sarasota, FL 34242"
+    "address": "5118 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Beach Bazaar",
     "description": "Clothing Stores",
     "phone": "(941) 346-2995",
-    "address": "street: 5211 Ocean Blvd location: Sarasota, FL 34242"
-  },
-  {
-    "name": "Beach Bazaar",
-    "description": "Clothing Stores",
-    "phone": "(941) 346-7712",
-    "address": "street: 5212 Ocean Blvd Ste 6 location: Sarasota, FL 34242"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Clothing Stores",
-    "phone": "(941) 343-2948",
-    "address": "street: Siesta Village Plaza 5118 Ocean Boulevard location: Sarasota, FL 34242"
+    "address": "5211 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Bealls",
     "description": "Clothing Stores",
     "phone": "(941) 371-4064",
-    "address": "street: 4084 Cattlemen Rd location: Sarasota, FL 34233"
+    "address": "4084 Cattlemen Rd  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Bealls Outlet Stores",
     "description": "Clothing Stores",
     "phone": "(941) 371-4064",
-    "address": "street: 4084 Cattlemen Rd location: Sarasota, FL 34233"
-  },
-  {
-    "name": "S.A. Elite",
-    "description": "Clothing Stores",
-    "phone": "(941) 377-4301",
-    "address": "street: 4092 Cattlemen Rd location: Sarasota, FL 34233"
+    "address": "4084 Cattlemen Rd  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Sarasota Messenger Imprin",
     "description": "Clothing Stores",
     "phone": "(941) 924-4945",
-    "address": "street: 4662 Ashton Rd location: Sarasota, FL 34233"
+    "address": "4662 Ashton Rd  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Lola Monroe",
     "description": "Clothing Stores",
     "phone": "(888) 822-5652",
-    "address": "street: 5429 University Pkwy # 1059 location: University Park, FL 34201"
+    "address": "5429 University Pkwy # 1059  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Marshalls",
     "description": "Clothing Stores",
     "phone": "(941) 359-6828",
-    "address": "street: 8467 Cooper Creek Blvd location: University Park, FL 34201"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(941) 351-8695",
-    "address": "street: 8249 Cooper Creek Blvd location: University Park, FL 34201"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 360-2820",
-    "address": "street: 8213 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8467 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "The Children's Place",
     "description": "Clothing Stores",
     "phone": "(941) 351-2769",
-    "address": "street: 8127 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8127 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Ross Dress for Less",
     "description": "Clothing Stores",
     "phone": "(941) 355-4184",
-    "address": "street: 8123 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8123 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Creative Native",
     "description": "Clothing Stores",
     "phone": "(941) 756-5659",
-    "address": "street: 6160 15th St E location: Bradenton, FL 34203"
+    "address": "6160 15th St E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Kickz N Lidz",
     "description": "Clothing Stores",
     "phone": "(941) 748-5455",
-    "address": "street: 6710 71st St E location: Bradenton, FL 34203"
+    "address": "6710 71st St E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Latino's Fashion",
     "description": "Clothing Stores",
     "phone": "(941) 755-2132",
-    "address": "street: 1239 60th Ave W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "J.McLaughlin",
-    "description": "Clothing Stores",
-    "phone": "(941) 960-2071",
-    "address": "street: 515 Bay Isles Pkwy location: Longboat Key, FL 34228"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(941) 388-0507",
-    "address": "street: 8141 Lakewood Main St location: Lakewood Ranch, FL 34202"
+    "address": "1239 60th Ave W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "Main Street Bazaar",
     "description": "Clothing Stores",
     "phone": "(941) 907-3456",
-    "address": "street: 8111 Lakewood Main St location: Lakewood Ranch, FL 34202"
+    "address": "8111 Lakewood Main St  Lakewood Ranch, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "Teez By Design",
     "description": "Clothing Stores",
     "phone": "(941) 745-2257",
-    "address": "street: 5266 Office Park Blvd location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 755-7884",
-    "address": "street: 5838 14th St W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 755-7884",
-    "address": "street: 5838 14th St W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Ross Dress for Less",
-    "description": "Clothing Stores",
-    "phone": "(941) 922-4401",
-    "address": "street: 6569 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "5266 Office Park Blvd  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Catherines Plus Sizes",
     "description": "Clothing Stores",
     "phone": "(941) 444-8841",
-    "address": "street: 6571B S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "6571B S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Splash Sun & Fun",
     "description": "Clothing Stores",
     "phone": "(941) 923-1003",
-    "address": "street: 6508 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "6508 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "A&A Baby & Beach Rentals",
     "description": "Clothing Stores",
     "phone": "(941) 921-7688",
-    "address": "street: 3247 Rowena St location: Sarasota, FL 34231"
+    "address": "3247 Rowena St  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Rocketman Shop Old School Head shop",
     "description": "Clothing Stores",
     "phone": "(941) 923-2096",
-    "address": "street: 2635 Mall Dr location: Sarasota, FL 34231"
+    "address": "2635 Mall Dr  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Rumor Has It",
     "description": "Clothing Stores",
     "phone": "(941) 343-2229",
-    "address": "street: 6549 Superior Ave location: Sarasota, FL 34231"
+    "address": "6549 Superior Ave  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Superiortees",
     "description": "Clothing Stores",
     "phone": "(941) 921-9286",
-    "address": "street: 4557 Clark Rd location: Sarasota, FL 34233"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-2745",
-    "address": "street: 6507 S Tamiami Trl location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-1567",
-    "address": "street: 6555 S Tamiami Trl location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Marshalls",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-6641",
-    "address": "street: 6561 S Tamiami Trl location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-6294",
-    "address": "street: 6571 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4557 Clark Rd  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "SKECHERS Warehouse Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 306-2925",
-    "address": "street: 6583 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "6583 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Earsound Customs",
     "description": "Clothing Stores",
     "phone": "(941) 922-0201",
-    "address": "street: 2170 Gulf Gate Dr location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(941) 924-9151",
-    "address": "street: 6260 McIntosh Rd location: Sarasota, FL 34238"
+    "address": "2170 Gulf Gate Dr  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Veith & Associates Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 378-5694",
-    "address": "street: 201 Field End St location: Sarasota, FL 34240"
+    "address": "201 Field End St  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Sarah Louise Inc",
     "description": "Clothing Stores",
     "phone": "(941) 377-9656",
-    "address": "street: 128 Sarasota Center Blvd location: Sarasota, FL 34240"
+    "address": "128 Sarasota Center Blvd  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Sunshine Thrifts Stores of Bradenton, Inc.",
     "description": "Clothing Stores",
     "phone": "(941) 281-2940",
-    "address": "street: 3611 1st St Ste 230 location: Bradenton, FL 34208"
+    "address": "3611 1st St Ste 230  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Eye Care Family Vision Center",
     "description": "Clothing Stores",
     "phone": "(941) 753-2020",
-    "address": "street: 6156 State Road 70 E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 750-9419",
-    "address": "street: 2100 47th Ter E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 752-8987",
-    "address": "street: 7365 52nd Pl E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Catherines Plus Sizes",
-    "description": "Clothing Stores",
-    "phone": "(941) 755-8657",
-    "address": "street: 7369 52nd Pl E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(941) 752-3642",
-    "address": "street: 7379 52nd Pl E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 752-3642",
-    "address": "street: 7379 52nd Pl E location: Bradenton, FL 34203"
+    "address": "6156 State Road 70 E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "The Scrub Club",
     "description": "Clothing Stores",
     "phone": "(941) 755-9669",
-    "address": "street: 8527 State Road 70 E location: Bradenton, FL 34202"
+    "address": "8527 State Road 70 E  Bradenton, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "Outlet Centrl Fulfill",
     "description": "Clothing Stores",
     "phone": "(941) 752-8987",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Team Edition Apparel",
     "description": "Clothing Stores",
     "phone": "(941) 747-5300",
-    "address": "street: 4208 19th Street Ct E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "S.A. Elite",
-    "description": "Clothing Stores",
-    "phone": "(941) 752-0331",
-    "address": "street: 201 Cortez Rd W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(941) 727-7441",
-    "address": "street: 865 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "4208 19th Street Ct E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Looking Good",
     "description": "Clothing Stores",
     "phone": "(941) 747-0103",
-    "address": "street: 3611 1st St location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Journeys",
-    "description": "Clothing Stores",
-    "phone": "(941) 746-9106",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "3611 1st St  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Gentlemen's Choice",
     "description": "Clothing Stores",
     "phone": "(941) 747-4170",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Creations D K D A",
     "description": "Clothing Stores",
     "phone": "(941) 746-1698",
-    "address": "street: 303 301 Blvd W Ste E location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W Ste E  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "JCPenney",
     "description": "Clothing Stores",
     "phone": "(941) 747-6411",
-    "address": "street: 303 301 Blvd W Ste 701 location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W Ste 701  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Sears",
     "description": "Clothing Stores",
     "phone": "(941) 745-3313",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Ross Dress for Less",
-    "description": "Clothing Stores",
-    "phone": "(941) 739-6616",
-    "address": "street: 835 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "The Chameleon",
     "description": "Clothing Stores",
     "phone": "(941) 747-4477",
-    "address": "street: 2801 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "2801 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Custom Designs by Victoria LLC",
     "description": "Clothing Stores",
     "phone": "(941) 225-9678",
-    "address": "street: 529 13th St W Ste 106 location: Bradenton, FL 34205"
-  },
-  {
-    "name": "The Children's Place",
-    "description": "Clothing Stores",
-    "phone": "(941) 927-2440",
-    "address": "street: 8201 S Tamiami Trl Space A-37a location: Sarasota, FL 34238"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-7911",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Journeys",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-9847",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(941) 921-7911",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "529 13th St W Ste 106  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Wet Seal",
     "description": "Clothing Stores",
     "phone": "(941) 923-6749",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Justice",
     "description": "Clothing Stores",
     "phone": "(941) 926-8655",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Wall Street For Men",
     "description": "Clothing Stores",
     "phone": "(941) 927-1501",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Macy's",
-    "description": "Clothing Stores",
-    "phone": "(941) 925-5300",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Torrid",
     "description": "Clothing Stores",
     "phone": "(941) 921-3582",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "D212",
     "description": "Clothing Stores",
     "phone": "(941) 921-3583",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Forever 21",
-    "description": "Clothing Stores",
-    "phone": "(941) 922-0403",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "S.A. Elite",
-    "description": "Clothing Stores",
-    "phone": "(941) 966-1917",
-    "address": "street: 8372 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Kohl's",
     "description": "Clothing Stores",
     "phone": "(941) 966-3231",
-    "address": "street: 3950 Central Sarasota Pkwy location: Sarasota, FL 34238"
+    "address": "3950 Central Sarasota Pkwy  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "S & R Uniforms",
     "description": "Clothing Stores",
     "phone": "(941) 748-1245",
-    "address": "street: 1833 Tamiami Trl location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-2519",
-    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "1833 Tamiami Trl  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Bealls Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 761-2519",
-    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-2519",
-    "address": "street: 4902 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "4902 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "Longboat Resort Wear",
     "description": "Clothing Stores",
     "phone": "(941) 383-9320",
-    "address": "street: 5380 Gulf Of Mexico Dr location: Longboat Key, FL 34228"
+    "address": "5380 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Hardee"
   },
   {
     "name": "Sand Dollar Gift Shop Inc",
     "description": "Clothing Stores",
     "phone": "(941) 778-2024",
-    "address": "street: 1806 28th St W location: Bradenton, FL 34205"
+    "address": "1806 28th St W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Russell's Western Wear",
     "description": "Clothing Stores",
     "phone": "(941) 621-6607",
-    "address": "street: 4422 E State Road 64 location: Bradenton, FL 34208"
+    "address": "4422 E State Road 64  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Sasshole Clothing",
     "description": "Clothing Stores",
     "phone": "(800) 518-2615",
-    "address": "street: 1201 6th Ave W location: Bradenton, FL 34205"
+    "address": "1201 6th Ave W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Madeline's Boutique",
     "description": "Clothing Stores",
     "phone": "(941) 242-5924",
-    "address": "street: 1304 6th Ave W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Marshalls",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-1972",
-    "address": "street: 7250 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "1304 6th Ave W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Better Vision Family Eye Care",
     "description": "Clothing Stores",
     "phone": "(941) 744-0791",
-    "address": "street: 8457 Heritage Green Way location: Bradenton, FL 34212"
+    "address": "8457 Heritage Green Way  Bradenton, FL 34212",
+    "location": "Hardee"
   },
   {
     "name": "Ocean Breezes Design",
     "description": "Clothing Stores",
     "phone": "(941) 792-9700",
-    "address": "street: 7832 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "7832 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "Beachy Boho Life By Elizabeth",
     "description": "Clothing Stores",
     "phone": "(941) 400-5188",
-    "address": "street: 302 28th St W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 746-3288",
-    "address": "street: 3905 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "302 28th St W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "We Are One World",
     "description": "Clothing Stores",
     "phone": "(941) 718-3258",
-    "address": "street: 1707 1st St E location: Bradenton, FL 34208"
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Lily Bliss Boutique",
     "description": "Clothing Stores",
     "phone": "(941) 567-4093",
-    "address": "street: 5917 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-1606",
-    "address": "street: 6355 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(941) 761-1606",
-    "address": "street: 6355 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 794-0981",
-    "address": "street: 7212 Manatee Ave W location: Bradenton, FL 34209"
+    "address": "5917 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Hardee"
   },
   {
     "name": "One Way Apparel Promotions",
     "description": "Clothing Stores",
     "phone": "(941) 729-3660",
-    "address": "street: 1500 15th Avenue Dr E Unit 105 location: Palmetto, FL 34221"
+    "address": "1500 15th Avenue Dr E Unit 105  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "One Source Medical Wear Inc",
     "description": "Clothing Stores",
     "phone": "(941) 721-7003",
-    "address": "street: 1407 20th Ave E location: Palmetto, FL 34221"
+    "address": "1407 20th Ave E  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "Tip Toe Designs",
     "description": "Clothing Stores",
     "phone": "(813) 359-7222",
-    "address": "street: 135 12th Street Ct W location: Palmetto, FL 34221"
-  },
-  {
-    "name": "Kmart",
-    "description": "Clothing Stores",
-    "phone": "(941) 792-1223",
-    "address": "street: 7350 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(941) 231-2572",
-    "address": "street: 7370 Manatee Ave W Ste 1 location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Kmart",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-3711",
-    "address": "street: 6126 Us Highway 301 N location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(941) 723-7430",
-    "address": "street: 6242 Us Highway 301 N location: Ellenton, FL 34222"
-  },
-  {
-    "name": "The Children's Place",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-3085",
-    "address": "street: 5233 Factory Shops Blvd Unit 730 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Chico's",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-1278",
-    "address": "street: 5303 Factory Shops Blvd Ste 500 location: Ellenton, FL 34222"
+    "address": "135 12th Street Ct W  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "Hurley Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 729-1606",
-    "address": "street: 5405 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5405 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Outlet Market Place",
     "description": "Clothing Stores",
     "phone": "(941) 729-4533",
-    "address": "street: 5391 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Izod",
     "description": "Clothing Stores",
     "phone": "(941) 729-6218",
-    "address": "street: 5387 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5387 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Lee Wrangler Clearance Center",
     "description": "Clothing Stores",
     "phone": "(941) 729-4533",
-    "address": "street: 5391 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Van Heusen",
     "description": "Clothing Stores",
     "phone": "(941) 729-6218",
-    "address": "street: 5387 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5387 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "New York & Company",
     "description": "Clothing Stores",
     "phone": "(941) 722-1081",
-    "address": "street: 5431 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Oshkosh B'Gosh",
-    "description": "Clothing Stores",
-    "phone": "(941) 723-1511",
-    "address": "street: 5455 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5431 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Polo Ralph Lauren Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 721-0695",
-    "address": "street: 5461 Factory Shops Blvd Ste 480 location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd Ste 480  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Kenneth Cole",
     "description": "Clothing Stores",
     "phone": "(941) 721-9400",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Dkny",
     "description": "Clothing Stores",
     "phone": "(941) 722-4763",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Express Factory Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 531-2990",
-    "address": "street: 5503 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Justice",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-5244",
-    "address": "street: 5525 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5503 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Cole Haan Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 721-8329",
-    "address": "street: 5569 Factory Shops Blvd Spc 285 location: Ellenton, FL 34222"
+    "address": "5569 Factory Shops Blvd Spc 285  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Cole Haan",
     "description": "Clothing Stores",
     "phone": "(941) 721-8329",
-    "address": "street: 5569 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5569 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Columbia Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 721-6481",
-    "address": "street: 5661 Factory Shops Blvd # 470 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Brooks Brothers",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-8944",
-    "address": "street: 5593 Factory Shops Blvd Spc 325 location: Ellenton, FL 34222"
+    "address": "5661 Factory Shops Blvd # 470  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "COACH Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 729-7702",
-    "address": "street: 5601 Factory Shops Blvd Spc 400 location: Ellenton, FL 34222"
+    "address": "5601 Factory Shops Blvd Spc 400  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Brooks Brothers Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 729-8944",
-    "address": "street: 5593 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5593 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Coach Factory Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 729-7702",
-    "address": "street: 5601 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5601 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Lucky Brand",
     "description": "Clothing Stores",
     "phone": "(941) 721-8103",
-    "address": "street: 5625 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "White House | Black Market",
-    "description": "Clothing Stores",
-    "phone": "(941) 729-3793",
-    "address": "street: 5621 Factory Shops Blvd Ste B425 location: Ellenton, FL 34222"
+    "address": "5625 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "GUESS Factory",
     "description": "Clothing Stores",
     "phone": "(941) 721-1955",
-    "address": "street: 5645 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5645 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Clarks Bostonian Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 722-2828",
-    "address": "street: 5629 Factory Shops Blvd Ste 108 location: Ellenton, FL 34222"
+    "address": "5629 Factory Shops Blvd Ste 108  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Nike Factory Store - Ellenton",
     "description": "Clothing Stores",
     "phone": "(941) 722-0096",
-    "address": "street: 5195 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Journeys",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-4658",
-    "address": "street: 5181 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5195 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Aerie",
     "description": "Clothing Stores",
     "phone": "(941) 981-6310",
-    "address": "street: 5173 Factory Shops Blvd Spc 850 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Aéropostale",
-    "description": "Clothing Stores",
-    "phone": "(941) 721-6306",
-    "address": "street: 5109 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5173 Factory Shops Blvd Spc 850  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "PacSun Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 721-4418",
-    "address": "street: 5189 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5189 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Gap Factory",
     "description": "Clothing Stores",
     "phone": "(941) 722-1992",
-    "address": "street: 5141 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5141 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Puma Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 722-7999",
-    "address": "street: 5157 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5157 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Aeropostale Factory Store",
     "description": "Clothing Stores",
     "phone": "(941) 721-6306",
-    "address": "street: 5109 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5109 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Haggar Outlet Store",
     "description": "Clothing Stores",
     "phone": "(941) 729-7985",
-    "address": "street: 5183 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5183 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Skechers Factory Outlet",
     "description": "Clothing Stores",
     "phone": "(941) 722-6700",
-    "address": "street: 5125 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5125 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Zumiez",
     "description": "Clothing Stores",
     "phone": "(941) 538-5377",
-    "address": "street: 5113 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Van Heusen",
-    "description": "Clothing Stores",
-    "phone": "(941) 722-0573",
-    "address": "street: 5165 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5113 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Swim Mart",
     "description": "Clothing Stores",
     "phone": "(941) 721-8924",
-    "address": "street: 5923 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Loft",
-    "description": "Clothing Stores",
-    "phone": "(941) 723-6713",
-    "address": "street: 5460 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5923 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Howluckyami",
     "description": "Clothing Stores",
     "phone": "(941) 896-5598",
-    "address": "street: 119 Bridge St location: Bradenton Beach, FL 34217"
-  },
-  {
-    "name": "Marshalls",
-    "description": "Clothing Stores",
-    "phone": "(941) 776-0275",
-    "address": "street: 8830 Us Highway 301 N location: Parrish, FL 34219"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(941) 254-3562",
-    "address": "street: 8850 Us Highway 301 N location: Parrish, FL 34219"
+    "address": "119 Bridge St  Bradenton Beach, FL 34217",
+    "location": "Hardee"
   },
   {
     "name": "Avenue Garage Inc",
     "description": "Clothing Stores",
     "phone": "(941) 421-3717",
-    "address": "street: 4138 Electric Way location: Port Charlotte, FL 33980"
+    "address": "4138 Electric Way  Port Charlotte, FL 33980",
+    "location": "Hardee"
   },
   {
     "name": "Oh My Gauze",
     "description": "Women's Clothing",
     "phone": "(941) 342-4992",
-    "address": "street: 2446 19th St location: Sarasota, FL 34234"
+    "address": "2446 19th St  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "J Phillip Apparel",
     "description": "Women's Clothing",
     "phone": "(941) 954-8933",
-    "address": "street: 2401 15th St location: Sarasota, FL 34237"
+    "address": "2401 15th St  Sarasota, FL 34237",
+    "location": "Hardee"
   },
   {
     "name": "Dollar Daze of Sarasota Inc",
     "description": "Variety Stores",
     "phone": "(941) 217-6549",
-    "address": "street: 1175 N Washington Blvd location: Sarasota, FL 34236"
+    "address": "1175 N Washington Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Mary's Discount Inc",
     "description": "Discount Stores",
     "phone": "(941) 366-1762",
-    "address": "street: 1155 N Washington Blvd location: Sarasota, FL 34236"
+    "address": "1155 N Washington Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "First Lady Botique",
     "description": "Boutique Items",
     "phone": "(941) 312-5565",
-    "address": "street: 1709 Chrysler Ave location: Sarasota, FL 34234"
+    "address": "1709 Chrysler Ave  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "The Island Cabana",
     "description": "Gift Shops",
     "phone": "(941) 896-4946",
-    "address": "street: 403 C Pine Avenue location: Anna Maria, FL 34216"
+    "address": "403 C Pine Avenue  Anna Maria, FL 34216",
+    "location": "Hardee"
   },
   {
     "name": "Samba",
     "description": "Women's Clothing",
     "phone": "(941) 953-3505",
-    "address": "street: 1652 Main St location: Sarasota, FL 34236"
+    "address": "1652 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Town & Country Industries",
     "description": "Aluminum Products",
     "phone": "(941) 355-7627",
-    "address": "street: 2320 Industrial Blvd location: Sarasota, FL 34234"
+    "address": "2320 Industrial Blvd  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Azuma",
     "description": "Women's Clothing",
     "phone": "(941) 358-3388",
-    "address": "street: 4366 Independence Ct location: Sarasota, FL 34234"
+    "address": "4366 Independence Ct  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "J & J Apparel",
     "description": "Women's Clothing",
     "phone": "(941) 360-6685",
-    "address": "street: 2201 Industrial Blvd location: Sarasota, FL 34234"
+    "address": "2201 Industrial Blvd  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Men's Wearhouse",
     "description": "Men's Clothing",
     "phone": "(941) 362-0611",
-    "address": "street: 1507 Tamiami Trl location: Sarasota, FL 34239"
+    "address": "1507 Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Designing Women Boutique",
     "description": "Consignment Service",
     "phone": "(941) 366-5293",
-    "address": "street: 1226 N Tamiami Trl Ste 101 location: Sarasota, FL 34236"
+    "address": "1226 N Tamiami Trl Ste 101  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "West Marine",
     "description": "Boat Equipment & Supplies",
     "phone": "(941) 351-3431",
-    "address": "street: 3140 N Tamiami Trl location: Sarasota, FL 34234"
+    "address": "3140 N Tamiami Trl  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Aliki Yamani Creations",
     "description": "Women's Clothing",
     "phone": "(941) 957-6499",
-    "address": "street: 1662 Main St location: Sarasota, FL 34236"
+    "address": "1662 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Expression of Fashion",
     "description": "Women's Clothing",
     "phone": "(941) 365-9440",
-    "address": "street: 3327 Ramblewood Way location: Sarasota, FL 34237"
+    "address": "3327 Ramblewood Way  Sarasota, FL 34237",
+    "location": "Hardee"
   },
   {
     "name": "The Girl From Brazil",
     "description": "Women's Clothing",
     "phone": "(941) 350-4633",
-    "address": "street: 1650 Main St location: Sarasota, FL 34236"
+    "address": "1650 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Martin Aluminum",
     "description": "Aluminum Products",
     "phone": "(941) 953-9890",
-    "address": "street: 1701 Ringling Blvd location: Sarasota, FL 34236"
+    "address": "1701 Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Dr. Ann Taylor Roman, Counseling and Clinical Psychology",
     "description": "Women's Clothing",
     "phone": "(941) 951-7516",
-    "address": "street: 315 Julia Pl location: Sarasota, FL 34236"
+    "address": "315 Julia Pl  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Eileen Fisher",
     "description": "Women's Clothing",
     "phone": "(941) 365-2435",
-    "address": "street: 1501 Main St location: Sarasota, FL 34236"
+    "address": "1501 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Eileen Fisher Store",
     "description": "Women's Clothing",
     "phone": "(941) 365-2435",
-    "address": "street: 1501 Main St location: Sarasota, FL 34236"
+    "address": "1501 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Juno & Jove",
     "description": "Department Stores",
     "phone": "(941) 957-0000",
-    "address": "street: 1425 1st St location: Sarasota, FL 34236"
+    "address": "1425 1st St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "LaBella Intimates & Boutique",
     "description": "Bras",
     "phone": "(941) 366-4477",
-    "address": "street: 1415 1st St location: Sarasota, FL 34236"
+    "address": "1415 1st St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Patchington",
     "description": "Women's Clothing",
     "phone": "(941) 822-0844",
-    "address": "street: 1467 Main St location: Sarasota, FL 34236"
+    "address": "1467 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Evelyn & Arthur",
     "description": "Women's Clothing",
     "phone": "(941) 365-2210",
-    "address": "street: 1480 Main St location: Sarasota, FL 34236"
+    "address": "1480 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Jake's Downtown",
     "description": "Department Stores",
     "phone": "(941) 955-5253",
-    "address": "street: 1463 Main St location: Sarasota, FL 34236"
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Lotus",
     "description": "Boutique Items",
     "phone": "(941) 906-7080",
-    "address": "street: 1451 Main St location: Sarasota, FL 34236"
+    "address": "1451 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "PJ's Boutique",
     "description": "Women's Clothing",
     "phone": "(941) 366-3900",
-    "address": "street: 1443 Main St location: Sarasota, FL 34236"
+    "address": "1443 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Wearable Art",
     "description": "Women's Clothing",
     "phone": "(941) 957-0105",
-    "address": "street: 1424 State St location: Sarasota, FL 34236"
+    "address": "1424 State St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Sunshine Apparel Of Sarasota",
     "description": "Sportswear-Wholesale & Manufacturers",
     "phone": "(941) 351-3308",
-    "address": "street: 1816 57th St location: Sarasota, FL 34243"
+    "address": "1816 57th St  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Juno & Jove Inc",
     "description": "Department Stores",
     "phone": "(941) 953-9500",
-    "address": "street: 1343 Main St location: Sarasota, FL 34236"
+    "address": "1343 Main St  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Lululemon",
     "description": "Sportswear",
     "phone": "(941) 366-6856",
-    "address": "street: 330 S Pineapple Ave location: Sarasota, FL 34236"
+    "address": "330 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Rahelia Couture",
     "description": "Boutique Items",
     "phone": "(941) 300-1600",
-    "address": "street: 1420 Ringling Blvd, location: Sarasota, FL 34236"
+    "address": "1420 Ringling Blvd,  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Latelier F",
     "description": "Women's Clothing",
     "phone": "(941) 366-1000",
-    "address": "street: 538 S Pineapple Ave location: Sarasota, FL 34236"
+    "address": "538 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Clever Rose",
     "description": "Women's Clothing",
     "phone": "(941) 321-4628",
-    "address": "street: 533 S Pineapple Ave location: Sarasota, FL 34236"
+    "address": "533 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Fleet Feet Sports",
     "description": "Shoe Stores",
     "phone": "(941) 894-3338",
-    "address": "street: 711 S Osprey Ave Ste 1 location: Sarasota, FL 34236"
+    "address": "711 S Osprey Ave Ste 1  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Ann Taylor Roman",
     "description": "Women's Clothing",
     "phone": "(941) 735-4975",
-    "address": "street: 766 S Osprey Ave location: Sarasota, FL 34236"
+    "address": "766 S Osprey Ave  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Bealls Florida",
     "description": "Home Furnishings",
     "phone": "(941) 953-4505",
-    "address": "street: 501 N Beneva Rd location: Sarasota, FL 34232"
+    "address": "501 N Beneva Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Apricot Lane Boutique",
     "description": "Women's Clothing",
     "phone": "(941) 960-1435",
-    "address": "street: 464 John Ringling Boulevard St. Armand S Circle location: Sarasota, FL 34236"
-  },
-  {
-    "name": "SCREEN PRINTING OF SWFL",
-    "description": "Heat Transfer Materials",
-    "phone": "(941) 404-8677",
-    "address": "street: N/A location: englewood, FL 34224"
-  },
-  {
-    "name": "Western Stylin', Inc",
-    "description": "Western Apparel & Supplies",
-    "phone": "(863) 990-3416",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Big",
-    "description": "Sporting Goods",
-    "phone": "N/A",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Mikki C. Designs",
-    "description": "Women's Clothing",
-    "phone": "(866) 416-6840",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "The Real Forgotten Woman",
-    "description": "Women's Clothing",
-    "phone": "(855) 254-7386",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Francesca's",
-    "description": "Women's Clothing",
-    "phone": "(941) 803-3001",
-    "address": "street: N/A location: N/A"
+    "address": "464 John Ringling Boulevard St. Armand S Circle  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Victoria's Secret",
     "description": "Lingerie",
     "phone": "(941) 365-1437",
-    "address": "street: 114 Golden Gate Pt location: Sarasota, FL 34236"
+    "address": "114 Golden Gate Pt  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Eilieen Fisher",
     "description": "Women's Clothing",
     "phone": "(941) 952-3605",
-    "address": "street: 5033 Eastchester Dr location: Sarasota, FL 34234"
+    "address": "5033 Eastchester Dr  Sarasota, FL 34234",
+    "location": "Hardee"
   },
   {
     "name": "Velella Reasearch Inc",
     "description": "Women's Clothing",
     "phone": "(941) 953-1948",
-    "address": "street: 2750 Bahia Vista St Ste 134 location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Men's Wearhouse",
-    "description": "Men's Clothing",
-    "phone": "(941) 362-0611",
-    "address": "street: 1507 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "2750 Bahia Vista St Ste 134  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Sears Outlet",
     "description": "Discount Stores",
     "phone": "(941) 355-8331",
-    "address": "street: 8333 Lockwood Ridge Rd location: Sarasota, FL 34243"
+    "address": "8333 Lockwood Ridge Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Supercenter",
     "description": "General Merchandise",
     "phone": "(941) 351-6969",
-    "address": "street: 8320 Lockwood Ridge Rd location: Sarasota, FL 34243"
+    "address": "8320 Lockwood Ridge Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Willow506",
     "description": "Women's Clothing",
     "phone": "(941) 955-5506",
-    "address": "street: 1821 Hillview St location: Sarasota, FL 34239"
+    "address": "1821 Hillview St  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Tina's On Osprey",
     "description": "Boutique Items",
     "phone": "(941) 366-1555",
-    "address": "street: 1907 S Osprey Ave location: Sarasota, FL 34239"
+    "address": "1907 S Osprey Ave  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Designer Consigner of Sarasota",
     "description": "Consignment Service",
     "phone": "(941) 953-5995",
-    "address": "street: 3639 Bahia Vista St location: Sarasota, FL 34232"
+    "address": "3639 Bahia Vista St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Pine Craft Discount Market",
     "description": "Department Stores",
     "phone": "(941) 260-9046",
-    "address": "street: 3667 Bahia Vista St location: Sarasota, FL 34232"
+    "address": "3667 Bahia Vista St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Good As New Consignment & Brdl",
     "description": "Consignment Service",
     "phone": "(941) 366-1234",
-    "address": "street: 1273 Beneva Rd Fl 34232 location: Sarasota, FL 34232"
+    "address": "1273 Beneva Rd Fl 34232  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "GOOD AS NEW CONSIGNMENT AND BRIDAL SHOPPE",
     "description": "Bridal Shops",
     "phone": "(941) 366-1234",
-    "address": "street: 1273 Beneva Rd location: Sarasota, FL 34232"
+    "address": "1273 Beneva Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Soma Intimates",
     "description": "Lingerie",
     "phone": "(941) 951-0326",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Laura Jean's",
     "description": "Consignment Service",
     "phone": "(941) 922-5535",
-    "address": "street: 3830 S Tuttle Ave location: Sarasota, FL 34239"
+    "address": "3830 S Tuttle Ave  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Target",
     "description": "General Merchandise",
     "phone": "(941) 379-6660",
-    "address": "street: 5350 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "5350 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Montgomery Ward",
     "description": "Department Stores",
     "phone": "(941) 360-9262",
-    "address": "street: 1703 Tallevast Rd location: Sarasota, FL 34243"
+    "address": "1703 Tallevast Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Butterfly Boutique",
     "description": "Boutique Items",
     "phone": "(941) 706-1333",
-    "address": "street: 7652 Lockwood Ridge Rd location: Sarasota, FL 34243"
+    "address": "7652 Lockwood Ridge Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Oh My Gauze of Wisconsin Inc",
     "description": "Women's Clothing",
     "phone": "(941) 953-9046",
-    "address": "street: 502 N Spoonbill Dr location: Sarasota, FL 34236"
+    "address": "502 N Spoonbill Dr  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Juraci's Place",
     "description": "Women's Clothing",
     "phone": "(941) 217-5327",
-    "address": "street: 3631 Webber St location: Sarasota, FL 34232"
+    "address": "3631 Webber St  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Unique Wholesale Distr Inc",
     "description": "General Merchandise",
     "phone": "(941) 355-1719",
-    "address": "street: 7509 Pennsylvania Ave location: Sarasota, FL 34243"
+    "address": "7509 Pennsylvania Ave  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Saks Fifth Avenue",
     "description": "Department Stores",
     "phone": "(941) 364-5300",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Champs Sports",
     "description": "Sportswear",
     "phone": "(941) 954-4218",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Finish Line",
     "description": "Shoe Stores",
     "phone": "(941) 329-3300",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(941) 365-1437",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "J. Jill",
     "description": "Women's Clothing",
     "phone": "(941) 955-2873",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Talbots",
     "description": "Women's Clothing",
     "phone": "(941) 952-9100",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Francesca's",
     "description": "Women's Clothing",
     "phone": "(941) 365-1700",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Alexander's",
     "description": "Women's Clothing",
     "phone": "(941) 366-5400",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 951-5200",
-    "address": "street: 3501 S Tamiami Trl location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 953-3639",
-    "address": "street: 747 Southgate Mall location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(941) 954-4218",
-    "address": "street: 129 Southgate Mall location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Talbots",
-    "description": "Women's Clothing",
-    "phone": "(941) 952-9100",
-    "address": "street: 300 Southgate Mall location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Talbots",
-    "description": "Women's Clothing",
-    "phone": "(941) 917-0544",
-    "address": "street: 214 Southgate Mall location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Saks Fifth Avenue",
-    "description": "Department Stores",
-    "phone": "(941) 364-5300",
-    "address": "street: 100 Southgate Mall location: Sarasota, FL 34239"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 953-3909",
-    "address": "street: 90 Southgate Mall location: Sarasota, FL 34239"
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Stylish Benefactor",
     "description": "Women's Clothing",
     "phone": "(877) 310-3817",
-    "address": "street: 4785 Maid Marian Ln location: Sarasota, FL 34232"
+    "address": "4785 Maid Marian Ln  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Daisy Cotton Inc",
     "description": "Women's Clothing",
     "phone": "(941) 925-5833",
-    "address": "street: 3847 S School Ave location: Sarasota, FL 34239"
+    "address": "3847 S School Ave  Sarasota, FL 34239",
+    "location": "Hardee"
   },
   {
     "name": "Flow N Roll Jiu Jitsu Custom Apparel",
     "description": "Sportswear",
     "phone": "(941) 544-8799",
-    "address": "street: 5317 Fruitville Rd Ste 110 location: Sarasota, FL 34232"
+    "address": "5317 Fruitville Rd Ste 110  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "European Alteration By Toni",
     "description": "Clothing Alterations",
     "phone": "(941) 388-1917",
-    "address": "street: 20 S Adams Dr location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Soma Intimates",
-    "description": "Lingerie",
-    "phone": "(941) 388-1704",
-    "address": "street: 443d John Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(941) 924-7383",
-    "address": "street: 3979 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "20 S Adams Dr  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Foxy Lady-West",
     "description": "Women's Clothing",
     "phone": "(941) 388-5239",
-    "address": "street: 481 John Ringling Blvd location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Soma Intimates",
-    "description": "Lingerie",
-    "phone": "(941) 388-1704",
-    "address": "street: 443D John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "481 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Edwin Watts Golf",
     "description": "Golf Equipment & Supplies",
     "phone": "(941) 922-1006",
-    "address": "street: 4014 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4014 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Fresh Produce Sportswear",
     "description": "Sportswear",
     "phone": "(941) 388-1883",
-    "address": "street: 1 N Blvd Of The Presidents location: Sarasota, FL 34236"
+    "address": "1 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Play It Again Sports",
     "description": "Sporting Goods",
     "phone": "(941) 378-1477",
-    "address": "street: 5407 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "5407 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Gia Ventola",
     "description": "Women's Clothing",
     "phone": "(941) 706-0423",
-    "address": "street: 14 S Blvd Of The Presidents location: Sarasota, FL 34236"
+    "address": "14 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Fantasea Coastal Home Inc",
     "description": "Home Furnishings",
     "phone": "(941) 388-3031",
-    "address": "street: 378 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "378 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Dream Weaver",
     "description": "Women's Clothing",
     "phone": "(941) 388-3706",
-    "address": "street: 364 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "364 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Destination Florida",
     "description": "Sportswear",
     "phone": "(941) 388-2119",
-    "address": "street: 370 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "370 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Terra Nova",
     "description": "Women's Clothing",
     "phone": "(941) 388-0410",
-    "address": "street: 353 Saint Armands Cir location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Patchington",
-    "description": "Women's Clothing",
-    "phone": "(941) 388-1603",
-    "address": "street: 386 Saint Armands Cir location: Sarasota, FL 34236"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Women's Clothing",
-    "phone": "(941) 388-3091",
-    "address": "street: 443 Saint Armands Cir location: Sarasota, FL 34236"
+    "address": "353 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Scout & Molly's",
     "description": "Women's Clothing",
     "phone": "(941) 210-4686",
-    "address": "street: 5275 University Pkwy location: University Park, FL 34201"
-  },
-  {
-    "name": "Target",
-    "description": "General Merchandise",
-    "phone": "(941) 360-7520",
-    "address": "street: 101 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "5275 University Pkwy  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Natural Discoveries",
     "description": "Women's Clothing",
     "phone": "(941) 388-1600",
-    "address": "street: 320 John Ringling Blvd location: Sarasota, FL 34236"
+    "address": "320 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Hardee"
   },
   {
     "name": "Mindful Medicinal CBD Dispensary and Spa",
     "description": "Department Stores",
     "phone": "(941) 388-7289",
-    "address": "street: 5483 Fruitville Rd location: Sarasota, FL 34232"
+    "address": "5483 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Casual Male XL",
     "description": "Men's Clothing",
     "phone": "(941) 924-3239",
-    "address": "street: 4130 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4130 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "King James Inc",
     "description": "Women's Clothing",
     "phone": "(941) 922-1873",
-    "address": "street: 4333 S Tamiami Trl location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Men's Wearhouse",
-    "description": "Men's Clothing",
-    "phone": "(941) 351-1631",
-    "address": "street: 243 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "4333 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Adam & Eve",
     "description": "Department Stores",
     "phone": "(941) 203-8651",
-    "address": "street: 4400 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4400 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "JoS. A. Bank",
     "description": "Men's Clothing",
     "phone": "(941) 358-9540",
-    "address": "street: 215 N Cattlemen Rd Ste 56 location: Sarasota, FL 34243"
+    "address": "215 N Cattlemen Rd Ste 56  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Rei",
     "description": "Sporting Goods",
     "phone": "(941) 899-0138",
-    "address": "street: 161 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "161 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Golf Galaxy",
     "description": "Golf Equipment & Supplies",
     "phone": "(941) 351-7945",
-    "address": "street: 143 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "143 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Giggles",
     "description": "Lingerie",
     "phone": "(941) 927-7474",
-    "address": "street: 4407 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4407 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "DressBarn",
     "description": "Women's Clothing",
     "phone": "(941) 355-7238",
-    "address": "street: 119 N Cattlemen Rd location: Sarasota, FL 34243"
+    "address": "119 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Sun & Starsouls Inc",
     "description": "General Merchandise",
     "phone": "(941) 752-8039",
-    "address": "street: 6477 Parkland Dr location: Sarasota, FL 34243"
+    "address": "6477 Parkland Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Motherhood Maternity",
     "description": "Maternity Clothes",
     "phone": "(215) 555-1212",
-    "address": "street: 110 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Saks Fifth Avenue",
-    "description": "Department Stores",
-    "phone": "(941) 364-5300",
-    "address": "street: 120 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "110 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "ZAGG University Town Center",
     "description": "Shoe Stores",
     "phone": "(941) 667-0934",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Madewell",
     "description": "Women's Clothing",
     "phone": "(941) 299-0190",
-    "address": "street: 140 University Town Center Dr Unit 266 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Lululemon",
-    "description": "Sportswear",
-    "phone": "(941) 909-3431",
-    "address": "street: 140 University Town Center Dr Unit 275 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 266  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Anthropologie",
     "description": "Women's Clothing",
     "phone": "(941) 306-4513",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Victoria's Secret & PINK by Victoria's Secret",
     "description": "Lingerie",
     "phone": "(941) 893-3935",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(941) 893-1065",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Foot Locker",
     "description": "Shoe Stores",
     "phone": "(941) 893-3919",
-    "address": "street: 140 University Town Center Dr Unit 208 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Soma Intimates",
-    "description": "Lingerie",
-    "phone": "(941) 907-2904",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 208  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Michael Kors",
     "description": "Women's Clothing",
     "phone": "(941) 527-4200",
-    "address": "street: 140 University Town Center Dr Unit 225 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "J. Jill",
-    "description": "Women's Clothing",
-    "phone": "(941) 893-1060",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 225-8930",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 225  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Vans",
     "description": "Shoe Stores",
     "phone": "(941) 225-6670",
-    "address": "street: 140 University Town Center Dr Unit 168 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Talbots",
-    "description": "Women's Clothing",
-    "phone": "(941) 203-4370",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 168  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "bebe",
     "description": "Women's Clothing",
     "phone": "(941) 702-9926",
-    "address": "street: 140 University Town Center Dr Unit 168 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 168  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "BCBGMAXAZRIA",
     "description": "Women's Clothing",
     "phone": "(941) 281-7008",
-    "address": "street: 140 University Town Center Dr Unit 273 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Francesca's",
-    "description": "Women's Clothing",
-    "phone": "(941) 893-2128",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 273  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Clarks",
     "description": "Women's Clothing",
     "phone": "(941) 893-1080",
-    "address": "street: 140 University Town Center Dr Unit 290 location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 290  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Kate Spade",
     "description": "Women's Clothing",
     "phone": "(941) 866-6591",
-    "address": "street: 140 University Town Center Dr Unit 237 location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Motherhood Maternity",
-    "description": "Maternity Clothes",
-    "phone": "(941) 893-1155",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr Unit 237  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Fabletics",
     "description": "Women's Clothing",
     "phone": "(941) 263-1320",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "Finish Line",
-    "description": "Shoe Stores",
-    "phone": "(941) 232-7300",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Soft Surroundings",
     "description": "Women's Clothing",
     "phone": "(941) 444-3550",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Lids",
     "description": "Hat Shops",
     "phone": "(941) 248-6261",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Johnston & Murphy",
     "description": "Shoe Stores",
     "phone": "(941) 702-9666",
-    "address": "street: 140 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(941) 360-6000",
-    "address": "street: 4708 Tamiami Trl location: Sarasota, FL 34231"
-  },
-  {
-    "name": "Kate Spade",
-    "description": "Women's Clothing",
-    "phone": "(941) 866-6591",
-    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
-  },
-  {
-    "name": "J. Jill",
-    "description": "Women's Clothing",
-    "phone": "(941) 893-1060",
-    "address": "street: 198 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Dillard's",
     "description": "Department Stores",
     "phone": "(941) 527-4878",
-    "address": "street: 200 University Town Center Dr location: Sarasota, FL 34243"
-  },
-  {
-    "name": "JoS. A. Bank",
-    "description": "Men's Clothing",
-    "phone": "(941) 554-0310",
-    "address": "street: 215 Cattlemen Rd location: Sarasota, FL 34232"
-  },
-  {
-    "name": "Men's Wearhouse",
-    "description": "Men's Clothing",
-    "phone": "(941) 351-1631",
-    "address": "street: 243 University Town Center Dr location: Sarasota, FL 34243"
+    "address": "200 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Hardee"
   },
   {
     "name": "Libra Usa",
     "description": "Department Stores",
     "phone": "(941) 371-2992",
-    "address": "street: 4081 Taggart Cay N location: Sarasota, FL 34233"
+    "address": "4081 Taggart Cay N  Sarasota, FL 34233",
+    "location": "Hardee"
   },
   {
     "name": "Draper's & Damon's",
     "description": "Women's Clothing",
     "phone": "(941) 921-3717",
-    "address": "street: 4820 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4820 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Hot Flash",
     "description": "Women's Clothing",
     "phone": "(941) 921-7027",
-    "address": "street: 4858 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4858 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Imagination & Company",
     "description": "Department Stores",
     "phone": "(941) 371-5238",
-    "address": "street: 1575 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "1575 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Best Buy Awards",
     "description": "Department Stores",
     "phone": "(941) 377-6307",
-    "address": "street: 1655 Cattlemen Rd location: Sarasota, FL 34232"
+    "address": "1655 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "The Perfect Dress of Sarasota",
     "description": "Bridal Shops",
     "phone": "(941) 925-5888",
-    "address": "street: 5109 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "5109 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "CK DANCE SHOES & ACCESSORIES",
     "description": "Dancing Supplies",
     "phone": "(239) 826-6089",
-    "address": "street: 1985 Cattlemen Rd Unit 3 location: Sarasota, FL 34232"
-  },
-  {
-    "name": "Edwin Watts Golf",
-    "description": "Golf Equipment & Supplies",
-    "phone": "(941) 922-1006",
-    "address": "street: 5247 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "1985 Cattlemen Rd Unit 3  Sarasota, FL 34232",
+    "location": "Hardee"
   },
   {
     "name": "Oh My Gauze Inc",
     "description": "Women's Clothing",
     "phone": "(941) 377-6560",
-    "address": "street: 2123 Porter Lake Dr location: Sarasota, FL 34240"
+    "address": "2123 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Wurkin Stiffs",
     "description": "Men's Clothing",
     "phone": "(941) 379-8163",
-    "address": "street: 2177 Porter Lake Dr location: Sarasota, FL 34240"
+    "address": "2177 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Aluminum Specialties Wholesale",
     "description": "Aluminum Products",
     "phone": "(941) 371-3380",
-    "address": "street: 2245 Porter Lake Dr location: Sarasota, FL 34240"
+    "address": "2245 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Southside Sports Inc",
     "description": "Sporting Goods",
     "phone": "(941) 379-5688",
-    "address": "street: 2427 Porter Lake Dr Ste 106 location: Sarasota, FL 34240"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Women's Clothing",
-    "phone": "(941) 343-2948",
-    "address": "street: 5118 Ocean Blvd location: Sarasota, FL 34242"
+    "address": "2427 Porter Lake Dr Ste 106  Sarasota, FL 34240",
+    "location": "Hardee"
   },
   {
     "name": "Tom James Company",
     "description": "Custom Made Men's Suits",
     "phone": "(941) 487-0095",
-    "address": "street: 2100 Constitution Blvd Suite 166 location: Sarasota, FL 34231"
+    "address": "2100 Constitution Blvd Suite 166  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Island Styles",
     "description": "Women's Clothing",
     "phone": "(941) 960-2338",
-    "address": "street: 5206 Ocean Blvd location: Sarasota, FL 34242"
+    "address": "5206 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Island Cotton Co",
     "description": "Women's Clothing",
     "phone": "(941) 349-1170",
-    "address": "street: 5221 Ocean Blvd location: Sarasota, FL 34242"
-  },
-  {
-    "name": "Lilly Pulitzer",
-    "description": "Women's Clothing",
-    "phone": "(941) 343-2948",
-    "address": "street: Siesta Village Plaza location: Sarasota, FL 34242"
+    "address": "5221 Ocean Blvd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "American Shore Trading Company",
     "description": "Men's Clothing",
     "phone": "(941) 907-1122",
-    "address": "street: 8131 Lakewood Main St Ste 106 location: Lakewood Ranch, FL 34202"
+    "address": "8131 Lakewood Main St Ste 106  Lakewood Ranch, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "Rack Room Shoes",
     "description": "Shoe Stores",
     "phone": "(941) 359-2847",
-    "address": "street: 8473 Cooper Creek Blvd location: University Park, FL 34201"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 359-2847",
-    "address": "street: 8303 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8473 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "Lane Bryant - Closed",
     "description": "Women's Clothing",
     "phone": "(941) 351-3013",
-    "address": "street: 8129 Cooper Creek Blvd location: University Park, FL 34201"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 359-2847",
-    "address": "street: 8107 Cooper Creek Blvd location: University Park, FL 34201"
+    "address": "8129 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Hardee"
   },
   {
     "name": "The Colony Beach Shop",
     "description": "Sportswear",
     "phone": "(941) 383-6431",
-    "address": "street: 1620 Gulf Of Mexico Dr location: Longboat Key, FL 34228"
+    "address": "1620 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Hardee"
   },
   {
     "name": "Bradenton Fashion And Cap City",
     "description": "Women's Clothing",
     "phone": "(941) 753-1555",
-    "address": "street: 1427 57th Ave E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Target",
-    "description": "General Merchandise",
-    "phone": "(941) 756-2700",
-    "address": "street: 6150 14th St W location: Bradenton, FL 34207"
+    "address": "1427 57th Ave E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Bon Worth",
     "description": "Women's Clothing",
     "phone": "(941) 755-5626",
-    "address": "street: 6110 14th St W location: Bradenton, FL 34207"
+    "address": "6110 14th St W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "Attitudes On Maine Street",
     "description": "Women's Clothing",
     "phone": "(941) 929-2928",
-    "address": "street: 8141 Lakewood Ranch Blvd location: Lakewood Ranch, FL 34202"
+    "address": "8141 Lakewood Ranch Blvd  Lakewood Ranch, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "T R L Enterprises Inc",
     "description": "Women's Clothing",
     "phone": "(941) 387-3733",
-    "address": "street: 525 Bay Isles Pkwy location: Longboat Key, FL 34228"
-  },
-  {
-    "name": "Patchington",
-    "description": "Women's Clothing",
-    "phone": "(941) 387-0146",
-    "address": "street: 525 Bay Isles Pkwy location: Longboat Key, FL 34228"
-  },
-  {
-    "name": "Soma Intimates",
-    "description": "Lingerie",
-    "phone": "(941) 907-2904",
-    "address": "street: 8141 Lakewood Main St Ste 105 location: Lakewood Ranch, FL 34202"
+    "address": "525 Bay Isles Pkwy  Longboat Key, FL 34228",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Auto Care Centers",
     "description": "General Merchandise",
     "phone": "(941) 752-0025",
-    "address": "street: 2911 53rd Ave E location: Braden River, FL 34203"
+    "address": "2911 53rd Ave E  Braden River, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Auto Care Center",
     "description": "General Merchandise",
     "phone": "(941) 752-0025",
-    "address": "street: 2911 53rd Ave E location: Bradenton, FL 34203"
+    "address": "2911 53rd Ave E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Grocery Pickup",
     "description": "Department Stores",
     "phone": "(941) 374-0539",
-    "address": "street: 4536 53rd Ave E location: Bradenton, FL 34203"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(941) 379-3550",
-    "address": "street: 4381 Cattlemen Rd location: Sarasota, FL 34233"
-  },
-  {
-    "name": "Bealls",
-    "description": "Department Stores",
-    "phone": "(941) 925-2745",
-    "address": "street: 6555 S Tamiami Trl location: Sarasota, FL 34231"
+    "address": "4536 53rd Ave E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Giannini Custom Tailoring",
     "description": "Men's Clothing",
     "phone": "(941) 923-1752",
-    "address": "street: 2144 Gulf Gate Dr location: Sarasota, FL 34231"
+    "address": "2144 Gulf Gate Dr  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "The British Corner Shop",
     "description": "Department Stores",
     "phone": "(941) 346-6004",
-    "address": "street: 2236 Gulf Gate Dr location: Sarasota, FL 34231"
+    "address": "2236 Gulf Gate Dr  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Kinky Kitty",
     "description": "Lingerie",
     "phone": "(941) 358-8707",
-    "address": "street: 2246 Gulf Gate Dr location: Sarasota, FL 34231"
+    "address": "2246 Gulf Gate Dr  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Nice Day Sports",
     "description": "Sportswear",
     "phone": "(941) 538-6941",
-    "address": "street: 4283 Express Ln location: Sarasota, FL 34249"
-  },
-  {
-    "name": "Hot Flash",
-    "description": "Women's Clothing",
-    "phone": "(941) 921-7027",
-    "address": "street: 1742 Dawn St location: Sarasota, FL 34231"
+    "address": "4283 Express Ln  Sarasota, FL 34249",
+    "location": "Hardee"
   },
   {
     "name": "European Traditions",
     "description": "Furniture Stores",
     "phone": "(941) 921-5616",
-    "address": "street: 6030 Clark Center Ave location: Sarasota, FL 34238"
+    "address": "6030 Clark Center Ave  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "First Lady Boutique Inc",
     "description": "Boutique Items",
     "phone": "(941) 922-9666",
-    "address": "street: 2053 Reynolds St location: Sarasota, FL 34231"
+    "address": "2053 Reynolds St  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Things You Like",
     "description": "Fashion Designers",
     "phone": "(941) 349-1994",
-    "address": "street: 6529 Midnight Pass Rd location: Sarasota, FL 34242"
-  },
-  {
-    "name": "Bealls Florida",
-    "description": "Home Furnishings",
-    "phone": "(941) 921-4416",
-    "address": "street: 5451 Palmer Crossing Cir location: Sarasota, FL 34233"
+    "address": "6529 Midnight Pass Rd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Key Casuals",
     "description": "Women's Clothing",
     "phone": "(941) 349-6625",
-    "address": "street: 6625 Midnight Pass Rd location: Sarasota, FL 34242"
+    "address": "6625 Midnight Pass Rd  Sarasota, FL 34242",
+    "location": "Hardee"
   },
   {
     "name": "Miami Girl Fashion",
     "description": "Women's Clothing",
     "phone": "(941) 554-8573",
-    "address": "street: 7650 S Tamiami Trl Ste 1 location: Sarasota, FL 34231"
+    "address": "7650 S Tamiami Trl Ste 1  Sarasota, FL 34231",
+    "location": "Hardee"
   },
   {
     "name": "Beall's Corporate Offices",
     "description": "Department Stores",
     "phone": "(941) 747-2355",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(941) 799-5538",
-    "address": "street: 5810 Ranch Lake Blvd location: Bradenton, FL 34202"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(941) 753-3585",
-    "address": "street: 4569 14th St W location: Bradenton, FL 34207"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(941) 746-1444",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "All Dressed Up",
     "description": "Women's Clothing",
     "phone": "(941) 748-8807",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "DICK'S Sporting Goods",
     "description": "Exercise & Fitness Equipment",
     "phone": "(941) 751-6900",
-    "address": "street: 4108 14th St W location: Bradenton, FL 34205"
+    "address": "4108 14th St W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Supermatt",
     "description": "Department Stores",
     "phone": "(941) 226-2321",
-    "address": "street: 5026 15th St E location: Bradenton, FL 34203"
+    "address": "5026 15th St E  Bradenton, FL 34203",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Wireless Services",
     "description": "General Merchandise",
     "phone": "(941) 799-5546",
-    "address": "street: 5810 Ranch Lake Blvd location: Bradenton, FL 34202"
+    "address": "5810 Ranch Lake Blvd  Bradenton, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "Your CBD Store",
     "description": "Department Stores",
     "phone": "(941) 782-8191",
-    "address": "street: 8724 State Road 70 E location: Bradenton, FL 34202"
-  },
-  {
-    "name": "Bealls Florida",
-    "description": "Home Furnishings",
-    "phone": "(941) 752-8987",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Department Stores",
-    "phone": "(941) 747-2355",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
+    "address": "8724 State Road 70 E  Bradenton, FL 34202",
+    "location": "Hardee"
   },
   {
     "name": "Bealls Westgate Corp",
     "description": "Department Stores",
     "phone": "(941) 747-2355",
-    "address": "street: 1806 38th Ave E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(941) 747-5300",
-    "address": "street: 4208 19th Street Ct E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(941) 755-5168",
-    "address": "street: 4561 14th St W location: Bradenton, FL 34207"
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Optical Outlet",
     "description": "Optical Goods",
     "phone": "(941) 727-0345",
-    "address": "street: 1105 Cortez Rd W location: Bradenton, FL 34207"
+    "address": "1105 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Hardee"
   },
   {
     "name": "HR Sportswear",
     "description": "Sportswear",
     "phone": "(941) 209-1790",
-    "address": "street: 5002 Lena Rd Unit 112 location: Bradenton, FL 34211"
+    "address": "5002 Lena Rd Unit 112  Bradenton, FL 34211",
+    "location": "Hardee"
   },
   {
     "name": "Dollar General Market",
     "description": "Discount Stores",
     "phone": "(941) 357-4622",
-    "address": "street: 3611 1st St Ste 1100 location: Bradenton, FL 34208"
+    "address": "3611 1st St Ste 1100  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Play It Again Sports - Bradenton",
     "description": "Sporting Goods",
     "phone": "(941) 896-9684",
-    "address": "street: 3611 1st St E Ste 710 location: Bradenton, FL 34208"
+    "address": "3611 1st St E Ste 710  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Plus Sizes & More",
     "description": "Women's Clothing",
     "phone": "(941) 753-3695",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Footaction USA",
     "description": "Shoe Stores",
     "phone": "(941) 746-1444",
-    "address": "street: 303 301 Blvd W Ste 635 location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(941) 748-5392",
-    "address": "street: 303 301 Blvd W Ste 225 location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Finish Line",
-    "description": "Shoe Stores",
-    "phone": "(941) 747-6350",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 749-5572",
-    "address": "street: 303 301 Blvd W Ste 449 location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(941) 746-1075",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W Ste 635  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Body Central",
     "description": "Women's Clothing",
     "phone": "(941) 747-8883",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Jenny's One Dollar Plus",
     "description": "Discount Stores",
     "phone": "(941) 748-7301",
-    "address": "street: 303 301 Blvd W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(941) 357-1657",
-    "address": "street: 3622 1st St W location: Bradenton, FL 34208"
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Loyaltyfitsportwear",
     "description": "Exercise & Fitness Equipment",
     "phone": "(941) 666-4273",
-    "address": "street: 4880 51st St W location: Bradenton, FL 34210"
+    "address": "4880 51st St W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "RAW Wheels & Tires",
     "description": "Tire Dealers",
     "phone": "(941) 412-2900",
-    "address": "street: 2919 14th St W location: Bradenton, FL 34205"
+    "address": "2919 14th St W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Okyo Fashions",
     "description": "Women's Clothing",
     "phone": "(941) 748-7230",
-    "address": "street: 1707 1st St location: Bradenton, FL 34208"
+    "address": "1707 1st St  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Victoria's Fashions",
     "description": "Women's Clothing Wholesalers & Manufacturers",
     "phone": "(941) 750-9609",
-    "address": "street: 1707 1st St E location: Bradenton, FL 34208"
-  },
-  {
-    "name": "Men's Wearhouse",
-    "description": "Men's Clothing",
-    "phone": "(941) 924-5371",
-    "address": "street: 8201 S Tamiami Trl Unit Ao24 location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Target",
-    "description": "General Merchandise",
-    "phone": "(941) 925-3377",
-    "address": "street: 8401 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Westfield Mall - Sarasota Square",
     "description": "Department Stores",
     "phone": "(941) 922-9609",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Sports Fan-Attic",
     "description": "Sporting Goods",
     "phone": "(941) 926-2434",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(941) 924-1991",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Finish Line",
-    "description": "Shoe Stores",
-    "phone": "(941) 922-7408",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 925-7746",
-    "address": "street: 8201 S Tamiami Trl Unit 38 location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Lady Foot Locker",
     "description": "Shoe Stores",
     "phone": "(941) 922-3216",
-    "address": "street: 8201 S Tamiami Trl Unit 44 location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl Unit 44  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Windsor",
     "description": "Women's Clothing",
     "phone": "(941) 222-0717",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Motherhood Maternity",
-    "description": "Maternity Clothes",
-    "phone": "(215) 555-1212",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Libra Usa",
-    "description": "Department Stores",
-    "phone": "(941) 924-3106",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(941) 923-6406",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "JoS. A. Bank",
-    "description": "Men's Clothing",
-    "phone": "(941) 923-9440",
-    "address": "street: 8201 S Tamiami Trl Unit A32 location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Lids",
-    "description": "Hat Shops",
-    "phone": "(941) 921-6171",
-    "address": "street: 8201 S Tamiami Trl location: Sarasota, FL 34238"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 925-7746",
-    "address": "street: 8366 S Tamiami Trl location: Sarasota, FL 34238"
+    "address": "8201 S Tamiami Trl  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "Pelican Knits",
     "description": "Women's Clothing",
     "phone": "(941) 923-6421",
-    "address": "street: 8221 Shadow Pine Way location: Sarasota, FL 34238"
+    "address": "8221 Shadow Pine Way  Sarasota, FL 34238",
+    "location": "Hardee"
   },
   {
     "name": "RMS All Star Sports",
     "description": "Sportswear",
     "phone": "(941) 746-3292",
-    "address": "street: 1707 1st St E location: Bradenton, FL 34208"
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Walmart Garden Center",
     "description": "General Merchandise",
     "phone": "(941) 798-9341",
-    "address": "street: 5315 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "5315 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "Total Aluminum Inc",
     "description": "Aluminum Products",
     "phone": "(941) 896-3119",
-    "address": "street: 3103 81st Ct E Ste 110 location: Bradenton, FL 34211"
-  },
-  {
-    "name": "Rock Bottom Apparel",
-    "description": "Men's Clothing",
-    "phone": "(941) 741-2391",
-    "address": "street: 1707 1st St location: Bradenton, FL 34208"
+    "address": "3103 81st Ct E Ste 110  Bradenton, FL 34211",
+    "location": "Hardee"
   },
   {
     "name": "Burke's Outlet Stores",
     "description": "Variety Stores",
     "phone": "(941) 747-2355",
-    "address": "street: 700 13th Ave E location: Bradenton, FL 34208"
+    "address": "700 13th Ave E  Bradenton, FL 34208",
+    "location": "Hardee"
   },
   {
     "name": "Hearts Desire",
     "description": "Women's Clothing",
     "phone": "(941) 302-1069",
-    "address": "street: 1221 12th St W location: Bradenton, FL 34205"
+    "address": "1221 12th St W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "EJ Wedding & Beyond LLC",
     "description": "Wedding Planning & Consultants",
     "phone": "(941) 580-0907",
-    "address": "street: 230 Martin Luther King Jr Ave W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(941) 708-2800",
-    "address": "street: 6225 E State Road 64 location: Bradenton, FL 34208"
+    "address": "230 Martin Luther King Jr Ave W  Bradenton, FL 34205",
+    "location": "Hardee"
   },
   {
     "name": "Short Par 4",
     "description": "Men's Clothing",
     "phone": "(941) 251-4083",
-    "address": "street: 3125 Lakewood Ranch Blvd Ste 101 location: Bradenton, FL 34211"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sporting Goods",
-    "phone": "(941) 748-0577",
-    "address": "street: 311 Manatee Ave W location: Bradenton, FL 34205"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(941) 750-0610",
-    "address": "street: 313 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "3125 Lakewood Ranch Blvd Ste 101  Bradenton, FL 34211",
+    "location": "Hardee"
   },
   {
     "name": "Fore Some Sports",
     "description": "Golf Equipment & Supplies",
     "phone": "(941) 794-2345",
-    "address": "street: 8104 Cortez Rd W location: Bradenton, FL 34210"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(941) 746-1075",
-    "address": "street: 303 Pointe West Blvd location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(941) 748-5392",
-    "address": "street: 604 Pointe West Blvd location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Bealls",
-    "description": "Department Stores",
-    "phone": "(941) 746-3288",
-    "address": "street: 3905 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "8104 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "SKECHERS Factory Outlet",
     "description": "Shoe Stores",
     "phone": "(941) 722-6700",
-    "address": "street: 5173 Factory Shops Blvd # 850 location: Ellenton, FL 34222"
+    "address": "5173 Factory Shops Blvd # 850  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Columbia Sportswear",
     "description": "Sportswear",
     "phone": "(941) 721-6481",
-    "address": "street: 5661 Factory Shops Blvd Ste 470 location: Ellenton, FL 34222"
+    "address": "5661 Factory Shops Blvd Ste 470  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Family Dollar Stores",
     "description": "Variety Stores",
     "phone": "(941) 761-1598",
-    "address": "street: 9516 Cortez Rd W location: Bradenton, FL 34210"
+    "address": "9516 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Hardee"
   },
   {
     "name": "Charley's Boutique",
     "description": "Women's Clothing",
     "phone": "(941) 345-4603",
-    "address": "street: 5761 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Bon Worth",
-    "description": "Women's Clothing",
-    "phone": "(941) 795-8133",
-    "address": "street: 6363 Manatee Ave W location: Bradenton, FL 34209"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(941) 723-2199",
-    "address": "street: 508 10th St E location: Palmetto, FL 34221"
+    "address": "5761 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Hardee"
   },
   {
     "name": "Global Protection Products",
     "description": "General Merchandise",
     "phone": "(941) 723-3100",
-    "address": "street: 1610 12th St E location: Palmetto, FL 34221"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(941) 918-1247",
-    "address": "street: 13140 S Tamiami Trl location: Osprey, FL 34229"
+    "address": "1610 12th St E  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "The Lace Buckle Boutique",
     "description": "Boutique Items",
     "phone": "(941) 417-7007",
-    "address": "street: 1003 10th Ave W location: Palmetto, FL 34221"
+    "address": "1003 10th Ave W  Palmetto, FL 34221",
+    "location": "Hardee"
   },
   {
     "name": "Bulk Food Superstore Ellenton",
     "description": "Department Stores",
     "phone": "(941) 721-4349",
-    "address": "street: 6234 Us Highway 301 N location: Ellenton, FL 34222"
+    "address": "6234 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Lane Bryant Outlet",
     "description": "Shoe Stores",
     "phone": "(941) 722-3553",
-    "address": "street: 5245 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Soma Intimates",
-    "description": "Lingerie",
-    "phone": "(941) 722-0106",
-    "address": "street: 5253 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Johnston & Murphy",
-    "description": "Shoe Stores",
-    "phone": "(941) 729-6706",
-    "address": "street: 5315 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5245 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Motherhood Maternity Outlet",
     "description": "Maternity Clothes",
     "phone": "(941) 723-6429",
-    "address": "street: 5295 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5295 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Easy Spirit",
     "description": "Shoe Stores",
     "phone": "(941) 729-6292",
-    "address": "street: 5319 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Finish Line",
-    "description": "Shoe Stores",
-    "phone": "(941) 531-9186",
-    "address": "street: 5339 Factory Shops Blvd Unit 550 location: Ellenton, FL 34222"
+    "address": "5319 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Famous Footwear",
     "description": "Shoe Stores",
     "phone": "(941) 729-0848",
-    "address": "street: 5339 Factory Shops Blvd # location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Lids",
-    "description": "Hat Shops",
-    "phone": "(941) 729-5319",
-    "address": "street: 5351 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Christopher & Banks",
-    "description": "Women's Clothing",
-    "phone": "(941) 729-5379",
-    "address": "street: 5375 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(941) 723-2225",
-    "address": "street: 5443 Factory Shops Blvd Ste 220 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Francesca's",
-    "description": "Women's Clothing",
-    "phone": "(941) 803-3001",
-    "address": "street: 5419 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(941) 531-3069",
-    "address": "street: 5461 Factory Shops Blvd Spc 250 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Lids",
-    "description": "Hat Shops",
-    "phone": "(941) 729-5319",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Michael Kors",
-    "description": "Women's Clothing",
-    "phone": "(941) 729-3704",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Talbots",
-    "description": "Women's Clothing",
-    "phone": "(941) 803-7857",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "BCBGMAXAZRIA",
-    "description": "Women's Clothing",
-    "phone": "(941) 723-7541",
-    "address": "street: 5461 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Vans",
-    "description": "Shoe Stores",
-    "phone": "(941) 722-2508",
-    "address": "street: 5513 Factory Shops Blvd # 215 location: Ellenton, FL 34222"
+    "address": "5339 Factory Shops Blvd #  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "ASICS Outlet",
     "description": "Shoe Stores",
     "phone": "(941) 729-2519",
-    "address": "street: 5529 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Under Armour Factory House",
-    "description": "Sportswear",
-    "phone": "(941) 729-6705",
-    "address": "street: 5553 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5529 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Nine West",
     "description": "Shoe Stores",
     "phone": "(941) 722-3133",
-    "address": "street: 5571 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "DressBarn",
-    "description": "Women's Clothing",
-    "phone": "(941) 729-7422",
-    "address": "street: 5541 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5571 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Nike",
     "description": "Sportswear",
     "phone": "(941) 722-0096",
-    "address": "street: 5665 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5665 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Michael Kors Outlet",
     "description": "Women's Clothing",
     "phone": "(941) 722-6699",
-    "address": "street: 5597 Factory Shops Blvd Ste 335 location: Ellenton, FL 34222"
+    "address": "5597 Factory Shops Blvd Ste 335  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Juicy Couture",
     "description": "Women's Clothing",
     "phone": "(941) 721-7052",
-    "address": "street: 5597 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Talbots",
-    "description": "Women's Clothing",
-    "phone": "(941) 803-7857",
-    "address": "street: 5591 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "BCBGMAXAZRIA",
-    "description": "Women's Clothing",
-    "phone": "(941) 723-7551",
-    "address": "street: 5599 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5597 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Kate Spade Outlet",
     "description": "Women's Clothing",
     "phone": "(941) 722-2093",
-    "address": "street: 5703 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Saks Fifth Avenue",
-    "description": "Department Stores",
-    "phone": "(941) 729-2600",
-    "address": "street: 5709 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 722-8391",
-    "address": "street: 5707 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5703 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "The PUMA Store",
     "description": "Shoe Stores",
     "phone": "(941) 722-7999",
-    "address": "street: 5613 Factory Shops Blvd Ste 0415 location: Ellenton, FL 34222"
+    "address": "5613 Factory Shops Blvd Ste 0415  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Adidas Outlet Store",
     "description": "Outlet Stores",
     "phone": "(941) 723-3901",
-    "address": "street: 5151 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Dkny",
-    "description": "Women's Clothing",
-    "phone": "(941) 722-4763",
-    "address": "street: 5105 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Lids",
-    "description": "Hat Shops",
-    "phone": "(941) 705-5086",
-    "address": "street: 5105 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5151 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Reebok",
     "description": "Shoe Stores",
     "phone": "(941) 721-3404",
-    "address": "street: 5135 Factory Shops Blvd # 970 location: Ellenton, FL 34222"
-  },
-  {
-    "name": "The PUMA Store",
-    "description": "Shoe Stores",
-    "phone": "(941) 722-7999",
-    "address": "street: 5157 Factory Shops Blvd location: Ellenton, FL 34222"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(941) 723-6713",
-    "address": "street: 5460 Factory Shops Blvd location: Ellenton, FL 34222"
+    "address": "5135 Factory Shops Blvd # 970  Ellenton, FL 34222",
+    "location": "Hardee"
   },
   {
     "name": "Art Attack 2",
     "description": "Gift Shops",
     "phone": "(941) 778-7369",
-    "address": "street: 105 Bridge St location: Bradenton Beach, FL 34217"
+    "address": "105 Bridge St  Bradenton Beach, FL 34217",
+    "location": "Hardee"
   }
 ]

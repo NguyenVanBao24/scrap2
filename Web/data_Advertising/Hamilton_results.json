@@ -1,310 +1,233 @@
 [
   {
-    "dataYpid": "464366853",
     "name": "Captree Advertising",
     "description": "Advertising Agencies",
     "phone": "(386) 871-2080",
-    "address": "street: 555 Maribella Ct location: New Smyrna Beach, FL 32168"
+    "address": " 555 Maribella Ct  New Smyrna Beach, FL 32168",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "3733580",
     "name": "Barlow Advertising Specialties",
     "description": "Advertising Specialties",
     "phone": "(386) 423-1320",
-    "address": "street: 1792 Persimmon Cir location: Edgewater, FL 32132"
+    "address": " 1792 Persimmon Cir  Edgewater, FL 32132",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "537384115",
     "name": "Image Makers Advertising",
     "description": "Advertising Specialties",
     "phone": "(386) 236-1200",
-    "address": "street: 140 Beach St location: Ponce Inlet, FL 32127"
+    "address": " 140 Beach St  Ponce Inlet, FL 32127",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "504693851",
     "name": "My Advertising Pays",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 523-6650",
-    "address": "street: 3721 S Atlantic Ave location: Daytona Beach, FL 32118"
+    "address": " 3721 S Atlantic Ave  Daytona Beach, FL 32118",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "550829751",
     "name": "Benedict Advertising & Marketing",
     "description": "Advertising Agencies",
     "phone": "(386) 255-1222",
-    "address": "street: 59 Dunlawton Ave location: Port Orange, FL 32127"
+    "address": " 59 Dunlawton Ave  Port Orange, FL 32127",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "7074826",
     "name": "Lamar Advertising Co",
     "description": "Transit Advertising",
     "phone": "(386) 258-0206",
-    "address": "street: 475 Fentress Blvd Ste L location: Daytona Beach, FL 32114"
+    "address": " 475 Fentress Blvd Ste L  Daytona Beach, FL 32114",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "28616250",
     "name": "A L C H Advertising & Mail Inc",
     "description": "Advertising Agencies",
     "phone": "(386) 322-3737",
-    "address": "street: 6 Cormorant Cir location: Daytona Beach, FL 32119"
+    "address": " 6 Cormorant Cir  Daytona Beach, FL 32119",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "11522905",
     "name": "Alan & Bob McGarity Advertising",
     "description": "Advertising Agencies",
     "phone": "(386) 252-6655",
-    "address": "street: 401 Skyview Ln location: Daytona Beach, FL 32114"
+    "address": " 401 Skyview Ln  Daytona Beach, FL 32114",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "5933803",
     "name": "Image Makers Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(386) 236-1200",
-    "address": "street: 140 S Beach St Ste 202 location: Daytona Beach, FL 32114"
+    "address": " 140 S Beach St Ste 202  Daytona Beach, FL 32114",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "464551744",
     "name": "Coastline Advertising Specialties",
     "description": "Advertising Agencies",
     "phone": "(386) 238-7703",
-    "address": "street: 370 N Nova Rd location: Daytona Beach, FL 32114"
+    "address": " 370 N Nova Rd  Daytona Beach, FL 32114",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "2406672",
     "name": "Benedict Advertising",
     "description": "Direct Mail Advertising",
     "phone": "(386) 255-1222",
-    "address": "street: 640 N Peninsula Dr location: Daytona Beach, FL 32118"
+    "address": " 640 N Peninsula Dr  Daytona Beach, FL 32118",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "453278741",
-    "name": "Lamar Advertising Co",
-    "description": "Advertising Specialties",
-    "phone": "(800) 468-8018",
-    "address": "street: 228 Carswell Ave location: Daytona Beach, FL 32117"
-  },
-  {
-    "dataYpid": "531494500",
-    "name": "Lamar Advertising Co",
-    "description": "Outdoor Advertising",
-    "phone": "(386) 258-0206",
-    "address": "street: 1140 N Williamson Blvd location: Daytona Beach, FL 32114"
-  },
-  {
-    "dataYpid": "457354317",
     "name": "S 2 Advertising",
     "description": "Advertising Agencies",
     "phone": "(386) 672-3150",
-    "address": "street: 533 N Nova Rd Ste 213B location: Ormond Beach, FL 32174"
+    "address": " 533 N Nova Rd Ste 213B  Ormond Beach, FL 32174",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "561405867",
     "name": "D2 Advertising",
     "description": "Advertising Agencies",
     "phone": "(866) 275-5108",
-    "address": "street: 307 W Granada Blvd location: Ormond Beach, FL 32174"
+    "address": " 307 W Granada Blvd  Ormond Beach, FL 32174",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "549923131",
     "name": "Promoteme Advertising",
     "description": "Advertising Agencies",
     "phone": "(386) 320-9999",
-    "address": "street: 1 N Beach St location: Ormond Beach, FL 32174"
+    "address": " 1 N Beach St  Ormond Beach, FL 32174",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "548660182",
     "name": "i4 Advertising Agency LLC",
     "description": "Advertising Agencies",
     "phone": "(407) 416-1515",
-    "address": "street: 610 Deltona Blvd, Ste D location: Deltona, FL 32725"
+    "address": " 610 Deltona Blvd, Ste D  Deltona, FL 32725",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "457378099",
     "name": "Orlando Sentinel Advertising",
     "description": "Advertising Specialties",
     "phone": "(386) 851-7900",
-    "address": "street: 2730 Enterprise Rd location: Orange City, FL 32763"
+    "address": " 2730 Enterprise Rd  Orange City, FL 32763",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "537929510",
     "name": "A7 Advertising",
     "description": "Advertising Agencies",
     "phone": "(386) 453-1464",
-    "address": "street: 603 Elkhorn Fern Ln location: Deland, FL 32720"
+    "address": " 603 Elkhorn Fern Ln  Deland, FL 32720",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "2109519",
     "name": "West Volusia Tourism & Advertising Au",
     "description": "Advertising Specialties",
     "phone": "(386) 734-0162",
-    "address": "street: 116 W New York Ave location: Deland, FL 32720"
+    "address": " 116 W New York Ave  Deland, FL 32720",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "454876286",
     "name": "Liberty Advertising & Flag Co",
     "description": "Advertising Specialties",
     "phone": "(386) 985-2050",
-    "address": "street: 1515 Arredondo Grant Rd location: De Leon Springs, FL 32130"
+    "address": " 1515 Arredondo Grant Rd  De Leon Springs, FL 32130",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "514669186",
     "name": "Giant Advertising Balloons",
     "description": "Advertising Specialties",
     "phone": "(321) 264-0610",
-    "address": "street: 2966 Brandywine Cir location: Titusville, FL 32796"
+    "address": " 2966 Brandywine Cir  Titusville, FL 32796",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "547776702",
     "name": "Backseat Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 915-7006",
-    "address": "street: 485 Specialty Pt location: Sanford, FL 32771"
+    "address": " 485 Specialty Pt  Sanford, FL 32771",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "564907227",
-    "name": "Cake Advertising",
-    "description": "N/A",
-    "phone": "(321) 363-3875",
-    "address": "street: 3750 Crawley Down Loop location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "16355709",
-    "name": "Giant Advertising Balloons",
-    "description": "Balloons-Advertising & Signage",
-    "phone": "(321) 264-0610",
-    "address": "street: 1691 S Washington Ave location: Titusville, FL 32780"
-  },
-  {
-    "dataYpid": "558940612",
     "name": "Evok Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 302-4416",
-    "address": "street: 152 N 4th St location: Lake Mary, FL 32746"
+    "address": " 152 N 4th St  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "458594523",
     "name": "Marketleverage Interactive Advertising",
     "description": "Advertising Specialties",
     "phone": "(407) 268-7648",
-    "address": "street: 1515 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 1515 International Pkwy  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "495306875",
     "name": "Iceberg Advertising",
     "description": "Print Advertising",
     "phone": "(407) 486-8478",
-    "address": "street: 3415 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 3415 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "517425050",
     "name": "Advertising Specialty Institute",
     "description": "Advertising Agencies",
     "phone": "(407) 430-3698",
-    "address": "street: 4300 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 4300 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "540683038",
     "name": "Blue Skies Advertising Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 687-2961",
-    "address": "street: 204 Teakwood Ct location: Lake Mary, FL 32746"
+    "address": " 204 Teakwood Ct  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "464280150",
     "name": "Advantage Signs & Advertising",
     "description": "Signs",
     "phone": "(407) 339-7446",
-    "address": "street: 1983 Corporate Sq location: Longwood, FL 32750"
+    "address": " 1983 Corporate Sq  Longwood, FL 32750",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "453225663",
-    "name": "National Advertising Co",
-    "description": "N/A",
-    "phone": "(407) 330-0338",
-    "address": "street: 2687 S Design Ct location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "524656487",
-    "name": "Deborah L Perry Internet Advertising",
-    "description": "N/A",
-    "phone": "(407) 212-6147",
-    "address": "street: 298 Hilltop Dr location: Longwood, FL 32750"
-  },
-  {
-    "dataYpid": "467929876",
     "name": "Advertising Networks of Florida",
     "description": "Advertising-Shoppers Publications",
     "phone": "(866) 742-1373",
-    "address": "street: 610 Crescent Executive Ct Ste 112 location: Lake Mary, FL 32746"
+    "address": " 610 Crescent Executive Ct Ste 112  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "29043638",
     "name": "Gilbert Manjura Marketing and Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 261-5739",
-    "address": "street: 346 Freeman St location: Longwood, FL 32750"
+    "address": " 346 Freeman St  Longwood, FL 32750",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "495999530",
-    "name": "Se Volusia Advertising Authority",
-    "description": "Advertising Specialties",
-    "phone": "(386) 428-1600",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "453374613",
     "name": "Jerry Defalco Advertising",
     "description": "Advertising Specialties",
     "phone": "(407) 915-0452",
-    "address": "street: 1825 Duffy Ct location: Lake Mary, FL 32746"
+    "address": " 1825 Duffy Ct  Lake Mary, FL 32746",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "470604565",
-    "name": "Defalco & Son Advertising - CLOSED",
-    "description": "Advertising Agencies",
-    "phone": "N/A",
-    "address": "street: 300 N Ronald Reagan Blvd location: Longwood, FL 32750"
-  },
-  {
-    "dataYpid": "549673028",
     "name": "Mobile Designs Inc",
     "description": "T-Shirts",
     "phone": "(386) 327-2159",
-    "address": "street: 1607 S. State Road 15 A Suite 6 location: Deland, FL 32720"
+    "address": " 1607 S. State Road 15 A Suite 6  Deland, FL 32720",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "575851415",
     "name": "Custom Graphic Designs",
     "description": "Copying & Duplicating Service",
     "phone": "(386) 229-3832",
-    "address": "street: 4462 Highway 17 location: DeLand, FL 32720"
+    "address": " 4462 Highway 17  DeLand, FL 32720",
+    "location": "Hamilton"
   },
   {
-    "dataYpid": "451856635",
     "name": "Sunstate Awnings",
     "description": "Building Contractors-Commercial & Industrial",
     "phone": "(386) 868-4507",
-    "address": "street: 50 Keyes Ave location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "546974868",
-    "name": "Banner Marketing Group",
-    "description": "Flags, Flagpoles & Accessories",
-    "phone": "(805) 528-5018",
-    "address": "street: N/A location: N/A"
+    "address": " 50 Keyes Ave  Sanford, FL 32773",
+    "location": "Hamilton"
   }
 ]

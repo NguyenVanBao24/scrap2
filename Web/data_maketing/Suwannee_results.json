@@ -1,44 +1,30 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574484917",
     "name": "Meridian Pursuit | Digital Marketing Agency",
     "description": "Marketing Programs & Services",
     "phone": "(813) 335-4606",
-    "address": "street: 264 SW 50th Ln location: Cross City, FL 32628"
+    "address": "264 SW 50th Ln  Cross City, FL 32628",
+    "location": "Suwannee"
   },
   {
-    "dataYpid": "542381916",
     "name": "Deberry Marketing Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 507-7033",
-    "address": "street: 116 E Park Ave location: Chiefland, FL 32626"
+    "address": "116 E Park Ave  Chiefland, FL 32626",
+    "location": "Suwannee"
   },
   {
-    "dataYpid": "524779953",
     "name": "Social Planning, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(352) 317-3565",
-    "address": "street: 717 3rd St W location: Steinhatchee, FL 32359"
+    "address": "717 3rd St W  Steinhatchee, FL 32359",
+    "location": "Suwannee"
   },
   {
-    "dataYpid": "559696149",
     "name": "Flpolebarns.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 727-0461",
-    "address": "street: 4033 SW Highway 358 location: Steinhatchee, FL 32359"
+    "address": "4033 SW Highway 358  Steinhatchee, FL 32359",
+    "location": "Suwannee"
   }
 ]

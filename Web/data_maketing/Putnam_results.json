@@ -1,198 +1,163 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "559717042",
     "name": "Advanced Marketing & Consulting",
     "description": "Marketing Programs & Services",
     "phone": "(321) 205-7117",
-    "address": "street: 317 Stacy Grove Rd location: Oak Hill, FL 32759"
+    "address": "317 Stacy Grove Rd  Oak Hill, FL 32759",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "505044747",
     "name": "Ronald Proffitt/R & D Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 480-1795",
-    "address": "street: 3410 Groah Ave location: Mims, FL 32754"
+    "address": "3410 Groah Ave  Mims, FL 32754",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "575999843",
     "name": "Marketing Holders",
     "description": "Marketing Programs & Services",
     "phone": "(321) 607-2121",
-    "address": "street: 3320 W Main St location: Mims, FL 32754"
+    "address": "3320 W Main St  Mims, FL 32754",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "465690304",
     "name": "Vacation Tours USA",
     "description": "Marketing Programs & Services",
     "phone": "(386) 323-1644",
-    "address": "street: 424 Luna Bella Ln location: New Smyrna Beach, FL 32168"
+    "address": "424 Luna Bella Ln  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "513030481",
     "name": "Fins Up Digital Media",
     "description": "Marketing Programs & Services",
     "phone": "(386) 848-6921",
-    "address": "street: 2022 Umbrella Tree Dr location: Edgewater, FL 32141"
+    "address": "2022 Umbrella Tree Dr  Edgewater, FL 32141",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "572998827",
     "name": "Insight Lead Gen",
     "description": "Marketing Programs & Services",
     "phone": "(386) 603-6070",
-    "address": "street: 5300 S Atlantic Ave Apt 3207 location: New Smyrna Beach, FL 32169"
+    "address": "5300 S Atlantic Ave Apt 3207  New Smyrna Beach, FL 32169",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "480087096",
     "name": "Jack the SEO Guy",
     "description": "Marketing Programs & Services",
     "phone": "(321) 355-2250",
-    "address": "street: 4416 Sherwood Forest Dr location: Titusville, FL 32796"
+    "address": "4416 Sherwood Forest Dr  Titusville, FL 32796",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "539323481",
-    "name": "DPCG, Co. Digital Marketing Service",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(386) 314-3502",
-    "address": "street: N/A location: New Smyrna Beach, FL 32168"
-  },
-  {
-    "dataYpid": "462500557",
-    "name": "J & L Graphic Design",
-    "description": "Business Cards",
-    "phone": "(386) 852-1123",
-    "address": "street: N/A location: New Smyrna Beach, FL 32168"
-  },
-  {
-    "dataYpid": "451306288",
-    "name": "Digital Generation Group",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(386) 690-1194",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464556081",
     "name": "Backwards Production",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 427-3467",
-    "address": "street: 3212 Royal Palm Dr location: Edgewater, FL 32141"
+    "address": "3212 Royal Palm Dr  Edgewater, FL 32141",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "552322759",
     "name": "Vintagevolvorestoration.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 220-4033",
-    "address": "street: 1952 Guava Dr location: Edgewater, FL 32141"
+    "address": "1952 Guava Dr  Edgewater, FL 32141",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "465234413",
     "name": "Adword Consulting",
     "description": "Internet Products & Services",
     "phone": "(386) 689-9912",
-    "address": "street: 526 Coral Trace Blvd location: Edgewater, FL 32132"
+    "address": "526 Coral Trace Blvd  Edgewater, FL 32132",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "520285453",
     "name": "Kirk Marketing & Consultation",
     "description": "Marketing Consultants",
     "phone": "(386) 957-3479",
-    "address": "street: 1945 W Park Ave location: Edgewater, FL 32132"
+    "address": "1945 W Park Ave  Edgewater, FL 32132",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "9464234",
     "name": "Mac Marketing",
     "description": "Marketing Consultants",
     "phone": "(386) 423-2223",
-    "address": "street: 210 Parktowne Blvd Ste 1 location: Edgewater, FL 32132"
+    "address": "210 Parktowne Blvd Ste 1  Edgewater, FL 32132",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "535092773",
     "name": "New Way Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(386) 402-7882",
-    "address": "street: 612 N Ridgewood Ave Ste G location: Edgewater, FL 32132"
+    "address": "612 N Ridgewood Ave Ste G  Edgewater, FL 32132",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "560983901",
     "name": "Greatoceancondos.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 478-7863",
-    "address": "street: 2801 Hill St location: New Smyrna Beach, FL 32169"
+    "address": "2801 Hill St  New Smyrna Beach, FL 32169",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "495716013",
     "name": "Saltyfeet Media LLC",
     "description": "Marketing Consultants",
     "phone": "(386) 410-4761",
-    "address": "street: 307 Lytle Ave location: New Smyrna Beach, FL 32168"
+    "address": "307 Lytle Ave  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "576690950",
     "name": "Revenue Cycle Resources- RCR|HUB",
     "description": "Directory & Guide Advertising",
     "phone": "(407) 421-4940",
-    "address": "street: 538 Canal St location: New Smyrna Beach, FL 32168"
+    "address": "538 Canal St  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "547974659",
     "name": "The Small Biz Shop",
     "description": "Internet Marketing & Advertising",
     "phone": "(888) 448-4461",
-    "address": "street: 538 Canal St Ste 325 location: New Smyrna Beach, FL 32168"
+    "address": "538 Canal St Ste 325  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "503980334",
     "name": "Shark Bite Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 424-6931",
-    "address": "street: 439 Bouchelle Dr Apt 202 location: New Smyrna Beach, FL 32169"
+    "address": "439 Bouchelle Dr Apt 202  New Smyrna Beach, FL 32169",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "549166545",
     "name": "Tropics Digital",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 222-7612",
-    "address": "street: 313 Desoto Dr location: New Smyrna Beach, FL 32169"
+    "address": "313 Desoto Dr  New Smyrna Beach, FL 32169",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "1506179",
     "name": "Great Circle Marketing",
     "description": "Marketing Consultants",
     "phone": "(386) 428-1161",
-    "address": "street: 646 N Riverside Dr location: New Smyrna Beach, FL 32168"
+    "address": "646 N Riverside Dr  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "466304287",
     "name": "Headline Surfer",
     "description": "Interactive Media",
     "phone": "(386) 689-2830",
-    "address": "street: 168 Turnberry Cir location: New Smyrna Beach, FL 32168"
+    "address": "168 Turnberry Cir  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "525876058",
     "name": "Car People Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(386) 761-3131",
-    "address": "street: 2650 N Dixie Fwy location: New Smyrna Beach, FL 32168"
+    "address": "2650 N Dixie Fwy  New Smyrna Beach, FL 32168",
+    "location": "Putnam"
   },
   {
-    "dataYpid": "6381319",
     "name": "Moog Marketing",
     "description": "Marketing Consultants",
     "phone": "(407) 324-3313",
-    "address": "street: 1515 Saddle Run Dr location: Osteen, FL 32764"
+    "address": "1515 Saddle Run Dr  Osteen, FL 32764",
+    "location": "Putnam"
   }
 ]

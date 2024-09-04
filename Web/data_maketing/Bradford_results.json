@@ -1,44 +1,30 @@
 [
   {
-    "dataYpid": "528947940",
     "name": "Accept Credit Cards",
     "description": "Marketing Programs & Services",
     "phone": "(386) 627-3780",
-    "address": "street: 2739 Us Highway 27 location: Branford, FL 32008"
+    "address": "2739 Us Highway 27  Branford, FL 32008",
+    "location": "Bradford"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "11267591",
     "name": "Allday Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(386) 961-8699",
-    "address": "street: SW State Road 47 location: Lake City, FL 32055"
+    "address": "SW State Road 47  Lake City, FL 32055",
+    "location": "Bradford"
   },
   {
-    "dataYpid": "512295541",
     "name": "Coastal Consulting",
     "description": "Marketing Programs & Services",
     "phone": "(386) 365-5237",
-    "address": "street: 23047 43rd Dr location: Lake City, FL 32024"
+    "address": "23047 43rd Dr  Lake City, FL 32024",
+    "location": "Bradford"
   },
   {
-    "dataYpid": "576134140",
     "name": "Medal Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 220-8929",
-    "address": "street: 380 SW Twain Rd location: Mayo, FL 32066"
+    "address": "380 SW Twain Rd  Mayo, FL 32066",
+    "location": "Bradford"
   }
 ]

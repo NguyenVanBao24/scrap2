@@ -1,212 +1,170 @@
 [
   {
-    "dataYpid": "463323615",
     "name": "Mark Smith Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 374-2009",
-    "address": "street: 98 Miracle Strip Pkwy SE location: Fort Walton Beach, FL 32548"
+    "address": " 98 Miracle Strip Pkwy SE  Fort Walton Beach, FL 32548",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "4126444",
     "name": "Fresh Creative Communications + Design",
     "description": "Advertising Agencies",
     "phone": "(850) 244-5549",
-    "address": "street: 16 First St SE location: Fort Walton Beach, FL 32548"
+    "address": " 16 First St SE  Fort Walton Beach, FL 32548",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "1742823",
     "name": "Destinations & Beyond",
     "description": "Advertising Agencies",
     "phone": "(850) 243-8889",
-    "address": "street: 122 Eglin Pkwy NE location: Fort Walton Beach, FL 32548"
+    "address": " 122 Eglin Pkwy NE  Fort Walton Beach, FL 32548",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "464425953",
     "name": "April Showers Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 226-7640",
-    "address": "street: 226 Andalusia St NE location: Fort Walton Beach, FL 32548"
+    "address": " 226 Andalusia St NE  Fort Walton Beach, FL 32548",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "531052044",
-    "name": "Bulk Email Group",
-    "description": "Advertising Agencies",
-    "phone": "(850) 543-4222",
-    "address": "street: N/A location: Santa Rosa Beach, FL 32459"
-  },
-  {
-    "dataYpid": "567255887",
-    "name": "Lead Navigators",
-    "description": "Advertising Agencies",
-    "phone": "(678) 491-6868",
-    "address": "street: N/A location: Santa Rosa Beach, FL 32459"
-  },
-  {
-    "dataYpid": "474559399",
-    "name": "CRM Software Online",
-    "description": "Advertising Agencies",
-    "phone": "(850) 685-9195",
-    "address": "street: N/A location: Santa Rosa Beach, FL 32459"
-  },
-  {
-    "dataYpid": "573993375",
-    "name": "Quicke Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(850) 565-9343",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "5090177",
     "name": "Trophy Center Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 862-8413",
-    "address": "street: 529 Eglin Pkwy NE location: Fort Walton Beach, FL 32547"
+    "address": " 529 Eglin Pkwy NE  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "492946815",
     "name": "Boomer Aviation Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 244-1313",
-    "address": "street: 40 Lincoln Dr NW location: Fort Walton Beach, FL 32547"
+    "address": " 40 Lincoln Dr NW  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "467714029",
     "name": "Junger Stanley",
     "description": "Advertising Agencies",
     "phone": "(850) 862-1234",
-    "address": "street: 108 Akron St location: Fort Walton Beach, FL 32547"
+    "address": " 108 Akron St  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "453210231",
     "name": "Cox Media",
     "description": "Advertising Agencies",
     "phone": "(866) 604-7110",
-    "address": "street: 320 Racetrack Rd NW location: Fort Walton Beach, FL 32547"
+    "address": " 320 Racetrack Rd NW  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "458504260",
     "name": "Petermann A-V Group",
     "description": "Advertising Agencies",
     "phone": "(850) 243-5315",
-    "address": "street: 924 Mar Walt Dr location: Fort Walton Beach, FL 32547"
+    "address": " 924 Mar Walt Dr  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "29133615",
     "name": "Oxyfresh",
     "description": "Advertising Agencies",
     "phone": "(850) 651-5049",
-    "address": "street: 155 Country Club Rd location: Shalimar, FL 32579"
+    "address": " 155 Country Club Rd  Shalimar, FL 32579",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "8573177",
     "name": "Lamar Outdoor Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 862-4343",
-    "address": "street: 223 Green Acres Rd location: Fort Walton Beach, FL 32547"
+    "address": " 223 Green Acres Rd  Fort Walton Beach, FL 32547",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "481574406",
     "name": "Petermann Agency",
     "description": "Advertising Agencies",
     "phone": "(850) 613-6313",
-    "address": "street: 22 Sherwood Dr location: Shalimar, FL 32579"
+    "address": " 22 Sherwood Dr  Shalimar, FL 32579",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "464821794",
     "name": "Cc Distributors",
     "description": "Advertising Agencies",
     "phone": "(850) 581-5977",
-    "address": "street: 415 Independence Rd location: Hurlburt Field, FL 32544"
+    "address": " 415 Independence Rd  Hurlburt Field, FL 32544",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "7571901",
     "name": "D C I Marketing",
     "description": "Advertising Agencies",
     "phone": "(850) 650-6602",
-    "address": "street: 10 Commerce Dr location: Destin, FL 32541"
+    "address": " 10 Commerce Dr  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "470854021",
     "name": "Think Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 837-3352",
-    "address": "street: 401 Mountain Dr location: Destin, FL 32541"
+    "address": " 401 Mountain Dr  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "28970963",
     "name": "Life Essentials Plus",
     "description": "Advertising Agencies",
     "phone": "(850) 837-2307",
-    "address": "street: 412 Spanish Moss Trl location: Destin, FL 32541"
+    "address": " 412 Spanish Moss Trl  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "571700764",
     "name": "Twinning Pros",
     "description": "Advertising Agencies",
     "phone": "(850) 696-0906",
-    "address": "street: 775 Gulf Shore Dr location: Destin, FL 32541"
+    "address": " 775 Gulf Shore Dr  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "14521919",
     "name": "Papillon Publications",
     "description": "Advertising Agencies",
     "phone": "(850) 650-1710",
-    "address": "street: 4224 Jade Loop location: Destin, FL 32541"
+    "address": " 4224 Jade Loop  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "482212477",
     "name": "Copy Systems Business Center",
     "description": "Advertising Agencies",
     "phone": "(850) 650-0886",
-    "address": "street: 15017 Emerald Coast Pkwy location: Destin, FL 32541"
+    "address": " 15017 Emerald Coast Pkwy  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "15953182",
     "name": "ThriftyNickelAds.com",
     "description": "Advertising Agencies",
     "phone": "(850) 469-9712",
-    "address": "street: 20011 Emerald Coast Pkwy location: Destin, FL 32541"
+    "address": " 20011 Emerald Coast Pkwy  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "29201929",
     "name": "Spigelmire, Michael",
     "description": "Advertising Agencies",
     "phone": "(850) 650-3373",
-    "address": "street: 263 Champion Ct location: Destin, FL 32541"
+    "address": " 263 Champion Ct  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "559231852",
     "name": "Finfrock Marketing",
     "description": "Advertising Agencies",
     "phone": "(850) 253-7466",
-    "address": "street: 34990 Emerald Coast Pkwy Ste 321 location: Destin, FL 32541"
+    "address": " 34990 Emerald Coast Pkwy Ste 321  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "507065397",
     "name": "Ultimate Production Company",
     "description": "Advertising Agencies",
     "phone": "(850) 710-8002",
-    "address": "street: 34990 Emerald Coast Parkway Suite 332 location: Destin, FL 32541"
+    "address": " 34990 Emerald Coast Parkway Suite 332  Destin, FL 32541",
+    "location": "Santa_Rosa"
   },
   {
-    "dataYpid": "13335716",
     "name": "Financial Marketing Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 654-1200",
-    "address": "street: 4481 Legendary Dr location: Destin, FL 32541"
-  },
-  {
-    "dataYpid": "10444994",
-    "name": "Papillon Publications",
-    "description": "Advertising Agencies",
-    "phone": "(850) 650-7917",
-    "address": "street: 280 Vinings Way Blvd location: Destin, FL 32541"
-  },
-  {
-    "dataYpid": "19791526",
-    "name": "Copy Systems Business Center",
-    "description": "Advertising Agencies",
-    "phone": "(850) 279-9100",
-    "address": "street: 4821 Us Hwy 98 W location: Santa Rosa Beach, FL 32459"
+    "address": " 4481 Legendary Dr  Destin, FL 32541",
+    "location": "Santa_Rosa"
   }
 ]

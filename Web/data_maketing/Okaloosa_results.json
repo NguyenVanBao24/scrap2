@@ -1,478 +1,366 @@
 [
   {
-    "dataYpid": "848995",
     "name": "The Petermann Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(850) 243-5315",
-    "address": "street: 28 Ferry Rd SE location: Fort Walton Beach, FL 32548"
+    "address": "28 Ferry Rd SE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "467567500",
     "name": "A 2 Z Specialty Advertising",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 654-3080",
-    "address": "street: 13 Eglin Parkway NE Suite B location: Fort Walton Beach, FL 32548"
+    "address": "13 Eglin Parkway NE Suite B  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "15855201",
     "name": "Thrifty Nickel",
     "description": "Publishers-Periodical",
     "phone": "(850) 833-2648",
-    "address": "street: 133 Eglin Pkwy SE location: Fort Walton Beach, FL 32548"
+    "address": "133 Eglin Pkwy SE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "9634517",
     "name": "Mcd Productions",
     "description": "Marketing Consultants",
     "phone": "(850) 302-0111",
-    "address": "street: 838 Tropic Ave location: Fort Walton Beach, FL 32548"
+    "address": "838 Tropic Ave  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "5090177",
     "name": "Trophy Center Inc",
     "description": "Awards",
     "phone": "(850) 862-8413",
-    "address": "street: 529 Eglin Pkwy NE location: Fort Walton Beach, FL 32547"
+    "address": "529 Eglin Pkwy NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "565060953",
     "name": "Emerald Coast Connected",
     "description": "Marketing Programs & Services",
     "phone": "(850) 905-3400",
-    "address": "street: 17 Old Ferry Rd location: Shalimar, FL 32579"
+    "address": "17 Old Ferry Rd  Shalimar, FL 32579",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "576562854",
     "name": "SBD Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(850) 820-9444",
-    "address": "street: 17 Old Ferry Rd location: Shalimar, FL 32579"
+    "address": "17 Old Ferry Rd  Shalimar, FL 32579",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "520361039",
     "name": "Kyana Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 362-7444",
-    "address": "street: 996 Leigh Ann Ln location: Fort Walton Beach, FL 32547"
+    "address": "996 Leigh Ann Ln  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "465724817",
     "name": "Emerald Coast Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 863-2500",
-    "address": "street: 105 Beach Dr location: Fort Walton Beach, FL 32547"
+    "address": "105 Beach Dr  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "19711419",
     "name": "Nightown",
     "description": "Marketing Programs & Services",
     "phone": "(850) 424-6961",
-    "address": "street: 127 Harbor Blvd location: Destin, FL 32541"
+    "address": "127 Harbor Blvd  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "542645205",
     "name": "Maxzim Marketing Incorporated",
     "description": "Marketing Programs & Services",
     "phone": "(850) 865-9145",
-    "address": "street: 2224 S Fairview St location: Fort Walton Beach, FL 32548"
+    "address": "2224 S Fairview St  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "503063818",
-    "name": "Point Marketing Communications",
-    "description": "Marketing Programs & Services",
-    "phone": "(262) 271-7791",
-    "address": "street: N/A location: Destin, FL 32541"
-  },
-  {
-    "dataYpid": "575004091",
     "name": "Captevrix",
     "description": "Marketing Programs & Services",
     "phone": "(850) 788-2307",
-    "address": "street: 1992 Lewis Turner Blvd # 1135 location: Fort Walton Beach, FL 32547"
+    "address": "1992 Lewis Turner Blvd # 1135  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "7571901",
     "name": "D C I Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(850) 650-6602",
-    "address": "street: 10 Commerce Dr location: Destin, FL 32541"
+    "address": "10 Commerce Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "571110984",
-    "name": "Green Tech Integrated Services",
-    "description": "Marketing Programs & Services",
-    "phone": "(850) 749-3843",
-    "address": "street: N/A location: Crestview, FL 32536"
-  },
-  {
-    "dataYpid": "22945271",
     "name": "Emerald Writing Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 420-5592",
-    "address": "street: 781 Pine Alley St location: Fort Walton Beach, FL 32547"
+    "address": "781 Pine Alley St  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "526572498",
     "name": "Living Scents By The Sea",
     "description": "Decorative Ceramic Products",
     "phone": "(916) 307-0397",
-    "address": "street: 112 Poquito Rd location: Shalimar, FL 32579"
+    "address": "112 Poquito Rd  Shalimar, FL 32579",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "28904984",
     "name": "Aqua Resources Corp",
     "description": "Market Research & Analysis",
     "phone": "(770) 592-1014",
-    "address": "street: 20 Linwood Rd NW location: Fort Walton Beach, FL 32547"
+    "address": "20 Linwood Rd NW  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "517070382",
     "name": "Gap Creek Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 629-9561",
-    "address": "street: - location: Fort Walton Beach, FL 32547"
+    "address": "-  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "472134598",
     "name": "Emerald Coast Deals",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 362-6484",
-    "address": "street: 94 Ready Ave NW location: Fort Walton Beach, FL 32548"
+    "address": "94 Ready Ave NW  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "559549433",
     "name": "Allied Marketing Ins Group",
     "description": "Marketing Consultants",
     "phone": "(850) 226-8189",
-    "address": "street: 151 Mary Esther Blvd location: Mary Esther, FL 32569"
+    "address": "151 Mary Esther Blvd  Mary Esther, FL 32569",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "548249715",
     "name": "Creative Media Imaging",
     "description": "Marketing Consultants",
     "phone": "(850) 745-4127",
-    "address": "street: 548 Mary Esther Cut Off NW Ofc NW location: Fort Walton Beach, FL 32548"
+    "address": "548 Mary Esther Cut Off NW Ofc NW  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "489723040",
     "name": "Peppercorn Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(850) 864-2251",
-    "address": "street: 25 Racetrack Rd NE location: Fort Walton Beach, FL 32547"
+    "address": "25 Racetrack Rd NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "469037618",
     "name": "Destin Internet Marketing",
     "description": "Marketing Consultants",
     "phone": "(850) 460-2443",
-    "address": "street: 215 Mountain Dr location: Destin, FL 32541"
+    "address": "215 Mountain Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "468044427",
-    "name": "ABC Design Lab",
-    "description": "Copy Writers",
-    "phone": "(314) 266-8195",
-    "address": "street: N/A location: Fort Walton Beach, FL 32547"
-  },
-  {
-    "dataYpid": "468683881",
-    "name": "HB Webdudes",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 375-0111",
-    "address": "street: N/A location: Fort Walton Beach, FL 32548"
-  },
-  {
-    "dataYpid": "538408379",
-    "name": "Web Tech SEO",
-    "description": "Web Site Design & Services",
-    "phone": "(850) 792-9200",
-    "address": "street: N/A location: Santa Rosa Beach, FL 32459"
-  },
-  {
-    "dataYpid": "516195669",
-    "name": "Three Lefts Consulting",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 687-5845",
-    "address": "street: N/A location: Miramar Beach, FL 32550"
-  },
-  {
-    "dataYpid": "530290469",
-    "name": "My Local SEOs",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(888) 843-9405",
-    "address": "street: N/A location: Destin, FL 32541"
-  },
-  {
-    "dataYpid": "464687577",
-    "name": "Streamline Services Inc.",
-    "description": "Marketing Consultants",
-    "phone": "(888) 635-7773",
-    "address": "street: N/A location: Crestview, FL 32539"
-  },
-  {
-    "dataYpid": "8676966",
-    "name": "Absolute Web Design Solutions (Free Website Design)",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 218-5105",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "3974896",
-    "name": "Quantum Research International Inc",
-    "description": "Market Research & Analysis",
-    "phone": "(850) 613-6680",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467339472",
-    "name": "Coleman Research Corp",
-    "description": "Market Research & Analysis",
-    "phone": "(850) 651-0063",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9855116",
-    "name": "Arete Associates",
-    "description": "Market Research & Analysis",
-    "phone": "(850) 729-2130",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "453691351",
-    "name": "The Team Business Solutions",
-    "description": "Internet Products & Services",
-    "phone": "(870) 926-8422",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560282415",
-    "name": "Ese Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(877) 722-0034",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "482582591",
     "name": "16th Services Marketing & Publicity",
     "description": "Marketing Programs & Services",
     "phone": "(850) 884-3820",
-    "address": "street: 145 Letourneau Cir location: Hurlburt Field, FL 32544"
+    "address": "145 Letourneau Cir  Hurlburt Field, FL 32544",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "571700764",
     "name": "Twinning Pros",
     "description": "Marketing Programs & Services",
     "phone": "(850) 696-0906",
-    "address": "street: 775 Gulf Shore Dr location: Destin, FL 32541"
+    "address": "775 Gulf Shore Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "558021706",
     "name": "The Franatics",
     "description": "Marketing Programs & Services",
     "phone": "(850) 898-1296",
-    "address": "street: 543 Harbor Blvd Ste 403 location: Destin, FL 32541"
+    "address": "543 Harbor Blvd Ste 403  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "480657815",
     "name": "Active Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 424-3044",
-    "address": "street: 4640 Gulfstarr Dr location: Destin, FL 32541"
+    "address": "4640 Gulfstarr Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "502851975",
     "name": "TEXT TO GROW",
     "description": "Coupon Advertising",
     "phone": "(850) 218-9976",
-    "address": "street: 1650 W Highway 98 location: Mary Esther, FL 32569"
+    "address": "1650 W Highway 98  Mary Esther, FL 32569",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "569300347",
     "name": "K Moody Marketing & Web Design",
     "description": "Web Site Design & Services",
     "phone": "(850) 777-3333",
-    "address": "street: 34990 Emerald Coast Pkwy Ste 304 location: Destin, FL 32541"
+    "address": "34990 Emerald Coast Pkwy Ste 304  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "559231852",
     "name": "Finfrock Marketing",
     "description": "Advertising Agencies",
     "phone": "(850) 253-7466",
-    "address": "street: 34990 Emerald Coast Pkwy Ste 321 location: Destin, FL 32541"
+    "address": "34990 Emerald Coast Pkwy Ste 321  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "480710705",
     "name": "G6 Technical Solutions",
     "description": "Computer Network Design & Systems",
     "phone": "(850) 737-1687",
-    "address": "street: 838 Airport Rd location: Destin, FL 32541"
+    "address": "838 Airport Rd  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "509920931",
     "name": "Susa Speed Marketing",
     "description": "Sales Promotion Service",
     "phone": "(305) 563-7872",
-    "address": "street: Po Box 1257 location: Destin, FL 32540"
+    "address": "Po Box 1257  Destin, FL 32540",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "529482550",
     "name": "CartoBlue",
     "description": "Interactive Media",
     "phone": "(800) 838-4675",
-    "address": "street: 4300 Legendary Dr Ste 214 location: Destin, FL 32541"
+    "address": "4300 Legendary Dr Ste 214  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "459162295",
     "name": "Dex",
     "description": "Directory & Guide Advertising",
     "phone": "(800) 998-9798",
-    "address": "street: 4300 Legendary Dr Ste 214 location: Destin, FL 32541"
+    "address": "4300 Legendary Dr Ste 214  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "13335716",
     "name": "Financial Marketing Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 654-1200",
-    "address": "street: 4481 Legendary Dr location: Destin, FL 32541"
+    "address": "4481 Legendary Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "9953779",
     "name": "Global Retail Marketing Inc",
     "description": "Business Coaches & Consultants",
     "phone": "(850) 837-5221",
-    "address": "street: 416 Windjammer Ct location: Destin, FL 32541"
+    "address": "416 Windjammer Ct  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "547822992",
     "name": "Hana Lee Salon Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(850) 737-7548",
-    "address": "street: 322 Miramar Beach Dr location: Miramar Beach, FL 32550"
+    "address": "322 Miramar Beach Dr  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "540890225",
     "name": "Homepocket",
     "description": "Marketing Programs & Services",
     "phone": "(855) 547-6253",
-    "address": "street: 495 Grand Blvd location: Miramar Beach, FL 32550"
+    "address": "495 Grand Blvd  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "561143679",
     "name": "Cocard PBS",
     "description": "Marketing Programs & Services",
     "phone": "(850) 424-7520",
-    "address": "street: 200 Business Centre Dr location: Miramar Beach, FL 32550"
+    "address": "200 Business Centre Dr  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "566323363",
     "name": "Fresh Start Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 424-7520",
-    "address": "street: 200 Business Centre Dr location: Miramar Beach, FL 32550"
+    "address": "200 Business Centre Dr  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "576006596",
     "name": "Zen Co Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 344-0224",
-    "address": "street: 9375 Us Highway 98 W location: Miramar Beach, FL 32550"
+    "address": "9375 Us Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "510425834",
     "name": "AutomotiveOnly.com",
     "description": "Marketing Programs & Services",
     "phone": "(800) 591-5719",
-    "address": "street: 495 Grand Blvd location: Miramar Beach, FL 32550"
+    "address": "495 Grand Blvd  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "526558588",
     "name": "Proffitt PR",
     "description": "Marketing Programs & Services",
     "phone": "(850) 460-7777",
-    "address": "street: 9375 Us Highway 98 W Ste 24 location: Miramar Beach, FL 32550"
+    "address": "9375 Us Highway 98 W Ste 24  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "469244568",
     "name": "Focal Point eSolutions, LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 428-1467",
-    "address": "street: 495 Grand Blvd Ste 206 location: Miramar Beach, FL 32550"
+    "address": "495 Grand Blvd Ste 206  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "524607298",
     "name": "Red Fish Digital Marketing, LLC.",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 426-4110",
-    "address": "street: 1512 John Sims Pkwy E # 357 location: Niceville, FL 32578"
+    "address": "1512 John Sims Pkwy E # 357  Niceville, FL 32578",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "559386568",
     "name": "Noo Fx",
     "description": "Market Research & Analysis",
     "phone": "(973) 998-5488",
-    "address": "street: 1261 Deerwood Dr location: Miramar Beach, FL 32550"
+    "address": "1261 Deerwood Dr  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "507055759",
     "name": "Pelican Design Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 502-4330",
-    "address": "street: 1045 Cocobolo Dr location: Santa Rosa Beach, FL 32459"
+    "address": "1045 Cocobolo Dr  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "461106953",
     "name": "Adcentuate",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 424-1331",
-    "address": "street: 495 Grand Blvd Ste 206 location: Miramar Beach, FL 32550"
+    "address": "495 Grand Blvd Ste 206  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "550455402",
     "name": "Infomedia",
     "description": "Web Site Design & Services",
     "phone": "(850) 316-4244",
-    "address": "street: 495 Grand Blvd location: Miramar Beach, FL 32550"
+    "address": "495 Grand Blvd  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "542171308",
     "name": "Victory Digital Marketing Inc.",
     "description": "Marketing Consultants",
     "phone": "(850) 533-3759",
-    "address": "street: 11275 Us Highway 98 W location: Miramar Beach, FL 32550"
+    "address": "11275 Us Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "466373246",
     "name": "W Herndon Consulting",
     "description": "Business Coaches & Consultants",
     "phone": "(850) 710-5256",
-    "address": "street: 224 Hideaway Bay Dr location: Miramar Beach, FL 32550"
+    "address": "224 Hideaway Bay Dr  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "19791526",
     "name": "Copy Systems Business Center",
     "description": "Commercial Artists",
     "phone": "(850) 279-9100",
-    "address": "street: 4821 Us Hwy 98 W location: Santa Rosa Beach, FL 32459"
+    "address": "4821 Us Hwy 98 W  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "524003346",
     "name": "Printers of Pensacola",
     "description": "Marketing Programs & Services",
     "phone": "(850) 434-2588",
-    "address": "street: 1207 W Garden St location: Pensacola, FL 32502"
+    "address": "1207 W Garden St  Pensacola, FL 32502",
+    "location": "Okaloosa"
   }
 ]

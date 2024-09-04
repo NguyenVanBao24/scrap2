@@ -1,163 +1,23 @@
 [
   {
-    "dataYpid": "503303701",
     "name": "RPM Internet Marketing Services",
     "description": "Marketing Programs & Services",
     "phone": "(772) 408-3138",
-    "address": "street: 517 SW 21st St location: Okeechobee, FL 34974"
+    "address": "517 SW 21st St  Okeechobee, FL 34974",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "541034491",
     "name": "Jerry Paulausky Associates Inc",
     "description": "Marketing Programs & Services",
     "phone": "(863) 484-8346",
-    "address": "street: 4280 SW 13th Ave location: Okeechobee, FL 34974"
+    "address": "4280 SW 13th Ave  Okeechobee, FL 34974",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "472938156",
-    "name": "Brandon Tree Ltd",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(786) 201-2825",
-    "address": "street: N/A location: Okeechobee, FL 34974"
-  },
-  {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505327162",
-    "name": "Bright Brothers Searchlights",
-    "description": "Marketing Programs & Services",
-    "phone": "(772) 237-0895",
-    "address": "street: N/A location: Port Saint Lucie, FL 34986"
-  },
-  {
-    "dataYpid": "573391942",
-    "name": "Advent Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(772) 359-1071",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9602391",
-    "name": "Advanced Website Designs",
-    "description": "Web Site Design & Services",
-    "phone": "(772) 337-1133",
-    "address": "street: N/A location: Port Saint Lucie, FL 34952"
-  },
-  {
-    "dataYpid": "520317750",
-    "name": "Thoughtful Innovations",
-    "description": "Marketing Consultants",
-    "phone": "(314) 304-7149",
-    "address": "street: N/A location: Port Saint Lucie, FL 34983"
-  },
-  {
-    "dataYpid": "470503712",
-    "name": "Ninja Marketing / Video-Sales-Force.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(772) 215-8269",
-    "address": "street: N/A location: Port Saint Lucie, FL 34952"
-  },
-  {
-    "dataYpid": "544248173",
-    "name": "DesignLabs",
-    "description": "Web Site Design & Services",
-    "phone": "(772) 971-2966",
-    "address": "street: N/A location: Fort Pierce, FL 34949"
-  },
-  {
-    "dataYpid": "545787215",
-    "name": "Supportstluciecounty.com Inc.",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(646) 296-3387",
-    "address": "street: N/A location: Port St Lucie, FL 34986"
-  },
-  {
-    "dataYpid": "549439238",
-    "name": "St. Lucie Web Design",
-    "description": "Web Site Design & Services",
-    "phone": "(954) 614-4298",
-    "address": "street: N/A location: Port St. Lucie, FL 34983"
-  },
-  {
-    "dataYpid": "18251296",
-    "name": "Cutting Edge Engravers",
-    "description": "Computer Network Design & Systems",
-    "phone": "(772) 209-2300",
-    "address": "street: N/A location: Port Saint Lucie, FL 34953"
-  },
-  {
-    "dataYpid": "504686928",
-    "name": "MarketingonUs",
-    "description": "Marketing Consultants",
-    "phone": "(772) 267-3803",
-    "address": "street: N/A location: Port Saint Lucie, FL 34953"
-  },
-  {
-    "dataYpid": "545550899",
-    "name": "The CUVEY Group",
-    "description": "Marketing Consultants",
-    "phone": "(772) 206-3966",
-    "address": "street: N/A location: Fort Pierce, FL 34950"
-  },
-  {
-    "dataYpid": "505321967",
-    "name": "Pool-Nerd.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(951) 750-0546",
-    "address": "street: N/A location: Port Saint Lucie, FL 34953"
-  },
-  {
-    "dataYpid": "467150581",
-    "name": "Yay-N-Wow Social Media Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(772) 579-8399",
-    "address": "street: N/A location: Port Saint Lucie, FL 34986"
-  },
-  {
-    "dataYpid": "505319124",
-    "name": "Wheelistic Web Design",
-    "description": "Web Site Design & Services",
-    "phone": "(772) 626-7814",
-    "address": "street: N/A location: Port Saint Lucie, FL 34984"
-  },
-  {
-    "dataYpid": "562407129",
-    "name": "Driven Digital LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(772) 800-6831",
-    "address": "street: N/A location: Port Saint Lucie, FL 34953"
-  },
-  {
-    "dataYpid": "480793422",
-    "name": "Roy Jones Enterprise",
-    "description": "Marketing Consultants",
-    "phone": "(772) 800-3432",
-    "address": "street: N/A location: Port Saint Lucie, FL 34984"
-  },
-  {
-    "dataYpid": "468828647",
-    "name": "Paragon Marketing Solutions LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(754) 444-6584",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "551918052",
     "name": "Plantmicro.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(772) 267-4121",
-    "address": "street: 8290 SW Tommy Clements Ln location: Indiantown, FL 34956"
+    "address": "8290 SW Tommy Clements Ln  Indiantown, FL 34956",
+    "location": "Okeechobee"
   }
 ]

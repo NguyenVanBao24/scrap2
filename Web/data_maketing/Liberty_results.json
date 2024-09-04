@@ -1,1290 +1,1108 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468737899",
-    "name": "Digital Spark Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(607) 725-8240",
-    "address": "street: N/A location: Merritt Island, FL 32953"
-  },
-  {
-    "dataYpid": "507581978",
-    "name": "Dr. Carrie Rose",
-    "description": "Marketing Programs & Services",
-    "phone": "(321) 987-0676",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "521072419",
     "name": "Oso Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(847) 922-3994",
-    "address": "street: 600 Florida Ave location: Cocoa, FL 32923"
+    "address": "600 Florida Ave  Cocoa, FL 32923",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "471846883",
     "name": "M B Marketing & Manufacturing Co",
     "description": "Marketing Programs & Services",
     "phone": "(321) 631-7688",
-    "address": "street: 322 Clearlake Rd location: Cocoa, FL 32922"
+    "address": "322 Clearlake Rd  Cocoa, FL 32922",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "545717755",
     "name": "Lead Machine",
     "description": "Marketing Programs & Services",
     "phone": "(321) 373-3536",
-    "address": "street: 234 E Merritt Island Cswy location: Merritt Island, FL 32952"
+    "address": "234 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "462621315",
     "name": "Zephyr Studio",
     "description": "Marketing Programs & Services",
     "phone": "(321) 848-6909",
-    "address": "street: 6208 Erik Ct location: Melbourne, FL 32940"
+    "address": "6208 Erik Ct  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "552317634",
     "name": "Microwave Component Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(321) 452-0358",
-    "address": "street: 750 Venetian Way location: Merritt Island, FL 32953"
+    "address": "750 Venetian Way  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "458785497",
     "name": "SCB Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 622-5986",
-    "address": "street: 335 Pineda Ct location: Melbourne, FL 32940"
+    "address": "335 Pineda Ct  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "18616501",
     "name": "Roswell US",
     "description": "Marketing Programs & Services",
     "phone": "(321) 639-0893",
-    "address": "street: 3370 Grissom Pkwy location: Cocoa, FL 32926"
+    "address": "3370 Grissom Pkwy  Cocoa, FL 32926",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "572984881",
     "name": "Impact Platforms",
     "description": "Marketing Programs & Services",
     "phone": "(833) 438-4672",
-    "address": "street: 1980 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "1980 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "551675529",
     "name": "Westgate Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 351-3351",
-    "address": "street: 401 Meade Ave location: Cocoa Beach, FL 32931"
+    "address": "401 Meade Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "1438960",
     "name": "Jones & Trevor Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 986-8501",
-    "address": "street: 4774 Navaho Trl location: Merritt Island, FL 32953"
+    "address": "4774 Navaho Trl  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "533063721",
     "name": "Florida SEO",
     "description": "Marketing Programs & Services",
     "phone": "(321) 613-2524",
-    "address": "street: 201 International Dr location: Cape Canaveral, FL 32920"
+    "address": "201 International Dr  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "494416008",
     "name": "First Wave Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 806-8799",
-    "address": "street: 3912 Orchard Dr location: Melbourne, FL 32940"
+    "address": "3912 Orchard Dr  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "486737137",
     "name": "Davenport Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 405-2585",
-    "address": "street: 3540 Heartwood Ln location: Melbourne, FL 32934"
+    "address": "3540 Heartwood Ln  Melbourne, FL 32934",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481858209",
     "name": "GYB Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(321) 392-3132",
-    "address": "street: 8501 Astronaut Blvd Ste 5 location: Cape Canaveral, FL 32920"
+    "address": "8501 Astronaut Blvd Ste 5  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "540984295",
     "name": "Totall Recall I Nc",
     "description": "Marketing Programs & Services",
     "phone": "(321) 613-2115",
-    "address": "street: 395 Harbor Dr location: Cape Canaveral, FL 32920"
+    "address": "395 Harbor Dr  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "569693278",
     "name": "Buzz Local",
     "description": "Marketing Programs & Services",
     "phone": "(850) 819-4736",
-    "address": "street: 6411 Cable Ave location: Cocoa, FL 32927"
+    "address": "6411 Cable Ave  Cocoa, FL 32927",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481554637",
     "name": "Southbound Sales & Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 777-3533",
-    "address": "street: 537 Hawksbill Island Dr location: Satellite Beach, FL 32937"
+    "address": "537 Hawksbill Island Dr  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "556361722",
     "name": "STP Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 296-8135",
-    "address": "street: 2915 Kemblewick Dr location: Melbourne, FL 32935"
+    "address": "2915 Kemblewick Dr  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "29462103",
     "name": "Ebove & Beyond",
     "description": "Marketing Programs & Services",
     "phone": "(954) 778-0047",
-    "address": "street: 245 Grant Ave location: Satellite Beach, FL 32937"
+    "address": "245 Grant Ave  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "477759151",
     "name": "Environmental Marketing Services",
     "description": "Marketing Programs & Services",
     "phone": "(204) 952-4709",
-    "address": "street: 109 Glenwood Ave location: Satellite Beach, FL 32937"
+    "address": "109 Glenwood Ave  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "479852675",
     "name": "BiznessOpt.com, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(321) 254-3824",
-    "address": "street: 2084 Lakeview Dr location: Melbourne, FL 32935"
+    "address": "2084 Lakeview Dr  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "475043642",
     "name": "Straight Shot",
     "description": "Marketing Programs & Services",
     "phone": "(321) 253-3412",
-    "address": "street: 715 North Dr Ste B location: Melbourne, FL 32934"
+    "address": "715 North Dr Ste B  Melbourne, FL 32934",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "495662182",
     "name": "DCWebDesign Studio",
     "description": "Marketing Programs & Services",
     "phone": "(321) 446-3183",
-    "address": "street: 1861 S Patrick Dr Ste 174 location: Indian Harbour Beach, FL 32937"
+    "address": "1861 S Patrick Dr Ste 174  Indian Harbour Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "480004368",
     "name": "Vox Monkey",
     "description": "Marketing Programs & Services",
     "phone": "(407) 963-8460",
-    "address": "street: 390 N Wickham Rd Ste G location: Melbourne, FL 32935"
+    "address": "390 N Wickham Rd Ste G  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "486406935",
     "name": "International Marketing Service",
     "description": "Marketing Programs & Services",
     "phone": "(321) 723-4290",
-    "address": "street: 7715 Progress Cir location: West Melbourne, FL 32904"
+    "address": "7715 Progress Cir  West Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "551268801",
     "name": "Marketing Affiliates",
     "description": "Marketing Programs & Services",
     "phone": "(321) 622-5852",
-    "address": "street: 274 N Babcock St location: Melbourne, FL 32935"
+    "address": "274 N Babcock St  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "462567270",
     "name": "Jms",
     "description": "Marketing Programs & Services",
     "phone": "(321) 914-0930",
-    "address": "street: 551 S Apollo Blvd Ste 204 location: Melbourne, FL 32901"
+    "address": "551 S Apollo Blvd Ste 204  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "570741015",
     "name": "GridTek Utility Services",
     "description": "Marketing Programs & Services",
     "phone": "(321) 724-1700",
-    "address": "street: 1688 W Hibiscus Blvd location: Melbourne, FL 32901"
+    "address": "1688 W Hibiscus Blvd  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "3255331",
     "name": "E & K Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(321) 984-8729",
-    "address": "street: 1103 W Hibiscus Blvd location: Melbourne, FL 32901"
+    "address": "1103 W Hibiscus Blvd  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "521830428",
     "name": "Push Design and Printing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 591-1645",
-    "address": "street: 1101 W Hibiscus Blvd location: Melbourne, FL 32901"
+    "address": "1101 W Hibiscus Blvd  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "502803682",
     "name": "Space Coast Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(321) 848-2353",
-    "address": "street: 100 Rialto Pl location: Melbourne, FL 32901"
+    "address": "100 Rialto Pl  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "526613264",
     "name": "Come Write This",
     "description": "Marketing Programs & Services",
     "phone": "(321) 802-3029",
-    "address": "street: Po Box 23029 location: Melbourne, FL 32902"
+    "address": "Po Box 23029  Melbourne, FL 32902",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "475641864",
-    "name": "Creative Copywrite Couture",
-    "description": "Marketing Programs & Services",
-    "phone": "(321) 300-4427",
-    "address": "street: N/A location: Rockledge, FL 32955"
-  },
-  {
-    "dataYpid": "472647578",
-    "name": "Twin Rivers Communications",
-    "description": "Marketing Programs & Services",
-    "phone": "(321) 578-8133",
-    "address": "street: N/A location: Merritt Island, FL 32953"
-  },
-  {
-    "dataYpid": "506753340",
     "name": "P and W Services",
     "description": "Marketing Programs & Services",
     "phone": "(321) 220-8265",
-    "address": "street: 2078 Lionel Dr location: Melbourne, FL 32940"
+    "address": "2078 Lionel Dr  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "263509",
     "name": "Brandt Ronat & Company",
     "description": "Marketing Programs & Services",
     "phone": "(321) 453-3101",
-    "address": "street: 60 McLeod St location: Merritt Island, FL 32953"
+    "address": "60 McLeod St  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "563126371",
     "name": "Video Display Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(321) 784-4427",
-    "address": "street: 5155 King St location: Cocoa, FL 32926"
+    "address": "5155 King St  Cocoa, FL 32926",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "476080805",
     "name": "Mds Vacation Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 305-6969",
-    "address": "street: 273 Crockett Blvd location: Merritt Island, FL 32953"
+    "address": "273 Crockett Blvd  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "472216358",
     "name": "Jeanos LLC",
     "description": "Marketing Programs & Services",
     "phone": "(321) 205-4334",
-    "address": "street: 2023 N Atlantic Ave # 27 location: Cocoa Beach, FL 32931"
+    "address": "2023 N Atlantic Ave # 27  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481413224",
     "name": "Space Coast City Guide",
     "description": "Marketing Programs & Services",
     "phone": "(321) 544-3440",
-    "address": "street: 8934 Puerto Del Rio Dr Unit 204 location: Cape Canaveral, FL 32920"
+    "address": "8934 Puerto Del Rio Dr Unit 204  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "507837235",
     "name": "Crowder and Company, LLC",
     "description": "Marketing Programs & Services",
     "phone": "(321) 216-3112",
-    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "457938163",
     "name": "SPACE COAST COUPONS Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(321) 268-7667",
-    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "465255170",
     "name": "SPACE COAST SMS Inc. TEXT MESSAGE MARKETING",
     "description": "Marketing Programs & Services",
     "phone": "(321) 438-7325",
-    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "521408436",
     "name": "Black Tie Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(800) 316-8030",
-    "address": "street: 3692 N Wickham Rd Ste A location: Melbourne, FL 32935"
+    "address": "3692 N Wickham Rd Ste A  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "472426128",
     "name": "Mahalo Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 305-3636",
-    "address": "street: 607 Manatee Dr location: Satellite Beach, FL 32937"
+    "address": "607 Manatee Dr  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "530652438",
     "name": "Dunham Accounting & Business Solutions, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(321) 622-5094",
-    "address": "street: 1127 S Patrick Dr location: Satellite Beach, FL 32937"
+    "address": "1127 S Patrick Dr  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "524820805",
     "name": "The Paramount Group.us",
     "description": "Marketing Programs & Services",
     "phone": "(321) 238-8225",
-    "address": "street: 1110 Highway A1A location: Satellite Beach, FL 32937"
+    "address": "1110 Highway A1A  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "573004538",
     "name": "B2K12 Branding Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(321) 200-0427",
-    "address": "street: 2165 Avocado Ave location: Melbourne, FL 32935"
+    "address": "2165 Avocado Ave  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "524848466",
     "name": "Valpak of Space Coast FL",
     "description": "Marketing Programs & Services",
     "phone": "(321) 622-8157",
-    "address": "street: 1600 Sarno Rd, #119H location: Melbourne, FL 32935"
+    "address": "1600 Sarno Rd, #119H  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "7174836",
     "name": "Accent Technologies Inc",
     "description": "Marketing Programs & Services",
     "phone": "(321) 242-7438",
-    "address": "street: 1411 Highland Ave location: Melbourne, FL 32935"
+    "address": "1411 Highland Ave  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "526356340",
     "name": "Promotional Plus Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(321) 327-5694",
-    "address": "street: Po Box 120604 location: Melbourne, FL 32912"
+    "address": "Po Box 120604  Melbourne, FL 32912",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "527328090",
     "name": "Moana Creative Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 622-0181",
-    "address": "street: 1010 Pinetree Dr Apt 205 location: Indian Harbour Beach, FL 32937"
+    "address": "1010 Pinetree Dr Apt 205  Indian Harbour Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "566341997",
     "name": "Wolfpack Advising",
     "description": "Marketing Programs & Services",
     "phone": "(321) 209-0953",
-    "address": "street: 205 West Dr location: Melbourne, FL 32904"
+    "address": "205 West Dr  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "522192787",
     "name": "Elite Marketing Pro",
     "description": "Marketing Programs & Services",
     "phone": "(877) 401-3422",
-    "address": "street: 274 E Eau Gallie Blvd Ste 375 location: Indian Harbour Beach, FL 32937"
+    "address": "274 E Eau Gallie Blvd Ste 375  Indian Harbour Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "573028089",
     "name": "International Minute Press",
     "description": "Marketing Programs & Services",
     "phone": "(321) 242-7766",
-    "address": "street: 701 S Apollo Blvd location: Melbourne, FL 32901"
+    "address": "701 S Apollo Blvd  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "525520703",
     "name": "AutoUpLinkUSA Of Florida",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 443-2139",
-    "address": "street: 1720 bridgeport cir location: Rockledge, FL 32955"
+    "address": "1720 bridgeport cir  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481551150",
     "name": "Adverleads",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 693-0963",
-    "address": "street: 2944 Matthew Dr location: Rockledge, FL 32955"
+    "address": "2944 Matthew Dr  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "497652291",
     "name": "Dragonfly Web Solutions LLC",
     "description": "Business & Trade Organizations",
     "phone": "(321) 505-9212",
-    "address": "street: PO Box 560894 location: Rockledge, FL 32956"
+    "address": "PO Box 560894  Rockledge, FL 32956",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "532238258",
     "name": "JDot Media",
     "description": "Aerial Photographers",
     "phone": "(813) 618-3908",
-    "address": "street: 937 Yorktowne Dr location: Rockledge, FL 32955"
+    "address": "937 Yorktowne Dr  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "557914916",
     "name": "Dentist Finder US",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 305-4588",
-    "address": "street: 819 Topaz Dr location: Rockledge, FL 32955"
+    "address": "819 Topaz Dr  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "451284666",
     "name": "Viera Networks",
     "description": "Internet Consultants",
     "phone": "(321) 622-3309",
-    "address": "street: 3810 Murrell Rd Suite 201 location: Rockledge, FL 32955"
+    "address": "3810 Murrell Rd Suite 201  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "11019713",
     "name": "Brevard Graphics",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 368-2744",
-    "address": "street: 524 Glenbrook Cir location: Rockledge, FL 32955"
+    "address": "524 Glenbrook Cir  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "457762628",
-    "name": "Cocoa Enterprises LLC",
-    "description": "Internet Consultants",
-    "phone": "(321) 480-6687",
-    "address": "street: N/A location: Rockledge, FL 32955"
-  },
-  {
-    "dataYpid": "468795693",
     "name": "Allegra Design Print Mail",
     "description": "Printing Services",
     "phone": "(321) 632-7272",
-    "address": "street: 2040 Murrell Rd location: Rockledge, FL 32955"
+    "address": "2040 Murrell Rd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "11321081",
     "name": "Acquatic Plant Technolgy",
     "description": "Market Research & Analysis",
     "phone": "(321) 638-4300",
-    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+    "address": "365 Gus Hipp Blvd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "467819614",
     "name": "Azurea Inc",
     "description": "Market Research & Analysis",
     "phone": "(321) 631-0610",
-    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+    "address": "365 Gus Hipp Blvd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "467819615",
     "name": "Db Environmental Inc",
     "description": "Market Research & Analysis",
     "phone": "(321) 639-4896",
-    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+    "address": "365 Gus Hipp Blvd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "504755305",
     "name": "ShopinPal, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 617-5696",
-    "address": "street: 328 Brookcrest Cir location: Rockledge, FL 32955"
+    "address": "328 Brookcrest Cir  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "21332665",
     "name": "Portable LED.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 631-6150",
-    "address": "street: 1740 Huntington Ln location: Rockledge, FL 32955"
+    "address": "1740 Huntington Ln  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "564893889",
     "name": "Gabrielli Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 996-0027",
-    "address": "street: 881 Barton Blvd location: Rockledge, FL 32955"
+    "address": "881 Barton Blvd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "530907576",
     "name": "WebBaze",
     "description": "Web Site Design & Services",
     "phone": "(321) 298-2533",
-    "address": "street: 000 Murrell Rd location: Rockledge, FL 32955"
+    "address": "000 Murrell Rd  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "456181329",
     "name": "Nuance",
     "description": "Marketing Consultants",
     "phone": "(321) 632-2410",
-    "address": "street: 1616 Sun Gazer Dr location: Rockledge, FL 32955"
+    "address": "1616 Sun Gazer Dr  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "492689307",
-    "name": "Brilliant Blue Graphic Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(321) 474-4830",
-    "address": "street: N/A location: Rockledge, FL 32955"
-  },
-  {
-    "dataYpid": "497738163",
-    "name": "Cape Canaveral Web Development",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(321) 987-0222",
-    "address": "street: N/A location: Cape Canaveral, FL 32920"
-  },
-  {
-    "dataYpid": "22996471",
-    "name": "Atlas Web Company",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(321) 300-4932",
-    "address": "street: N/A location: Cocoa, FL 32927"
-  },
-  {
-    "dataYpid": "29484257",
-    "name": "Computer Management Corporation of the South",
-    "description": "Web Site Design & Services",
-    "phone": "(321) 258-5313",
-    "address": "street: N/A location: Cocoa, FL 32926"
-  },
-  {
-    "dataYpid": "460735751",
-    "name": "Send Out Cards Manager",
-    "description": "Online & Mail Order Shopping",
-    "phone": "(321) 427-8575",
-    "address": "street: N/A location: Cocoa Beach, FL 32931"
-  },
-  {
-    "dataYpid": "464560802",
-    "name": "Peeks Media",
-    "description": "Internet Directories",
-    "phone": "(321) 507-4627",
-    "address": "street: N/A location: Cocoa, FL 32927"
-  },
-  {
-    "dataYpid": "481921566",
-    "name": "Dhcentinc",
-    "description": "Marketing Consultants",
-    "phone": "(321) 613-8514",
-    "address": "street: N/A location: Cocoa, FL 32926"
-  },
-  {
-    "dataYpid": "22714355",
-    "name": "All Pro Websites",
-    "description": "Computer Network Design & Systems",
-    "phone": "(321) 412-8155",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "457395982",
-    "name": "CR Hotel Management",
-    "description": "Hotel & Motel Consultants",
-    "phone": "(407) 965-6323",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "474188009",
-    "name": "Efsmart Marketing Services",
-    "description": "Marketing Consultants",
-    "phone": "(321) 449-2561",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467066869",
     "name": "Madhouse Media Company",
     "description": "Internet Marketing & Advertising",
     "phone": "(561) 339-9654",
-    "address": "street: 1892 Sun Gazer Dr location: Rockledge, FL 32955"
+    "address": "1892 Sun Gazer Dr  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "546601472",
     "name": "Hmbaccounting.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 433-1191",
-    "address": "street: 976 Brevard Ave location: Rockledge, FL 32955"
+    "address": "976 Brevard Ave  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "473343078",
     "name": "Sewell & Associates",
     "description": "Marketing Consultants",
     "phone": "(321) 432-2031",
-    "address": "street: 891 Sandhill Crane Ct location: Rockledge, FL 32955"
+    "address": "891 Sandhill Crane Ct  Rockledge, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "495608070",
     "name": "TYPE AB CREATIVE",
     "description": "Graphic Designers",
     "phone": "(321) 266-9222",
-    "address": "street: 633 Brevard Ave Ste B location: Cocoa, FL 32922"
+    "address": "633 Brevard Ave Ste B  Cocoa, FL 32922",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "451154501",
     "name": "Digi Donkey Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 433-0801",
-    "address": "street: 315 Brevard Ave location: Cocoa, FL 32922"
+    "address": "315 Brevard Ave  Cocoa, FL 32922",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "17068936",
     "name": "Ferrell James G And Associates",
     "description": "Marketing Consultants",
     "phone": "(321) 632-4374",
-    "address": "street: 120 Harrison St location: Cocoa, FL 32922"
+    "address": "120 Harrison St  Cocoa, FL 32922",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "469439989",
     "name": "765 Media LLC",
     "description": "Print Advertising",
     "phone": "(321) 735-9842",
-    "address": "street: 252 Brevard Ave location: Cocoa, FL 32922"
+    "address": "252 Brevard Ave  Cocoa, FL 32922",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "576241097",
     "name": "Hines International Education & Travelling LLC",
     "description": "Marketing Consultants",
     "phone": "(321) 258-7217",
-    "address": "street: 3624 Gatwick Manor Ln location: Melbourne, FL 32940"
+    "address": "3624 Gatwick Manor Ln  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "495494503",
     "name": "LivingSMARTERandSafer",
     "description": "Management Training",
     "phone": "(904) 323-2235",
-    "address": "street: 1903 Crane Creek Blvd location: Melbourne, FL 32940"
+    "address": "1903 Crane Creek Blvd  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "16134254",
     "name": "Matchmaker Business Brokers",
     "description": "Directory & Guide Advertising",
     "phone": "(321) 452-3462",
-    "address": "street: 435 Woodland St location: Merritt Island, FL 32953"
+    "address": "435 Woodland St  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "518840363",
     "name": "My Island Designs",
     "description": "Internet Consultants",
     "phone": "(321) 301-4797",
-    "address": "street: 517 N Courtenay Pkwy location: Merritt Island, FL 32953"
+    "address": "517 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "496642864",
     "name": "Shawk Technology Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 506-9345",
-    "address": "street: 330 Alabama Ave location: Merritt Island, FL 32953"
+    "address": "330 Alabama Ave  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "462567612",
     "name": "Adfactor, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(877) 328-7552",
-    "address": "street: 1129 N Courtenay Pkwy location: Merritt Island, FL 32953"
+    "address": "1129 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "460137736",
     "name": "Mtrb Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 453-6068",
-    "address": "street: 327 Magnolia Ave location: Merritt Island, FL 32952"
+    "address": "327 Magnolia Ave  Merritt Island, FL 32952",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "10783716",
     "name": "PIP Marketing, Signs, Print",
     "description": "Printing Services",
     "phone": "(321) 452-2800",
-    "address": "street: 275 Magnolia Ave Ste 2 location: Merritt Island, FL 32952"
+    "address": "275 Magnolia Ave Ste 2  Merritt Island, FL 32952",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "452228150",
     "name": "Senior-Linx",
     "description": "Consultants Referral Service",
     "phone": "(321) 474-8289",
-    "address": "street: PO Box 540704 location: Merritt Island, FL 32954"
+    "address": "PO Box 540704  Merritt Island, FL 32954",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "470422576",
     "name": "Just Face It Media",
     "description": "Marketing Consultants",
     "phone": "(321) 474-7409",
-    "address": "street: 137 S Courtenay Pkwy # 604 location: Merritt Island, FL 32952"
+    "address": "137 S Courtenay Pkwy # 604  Merritt Island, FL 32952",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "560367550",
     "name": "LocaliQ",
     "description": "Advertising Agencies",
     "phone": "(877) 525-6084",
-    "address": "street: 1005 Viera Blvd Unit 101 location: Viera, FL 32955"
+    "address": "1005 Viera Blvd Unit 101  Viera, FL 32955",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "569523948",
     "name": "Florida Digital Media",
     "description": "Web Site Design & Services",
     "phone": "(321) 757-2788",
-    "address": "street: 222 Teal Drive location: Cocoa, FL 32926"
+    "address": "222 Teal Drive  Cocoa, FL 32926",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "471230559",
     "name": "Moetto Mobile Marketing",
     "description": "Coupon Advertising",
     "phone": "(321) 345-6630",
-    "address": "street: 915 N Courtenay Pkwy location: Merritt Island, FL 32953"
+    "address": "915 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "576330676",
     "name": "The Timeless CEO",
     "description": "Directory & Guide Advertising",
     "phone": "(321) 408-7612",
-    "address": "street: 1175 N Courtenay Pkwy Ste 4A location: Merritt Island, FL 32953"
+    "address": "1175 N Courtenay Pkwy Ste 4A  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "475351268",
-    "name": "Mtrb Inc",
-    "description": "Marketing Consultants",
-    "phone": "(321) 453-6068",
-    "address": "street: 253 Crockett Blvd location: Merritt Island, FL 32953"
-  },
-  {
-    "dataYpid": "536606456",
     "name": "Drumup Media Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 505-4583",
-    "address": "street: 1048 Carriage Hill Road location: Melbourne, FL 32940"
+    "address": "1048 Carriage Hill Road  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "489444399",
     "name": "Yellow Page Directory Service Inc",
     "description": "Directory & Guide Advertising",
     "phone": "(321) 254-6012",
-    "address": "street: 640 Classic Ct location: Melbourne, FL 32940"
+    "address": "640 Classic Ct  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "468801809",
     "name": "Certified Internet Solutions",
     "description": "Internet Consultants",
     "phone": "(321) 412-6658",
-    "address": "street: 530 Wickham Lakes Dr location: Melbourne, FL 32940"
+    "address": "530 Wickham Lakes Dr  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "475219002",
     "name": "All Media Graphics",
     "description": "Editorial & Publication Services",
     "phone": "(321) 698-1550",
-    "address": "street: 7777 N Wickham Rd Ste 12-124 location: Melbourne, FL 32940"
+    "address": "7777 N Wickham Rd Ste 12-124  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481858192",
     "name": "SearhCred Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(855) 736-2723",
-    "address": "street: 7777 N Wickham Rd location: Melbourne, FL 32940"
+    "address": "7777 N Wickham Rd  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "495379320",
     "name": "M.I.T. Mobile Integrated Technologies",
     "description": "Marketing Consultants",
     "phone": "(321) 412-6667",
-    "address": "street: 201 Plantation Club Dr Apt 105 location: Melbourne, FL 32940"
+    "address": "201 Plantation Club Dr Apt 105  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "489695654",
     "name": "Mad Hatter Promotions",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 543-1346",
-    "address": "street: 340 Myrtlewood Rd location: Melbourne, FL 32940"
+    "address": "340 Myrtlewood Rd  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "28649919",
     "name": "Space Coast Sales",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 453-7627",
-    "address": "street: 1635 Yates Dr location: Merritt Island, FL 32952"
+    "address": "1635 Yates Dr  Merritt Island, FL 32952",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "548459325",
-    "name": "Nuance",
-    "description": "Marketing Consultants",
-    "phone": "(321) 349-2562",
-    "address": "street: 1960 Porpoise St location: Merritt Island, FL 32952"
-  },
-  {
-    "dataYpid": "532238954",
     "name": "Brevard Insurance & Marketing, Inc.",
     "description": "Insurance",
     "phone": "(321) 783-2404",
-    "address": "street: PO Box 320770 location: Cocoa Beach, FL 32932"
+    "address": "PO Box 320770  Cocoa Beach, FL 32932",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "549888149",
     "name": "Digital Blades Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 613-8451",
-    "address": "street: 428 S Orlando Avenue Unit C location: Cocoa Beach, FL 32931"
+    "address": "428 S Orlando Avenue Unit C  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "547038496",
     "name": "Cycn Management & Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 757-4017",
-    "address": "street: 3270 Suntree Blvd Ste 1101 location: Melbourne, FL 32940"
+    "address": "3270 Suntree Blvd Ste 1101  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "504064503",
     "name": "P1studios.Com",
     "description": "Marketing Consultants",
     "phone": "(954) 510-6216",
-    "address": "street: 1203 Vestavia Cir location: Melbourne, FL 32940"
+    "address": "1203 Vestavia Cir  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "6453265",
     "name": "Invision Multimedia",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 253-1000",
-    "address": "street: 6300 N Wickham Rd location: Melbourne, FL 32940"
+    "address": "6300 N Wickham Rd  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "511633652",
     "name": "TipTopWebsite.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 753-5129",
-    "address": "street: 2023 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "2023 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "467822615",
     "name": "Jet Press",
     "description": "Printing Services",
     "phone": "(321) 783-5555",
-    "address": "street: 250 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "250 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "549888149",
-    "name": "Digital Blades Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(321) 613-8451",
-    "address": "street: 428 S Orlando Avenue Unit C location: Cocoa Beach, FL 32931"
-  },
-  {
-    "dataYpid": "544692675",
     "name": "Onsite123.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 392-0697",
-    "address": "street: 2552 Meadow Ln location: Cocoa, FL 32926"
+    "address": "2552 Meadow Ln  Cocoa, FL 32926",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "517135389",
     "name": "Premier Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(321) 868-4858",
-    "address": "street: 503 N Orlando Ave location: Cocoa Beach, FL 32931"
+    "address": "503 N Orlando Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "503641733",
     "name": "Justsmallbiz Marketing",
     "description": "Marketing Consultants",
     "phone": "(321) 613-8476",
-    "address": "street: 830 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "830 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "13610508",
-    "name": "Premier Marketing Group",
-    "description": "Marketing Consultants",
-    "phone": "(321) 868-4858",
-    "address": "street: 1485 N Atlantic Ave Ste 201 location: Cocoa Beach, FL 32931"
-  },
-  {
-    "dataYpid": "464320348",
     "name": "Cmfmc Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 454-6814",
-    "address": "street: 3765 Sierra Dr location: Merritt Island, FL 32953"
+    "address": "3765 Sierra Dr  Merritt Island, FL 32953",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "506861303",
-    "name": "Mtrb Inc",
-    "description": "Marketing Consultants",
-    "phone": "(321) 453-6068",
-    "address": "street: 3585 N Courtenay Pkwy location: Merritt Island, FL 32953"
-  },
-  {
-    "dataYpid": "534643730",
     "name": "QMtel Communications",
     "description": "Computer Software & Services",
     "phone": "(321) 323-1436",
-    "address": "street: 1980 N Atlantic Ave #121 location: Cocoa Beach, FL 32931"
+    "address": "1980 N Atlantic Ave #121  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "509488156",
     "name": "Cocoa Beach Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 784-3223",
-    "address": "street: 3670 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "3670 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "453441412",
     "name": "Cocoa Beach Marketing",
     "description": "Marketing Consultants",
     "phone": "(321) 784-0946",
-    "address": "street: 4151 N Atlantic Ave location: Cocoa Beach, FL 32931"
+    "address": "4151 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "502198547",
     "name": "9 Mile Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 613-4805",
-    "address": "street: 103 Cleveland Ave location: Cocoa Beach, FL 32931"
+    "address": "103 Cleveland Ave  Cocoa Beach, FL 32931",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "503914996",
     "name": "Cocoa Beach Mar Keting In",
     "description": "Marketing Consultants",
     "phone": "(321) 784-3223",
-    "address": "street: 7099 N Atlantic Ave location: Cape Canaveral, FL 32920"
+    "address": "7099 N Atlantic Ave  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "474370562",
     "name": "Space Coast Business Media",
     "description": "Marketing Consultants",
     "phone": "(321) 622-5986",
-    "address": "street: 5131 Industry Dr Ste 107 location: Melbourne, FL 32940"
+    "address": "5131 Industry Dr Ste 107  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "533707012",
     "name": "DeSantis Digital Works LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 626-4724",
-    "address": "street: 2725 Center Pl location: Melbourne, FL 32940"
+    "address": "2725 Center Pl  Melbourne, FL 32940",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "531312073",
     "name": "Front Page Solution",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 505-7932",
-    "address": "street: 4100 N Wickham Rd Ste 107A-198 location: Melbourne, FL 32935"
+    "address": "4100 N Wickham Rd Ste 107A-198  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "464250330",
-    "name": "Cocoa Beach Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(321) 868-6536",
-    "address": "street: 8699 Astronaut Blvd location: Cape Canaveral, FL 32920"
-  },
-  {
-    "dataYpid": "533132004",
     "name": "Digimarcon",
     "description": "Marketing Consultants",
     "phone": "(800) 805-5385",
-    "address": "street: 9050 Discovery Rd location: Cape Canaveral, FL 32920"
+    "address": "9050 Discovery Rd  Cape Canaveral, FL 32920",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "28617831",
-    "name": "Cocoa Beach Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(321) 868-6536",
-    "address": "street: 1000 Shorewood Dr location: Cape Canaveral, FL 32920"
-  },
-  {
-    "dataYpid": "29206638",
     "name": "V Enterprises",
     "description": "Direct Marketing Services",
     "phone": "(321) 632-6642",
-    "address": "street: 6380 Aberfoyle Ave location: Cocoa, FL 32927"
+    "address": "6380 Aberfoyle Ave  Cocoa, FL 32927",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "531845362",
     "name": "Big B Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 775-3995",
-    "address": "street: 455 Atlantis Dr location: Satellite Beach, FL 32937"
+    "address": "455 Atlantis Dr  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481490757",
     "name": "E-Juice Connoisseur",
     "description": "Advertising-Shoppers Publications",
     "phone": "(321) 432-8631",
-    "address": "street: 2364 Eden Park Dr location: Melbourne, FL 32935"
+    "address": "2364 Eden Park Dr  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "11072559",
     "name": "Mtn Advertising",
     "description": "Advertising Agencies",
     "phone": "(321) 779-1010",
-    "address": "street: 1355 S Patrick Dr location: Satellite Beach, FL 32937"
+    "address": "1355 S Patrick Dr  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "469064225",
     "name": "Global Marketing Worldwide Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 610-9992",
-    "address": "street: 2800 Aurora Rd location: Melbourne, FL 32935"
+    "address": "2800 Aurora Rd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "573666915",
     "name": "Nautic Studios",
     "description": "Web Site Hosting",
     "phone": "(321) 684-7460",
-    "address": "street: 2800 Aurora Rd STE I location: Melbourne, FL 32935"
+    "address": "2800 Aurora Rd STE I  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "469241497",
     "name": "Express Signs",
     "description": "Signs",
     "phone": "(321) 722-0280",
-    "address": "street: 1558 S Wickham Rd location: Melbourne, FL 32904"
+    "address": "1558 S Wickham Rd  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "548853157",
     "name": "Qwiklight Digital Marketing Agency",
     "description": "Marketing Consultants",
     "phone": "(321) 505-3649",
-    "address": "street: 7065 Kaylor Ave location: Cocoa, FL 32927"
+    "address": "7065 Kaylor Ave  Cocoa, FL 32927",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "524013271",
     "name": "IMJustice Marketing",
     "description": "Marketing Consultants",
     "phone": "(321) 622-5756",
-    "address": "street: 119 Lancha Circle Unit 204 location: Satellite Beach, FL 32937"
+    "address": "119 Lancha Circle Unit 204  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "507720484",
     "name": "Out Front Marketing",
     "description": "Marketing Consultants",
     "phone": "(321) 220-5221",
-    "address": "street: 1290 Highway A1a location: Satellite Beach, FL 32937"
+    "address": "1290 Highway A1a  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "550998318",
     "name": "E-Commerce",
     "description": "Marketing Consultants",
     "phone": "(321) 622-6375",
-    "address": "street: 1270 N Wickham Rd location: Melbourne, FL 32935"
+    "address": "1270 N Wickham Rd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "573335049",
     "name": "Braven Digital",
     "description": "Marketing Consultants",
     "phone": "(321) 339-1080",
-    "address": "street: 1370 Highway A1a location: Satellite Beach, FL 32937"
+    "address": "1370 Highway A1a  Satellite Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "16263642",
     "name": "Global Marketing Research Services",
     "description": "Market Research & Analysis",
     "phone": "(321) 723-7013",
-    "address": "street: 1507 Aurora Rd Ste C location: Melbourne, FL 32935"
+    "address": "1507 Aurora Rd Ste C  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "464415162",
     "name": "Global Marketing Research Services - GMRS",
     "description": "Market Research & Analysis",
     "phone": "(321) 723-7013",
-    "address": "street: 1507 Aurora Rd location: Melbourne, FL 32935"
+    "address": "1507 Aurora Rd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "524070604",
     "name": "Abornewords",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 265-1461",
-    "address": "street: 1040 Masterson St location: Melbourne, FL 32935"
+    "address": "1040 Masterson St  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "28630639",
-    "name": "Nuance",
-    "description": "Marketing Consultants",
-    "phone": "(321) 253-4986",
-    "address": "street: 3984 Pepsi Cola Dr location: Melbourne, FL 32934"
-  },
-  {
-    "dataYpid": "7451665",
     "name": "Blue Tangerine",
     "description": "Web Site Design & Services",
     "phone": "(321) 309-6900",
-    "address": "street: 2020 W Eau Gallie Blvd Ste 105 location: Melbourne, FL 32935"
+    "address": "2020 W Eau Gallie Blvd Ste 105  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "543012875",
     "name": "H5-Tech Solutions",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 421-7191",
-    "address": "street: 1600 W Eau Gallie Blvd location: Melbourne, FL 32935"
+    "address": "1600 W Eau Gallie Blvd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "456813825",
     "name": "McBride Marketing Group",
     "description": "Advertising Agencies",
     "phone": "(321) 259-1795",
-    "address": "street: 668 Law St location: Melbourne, FL 32935"
+    "address": "668 Law St  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "535040407",
     "name": "McBride Woodbridge Marketing",
     "description": "Advertising Agencies",
     "phone": "(321) 259-1795",
-    "address": "street: 668 Law St location: Melbourne, FL 32935"
+    "address": "668 Law St  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "478354735",
     "name": "Brightbiz Bookkeeping LLC",
     "description": "Bookkeeping",
     "phone": "(321) 917-2430",
-    "address": "street: Po Box 361281 location: Melbourne, FL 32936"
+    "address": "Po Box 361281  Melbourne, FL 32936",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "545270948",
     "name": "Push Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 241-4318",
-    "address": "street: 405 N Wickham Rd location: Melbourne, FL 32935"
+    "address": "405 N Wickham Rd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "31213374",
     "name": "Mandala Arts LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 626-3561",
-    "address": "street: 1600 Sarno Rd Ste 117 location: Melbourne, FL 32935"
+    "address": "1600 Sarno Rd Ste 117  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "3109046",
     "name": "Sun Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(321) 253-5035",
-    "address": "street: 626 Montreal Ave location: Melbourne, FL 32935"
+    "address": "626 Montreal Ave  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "20536332",
     "name": "CK Communications",
     "description": "Public Relations Counselors",
     "phone": "(321) 752-5802",
-    "address": "street: 457 Montreal Ave location: Melbourne, FL 32935"
+    "address": "457 Montreal Ave  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "504858350",
     "name": "Marketing World Specialties",
     "description": "Marketing Consultants",
     "phone": "(321) 421-7515",
-    "address": "street: 1360 Sarno Rd location: Melbourne, FL 32935"
+    "address": "1360 Sarno Rd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "549642824",
     "name": "Next Level Digital Media & Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 213-3553",
-    "address": "street: 255 East Dr Ste L location: Melbourne, FL 32904"
+    "address": "255 East Dr Ste L  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "574467911",
     "name": "Leaf the Ad",
     "description": "Marketing Consultants",
     "phone": "(321) 600-4132",
-    "address": "street: 508 N Harbor City Blvd location: Melbourne, FL 32935"
+    "address": "508 N Harbor City Blvd  Melbourne, FL 32935",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "465094976",
     "name": "USA Marketing Associates",
     "description": "Marketing Consultants",
     "phone": "(321) 733-0475",
-    "address": "street: 630 S Wickham Rd location: Melbourne, FL 32904"
+    "address": "630 S Wickham Rd  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "481127358",
     "name": "The Florida Design Group",
     "description": "Web Site Design & Services",
     "phone": "(321) 541-1425",
-    "address": "street: 218a E Eau Gallie Blvd # 165 location: Indian Harbour Beach, FL 32937"
+    "address": "218a E Eau Gallie Blvd # 165  Indian Harbour Beach, FL 32937",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "551700642",
     "name": "Www.woodsimplymade.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 506-4434",
-    "address": "street: 692 Atlantis Rd location: Melbourne, FL 32904"
+    "address": "692 Atlantis Rd  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "16586062",
     "name": "Astro Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(321) 727-8817",
-    "address": "street: 6939 Vickie Cir location: Melbourne, FL 32904"
+    "address": "6939 Vickie Cir  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "540755104",
     "name": "World Search Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(703) 473-8121",
-    "address": "street: 520 Conifer St location: Melbourne, FL 32904"
+    "address": "520 Conifer St  Melbourne, FL 32904",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "567241080",
     "name": "Jail Bail Bonds Melbourne",
     "description": "Marketing Consultants",
     "phone": "(321) 307-2165",
-    "address": "street: 592 Dr Martin Luther King Jr Blvd location: Melbourne, FL 32901"
+    "address": "592 Dr Martin Luther King Jr Blvd  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "503118087",
     "name": "Rock Paper Simple",
     "description": "Web Site Design & Services",
     "phone": "(321) 626-2172",
-    "address": "street: 1335 Gateway Dr Suite 2007 location: Melbourne, FL 32901"
+    "address": "1335 Gateway Dr Suite 2007  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "512917628",
     "name": "Ebay Enterprise",
     "description": "Marketing Consultants",
     "phone": "(321) 724-8597",
-    "address": "street: 915 S Babcock St location: Melbourne, FL 32901"
+    "address": "915 S Babcock St  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "478341608",
     "name": "W.W Marketing",
     "description": "Marketing Consultants",
     "phone": "(321) 216-5021",
-    "address": "street: 650 Strawberry Ln location: Melbourne, FL 32901"
+    "address": "650 Strawberry Ln  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "545786022",
     "name": "Fueled on Bacon",
     "description": "Cellular Telephone Service",
     "phone": "(321) 426-0555",
-    "address": "street: 1103 W Hibiscus Blvd Ste 408 location: Melbourne, FL 32901"
+    "address": "1103 W Hibiscus Blvd Ste 408  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "472589991",
     "name": "YP Marketing Solutions",
     "description": "Directory & Guide Advertising",
     "phone": "(321) 956-5400",
-    "address": "street: 100 Rialto Pl Ste 1010 location: Melbourne, FL 32901"
+    "address": "100 Rialto Pl Ste 1010  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "551703839",
     "name": "SEO Experts Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 613-1316",
-    "address": "street: 100 Rialto Pl Ste 711 location: Melbourne, FL 32901"
+    "address": "100 Rialto Pl Ste 711  Melbourne, FL 32901",
+    "location": "Liberty"
   },
   {
-    "dataYpid": "556453692",
     "name": "Launchworks Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 988-4769",
-    "address": "street: 100 Rialto Pl Ste 700 location: Melbourne, FL 32901"
-  },
-  {
-    "dataYpid": "5376056",
-    "name": "Marketing World Specialties",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 952-7220",
-    "address": "street: 129 W Hibiscus Blvd location: Melbourne, FL 32901"
+    "address": "100 Rialto Pl Ste 700  Melbourne, FL 32901",
+    "location": "Liberty"
   }
 ]

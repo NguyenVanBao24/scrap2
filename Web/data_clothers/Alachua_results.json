@@ -3,1320 +3,1134 @@
     "name": "Trend Setter's Fashion Plus",
     "description": "Clothing Stores",
     "phone": "(386) 462-1111",
-    "address": "street: 15202 NW 147th Dr location: Alachua, FL 32615"
+    "address": "15202 NW 147th Dr  Alachua, FL 32615",
+    "location": "Alachua"
   },
   {
     "name": "K Baller Clothing",
     "description": "Clothing Stores",
     "phone": "(352) 246-7404",
-    "address": "street: PO Box 734 location: Alachua, FL 32616"
+    "address": "PO Box 734  Alachua, FL 32616",
+    "location": "Alachua"
   },
   {
     "name": "Walmart",
     "description": "General Merchandise",
     "phone": "(386) 418-5900",
-    "address": "street: 18815 NW 115th Ave Ste 2 location: Alachua, FL 32615"
-  },
-  {
-    "name": "Bodycandy.com",
-    "description": "Clothing Stores",
-    "phone": "(877) 829-5191",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Beckys Teriffic Tees",
-    "description": "Clothing Stores",
-    "phone": "(352) 473-9638",
-    "address": "street: N/A location: N/A"
+    "address": "18815 NW 115th Ave Ste 2  Alachua, FL 32615",
+    "location": "Alachua"
   },
   {
     "name": "Cotton On",
     "description": "Clothing Stores",
     "phone": "(352) 332-6660",
-    "address": "street: Suite A0004 6419 Newberry Road location: Gainesville, FL 32605"
+    "address": "Suite A0004 6419 Newberry Road  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Braja Clothing",
     "description": "Clothing Stores",
     "phone": "(352) 375-0030",
-    "address": "street: 9417 NW 43rd St location: Gainesville, FL 32653"
-  },
-  {
-    "name": "Casual Charisma",
-    "description": "Clothing Stores",
-    "phone": "(352) 379-3680",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "John Isaac's Men's Clothing",
-    "description": "Clothing Stores",
-    "phone": "(352) 225-3577",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Clothing Stores",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
+    "address": "9417 NW 43rd St  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
     "name": "Forever 21",
     "description": "Clothing Stores",
     "phone": "(352) 333-1922",
-    "address": "street: 6419 Newberry Rd. Space #B16 The Oaks Mall location: Gainesville, FL 32605"
+    "address": "6419 Newberry Rd. Space #B16 The Oaks Mall  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Outdoor Life 4 Guys and Gals",
     "description": "Clothing Stores",
     "phone": "(352) 672-8657",
-    "address": "street: 23352 W US Highway 27 Ste 90 location: High Springs, FL 32643"
-  },
-  {
-    "name": "Scuba Monkey Dive Center LLC",
-    "description": "Clothing Stores",
-    "phone": "(386) 518-6323",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "White Rhino Solutions",
-    "description": "Clothing Stores",
-    "phone": "(352) 494-7925",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Muddin' Mafia",
-    "description": "Clothing Stores",
-    "phone": "(844) 425-7967",
-    "address": "street: N/A location: N/A"
+    "address": "23352 W US Highway 27 Ste 90  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
     "name": "Dick's Sporting Goods",
     "description": "Sporting Goods",
     "phone": "(352) 377-3316",
-    "address": "street: 3964 Plaza Blvd, Suite 20 Butler North location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Faveo Terra (A.G.H.)",
-    "description": "Men's Clothing",
-    "phone": "(786) 375-5466",
-    "address": "street: N/A location: Gainesville, FL 32607"
+    "address": "3964 Plaza Blvd, Suite 20 Butler North  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Luciana's Boutique",
     "description": "Jeans",
     "phone": "(352) 792-2886",
-    "address": "street: 3606 NW 54th Ln location: Gainesville, FL 32653"
+    "address": "3606 NW 54th Ln  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
     "name": "Emboridery Designs By Sharon",
     "description": "Clothing Stores",
     "phone": "(352) 225-7487",
-    "address": "street: 2915 NW 23rd Ter location: Gainesville, FL 32605"
+    "address": "2915 NW 23rd Ter  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Citi Trends",
     "description": "Clothing Stores",
     "phone": "(352) 421-3933",
-    "address": "street: 1018 N Main St location: Gainesville, FL 32601"
+    "address": "1018 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Buckle",
     "description": "Clothing Stores",
     "phone": "(352) 331-1115",
-    "address": "street: 6337 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6337 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Three Thirty Couture",
     "description": "Clothing Stores",
     "phone": "(352) 275-5165",
-    "address": "street: 3227 SW 35th Blvd location: Gainesville, FL 32608"
+    "address": "3227 SW 35th Blvd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "T.J. Maxx & HomeGoods",
     "description": "Clothing Stores",
     "phone": "(352) 333-0155",
-    "address": "street: 1009 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1009 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Jimmy Jazz",
     "description": "Clothing Stores",
     "phone": "(352) 331-3457",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Down to Earth",
     "description": "Clothing Stores",
     "phone": "(352) 872-5335",
-    "address": "street: 13005 SW 1st Rd location: Newberry, FL 32669"
+    "address": "13005 SW 1st Rd  Newberry, FL 32669",
+    "location": "Alachua"
   },
   {
     "name": "American Eagle Outfitters",
     "description": "Clothing Stores",
     "phone": "(352) 331-5460",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "PacSun",
     "description": "Clothing Stores",
     "phone": "(352) 331-0690",
-    "address": "street: 6455 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6455 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Hollister",
     "description": "Clothing Stores",
     "phone": "(352) 333-8148",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Burlington Coat Factory",
     "description": "Clothing Stores",
     "phone": "(352) 377-1858",
-    "address": "street: 2643 NW 13th St location: Gainesville, FL 32609"
+    "address": "2643 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Tillys",
     "description": "Clothing Stores",
     "phone": "(352) 900-5099",
-    "address": "street: 3965 Plaza Blvd Ste 50 location: Gainesville, FL 32608"
+    "address": "3965 Plaza Blvd Ste 50  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Gatormania Inc",
     "description": "Clothing Stores",
     "phone": "(352) 332-2558",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Charlotte Russe",
     "description": "Clothing Stores",
     "phone": "(352) 331-9307",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Gap",
     "description": "Clothing Stores",
     "phone": "(352) 332-4743",
-    "address": "street: 6655 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6655 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Aeropostale",
     "description": "Clothing Stores",
     "phone": "(352) 332-6700",
-    "address": "street: 6357 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6357 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "H&M",
     "description": "Clothing Stores",
     "phone": "(855) 466-7467",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Hot Topic",
     "description": "Clothing Stores",
     "phone": "(352) 331-6115",
-    "address": "street: 6313 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6313 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Rainbow Shops",
     "description": "Clothing Stores",
     "phone": "(352) 377-6395",
-    "address": "street: 1206 N Main St location: Gainesville, FL 32601"
+    "address": "1206 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Superior Styles",
     "description": "Clothing Stores",
     "phone": "(352) 339-1608",
-    "address": "street: 5001 NW 34th Blvd STE D location: Gainesville, FL 32605"
+    "address": "5001 NW 34th Blvd STE D  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Let IT Style",
     "description": "Clothing Stores",
     "phone": "(352) 792-6200",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "The Copper Closet",
     "description": "Clothing Stores",
     "phone": "(352) 792-6755",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Snipes",
     "description": "Clothing Stores",
     "phone": "(352) 331-3457",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Outreach Thrift Clothing & More",
     "description": "Clothing Stores",
     "phone": "(352) 375-3200",
-    "address": "street: 2430 NW 6th St location: Gainesville, FL 32609"
+    "address": "2430 NW 6th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Thread Pit Inc",
     "description": "Clothing Stores",
     "phone": "(352) 371-6536",
-    "address": "street: 2029 NW 6th St location: Gainesville, FL 32609"
+    "address": "2029 NW 6th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "5.11 Tactical",
     "description": "Clothing Stores",
     "phone": "(352) 505-2811",
-    "address": "street: 2680 Clark Butler Blvd Ste 20 location: Gainesville, FL 32608"
+    "address": "2680 Clark Butler Blvd Ste 20  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Tommy Hilfiger",
     "description": "Clothing Stores",
     "phone": "(352) 375-8681",
-    "address": "street: 4871 Celebration Pointe Ave Ste 30 location: Gainesville, FL 32608"
+    "address": "4871 Celebration Pointe Ave Ste 30  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Express Factory Outlet",
     "description": "Clothing Stores",
     "phone": "(352) 332-2429",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Abercrombie & Fitch",
     "description": "Clothing Stores",
     "phone": "(352) 333-2917",
-    "address": "street: 6419 W Newberry Rd Ste D12 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste D12  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Inside Out Bodywear Inc",
     "description": "Clothing Stores",
     "phone": "(352) 371-0295",
-    "address": "street: 2929 NW 13th St location: Gainesville, FL 32609"
+    "address": "2929 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Ross Dress for Less",
     "description": "Clothing Stores",
     "phone": "(352) 337-9291",
-    "address": "street: 3720 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3720 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Kohl's",
     "description": "Clothing Stores",
     "phone": "(352) 378-3024",
-    "address": "street: 3501 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3501 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Wet Seal",
     "description": "Clothing Stores",
     "phone": "(352) 331-8002",
-    "address": "street: 6613 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6613 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Loft",
     "description": "Clothing Stores",
     "phone": "(352) 331-1447",
-    "address": "street: 6419 W Newberry Rd Ste B2 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste B2  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Cache",
     "description": "Clothing Stores",
     "phone": "(352) 333-3126",
-    "address": "street: 6619 W Newberry Rd Spc L10 location: Gainesville, FL 32605"
+    "address": "6619 W Newberry Rd Spc L10  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Justice",
     "description": "Clothing Stores",
     "phone": "(352) 331-7776",
-    "address": "street: 6343 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6343 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Macy's",
     "description": "Clothing Stores",
     "phone": "(352) 333-2300",
-    "address": "street: 6671 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6671 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "JCPenney",
     "description": "Clothing Stores",
     "phone": "(352) 331-2222",
-    "address": "street: 6481 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6481 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Gators Plus",
     "description": "Clothing Stores",
     "phone": "(352) 375-8115",
-    "address": "street: 1620 W University Ave Ste 6 location: Gainesville, FL 32603"
+    "address": "1620 W University Ave Ste 6  Gainesville, FL 32603",
+    "location": "Alachua"
   },
   {
     "name": "LVR Ink",
     "description": "Clothing Stores",
     "phone": "(352) 535-8772",
-    "address": "street: 10126 NW 25th Pl location: Gainesville, FL 32606"
+    "address": "10126 NW 25th Pl  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Journeys",
     "description": "Clothing Stores",
     "phone": "(352) 332-9595",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Zumiez",
     "description": "Clothing Stores",
     "phone": "(352) 332-8993",
-    "address": "street: 6349 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Cache",
-    "description": "Clothing Stores",
-    "phone": "(352) 333-3126",
-    "address": "street: 6619 W Newberry Rd Spc L10 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Justice",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-7776",
-    "address": "street: 6343 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Macy's",
-    "description": "Clothing Stores",
-    "phone": "(352) 333-2300",
-    "address": "street: 6671 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Forever 21",
-    "description": "Clothing Stores",
-    "phone": "(352) 333-3266",
-    "address": "street: 6233 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-2222",
-    "address": "street: 6481 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Gators Plus",
-    "description": "Clothing Stores",
-    "phone": "(352) 375-8115",
-    "address": "street: 1620 W University Ave Ste 6 location: Gainesville, FL 32603"
-  },
-  {
-    "name": "LVR Ink",
-    "description": "Clothing Stores",
-    "phone": "(352) 535-8772",
-    "address": "street: 10126 NW 25th Pl location: Gainesville, FL 32606"
-  },
-  {
-    "name": "Journeys",
-    "description": "Clothing Stores",
-    "phone": "(352) 332-9595",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-2222",
-    "address": "street: 6481 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-1028",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Zumiez",
-    "description": "Clothing Stores",
-    "phone": "(352) 332-8993",
-    "address": "street: 6349 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6349 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Marshalls",
     "description": "Clothing Stores",
     "phone": "(352) 378-7466",
-    "address": "street: 3965 Plaza Blvd location: Gainesville, FL 32608"
+    "address": "3965 Plaza Blvd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Bealls",
     "description": "Clothing Stores",
     "phone": "(352) 332-1280",
-    "address": "street: 1103 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1103 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Five Below",
     "description": "Clothing Stores",
     "phone": "(352) 545-4429",
-    "address": "street: 2613 NW 13th St location: Gainesville, FL 32609"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(352) 325-9467",
-    "address": "street: 1680 W University Ave Ste 30 location: Gainesville, FL 32603"
-  },
-  {
-    "name": "Five Below",
-    "description": "Clothing Stores",
-    "phone": "(352) 372-9347",
-    "address": "street: 3960 Plaza Blvd location: Gainesville, FL 32608"
+    "address": "2613 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Ilene's Gator Store",
     "description": "Clothing Stores",
     "phone": "(352) 378-1611",
-    "address": "street: 2441 NW 43rd St location: Gainesville, FL 32606"
+    "address": "2441 NW 43rd St  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Torrid",
     "description": "Clothing Stores",
     "phone": "(352) 331-9517",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Charming Charlie",
     "description": "Clothing Stores",
     "phone": "(352) 333-3196",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "PINK by VS",
     "description": "Clothing Stores",
     "phone": "(352) 332-4720",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Altar'd State The Oaks Mall",
     "description": "Clothing Stores",
     "phone": "(352) 224-4410",
-    "address": "street: 6419 W Newberry Rd Ste L10 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste L10  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Windsor",
     "description": "Clothing Stores",
     "phone": "(352) 251-3706",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Forever 21",
-    "description": "Clothing Stores",
-    "phone": "(352) 204-4370",
-    "address": "street: 6419 W Newberry Rd Ste B8 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Chico's",
     "description": "Clothing Stores",
     "phone": "(352) 381-8300",
-    "address": "street: 3842 Newberry Rd Ste 1D location: Gainesville, FL 32607"
+    "address": "3842 Newberry Rd Ste 1D  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "P & B Outfitters",
     "description": "Clothing Stores",
     "phone": "(352) 381-5444",
-    "address": "street: 3409 W University Ave location: Gainesville, FL 32607"
+    "address": "3409 W University Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "Shoe Show",
     "description": "Clothing Stores",
     "phone": "(352) 372-4167",
-    "address": "street: 1124 N Main St location: Gainesville, FL 32601"
+    "address": "1124 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Family Treasures Thrift Shop",
     "description": "Clothing Stores",
     "phone": "(352) 393-2826",
-    "address": "street: 710 N Main St location: Gainesville, FL 32601"
+    "address": "710 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Boot Barn",
     "description": "Clothing Stores",
     "phone": "(352) 372-8776",
-    "address": "street: 3638 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3638 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Bealls Outlet Stores",
     "description": "Clothing Stores",
     "phone": "(352) 332-1280",
-    "address": "street: 1103 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1103 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "S.A. Elite",
     "description": "Clothing Stores",
     "phone": "(352) 331-2235",
-    "address": "street: 7400 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "7400 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Skechers Warehouse Outlet",
     "description": "Clothing Stores",
     "phone": "(352) 505-7352",
-    "address": "street: 4871 Celebration Pointe Ave location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Forever 21",
-    "description": "Clothing Stores",
-    "phone": "(352) 333-3268",
-    "address": "street: Gainesvl location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Wet Seal",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-8002",
-    "address": "street: 6419 W Newberry Rd Ste L7 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Wet Seal",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-8400",
-    "address": "street: 6275 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "4871 Celebration Pointe Ave  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Mr Q Men's Wear",
     "description": "Clothing Stores",
     "phone": "(352) 376-8110",
-    "address": "street: 1024 N Main St location: Gainesville, FL 32601"
+    "address": "1024 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Sacred Threads, Inc",
     "description": "Clothing Stores",
     "phone": "(352) 379-9050",
-    "address": "street: 6527 NW 18th Dr location: Gainesville, FL 32653"
+    "address": "6527 NW 18th Dr  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
     "name": "Rad Wear Inc",
     "description": "Clothing Stores",
     "phone": "(352) 727-4498",
-    "address": "street: 2630 NW 41st St location: Gainesville, FL 32606"
+    "address": "2630 NW 41st St  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "The Children's Place",
     "description": "Clothing Stores",
     "phone": "(352) 331-0004",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Shoe Show",
-    "description": "Clothing Stores",
-    "phone": "(352) 231-9943",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "The Children's Place",
-    "description": "Clothing Stores",
-    "phone": "(352) 331-0004",
-    "address": "street: 6277 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Rural King Supply",
     "description": "Clothing Stores",
     "phone": "(352) 378-7077",
-    "address": "street: 2801 NW 13th St location: Gainesville, FL 32609"
-  },
-  {
-    "name": "Ross Dress for Less",
-    "description": "Clothing Stores",
-    "phone": "(352) 337-2614",
-    "address": "street: 2643 NW 13th St location: Gainesville, FL 32609"
+    "address": "2801 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "TopSeed Tennis & Soccer",
     "description": "Clothing Stores",
     "phone": "(352) 372-2257",
-    "address": "street: 3739 W University Ave location: Gainesville, FL 32607"
+    "address": "3739 W University Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "Juiicy Hair",
     "description": "Clothing Stores",
     "phone": "(352) 575-6131",
-    "address": "street: 1135 nw 23rd ave location: Gainesville, FL 32609"
+    "address": "1135 nw 23rd ave  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Ubran Thread",
     "description": "Clothing Stores",
     "phone": "(352) 271-1179",
-    "address": "street: 1236 1st Ave location: Gainesville, FL 32609"
-  },
-  {
-    "name": "Zumiez",
-    "description": "Clothing Stores",
-    "phone": "(352) 332-8993",
-    "address": "street: 6419 W Newberry Rd Ste D0007 location: Gainesville, FL 32605"
+    "address": "1236 1st Ave  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Looking Good Inc",
     "description": "Clothing Stores",
     "phone": "(352) 332-3186",
-    "address": "street: 1221 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1221 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Creative Advertising",
     "description": "Clothing Stores",
     "phone": "(352) 372-1095",
-    "address": "street: 1108 SW 2nd Ave location: Gainesville, FL 32601"
+    "address": "1108 SW 2nd Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Kmart",
     "description": "Clothing Stores",
     "phone": "(352) 332-2105",
-    "address": "street: 900 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "900 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Sandy's Savvy Chic Resale Boutique",
     "description": "Consignment Service",
     "phone": "(352) 372-1226",
-    "address": "street: 4148 NW 13th St location: Gainesville, FL 32609"
+    "address": "4148 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "The Colorful Gator",
     "description": "Women's Clothing",
     "phone": "(352) 225-3595",
-    "address": "street: 2441 NW 43rd St Ste 7 location: Gainesville, FL 32606"
+    "address": "2441 NW 43rd St Ste 7  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Bridal Boutique A",
     "description": "Bridal Shops",
     "phone": "(352) 378-4213",
-    "address": "street: 3433 W University Ave location: Gainesville, FL 32607"
+    "address": "3433 W University Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "Dillard's",
     "description": "Department Stores",
     "phone": "(352) 331-1455",
-    "address": "street: 6495 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6495 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Belk",
     "description": "Department Stores",
     "phone": "(352) 331-3535",
-    "address": "street: 6323 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6323 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Champs Sports",
     "description": "Sportswear",
     "phone": "(352) 331-8797",
-    "address": "street: 6419 W Newberry Rd Ste B5 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste B5  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Town & Country Industries",
     "description": "Aluminum Products",
     "phone": "(352) 376-0111",
-    "address": "street: 605 NW 53rd Ave Ste A1 location: Gainesville, FL 32609"
+    "address": "605 NW 53rd Ave Ste A1  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Rei",
     "description": "Sporting Goods",
     "phone": "(352) 204-9265",
-    "address": "street: 3650 SW 32nd Ct Ste 10 location: Gainesville, FL 32608"
+    "address": "3650 SW 32nd Ct Ste 10  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Hibbett Sports",
     "description": "Sporting Goods",
     "phone": "(352) 378-0204",
-    "address": "street: 3630 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3630 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Aerie",
     "description": "Women's Clothing",
     "phone": "(817) 837-5977",
-    "address": "street: 3597 SW 32nd Ct Ste A14 location: Gainesville, FL 32608"
+    "address": "3597 SW 32nd Ct Ste A14  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Lady Foot Locker",
     "description": "Shoe Stores",
     "phone": "(352) 332-5495",
-    "address": "street: 6329 W Newberry Rd Suite 6329 location: Gainesville, FL 32605"
+    "address": "6329 W Newberry Rd Suite 6329  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Motherhood Maternity",
     "description": "Maternity Clothes",
     "phone": "(352) 332-6099",
-    "address": "street: 6279 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6279 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "DTLR",
     "description": "Shoe Stores",
     "phone": "(352) 374-8738",
-    "address": "street: 1120 N Main St location: Gainesville, FL 32601"
+    "address": "1120 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Vans",
     "description": "Shoe Stores",
     "phone": "(352) 331-5031",
-    "address": "street: 6419 W Newberry Rd Ste F1 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Gators Plus",
-    "description": "Sportswear",
-    "phone": "(352) 375-8115",
-    "address": "street: 3931 NW 40th Ct location: Gainesville, FL 32606"
+    "address": "6419 W Newberry Rd Ste F1  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Walmart Supercenter",
     "description": "General Merchandise",
     "phone": "(352) 378-0619",
-    "address": "street: 5700 NW 23rd St location: Gainesville, FL 32653"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(352) 331-8797",
-    "address": "street: 6641 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "5700 NW 23rd St  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
     "name": "Finish Line",
     "description": "Shoe Stores",
     "phone": "(352) 333-2300",
-    "address": "street: 6671 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6671 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Foot Locker",
     "description": "Shoe Stores",
     "phone": "(352) 331-1007",
-    "address": "street: 6419 W Newberry Rd Ste D12 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste D12  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Fit 2 Run",
     "description": "Running Stores",
     "phone": "(352) 872-5860",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(352) 331-1007",
-    "address": "street: 6309 W Newberry Rd Suite D12 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Gainesville Running & Walking",
     "description": "Running Stores",
     "phone": "(352) 672-6700",
-    "address": "street: 13005 SW 1st Rd location: Newberry, FL 32669"
-  },
-  {
-    "name": "Hibbett Sports",
-    "description": "Sporting Goods",
-    "phone": "(352) 372-2484",
-    "address": "street: 2619 NW 13th St location: Gainesville, FL 32609"
+    "address": "13005 SW 1st Rd  Newberry, FL 32669",
+    "location": "Alachua"
   },
   {
     "name": "Target",
     "description": "General Merchandise",
     "phone": "(352) 415-4861",
-    "address": "street: 250 NW 13th St location: Gainesville, FL 32601"
-  },
-  {
-    "name": "Hibbett Sports",
-    "description": "Sporting Goods",
-    "phone": "(352) 574-4389",
-    "address": "street: 1124 N Main St location: Gainesville, FL 32601"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(352) 371-3171",
-    "address": "street: 2900 SW 42nd St location: Gainesville, FL 32608"
+    "address": "250 NW 13th St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Cato Fashions",
     "description": "Women's Clothing",
     "phone": "(352) 331-4774",
-    "address": "street: 1116 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1116 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Men's Wearhouse",
     "description": "Men's Clothing",
     "phone": "(352) 332-1889",
-    "address": "street: 6915 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6915 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Victoria's Secret",
     "description": "Lingerie",
     "phone": "(352) 332-4720",
-    "address": "street: 6419 W Newberry Rd Ste B8 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste B8  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Versona",
     "description": "Women's Clothing",
     "phone": "(352) 331-9499",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Motherhood Maternity",
-    "description": "Maternity Clothes",
-    "phone": "(352) 332-6099",
-    "address": "street: 6419 W Newberry Rd Ste F5 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Talbots",
     "description": "Women's Clothing",
     "phone": "(352) 378-6374",
-    "address": "street: 3842 W Newberry Rd location: Gainesville, FL 32607"
+    "address": "3842 W Newberry Rd  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "University of Florida Ice Hockey",
     "description": "Hockey Clubs",
     "phone": "(727) 744-0980",
-    "address": "street: 140 Buckman Dr location: Gainesville, FL 32611"
-  },
-  {
-    "name": "Foot Locker",
-    "description": "Shoe Stores",
-    "phone": "(352) 331-1007",
-    "address": "street: 6665 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "140 Buckman Dr  Gainesville, FL 32611",
+    "location": "Alachua"
   },
   {
     "name": "AS Revival",
     "description": "Sportswear",
     "phone": "(352) 224-4410",
-    "address": "street: 6619 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6619 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Skechers",
     "description": "Shoe Stores",
     "phone": "(352) 332-2473",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "SKECHERS Retail",
     "description": "Shoe Stores",
     "phone": "(352) 332-2473",
-    "address": "street: 6215 W Newberry Rd # H6 location: Gainesville, FL 32605"
+    "address": "6215 W Newberry Rd # H6  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Dixie Heritage",
     "description": "Department Stores",
     "phone": "(352) 672-6653",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Champs Sports",
-    "description": "Sportswear",
-    "phone": "(850) 878-2727",
-    "address": "street: 6409 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Lids",
     "description": "Hat Shops",
     "phone": "(352) 333-5240",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Bodhi Tree",
     "description": "Department Stores",
     "phone": "(352) 332-8633",
-    "address": "street: 6225 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6225 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Agapanthus Lane",
     "description": "General Merchandise",
     "phone": "(352) 672-6004",
-    "address": "street: 13005 SW 1st Rd location: Newberry, FL 32669"
+    "address": "13005 SW 1st Rd  Newberry, FL 32669",
+    "location": "Alachua"
   },
   {
     "name": "Play It Again Sports",
     "description": "Sporting Goods",
     "phone": "(352) 377-7666",
-    "address": "street: 3425 W University Ave location: Gainesville, FL 32607"
+    "address": "3425 W University Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "David Tomlinson Wholesale",
     "description": "General Merchandise-Wholesale",
     "phone": "(352) 377-3008",
-    "address": "street: 3580 N Main St location: Gainesville, FL 32609"
+    "address": "3580 N Main St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Gator Sportshop University of FL",
     "description": "Sportswear",
     "phone": "(352) 692-6222",
-    "address": "street: 157 Gale Lemerand Dr location: Gainesville, FL 32611"
+    "address": "157 Gale Lemerand Dr  Gainesville, FL 32611",
+    "location": "Alachua"
   },
   {
     "name": "Celebration Pointe",
     "description": "Department Stores",
     "phone": "(352) 271-1060",
-    "address": "street: 4949 Celebration Pointe Ave location: Gainesville, FL 32608"
+    "address": "4949 Celebration Pointe Ave  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Celebration Pointe Holdings",
     "description": "Department Stores",
     "phone": "(352) 792-6019",
-    "address": "street: 5001 Celebration Pointe Ave location: Gainesville, FL 32608"
+    "address": "5001 Celebration Pointe Ave  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Wal-Mart",
     "description": "General Merchandise",
     "phone": "(352) 371-3556",
-    "address": "street: 3570 SW Archer Rd location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Gainesville Running & Walking",
-    "description": "Sportswear",
-    "phone": "(352) 672-6700",
-    "address": "street: 3600 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3570 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Dahlia",
     "description": "Women's Clothing",
     "phone": "(352) 381-0061",
-    "address": "street: 2441 NW 43rd St Ste 22 location: Gainesville, FL 32606"
+    "address": "2441 NW 43rd St Ste 22  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "I'ii Bring The Bling",
     "description": "Women's Clothing",
     "phone": "(352) 374-0907",
-    "address": "street: 4509 NW 23rd Ave Ste 14 location: Gainesville, FL 32606"
+    "address": "4509 NW 23rd Ave Ste 14  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Cato",
     "description": "Women's Clothing",
     "phone": "(352) 331-4774",
-    "address": "street: 1100 NW 76th Blvd location: Gainesville, FL 32606"
+    "address": "1100 NW 76th Blvd  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
     "name": "Ann Taylor",
     "description": "Women's Clothing",
     "phone": "(352) 331-5990",
-    "address": "street: 6629 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6629 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Michael Kors",
     "description": "Women's Clothing",
     "phone": "(352) 339-7497",
-    "address": "street: 6417 W Newberry Rd Suite C0002 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Victoria's Secret",
-    "description": "Lingerie",
-    "phone": "(352) 332-5932",
-    "address": "street: 6415 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6417 W Newberry Rd Suite C0002  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "JoS. A. Bank",
     "description": "Men's Clothing",
     "phone": "(352) 331-1552",
-    "address": "street: 6329e W Newberry Rd Ste E location: Gainesville, FL 32605"
+    "address": "6329e W Newberry Rd Ste E  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Indigo Denim Company",
     "description": "Women's Clothing",
     "phone": "(352) 672-6226",
-    "address": "street: 6463 W Newberry Rd Ste C6 location: Gainesville, FL 32605"
+    "address": "6463 W Newberry Rd Ste C6  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "bebe",
     "description": "Women's Clothing",
     "phone": "(352) 331-5031",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "The Body Shop",
     "description": "Women's Clothing",
     "phone": "(352) 332-2273",
-    "address": "street: 6345 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6345 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Body Central",
     "description": "Women's Clothing",
     "phone": "(352) 332-2273",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Michael Kors",
-    "description": "Women's Clothing",
-    "phone": "(352) 339-7497",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
-  },
-  {
-    "name": "JoS. A. Bank",
-    "description": "Men's Clothing",
-    "phone": "(352) 331-1552",
-    "address": "street: 6419 W Newberry Rd Ste A24 location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Francesca's",
     "description": "Women's Clothing",
     "phone": "(352) 224-2193",
-    "address": "street: 6419 W Newberry Rd Ste A13 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Ann Taylor",
-    "description": "Women's Clothing",
-    "phone": "(352) 331-5990",
-    "address": "street: 6419 W Newberry Rd Ste K3 location: Gainesville, FL 32605"
-  },
-  {
-    "name": "Francesca's",
-    "description": "Women's Clothing",
-    "phone": "(352) 332-5257",
-    "address": "street: 6391 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd Ste A13  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
     "name": "Allure Boutique",
     "description": "Boutique Items",
     "phone": "(352) 271-4400",
-    "address": "street: 3832 Newberry Rd location: Gainesville, FL 32607"
+    "address": "3832 Newberry Rd  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
     "name": "Simply Fashion",
     "description": "Women's Clothing",
     "phone": "(352) 376-0263",
-    "address": "street: 2639 NW 13th St location: Gainesville, FL 32609"
-  },
-  {
-    "name": "The Colorful Gator",
-    "description": "Women's Clothing",
-    "phone": "(352) 225-3595",
-    "address": "street: 13005 SW 1st Rd Ste 133 location: Newberry, FL 32669"
+    "address": "2639 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Henri Girl",
     "description": "Women's Clothing",
     "phone": "(352) 448-4968",
-    "address": "street: 1800 W University Ave Ste 120 location: Gainesville, FL 32603"
+    "address": "1800 W University Ave Ste 120  Gainesville, FL 32603",
+    "location": "Alachua"
   },
   {
     "name": "Fashion Trend-581",
     "description": "Women's Clothing",
     "phone": "(352) 264-7990",
-    "address": "street: 1208 N Main St location: Gainesville, FL 32601"
-  },
-  {
-    "name": "Simply Fashion",
-    "description": "Women's Clothing",
-    "phone": "(352) 264-7990",
-    "address": "street: 1208 N Main St location: Gainesville, FL 32601"
+    "address": "1208 N Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "The Boom Boom Room",
     "description": "Lingerie",
     "phone": "(352) 240-6781",
-    "address": "street: 1124 W University Ave location: Gainesville, FL 32601"
+    "address": "1124 W University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Urban Thread",
     "description": "Women's Clothing",
     "phone": "(352) 727-7500",
-    "address": "street: 802 W University Ave location: Gainesville, FL 32601"
+    "address": "802 W University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Indigo Denim Co",
     "description": "Women's Clothing",
     "phone": "(352) 672-6227",
-    "address": "street: 3217 SW 35th Blvd location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Cato",
-    "description": "Women's Clothing",
-    "phone": "(352) 335-2742",
-    "address": "street: 3242 SW 35th Blvd location: Gainesville, FL 32608"
+    "address": "3217 SW 35th Blvd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Captains Closet",
     "description": "Clothing Stores",
     "phone": "(352) 692-0067",
-    "address": "street: 5130 SW 81st Dr location: Gainesville, FL 32608"
+    "address": "5130 SW 81st Dr  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "J. Crew Factory Store",
     "description": "Clothing Stores",
     "phone": "(352) 204-8109",
-    "address": "street: 3910 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3910 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Banana Republic",
     "description": "Clothing Stores",
     "phone": "(352) 332-9142",
-    "address": "street: 6281 E County Road 225 location: Gainesville, FL 32609"
+    "address": "6281 E County Road 225  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Pennington & Bailes",
     "description": "Clothing Stores",
     "phone": "(800) 960-2564",
-    "address": "street: 5745 SW 75th St # 229 location: Gainesville, FL 32608"
+    "address": "5745 SW 75th St # 229  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "646 Apparels",
     "description": "Clothing Stores",
     "phone": "(386) 462-5100",
-    "address": "street: 18501 NW County Road 236 location: High Springs, FL 32643"
+    "address": "18501 NW County Road 236  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
     "name": "Easy Street Markets",
     "description": "Clothing Stores",
     "phone": "(352) 328-7344",
-    "address": "street: 2205 SE 23rd Pl location: Gainesville, FL 32641"
+    "address": "2205 SE 23rd Pl  Gainesville, FL 32641",
+    "location": "Alachua"
   },
   {
     "name": "Gurley Girl Boutique",
     "description": "Clothing Stores",
     "phone": "(352) 318-7658",
-    "address": "street: 9957 SW 98th Ave location: Gainesville, FL 32608"
+    "address": "9957 SW 98th Ave  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Bernices Clothing & Accessories",
     "description": "Clothing Stores",
     "phone": "(352) 665-6651",
-    "address": "street: 1228 SE 4th Pl location: Gainesville, FL 32641"
+    "address": "1228 SE 4th Pl  Gainesville, FL 32641",
+    "location": "Alachua"
   },
   {
     "name": "Old Navy",
     "description": "Clothing Stores",
     "phone": "(352) 505-4997",
-    "address": "street: 3942 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3942 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Catherines Plus Sizes",
     "description": "Clothing Stores",
     "phone": "(352) 327-9541",
-    "address": "street: 3948 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3948 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "J.Crew Factory",
     "description": "Clothing Stores",
     "phone": "(352) 204-8109",
-    "address": "street: 3910 SW Archer Rd location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Marshalls",
-    "description": "Clothing Stores",
-    "phone": "(352) 378-7466",
-    "address": "street: 3965 Plaza Blvd S40 location: Gainesville, FL 32608"
+    "address": "3910 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Nordstrom",
     "description": "Clothing Stores",
     "phone": "(352) 384-2111",
-    "address": "street: 5497 NE 49th Ter location: Gainesville, FL 32609"
+    "address": "5497 NE 49th Ter  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
     "name": "Athleta",
     "description": "Clothing Stores",
     "phone": "(352) 554-8890",
-    "address": "street: 2850 SW 35th Dr Ste 10 location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(386) 454-7013",
-    "address": "street: 20201 N Us Highway 441 location: High Springs, FL 32643"
+    "address": "2850 SW 35th Dr Ste 10  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Narcissus Gainesville",
     "description": "Clothing Stores",
     "phone": "(352) 554-4586",
-    "address": "street: 2851 SW 35th Dr Ste 40 location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Boot Barn",
-    "description": "Clothing Stores",
-    "phone": "(352) 372-8776",
-    "address": "street: 3443 SW Williston Rd location: Gainesville, FL 32608"
+    "address": "2851 SW 35th Dr Ste 40  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Kenyaslove Diaper Cakes",
     "description": "Clothing Stores",
     "phone": "(352) 359-0851",
-    "address": "street: 4542 SE 6th Ave location: Gainesville, FL 32641"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(386) 454-7013",
-    "address": "street: 20201 N Us Highway 441 location: High Springs, FL 32643"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(352) 372-3191",
-    "address": "street: 1800 NE 12th Ave location: Gainesville, FL 32641"
+    "address": "4542 SE 6th Ave  Gainesville, FL 32641",
+    "location": "Alachua"
   },
   {
     "name": "Rack Room Shoes",
     "description": "Shoe Stores",
     "phone": "(352) 377-4813",
-    "address": "street: 3958 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3958 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Unique Notions...An Eclectic Market",
     "description": "Gift Shops",
     "phone": "(352) 363-7039",
-    "address": "street: 35 NW 1st Ave location: High Springs, FL 32643"
+    "address": "35 NW 1st Ave  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
     "name": "Target Stores",
     "description": "General Merchandise",
     "phone": "(352) 376-5260",
-    "address": "street: 3970 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3970 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Anthropologie",
     "description": "Women's Clothing",
     "phone": "(352) 545-4523",
-    "address": "street: 850 Sw 35th Drive location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Dillard's",
-    "description": "Department Stores",
-    "phone": "(352) 331-1455",
-    "address": "street: 6495 E County Road 225 location: Gainesville, FL 32609"
+    "address": "850 Sw 35th Drive  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "American Barbell Club",
     "description": "Gymnasiums",
     "phone": "(352) 792-6620",
-    "address": "street: 250 SE 10th Ave location: Gainesville, FL 32601"
+    "address": "250 SE 10th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Outdoor Life 4 Guys & Gals",
     "description": "Women's Clothing",
     "phone": "(352) 672-8657",
-    "address": "street: 23352 NW 186th Ave location: High Springs, FL 32643"
+    "address": "23352 NW 186th Ave  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
     "name": "Alumni Hall Stores",
     "description": "Sportswear",
     "phone": "(352) 225-3459",
-    "address": "street: 3730 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3730 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Lululemon",
     "description": "Sportswear",
     "phone": "(352) 373-1256",
-    "address": "street: 3730 SW Archer Rd location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Pennington & Bailes",
-    "description": "Sportswear",
-    "phone": "(352) 371-9714",
-    "address": "street: 3737 SW 42nd Ave location: Gainesville, FL 32608"
+    "address": "3730 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Frogz On A Lilypad",
     "description": "General Merchandise",
     "phone": "(352) 672-6885",
-    "address": "street: 3456 SW 42nd Ave location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Agapanthus Lane",
-    "description": "General Merchandise",
-    "phone": "(352) 672-6004",
-    "address": "street: 2917 SW 35th Dr location: Gainesville, FL 32608"
-  },
-  {
-    "name": "Rack Room Shoes",
-    "description": "Shoe Stores",
-    "phone": "(352) 377-4813",
-    "address": "street: Butler Plaza West location: Gainesville, FL 32641"
+    "address": "3456 SW 42nd Ave  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
     "name": "Calzatura",
     "description": "Women's Clothing",
     "phone": "(352) 336-7463",
-    "address": "street: 201 SE 2nd Ave location: Gainesville, FL 32601"
+    "address": "201 SE 2nd Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
     "name": "Urban Thread-High Springs",
     "description": "Women's Clothing",
     "phone": "(386) 454-9759",
-    "address": "street: 15 NW Santa Fe Blvd location: High Springs, FL 32643"
-  },
-  {
-    "name": "MAC Sports Supplies",
-    "description": "Clothing Stores",
-    "phone": "(786) 671-4291",
-    "address": "street: N/A location: N/A"
+    "address": "15 NW Santa Fe Blvd  High Springs, FL 32643",
+    "location": "Alachua"
   }
 ]

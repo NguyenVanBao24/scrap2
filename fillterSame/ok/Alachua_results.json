@@ -1,16 +1,350 @@
 [
   {
-    "dataYpid": "29443737",
     "name": "Free Expressions By Kimberly",
     "description": "Advertising Agencies",
     "phone": "(386) 462-7114",
-    "address": "street: 6822 NW 126th Ave location: Gainesville, FL 32653"
+    "address": " 6822 NW 126th Ave - Gainesville, FL 32653"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
+    "name": "DM Creative Studios",
+    "description": "Graphic Designers",
+    "phone": "(352) 219-4571",
+    "address": " 5531 NW 81st Ave - Gainesville, FL 32653"
+  },
+  {
+    "name": "Sign PRO of North Florida",
+    "description": "Advertising Specialties",
+    "phone": "(386) 518-6887",
+    "address": " 14838 Main St - Alachua, FL 32615"
+  },
+  {
+    "name": "Quality Quality Web Printing & Mailings",
+    "description": "Printing Services",
+    "phone": "(352) 377-8400",
+    "address": " 2401 NW 66th Ct - Gainesville, FL 32653"
+  },
+  {
+    "name": "Rad Wear Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 727-4498",
+    "address": " 2630 NW 41st St - Gainesville, FL 32606"
+  },
+  {
+    "name": "Progifts",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 332-3833",
+    "address": " 1722 NW 80th Blvd Ste 90 - Gainesville, FL 32606"
+  },
+  {
+    "name": "Gator Town Daily Deals",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 264-0068",
+    "address": " 5200 NW 43rd St Ste 102-182 - Gainesville, FL 32606"
+  },
+  {
+    "name": "Bee Persuasive",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 246-3969",
+    "address": " 3534 NW 40th Ter - Gainesville, FL 32606"
+  },
+  {
+    "name": "Premier Marketing Experts LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 356-8711",
+    "address": " 9200 NW 39th Ave Ste 130-40 - Gainesville, FL 32606"
+  },
+  {
+    "name": "Quality Mailing",
+    "description": "Mail & Shipping Services",
+    "phone": "(352) 377-8400",
+    "address": " 2401 NW 66th Ct - Gainesville, FL 32653"
+  },
+  {
+    "name": "Ad Pros Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(352) 373-0214",
+    "address": " 5200 NW 43rd St - Gainesville, FL 32606"
+  },
+  {
+    "name": "Primary Color",
+    "description": "Advertising Agencies",
+    "phone": "(352) 331-8860",
+    "address": " 2251 Nw 41st St Ste 60 - Gainesville, FL 32606"
+  },
+  {
+    "name": "Online Potential Inc",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 234-4372",
+    "address": " 5126 NW 59th Ln - Gainesville, FL 32653"
+  },
+  {
+    "name": "Revgrowth Email Agency",
+    "description": "Advertising Agencies",
+    "phone": "(813) 495-0564",
+    "address": " 5200 NW 43rd St - Gainesville, FL 32606"
+  },
+  {
+    "name": "Gator Greenbacks - Print Advertising Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(352) 448-1621",
+    "address": " 5127 NW 39th Ave - Gainesville, FL 32606"
+  },
+  {
+    "name": "North Florida Care & Comfort Service",
+    "description": "Advertising Agencies",
+    "phone": "(352) 336-9794",
+    "address": " 3643 NW 46th Pl - Gainesville, FL 32605"
+  },
+  {
+    "name": "Tower Publication",
+    "description": "Advertising Specialties",
+    "phone": "(352) 372-5468",
+    "address": " 4400 NW 36th Ave - Gainesville, FL 32606"
+  },
+  {
+    "name": "Association Advertising of America Inc",
+    "description": "Advertising Specialties",
+    "phone": "(352) 371-4933",
+    "address": " 4626 NW 33rd Ct - Gainesville, FL 32606"
+  },
+  {
+    "name": "Bob White Productions",
+    "description": "Video Production Services",
+    "phone": "(352) 376-4469",
+    "address": " 2772 NW 43rd St - Gainesville, FL 32606"
+  },
+  {
+    "name": "Abl Architectural Corp",
+    "description": "Signs",
+    "phone": "(352) 378-9934",
+    "address": " 6510 NW 16th St - Gainesville, FL 32653"
+  },
+  {
+    "name": "Signs By Tomorrow",
+    "description": "Signs",
+    "phone": "(352) 367-4645",
+    "address": " 210 NW 10th Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Westside T-shirt",
+    "description": "Embroidery",
+    "phone": "(352) 375-4263",
+    "address": " 4445 SW 35th Ter - Gainesville, FL 32608"
+  },
+  {
+    "name": "Edge Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 672-6810",
+    "address": " 1226 NW 120th Way - Gainesville, FL 32606"
+  },
+  {
+    "name": "Monster Press Printing",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 373-3355",
+    "address": " 424 W University Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Insty-Prints",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 373-7547",
+    "address": " 327 NW 23rd Ave - Gainesville, FL 32609"
+  },
+  {
+    "name": "Florida Awards & Trophy Co",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 378-8111",
+    "address": " 2300 NW 6th St - Gainesville, FL 32609"
+  },
+  {
+    "name": "ASAP Screen Printing Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 505-7574",
+    "address": " 4641 NW 6th St - Gainesville, FL 32609"
+  },
+  {
+    "name": "Impact Printing",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 375-6122",
+    "address": " 805 NW 13th St - Gainesville, FL 32601"
+  },
+  {
+    "name": "The Trophy Shop",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 372-8551",
+    "address": " 707 NW 13th St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Gainesville Neon & Signs",
+    "description": "Signs",
+    "phone": "(352) 376-2750",
+    "address": " 1405 NW 53rd Ave - Gainesville, FL 32609"
+  },
+  {
+    "name": "Dowling Signs",
+    "description": "Signs",
+    "phone": "(352) 376-0456",
+    "address": " 2834 N Main St - Gainesville, FL 32609"
+  },
+  {
+    "name": "Three Fifty Two, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 374-9657",
+    "address": " 133 SW 130th Way - Newberry, FL 32669"
+  },
+  {
+    "name": "Pledge 5 Foundation",
+    "description": "Charities",
+    "phone": "(352) 505-0414",
+    "address": " 18b SW 2nd Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Gainesville Neon & Signs Inc",
+    "description": "Signs",
+    "phone": "(352) 376-2750",
+    "address": " 618 S Main St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Jeffcoat Signs",
+    "description": "Signs",
+    "phone": "(352) 377-2322",
+    "address": " 1611 S Main St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Curtis John",
+    "description": "Advertising Agencies",
+    "phone": "(352) 332-0840",
+    "address": " 11635 NW 1st Ave - Gainesville, FL 32607"
+  },
+  {
+    "name": "Worth Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(352) 519-5842",
+    "address": " 625 W University Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Liquid Creative",
+    "description": "Advertising Agencies",
+    "phone": "(352) 600-5050",
+    "address": " 1314 S Main St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Primary Color Advertising Design",
+    "description": "Advertising Specialties",
+    "phone": "(352) 331-8860",
+    "address": " 10214 NW 13th Ave - Gainesville, FL 32606"
+  },
+  {
+    "name": "Highway Signs Plus",
+    "description": "Signs",
+    "phone": "(352) 224-5543",
+    "address": " 1354 NW 53rd Ave - Gainesville, FL 32609"
+  },
+  {
+    "name": "Wgs Engraving & Graphics",
+    "description": "Engraving",
+    "phone": "(352) 379-5534",
+    "address": " 4615 NW 6th St Ste E - Gainesville, FL 32609"
+  },
+  {
+    "name": "Ad & Associates",
+    "description": "Advertising Agencies",
+    "phone": "(844) 672-5733",
+    "address": " Tower Ctr - Gainesville, FL 32607"
+  },
+  {
+    "name": "Frankel Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(352) 331-5558",
+    "address": " 105 SW 128th St Ste 200 - Newberry, FL 32669"
+  },
+  {
+    "name": "Data Management Support Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 376-6522",
+    "address": " 2603 NW 13th St - Gainesville, FL 32609"
+  },
+  {
+    "name": "Strictly Embroidery",
+    "description": "Embroidery",
+    "phone": "(352) 375-6767",
+    "address": " 3501 SW 2nd Ave - Gainesville, FL 32607"
+  },
+  {
+    "name": "Jag Agency",
+    "description": "Advertising Agencies",
+    "phone": "(352) 240-3542",
+    "address": " 1902 SW 83rd Ct - Gainesville, FL 32607"
+  },
+  {
+    "name": "Insite Magazines",
+    "description": "Advertising Agencies",
+    "phone": "(352) 377-1402",
+    "address": " 1330 NW 6th St Ste B - Gainesville, FL 32601"
+  },
+  {
+    "name": "Target Copy",
+    "description": "Copying & Duplicating Service",
+    "phone": "(352) 376-3826",
+    "address": " 1412 W University Ave - Gainesville, FL 32603"
+  },
+  {
+    "name": "Creative Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(352) 372-1095",
+    "address": " 1108 SW 2nd Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Sign Masters",
+    "description": "Signs",
+    "phone": "(352) 335-7000",
+    "address": " 2530 SW 34th St Ste B - Gainesville, FL 32608"
+  },
+  {
+    "name": "Parisleaf",
+    "description": "Web Site Design & Services",
+    "phone": "(352) 377-5560",
+    "address": " 107 SW 7th St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Nation Signs and Print",
+    "description": "Advertising Specialties",
+    "phone": "(352) 244-0193",
+    "address": " 412 E University Ave - Gainesville, FL 32601"
+  },
+  {
+    "name": "Low Cost Signs & More",
+    "description": "Signs",
+    "phone": "(352) 256-1841",
+    "address": " 1409 S Main St - Gainesville, FL 32601"
+  },
+  {
+    "name": "Town Radar",
+    "description": "Advertising Agencies",
+    "phone": "(352) 872-5678",
+    "address": " 5216 SW 91st Dr - Gainesville, FL 32608"
+  },
+  {
+    "name": "Departure Media",
+    "description": "Advertising Agencies",
+    "phone": "(352) 338-1158",
+    "address": " 3880 NE 39th Ave - Gainesville, FL 32609"
+  },
+  {
+    "name": "Kelly, John",
+    "description": "Advertising Agencies",
+    "phone": "(352) 495-2673",
+    "address": " 3520 SW 162nd St - Archer, FL 32618"
+  },
+  {
+    "name": "Kms Media Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(352) 258-0193",
+    "address": " PO Box 580 - High Springs, FL 32655"
+  },
+  {
+    "name": "Dowling Signs-North Central FL",
+    "description": "Signs",
+    "phone": "(386) 201-0813",
+    "address": " 18038 NW 246th St - High Springs, FL 32643"
   }
 ]

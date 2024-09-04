@@ -1,422 +1,170 @@
 [
   {
-    "dataYpid": "464493147",
     "name": "Linder Consulting Group",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9725",
-    "address": "street: 1551 NE Miami Gardens Dr location: Miami, FL 33179"
+    "address": " 1551 NE Miami Gardens Dr  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "464825334",
     "name": "Walter Vision Productions Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 572-9313",
-    "address": "street: 801 NE 167th St location: North Miami Beach, FL 33162"
+    "address": " 801 NE 167th St  North Miami Beach, FL 33162",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "29575657",
     "name": "Advertising Updated Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 944-6718",
-    "address": "street: 1248 NE 154th St location: North Miami Beach, FL 33162"
+    "address": " 1248 NE 154th St  North Miami Beach, FL 33162",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "3588162",
     "name": "Ad-Pros Group",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9906",
-    "address": "street: 1810 NE 153rd St location: North Miami Beach, FL 33162"
+    "address": " 1810 NE 153rd St  North Miami Beach, FL 33162",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "465701258",
-    "name": "International Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 499-9000",
-    "address": "street: N/A location: Miami, FL 33183"
-  },
-  {
-    "dataYpid": "465490366",
-    "name": "PRODUCCIONES ALEVIDEOS",
-    "description": "Advertising Agencies",
-    "phone": "(786) 283-0038",
-    "address": "street: N/A location: Miami, FL 33135"
-  },
-  {
-    "dataYpid": "464513932",
     "name": "Afrovisions Pr Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 949-8239",
-    "address": "street: 1348 NE 147th St location: Miami, FL 33161"
+    "address": " 1348 NE 147th St  Miami, FL 33161",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "575833696",
     "name": "The LED City",
     "description": "Advertising Agencies",
     "phone": "(786) 744-3050",
-    "address": "street: 1943 NE 148th St location: Miami, FL 33181"
+    "address": " 1943 NE 148th St  Miami, FL 33181",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "539520380",
     "name": "Www.Exhibitdeal.Com",
     "description": "Advertising Agencies",
     "phone": "(310) 899-1257",
-    "address": "street: 18502 NE 5th Ave location: Miami, FL 33179"
+    "address": " 18502 NE 5th Ave  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "470885417",
     "name": "Marlite Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 655-3520",
-    "address": "street: 300 NE 183rd St location: Miami, FL 33179"
+    "address": " 300 NE 183rd St  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "478312587",
     "name": "Mobile Billboard Miami",
     "description": "Advertising Agencies",
     "phone": "(305) 814-5880",
-    "address": "street: 19820 NE 10th Ct location: Miami, FL 33179"
+    "address": " 19820 NE 10th Ct  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "29198156",
     "name": "Mike Davis Consultant PA",
     "description": "Advertising Agencies",
     "phone": "(305) 974-4549",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "469863270",
     "name": "Metellus Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 974-4857",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "510430643",
     "name": "Family Matters",
     "description": "Advertising Agencies",
     "phone": "(786) 520-4255",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "497777622",
     "name": "Square One Branding",
     "description": "Advertising Agencies",
     "phone": "(786) 552-6343",
-    "address": "street: 8201 Coral Way location: Miami, FL 33155"
+    "address": " 8201 Coral Way  Miami, FL 33155",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "495657618",
-    "name": "Miami Advertising Guru",
-    "description": "Advertising Agencies",
-    "phone": "(305) 213-2421",
-    "address": "street: N/A location: Miami, FL 33126"
-  },
-  {
-    "dataYpid": "495955543",
-    "name": "Sorensen Communications",
-    "description": "Advertising Agencies",
-    "phone": "(305) 274-8337",
-    "address": "street: N/A location: Miami, FL 33256"
-  },
-  {
-    "dataYpid": "504932215",
-    "name": "Umbaji",
-    "description": "Advertising Agencies",
-    "phone": "(305) 551-4604",
-    "address": "street: N/A location: Miami, FL 33172"
-  },
-  {
-    "dataYpid": "531559021",
-    "name": "Fishing Talent Digital Marketing Agency",
-    "description": "Advertising Agencies",
-    "phone": "(786) 327-7712",
-    "address": "street: N/A location: Miami, FL 33166"
-  },
-  {
-    "dataYpid": "552624146",
-    "name": "Matrix global sms",
-    "description": "Advertising Agencies",
-    "phone": "(305) 440-0585",
-    "address": "street: N/A location: Miami, FL 33155"
-  },
-  {
-    "dataYpid": "458159222",
-    "name": "A & A Enterprises",
-    "description": "Advertising Agencies",
-    "phone": "(305) 274-1091",
-    "address": "street: N/A location: Miami, FL 33176"
-  },
-  {
-    "dataYpid": "481896898",
-    "name": "Creative Advertising Caribbean",
-    "description": "Advertising Agencies",
-    "phone": "(868) 796-0146",
-    "address": "street: N/A location: Miami, FL 33186"
-  },
-  {
-    "dataYpid": "482198636",
-    "name": "GoPedi",
-    "description": "Advertising Agencies",
-    "phone": "(866) 462-3182",
-    "address": "street: N/A location: Miami, FL 33180"
-  },
-  {
-    "dataYpid": "498757322",
-    "name": "Codis, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(513) 403-1885",
-    "address": "street: N/A location: Miami, FL 33137"
-  },
-  {
-    "dataYpid": "531497704",
-    "name": "EyeSea Solutions",
-    "description": "Advertising Agencies",
-    "phone": "(754) 300-9506",
-    "address": "street: N/A location: Miami, FL 33132"
-  },
-  {
-    "dataYpid": "459378863",
     "name": "Mak Media",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9563",
-    "address": "street: 15050 NE 20th Ave Ste 101 location: North Miami, FL 33181"
+    "address": " 15050 NE 20th Ave Ste 101  North Miami, FL 33181",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "495719771",
     "name": "Net Temps",
     "description": "Advertising Agencies",
     "phone": "(305) 956-2476",
-    "address": "street: 17501 Biscayne Blvd location: Aventura, FL 33160"
+    "address": " 17501 Biscayne Blvd  Aventura, FL 33160",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "10600959",
     "name": "I Hostthm.Com",
     "description": "Advertising Agencies",
     "phone": "(305) 891-7322",
-    "address": "street: 14260 NE 12th Ave location: North Miami, FL 33161"
+    "address": " 14260 NE 12th Ave  North Miami, FL 33161",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "452205027",
     "name": "Spark Creative Design",
     "description": "Advertising Agencies",
     "phone": "(305) 933-3703",
-    "address": "street: 18161 Biscayne Blvd location: Aventura, FL 33160"
+    "address": " 18161 Biscayne Blvd  Aventura, FL 33160",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "495512316",
     "name": "Learn About",
     "description": "Advertising Agencies",
     "phone": "(484) 661-7411",
-    "address": "street: 2750 NE 183rd St location: Aventura, FL 33160"
+    "address": " 2750 NE 183rd St  Aventura, FL 33160",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "457369583",
     "name": "Keyes Martin & Gaby",
     "description": "Advertising Agencies",
     "phone": "(305) 702-6386",
-    "address": "street: 13899 Biscayne Blvd location: North Miami Beach, FL 33181"
+    "address": " 13899 Biscayne Blvd  North Miami Beach, FL 33181",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "29597304",
     "name": "Mr3 Marketing",
     "description": "Advertising Agencies",
     "phone": "(305) 931-0332",
-    "address": "street: 2780 NE 183rd St location: Aventura, FL 33160"
+    "address": " 2780 NE 183rd St  Aventura, FL 33160",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "545605886",
     "name": "Berman Margo",
     "description": "Advertising Agencies",
     "phone": "(305) 949-7711",
-    "address": "street: 3351 NE 164th St location: North Miami Beach, FL 33160"
+    "address": " 3351 NE 164th St  North Miami Beach, FL 33160",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "489149380",
-    "name": "Sea Star Films",
-    "description": "Advertising Agencies",
-    "phone": "(786) 565-2865",
-    "address": "street: N/A location: North Miami Beach, FL 33160"
-  },
-  {
-    "dataYpid": "544209336",
-    "name": "PlanSEO Marketing | Agencia SEO en Miami",
-    "description": "Advertising Agencies",
-    "phone": "(786) 613-2358",
-    "address": "street: N/A location: Hialeah, FL 33015"
-  },
-  {
-    "dataYpid": "453386447",
-    "name": "Concept Cafe Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(786) 533-1840",
-    "address": "street: N/A location: Hialeah, FL 33010"
-  },
-  {
-    "dataYpid": "462521687",
-    "name": "Jackie Zambrano, LLC",
-    "description": "Advertising Agencies",
-    "phone": "(305) 305-6226",
-    "address": "street: N/A location: Doral, FL 33178"
-  },
-  {
-    "dataYpid": "540845648",
-    "name": "Zen-promo",
-    "description": "Advertising Agencies",
-    "phone": "(305) 203-3892",
-    "address": "street: N/A location: North Miami, FL 33181"
-  },
-  {
-    "dataYpid": "542379543",
-    "name": "Superlative Creative",
-    "description": "Advertising Agencies",
-    "phone": "(305) 707-6993",
-    "address": "street: N/A location: Miami Beach, FL 33139"
-  },
-  {
-    "dataYpid": "15778089",
-    "name": "Dominique Dekindt",
-    "description": "Advertising Agencies",
-    "phone": "(305) 969-6184",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452148963",
-    "name": "JOHNOFALLTYPE",
-    "description": "Advertising Agencies",
-    "phone": "(305) 498-0614",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "502239168",
-    "name": "All Star Media Solutions Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(786) 380-8899",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574302613",
-    "name": "Michael Haupert, Miami Digital Marketing Consultant, Advertising, Social Media Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(786) 635-5574",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12896964",
-    "name": "Travel Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(305) 654-3506",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "16480243",
-    "name": "Ryder & Schild Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 854-0580",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "19505893",
-    "name": "Creative On Demand",
-    "description": "Advertising Agencies",
-    "phone": "(305) 854-8496",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21483325",
-    "name": "VendorPlus Inc",
-    "description": "Advertising Agencies",
-    "phone": "(305) 441-8100",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "461490664",
-    "name": "Blonde Concepts",
-    "description": "Advertising Agencies",
-    "phone": "(305) 793-1660",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467355380",
-    "name": "Pixel Graphics Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 718-0595",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467781669",
-    "name": "Branding Forces",
-    "description": "Advertising Agencies",
-    "phone": "(305) 534-9898",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "473580102",
-    "name": "Valpak",
-    "description": "Advertising Agencies",
-    "phone": "(305) 380-9610",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "481921578",
-    "name": "FN Magazine (Fashion Nerrd, Inc)",
-    "description": "Advertising Agencies",
-    "phone": "(954) 417-5114",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "501717280",
-    "name": "All-Ways Advertising Co",
-    "description": "Advertising Agencies",
-    "phone": "(305) 653-7588",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505672457",
-    "name": "Misterfreek",
-    "description": "Advertising Agencies",
-    "phone": "(631) 355-9435",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560350073",
-    "name": "YesMapPromo.com",
-    "description": "Advertising Agencies",
-    "phone": "(866) 999-9510",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "568207871",
-    "name": "Comrade Digital Marketing Agency - Miami",
-    "description": "Advertising Agencies",
-    "phone": "(305) 768-1129",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574902450",
-    "name": "Executive Advertising Group",
-    "description": "Advertising Agencies",
-    "phone": "(305) 597-5454",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "460457934",
     "name": "Rabinovici And Assoc",
     "description": "Advertising Agencies",
     "phone": "(305) 655-0021",
-    "address": "street: 20815 NE 16th Ave location: Miami, FL 33179"
+    "address": " 20815 NE 16th Ave  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "533258012",
     "name": "The Badimon Group",
     "description": "Advertising Agencies",
     "phone": "(305) 785-8511",
-    "address": "street: 2971 NE 185th St APT 1906 location: Miami, FL 33180"
+    "address": " 2971 NE 185th St APT 1906  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
-    "dataYpid": "574474755",
     "name": "Highleveladvertising",
     "description": "Advertising Agencies",
     "phone": "(954) 625-9123",
-    "address": "street: 111 NW 183rd St Ste 302 location: Miami, FL 33169"
+    "address": " 111 NW 183rd St Ste 302  Miami, FL 33169",
+    "location": "Nassau"
   }
 ]

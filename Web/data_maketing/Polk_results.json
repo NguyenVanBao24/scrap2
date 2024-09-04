@@ -1,905 +1,716 @@
 [
   {
-    "dataYpid": "573453823",
     "name": "Click Thru Marketing",
     "description": "Marketing Consultants",
     "phone": "(863) 592-8086",
-    "address": "street: 4959 Tennessee Lake Dr location: Auburndale, FL 33823"
+    "address": "4959 Tennessee Lake Dr  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "462481272",
     "name": "Evolving",
     "description": "Meeting & Event Planning Services",
     "phone": "(863) 513-0057",
-    "address": "street: 4003 Carey Ct location: Auburndale, FL 33823"
+    "address": "4003 Carey Ct  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "544952555",
-    "name": "Sunshine G Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(863) 289-9480",
-    "address": "street: N/A location: Auburndale, FL 33823"
-  },
-  {
-    "dataYpid": "125851",
-    "name": "One Year Plan",
-    "description": "Marketing Programs & Services",
-    "phone": "(863) 512-1437",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "461596727",
-    "name": "Orlando VIP Card",
-    "description": "Marketing Programs & Services",
-    "phone": "(866) 469-8832",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465179854",
-    "name": "Advantage Positioning",
-    "description": "Marketing Programs & Services",
-    "phone": "(863) 648-5762",
-    "address": "street: N/A location: Lakeland, FL 33813"
-  },
-  {
-    "dataYpid": "465339227",
-    "name": "MyFREEPages .Net",
-    "description": "Marketing Programs & Services",
-    "phone": "(863) 709-6789",
-    "address": "street: N/A location: Lakeland, FL 33809"
-  },
-  {
-    "dataYpid": "464649094",
-    "name": "TANGO",
-    "description": "Marketing Programs & Services",
-    "phone": "(866) 968-9339",
-    "address": "street: N/A location: Winter Haven, FL 33881"
-  },
-  {
-    "dataYpid": "9379543",
     "name": "Cameostyle Custom Fit Bra",
     "description": "Marketing Consultants",
     "phone": "(863) 967-0660",
-    "address": "street: 2014 Brentwood Dr location: Auburndale, FL 33823"
+    "address": "2014 Brentwood Dr  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "566706829",
     "name": "CGLO Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(561) 212-3429",
-    "address": "street: 807 Interlachen Pkwy location: Lakeland, FL 33801"
+    "address": "807 Interlachen Pkwy  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "532718098",
-    "name": "MyMarketingTouch",
-    "description": "Market Research & Analysis",
-    "phone": "(863) 513-3260",
-    "address": "street: N/A location: Auburndale, FL 33823"
-  },
-  {
-    "dataYpid": "558895737",
-    "name": "Website,Graphics,App,SEO and Digital marketing",
-    "description": "Web Site Design & Services",
-    "phone": "(252) 996-5440",
-    "address": "street: N/A location: Lakeland, FL 33809"
-  },
-  {
-    "dataYpid": "461814683",
-    "name": "Magic GIS",
-    "description": "Environmental & Ecological Consultants",
-    "phone": "(863) 409-0905",
-    "address": "street: N/A location: Haines City, FL 33845"
-  },
-  {
-    "dataYpid": "549372570",
-    "name": "C-Notes Now Digital Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(407) 766-4678",
-    "address": "street: N/A location: Haines City, FL 33844"
-  },
-  {
-    "dataYpid": "496046255",
-    "name": "Hagerty Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(863) 427-5876",
-    "address": "street: N/A location: Lake Alfred, FL 33850"
-  },
-  {
-    "dataYpid": "496445041",
-    "name": "Danny Burnstein Designs",
-    "description": "Graphic Designers",
-    "phone": "(407) 516-6406",
-    "address": "street: N/A location: Lakeland, FL 33809"
-  },
-  {
-    "dataYpid": "497544307",
-    "name": "DaniWeb Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(863) 875-7397",
-    "address": "street: N/A location: Winter Haven, FL 33881"
-  },
-  {
-    "dataYpid": "530278246",
-    "name": "Cermark Sales Inc",
-    "description": "Direct Marketing Services",
-    "phone": "(866) 241-9881",
-    "address": "street: N/A location: Champions Gate, FL 33896"
-  },
-  {
-    "dataYpid": "462492505",
-    "name": "pricefield productions",
-    "description": "Market Research & Analysis",
-    "phone": "(863) 885-2246",
-    "address": "street: N/A location: Haines City, FL 33844"
-  },
-  {
-    "dataYpid": "464689009",
-    "name": "Dynamic Web Management",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(863) 272-1788",
-    "address": "street: N/A location: Lakeland, FL 33805"
-  },
-  {
-    "dataYpid": "466359997",
-    "name": "Pampered Chef Independent Consultant",
-    "description": "Bakers Equipment & Supplies",
-    "phone": "(863) 606-8726",
-    "address": "street: N/A location: Lakeland, FL 33803"
-  },
-  {
-    "dataYpid": "196007",
-    "name": "Intervision Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(863) 206-5755",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "527308625",
-    "name": "Polk Professional Media",
-    "description": "Web Site Design & Services",
-    "phone": "(863) 949-0755",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23183288",
-    "name": "Wilson Surveying",
-    "description": "Market Research & Analysis",
-    "phone": "(407) 362-7918",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "461582319",
-    "name": "Gominigolf.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(303) 720-7373",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573717577",
-    "name": "Key Design & Media",
-    "description": "Graphic Designers",
-    "phone": "(863) 280-6118",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "571553784",
     "name": "Mastro Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(863) 400-0407",
-    "address": "street: 502 E Main St location: Lakeland, FL 33801"
+    "address": "502 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "539341",
     "name": "The Ledger",
     "description": "Marketing Programs & Services",
     "phone": "(863) 802-7000",
-    "address": "street: 300 W Lime St location: Lakeland, FL 33815"
+    "address": "300 W Lime St  Lakeland, FL 33815",
+    "location": "Polk"
   },
   {
-    "dataYpid": "560337302",
     "name": "Shed Marketer",
     "description": "Marketing Programs & Services",
     "phone": "(888) 348-1069",
-    "address": "street: 211 E Main St Ste 213 location: Lakeland, FL 33801"
+    "address": "211 E Main St Ste 213  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "460708987",
     "name": "Jbt Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(863) 683-5411",
-    "address": "street: 400 Fairway Ave location: Lakeland, FL 33801"
+    "address": "400 Fairway Ave  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "503999779",
     "name": "Latino Services International Inc",
     "description": "Marketing Programs & Services",
     "phone": "(863) 420-2037",
-    "address": "street: 236 Queen Mary Dr location: Davenport, FL 33837"
+    "address": "236 Queen Mary Dr  Davenport, FL 33837",
+    "location": "Polk"
   },
   {
-    "dataYpid": "481582211",
     "name": "CDI Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(863) 424-7255",
-    "address": "street: 45633 Highway 27 location: Davenport, FL 33897"
+    "address": "45633 Highway 27  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "562919240",
     "name": "Chilton Marketing Products",
     "description": "Marketing Programs & Services",
     "phone": "(863) 292-9800",
-    "address": "street: 549 Pope Ave NW location: Winter Haven, FL 33881"
+    "address": "549 Pope Ave NW  Winter Haven, FL 33881",
+    "location": "Polk"
   },
   {
-    "dataYpid": "11873953",
     "name": "Agriworld Business Inc",
     "description": "Marketing Programs & Services",
     "phone": "(863) 668-8025",
-    "address": "street: 2725 Mine And Mill Rd location: Lakeland, FL 33801"
+    "address": "2725 Mine And Mill Rd  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "512467272",
     "name": "Kellogg Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(863) 583-3559",
-    "address": "street: 439 S Florida Ave location: Lakeland, FL 33801"
+    "address": "439 S Florida Ave  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "551777405",
     "name": "System Dynamix Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(866) 579-7836",
-    "address": "street: 122 E Main St # 243 location: Lakeland, FL 33801"
+    "address": "122 E Main St # 243  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "492240278",
     "name": "Central Florida Media Group",
     "description": "Marketing Programs & Services",
     "phone": "(863) 248-7537",
-    "address": "street: 56 4th St NW Ste 100 location: Winter Haven, FL 33881"
+    "address": "56 4th St NW Ste 100  Winter Haven, FL 33881",
+    "location": "Polk"
   },
   {
-    "dataYpid": "572702476",
     "name": "Agent360°CRM | \"Agent360CRM\"",
     "description": "Marketing Programs & Services",
     "phone": "(863) 591-5611",
-    "address": "street: 502 E Main St location: Lakeland, FL 33801"
+    "address": "502 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "490780991",
     "name": "Local Marketing Pros",
     "description": "Marketing Programs & Services",
     "phone": "(863) 576-1180",
-    "address": "street: 6119 Brahman Dr location: Lakeland, FL 33810"
+    "address": "6119 Brahman Dr  Lakeland, FL 33810",
+    "location": "Polk"
   },
   {
-    "dataYpid": "575793663",
     "name": "SoccerLeads",
     "description": "Marketing Programs & Services",
     "phone": "(863) 400-0407",
-    "address": "street: 502 E Main St location: Lakeland, FL 33801"
+    "address": "502 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "510525352",
     "name": "A Home Town Connection Marketing Solutions L.L.C.",
     "description": "Marketing Programs & Services",
     "phone": "(863) 221-8288",
-    "address": "street: 4266 Stafford Dr location: Winter Haven, FL 33880"
+    "address": "4266 Stafford Dr  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "472768246",
     "name": "iDirect Media, LLC",
     "description": "Marketing Programs & Services",
     "phone": "(863) 875-3975",
-    "address": "street: Po Box 938 location: Auburndale, FL 33823"
+    "address": "Po Box 938  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "556729005",
     "name": "Firefly Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(863) 777-2244",
-    "address": "street: 122 E Main St # 244 location: Lakeland, FL 33801"
+    "address": "122 E Main St # 244  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "462369595",
     "name": "Secure Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(863) 853-8000",
-    "address": "street: 4001 Us Highway 98 N location: Lakeland, FL 33809"
+    "address": "4001 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
   },
   {
-    "dataYpid": "15690633",
     "name": "Ventilation Marketing Services Inc",
     "description": "Marketing Programs & Services",
     "phone": "(863) 294-2272",
-    "address": "street: 39 3rd St SW Ste 206 location: Winter Haven, FL 33880"
+    "address": "39 3rd St SW Ste 206  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "546606295",
     "name": "Comet Media Group",
     "description": "Marketing Programs & Services",
     "phone": "(772) 480-3414",
-    "address": "street: 122 E Main St location: Lakeland, FL 33801"
+    "address": "122 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "473004376",
     "name": "Canvasback Design, LLC",
     "description": "Marketing Programs & Services",
     "phone": "(863) 606-8479",
-    "address": "street: Po Box 3925 location: Lakeland, FL 33802"
+    "address": "Po Box 3925  Lakeland, FL 33802",
+    "location": "Polk"
   },
   {
-    "dataYpid": "475306059",
     "name": "Woyster Media, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 412-2076",
-    "address": "street: PO Box 1534 location: Auburndale, FL 33823"
+    "address": "PO Box 1534  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "468109580",
     "name": "Website Islands",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 243-8028",
-    "address": "street: 205 Rona Ln location: Davenport, FL 33897"
+    "address": "205 Rona Ln  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "480438822",
     "name": "Nice Branding Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 216-5683",
-    "address": "street: 123 S Tennessee Ave Ste 2 location: Lakeland, FL 33801"
+    "address": "123 S Tennessee Ave Ste 2  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "467186175",
     "name": "Xocai Healthy Chocolate",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 233-7160",
-    "address": "street: 1822 16th st nw location: Winter HAven, FL 33881"
+    "address": "1822 16th st nw  Winter HAven, FL 33881",
+    "location": "Polk"
   },
   {
-    "dataYpid": "531419946",
     "name": "MosierData - Lakeland Web Design & Internet Marketing",
     "description": "Web Site Design & Services",
     "phone": "(863) 687-0000",
-    "address": "street: 314 N Kentucky Ave location: Lakeland, FL 33801"
+    "address": "314 N Kentucky Ave  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "548980388",
     "name": "Rapid Action Marketing | Digital Marketing Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 226-6263",
-    "address": "street: 122 E. Main St. #270 location: Lakeland, FL 33801"
+    "address": "122 E. Main St. #270  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "556826652",
     "name": "Dark Matter Creative, LLC.",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 913-0357",
-    "address": "street: 2232 Heritage Dr location: Lakeland, FL 33801"
+    "address": "2232 Heritage Dr  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "22055992",
     "name": "St. Louis Software, Lakeland, FL",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 686-3741",
-    "address": "street: 817 South Blvd location: Lakeland, FL 33801"
+    "address": "817 South Blvd  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "571577397",
     "name": "Service Leads USA",
     "description": "Marketing Consultants",
     "phone": "(877) 268-2867",
-    "address": "street: 1549 Lakeland Hills Blvd Ste B location: Lakeland, FL 33805"
+    "address": "1549 Lakeland Hills Blvd Ste B  Lakeland, FL 33805",
+    "location": "Polk"
   },
   {
-    "dataYpid": "574850376",
     "name": "O2 Digital Marketing",
     "description": "Marketing Consultants",
     "phone": "(800) 450-7085",
-    "address": "street: 146 Montana Ave location: Davenport, FL 33897"
+    "address": "146 Montana Ave  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "575015592",
     "name": "Dippidi",
     "description": "Advertising Agencies",
     "phone": "(863) 591-5384",
-    "address": "street: 502 E Main St location: Lakeland, FL 33801"
+    "address": "502 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "536631888",
     "name": "First Step Solutions, Inc",
     "description": "Marketing Consultants",
     "phone": "(407) 592-3833",
-    "address": "street: 1380 Palmetto Dunes St location: Davenport, FL 33896"
+    "address": "1380 Palmetto Dunes St  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "569926233",
     "name": "Hurimark SEO Agency",
     "description": "Advertising Agencies",
     "phone": "(650) 586-0072",
-    "address": "street: 122 E Main St Unit 130 location: Lakeland, FL 33801"
+    "address": "122 E Main St Unit 130  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "548322729",
     "name": "Double Rainbow Enterprises International",
     "description": "Direct Marketing Services",
     "phone": "(863) 397-3661",
-    "address": "street: 307 Preston St location: Auburndale, FL 33823"
+    "address": "307 Preston St  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "571999794",
-    "name": "Rebel",
-    "description": "Market Research & Analysis",
-    "phone": "N/A",
-    "address": "street: 830 N Massachusetts Ave location: Lakeland, FL 33801"
-  },
-  {
-    "dataYpid": "566463590",
     "name": "Atlasdoorrepair.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 559-1533",
-    "address": "street: 25111 Ramm Dr location: Lakeland, FL 33809"
+    "address": "25111 Ramm Dr  Lakeland, FL 33809",
+    "location": "Polk"
   },
   {
-    "dataYpid": "524076194",
     "name": "McCoy & Associates",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 274-1859",
-    "address": "street: 2216 Deer Run location: Lakeland, FL 33809"
+    "address": "2216 Deer Run  Lakeland, FL 33809",
+    "location": "Polk"
   },
   {
-    "dataYpid": "547086500",
     "name": "Tellyvu",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 873-9421",
-    "address": "street: 4967 Williamstown Blvd location: Lakeland, FL 33810"
+    "address": "4967 Williamstown Blvd  Lakeland, FL 33810",
+    "location": "Polk"
   },
   {
-    "dataYpid": "548190947",
     "name": "BoBestValues",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 303-2066",
-    "address": "street: 236 Dolcetto Dr location: Davenport, FL 33897"
+    "address": "236 Dolcetto Dr  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "505317363",
     "name": "HealthyandWealthyHome",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 513-2125",
-    "address": "street: 3536 Lori Ln N location: Lakeland, FL 33801"
+    "address": "3536 Lori Ln N  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "573859710",
-    "name": "Shed Marketer",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(800) 939-7410",
-    "address": "street: 314 N Kentucky Ave location: Lakeland, FL 33801"
-  },
-  {
-    "dataYpid": "505068566",
     "name": "Vicente Lara Graphics",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 877-9720",
-    "address": "street: 210 E Central Ave location: Winter Haven, FL 33880"
+    "address": "210 E Central Ave  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "520695648",
     "name": "Theeducation Central",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 680-6699",
-    "address": "street: 111 Lake Hollingsworth Dr location: Lakeland, FL 33801"
+    "address": "111 Lake Hollingsworth Dr  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "475035399",
     "name": "N G P World Wide",
     "description": "Marketing Consultants",
     "phone": "(863) 229-5931",
-    "address": "street: 1660 Seminole Ave location: Auburndale, FL 33823"
+    "address": "1660 Seminole Ave  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "559481220",
-    "name": "Firefly Digital Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(863) 777-2244",
-    "address": "street: 2539 Ladoga Dr location: Lakeland, FL 33805"
-  },
-  {
-    "dataYpid": "495638163",
     "name": "Sunbelt Worksite Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(863) 967-4986",
-    "address": "street: 1025 Berkley Rd location: Auburndale, FL 33823"
+    "address": "1025 Berkley Rd  Auburndale, FL 33823",
+    "location": "Polk"
   },
   {
-    "dataYpid": "1599906",
     "name": "Dalton Sales Inc",
     "description": "Marketing Consultants",
     "phone": "(863) 666-5057",
-    "address": "street: 2833 Us Highway 92 E location: Lakeland, FL 33801"
+    "address": "2833 Us Highway 92 E  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "544934217",
     "name": "Oley Power Marketing",
     "description": "Marketing Consultants",
     "phone": "(863) 353-5951",
-    "address": "street: 138 Huarez Ct location: Davenport, FL 33896"
+    "address": "138 Huarez Ct  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "525875812",
     "name": "Haines Marketing Group",
     "description": "Graphic Designers",
     "phone": "(863) 333-5301",
-    "address": "street: 1125 Bartow Rd Ste 302 location: Lakeland, FL 33801"
+    "address": "1125 Bartow Rd Ste 302  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "573177922",
     "name": "KDM Creative Studio",
     "description": "Graphic Designers",
     "phone": "(863) 280-6118",
-    "address": "street: 245 W Central Ave location: Winter Haven, FL 33880"
+    "address": "245 W Central Ave  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "497434269",
     "name": "Target Marketing Associates, Inc.",
     "description": "Product Design, Development & Marketing",
     "phone": "(863) 294-9900",
-    "address": "street: 20 3rd St SW Ste 308 location: Winter Haven, FL 33880"
+    "address": "20 3rd St SW Ste 308  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "470052412",
     "name": "Arturi Consulting",
     "description": "Business Coaches & Consultants",
     "phone": "(863) 937-8966",
-    "address": "street: 120 E Pine St Ste 2 location: Lakeland, FL 33801"
+    "address": "120 E Pine St Ste 2  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "548647551",
     "name": "Logos Marketing",
     "description": "Marketing Consultants",
     "phone": "(863) 940-4327",
-    "address": "street: 120 E Pine St location: Lakeland, FL 33801"
+    "address": "120 E Pine St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "563796014",
     "name": "Black Oak Creative",
     "description": "Marketing Consultants",
     "phone": "(863) 289-8714",
-    "address": "street: 332 Avenue B SW location: Winter Haven, FL 33880"
+    "address": "332 Avenue B SW  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "571997970",
     "name": "Legal Expert Connections Inc",
     "description": "Marketing Consultants",
     "phone": "(561) 266-1030",
-    "address": "street: 122 E Main St location: Lakeland, FL 33801"
+    "address": "122 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
   },
   {
-    "dataYpid": "22716151",
     "name": "Town Center Lp",
     "description": "Marketing Consultants",
     "phone": "(863) 424-2381",
-    "address": "street: 901 Charo Pkwy location: Davenport, FL 33897"
+    "address": "901 Charo Pkwy  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "453950798",
     "name": "Monroe Marketing Design. LLC",
     "description": "Marketing Programs & Services",
     "phone": "(863) 288-8118",
-    "address": "street: 128 Terrace Dr Apt 3 location: Haines City, FL 33844"
+    "address": "128 Terrace Dr Apt 3  Haines City, FL 33844",
+    "location": "Polk"
   },
   {
-    "dataYpid": "561572520",
     "name": "SouthState Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(863) 293-4710",
-    "address": "street: 1101 1st St S location: Winter Haven, FL 33880"
+    "address": "1101 1st St S  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "531136789",
     "name": "Marketing Your Business",
     "description": "Marketing Programs & Services",
     "phone": "(863) 424-7838",
-    "address": "street: 105 Secluded Oak Ct location: Davenport, FL 33896"
+    "address": "105 Secluded Oak Ct  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "4840499",
     "name": "Atlantic Coast Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(863) 606-0233",
-    "address": "street: 2033 E Edgewood Dr location: Lakeland, FL 33803"
+    "address": "2033 E Edgewood Dr  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "546219933",
     "name": "Partner Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(863) 295-9118",
-    "address": "street: 4930 Dundee Rd location: Winter Haven, FL 33884"
+    "address": "4930 Dundee Rd  Winter Haven, FL 33884",
+    "location": "Polk"
   },
   {
-    "dataYpid": "573384254",
     "name": "Global Marketin G Services",
     "description": "Marketing Programs & Services",
     "phone": "(407) 507-5634",
-    "address": "street: 7822 W Irlo Bronson Memorial Hwy location: Kissimmee, FL 34747"
+    "address": "7822 W Irlo Bronson Memorial Hwy  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "6030415",
     "name": "Tempus International Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 390-0216",
-    "address": "street: 7769 W Irlo Bronson Memorial Hwy location: Kissimmee, FL 34747"
+    "address": "7769 W Irlo Bronson Memorial Hwy  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "14603842",
     "name": "Orange Lake Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 396-1116",
-    "address": "street: 7675 W Irlo Bronson Memorial Hwy location: Kissimmee, FL 34747"
+    "address": "7675 W Irlo Bronson Memorial Hwy  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "170265",
     "name": "Atco Parts",
     "description": "Marketing Programs & Services",
     "phone": "(863) 603-9595",
-    "address": "street: 309 Patten Heights St location: Lakeland, FL 33803"
+    "address": "309 Patten Heights St  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "465709771",
     "name": "The Fearn Partnership",
     "description": "Marketing Programs & Services",
     "phone": "(863) 682-8250",
-    "address": "street: 1804 S Florida Ave location: Lakeland, FL 33803"
+    "address": "1804 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "567006541",
     "name": "FusionZONE Automotive",
     "description": "Marketing Programs & Services",
     "phone": "(888) 576-1136",
-    "address": "street: 1643 Williamsburg Sq location: Lakeland, FL 33803"
+    "address": "1643 Williamsburg Sq  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "570756548",
     "name": "Lead Revenue",
     "description": "Marketing Programs & Services",
     "phone": "(888) 863-2848",
-    "address": "street: 1643 Williamsburg Sq location: Lakeland, FL 33803"
+    "address": "1643 Williamsburg Sq  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "531019154",
     "name": "Blue Berg Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(850) 774-2218",
-    "address": "street: 16340 Cagan Oaks location: Clermont, FL 34714"
+    "address": "16340 Cagan Oaks  Clermont, FL 34714",
+    "location": "Polk"
   },
   {
-    "dataYpid": "464521815",
     "name": "Premier Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(352) 404-9884",
-    "address": "street: 2110 US Highway 27 location: Clermont, FL 34714"
+    "address": "2110 US Highway 27  Clermont, FL 34714",
+    "location": "Polk"
   },
   {
-    "dataYpid": "541243251",
     "name": "V MARKETING EDGE CORP",
     "description": "Marketing Programs & Services",
     "phone": "(407) 823-7560",
-    "address": "street: 1420 Celebration Blvd #200 location: Celebration, FL 34747"
+    "address": "1420 Celebration Blvd #200  Celebration, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "503865386",
     "name": "Web Design of Lakeland by Brandtastic",
     "description": "Marketing Programs & Services",
     "phone": "(863) 271-7975",
-    "address": "street: 1643 Williamsburg Sq location: Lakeland, FL 33803"
+    "address": "1643 Williamsburg Sq  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "530122381",
     "name": "Minuteman Press",
     "description": "Marketing Programs & Services",
     "phone": "(863) 337-6670",
-    "address": "street: 2058 E Edgewood Dr Ste C location: Lakeland, FL 33803"
+    "address": "2058 E Edgewood Dr Ste C  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "568338872",
     "name": "Lakay Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(877) 852-2276",
-    "address": "street: 332 Avenue BSW Suite 200-18 location: Winter Haven, FL 33880"
+    "address": "332 Avenue BSW Suite 200-18  Winter Haven, FL 33880",
+    "location": "Polk"
   },
   {
-    "dataYpid": "521806401",
     "name": "Set-Apart Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 734-0158",
-    "address": "street: 16401 Nelson Park DR location: Clermont, FL 34714"
+    "address": "16401 Nelson Park DR  Clermont, FL 34714",
+    "location": "Polk"
   },
   {
-    "dataYpid": "573988117",
     "name": "Zurda Group",
     "description": "Marketing Programs & Services",
     "phone": "(855) 948-2672",
-    "address": "street: 1000 Castle Pines Ct location: Reunion, FL 34747"
+    "address": "1000 Castle Pines Ct  Reunion, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "505297989",
     "name": "Lance Whipple Realtor",
     "description": "Real Estate Buyer Brokers",
     "phone": "(407) 494-6030",
-    "address": "street: 7940 Lake Wilson Rd location: Davenport, FL 33896"
+    "address": "7940 Lake Wilson Rd  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "461916569",
     "name": "LocalNet360",
     "description": "Directory & Guide Advertising",
     "phone": "(888) 304-4060",
-    "address": "street: 7862 W Irlo Bronson Memorial Hwy # 309 location: Kissimmee, FL 34747"
+    "address": "7862 W Irlo Bronson Memorial Hwy # 309  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "543972944",
     "name": "Advantage Solutions",
     "description": "Food Products-Wholesale",
     "phone": "(863) 648-1881",
-    "address": "street: 2525 Drane Field Rd location: Lakeland, FL 33811"
+    "address": "2525 Drane Field Rd  Lakeland, FL 33811",
+    "location": "Polk"
   },
   {
-    "dataYpid": "505530769",
     "name": "Cove Concepts",
     "description": "Data Processing Service",
     "phone": "(321) 200-3311",
-    "address": "street: 1507 Blue Horizon Dr location: Clermont, FL 34714"
+    "address": "1507 Blue Horizon Dr  Clermont, FL 34714",
+    "location": "Polk"
   },
   {
-    "dataYpid": "468271926",
     "name": "Newvision Mktings-Central Florida",
     "description": "Direct Marketing Services",
     "phone": "(863) 242-2443",
-    "address": "street: 735 Riggs Cir location: Davenport, FL 33897"
+    "address": "735 Riggs Cir  Davenport, FL 33897",
+    "location": "Polk"
   },
   {
-    "dataYpid": "455569970",
     "name": "Blackmon Roberts Group Inc",
     "description": "Market Research & Analysis",
     "phone": "(863) 802-1280",
-    "address": "street: 902 S Florida Ave Ste 205 location: Lakeland, FL 33803"
+    "address": "902 S Florida Ave Ste 205  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "28627385",
     "name": "Evidence-Based Health Solutions",
     "description": "Market Research & Analysis",
     "phone": "(863) 877-0122",
-    "address": "street: 303 Bowen Rd location: Davenport, FL 33837"
+    "address": "303 Bowen Rd  Davenport, FL 33837",
+    "location": "Polk"
   },
   {
-    "dataYpid": "469569356",
     "name": "American Directions Group",
     "description": "Market Research & Analysis",
     "phone": "(863) 709-0553",
-    "address": "street: 2525 Drane Field Rd location: Lakeland, FL 33811"
+    "address": "2525 Drane Field Rd  Lakeland, FL 33811",
+    "location": "Polk"
   },
   {
-    "dataYpid": "473586045",
     "name": "DesignBuddy's",
     "description": "Web Site Hosting",
     "phone": "(407) 625-6649",
-    "address": "street: 1205 Bella Cara Ct location: Davenport, FL 33896"
+    "address": "1205 Bella Cara Ct  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "551720378",
     "name": "Ynivka.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(234) 249-4338",
-    "address": "street: 700 N Highway 17 242 location: Eagle Lake, FL 33839"
+    "address": "700 N Highway 17 242  Eagle Lake, FL 33839",
+    "location": "Polk"
   },
   {
-    "dataYpid": "559591671",
     "name": "Witincreaser.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(863) 204-4612",
-    "address": "street: 204 Robbins Rest Cir location: Davenport, FL 33896"
+    "address": "204 Robbins Rest Cir  Davenport, FL 33896",
+    "location": "Polk"
   },
   {
-    "dataYpid": "566301648",
     "name": "Letteredcandy.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 247-6444",
-    "address": "street: Celebration Est location: Kissimmee, FL 34747"
+    "address": "Celebration Est  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "11601973",
     "name": "Best Marketing And Media Co",
     "description": "Marketing Consultants",
     "phone": "(863) 682-2225",
-    "address": "street: 704 N Brunnell Pkwy location: Lakeland, FL 33815"
+    "address": "704 N Brunnell Pkwy  Lakeland, FL 33815",
+    "location": "Polk"
   },
   {
-    "dataYpid": "475273386",
     "name": "Helping Hand Marketing",
     "description": "Marketing Consultants",
     "phone": "(863) 937-8930",
-    "address": "street: 1005 S Florida Ave location: Lakeland, FL 33803"
+    "address": "1005 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "5268528",
     "name": "Satellite Prolink Inc",
     "description": "Marketing Consultants",
     "phone": "(863) 606-0200",
-    "address": "street: 2905 Winter Lake Rd location: Lakeland, FL 33803"
+    "address": "2905 Winter Lake Rd  Lakeland, FL 33803",
+    "location": "Polk"
   },
   {
-    "dataYpid": "560828509",
     "name": "Techanic Digital Marketing",
     "description": "Marketing Consultants",
     "phone": "(863) 602-0152",
-    "address": "street: 4750 Rushing Rd location: Lakeland, FL 33810"
+    "address": "4750 Rushing Rd  Lakeland, FL 33810",
+    "location": "Polk"
   },
   {
-    "dataYpid": "9318417",
     "name": "R.L. Hammette",
     "description": "Advertising Specialties",
     "phone": "(863) 299-3901",
-    "address": "street: 1625 N US Highway 17 location: Eagle Lake, FL 33839"
+    "address": "1625 N US Highway 17  Eagle Lake, FL 33839",
+    "location": "Polk"
   },
   {
-    "dataYpid": "4637753",
     "name": "New Information Inc",
     "description": "Marketing Consultants",
     "phone": "(863) 318-0464",
-    "address": "street: 302 Martinique Dr location: Winter Haven, FL 33884"
+    "address": "302 Martinique Dr  Winter Haven, FL 33884",
+    "location": "Polk"
   },
   {
-    "dataYpid": "458750625",
     "name": "Growers Marketing Service Inc",
     "description": "Marketing Consultants",
     "phone": "(863) 644-2037",
-    "address": "street: 3825 S Florida Ave location: Lakeland, FL 33813"
+    "address": "3825 S Florida Ave  Lakeland, FL 33813",
+    "location": "Polk"
   },
   {
-    "dataYpid": "15491763",
     "name": "Pate Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(863) 701-2575",
-    "address": "street: 2525 Drane Field Rd location: Lakeland, FL 33811"
+    "address": "2525 Drane Field Rd  Lakeland, FL 33811",
+    "location": "Polk"
   },
   {
-    "dataYpid": "459323428",
     "name": "Tri -Venture Marketing Inc",
     "description": "Food Products-Wholesale",
     "phone": "(863) 648-1881",
-    "address": "street: 2525 Drane Field Rd location: Lakeland, FL 33811"
+    "address": "2525 Drane Field Rd  Lakeland, FL 33811",
+    "location": "Polk"
   },
   {
-    "dataYpid": "17243497",
     "name": "B & B Marketing",
     "description": "Marketing Consultants",
     "phone": "(352) 394-1161",
-    "address": "street: 1011 US Highway 27 location: Clermont, FL 34714"
+    "address": "1011 US Highway 27  Clermont, FL 34714",
+    "location": "Polk"
   },
   {
-    "dataYpid": "17243155",
     "name": "Millennium Marketing Of Central Florida Inc",
     "description": "Marketing Consultants",
     "phone": "(407) 397-2010",
-    "address": "street: 8905 Legacy Ct location: Kissimmee, FL 34747"
+    "address": "8905 Legacy Ct  Kissimmee, FL 34747",
+    "location": "Polk"
   },
   {
-    "dataYpid": "451206636",
     "name": "Island One Resorts",
     "description": "Marketing Consultants",
     "phone": "(407) 239-8811",
-    "address": "street: 17777 Bali Blvd location: Winter Garden, FL 34787"
+    "address": "17777 Bali Blvd  Winter Garden, FL 34787",
+    "location": "Polk"
   }
 ]

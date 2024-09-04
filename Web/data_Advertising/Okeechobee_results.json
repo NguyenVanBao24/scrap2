@@ -1,86 +1,44 @@
 [
   {
-    "dataYpid": "17293267",
-    "name": "Proart Advertising Studio - CLOSED",
-    "description": "N/A",
-    "phone": "N/A",
-    "address": "street: 1963 US Highway 98 N location: Okeechobee, FL 34972"
-  },
-  {
-    "dataYpid": "576174623",
     "name": "Digitek Advertising",
     "description": "Marketing Programs & Services",
     "phone": "(772) 444-7005",
-    "address": "street: Castinet Ln location: Port Saint Lucie, FL 34953"
+    "address": " Castinet Ln  Port Saint Lucie, FL 34953",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "464162909",
     "name": "Our Hometown Advertising",
     "description": "Advertising Specialties",
     "phone": "(772) 785-9558",
-    "address": "street: 105 SE Castana Ct location: Port Saint Lucie, FL 34983"
+    "address": " 105 SE Castana Ct  Port Saint Lucie, FL 34983",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "13639098",
-    "name": "Anything Advertising",
-    "description": "Advertising Specialties",
-    "phone": "(772) 336-8527",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "7277893",
-    "name": "Anise McGarity Advertising & Flag Co",
-    "description": "Banners, Flags & Pennants",
-    "phone": "(772) 465-3350",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "480750932",
     "name": "Chris R Anicich Advertising",
     "description": "Internet Consultants",
     "phone": "(772) 571-6306",
-    "address": "street: 386 SW Twig Ave location: Port Saint Lucie, FL 34983"
+    "address": " 386 SW Twig Ave  Port Saint Lucie, FL 34983",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "497047240",
     "name": "Tas Advertising",
     "description": "Advertising Agencies",
     "phone": "(772) 489-2502",
-    "address": "street: 400 Torpey Rd location: Fort Pierce, FL 34946"
+    "address": " 400 Torpey Rd  Fort Pierce, FL 34946",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "551268543",
     "name": "Dr.one Aerial Photography",
     "description": "Wedding Photography & Videography",
     "phone": "(772) 353-4931",
-    "address": "street: 1498 SW Hunnicut Ave location: Port Saint Lucie, FL 34953"
+    "address": " 1498 SW Hunnicut Ave  Port Saint Lucie, FL 34953",
+    "location": "Okeechobee"
   },
   {
-    "dataYpid": "542297979",
     "name": "Glomaster Sign Co. Inc.",
     "description": "Outdoor Advertising",
     "phone": "(772) 242-4317",
-    "address": "street: 2527 Okeechobee Rd location: Fort Pierce, FL 34947"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "546974868",
-    "name": "Banner Marketing Group",
-    "description": "Flags, Flagpoles & Accessories",
-    "phone": "(805) 528-5018",
-    "address": "street: N/A location: N/A"
+    "address": " 2527 Okeechobee Rd  Fort Pierce, FL 34947",
+    "location": "Okeechobee"
   }
 ]

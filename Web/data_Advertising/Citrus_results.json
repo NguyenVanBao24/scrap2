@@ -1,219 +1,121 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21517320",
-    "name": "McKesson Corp",
-    "description": "Advertising Agencies",
-    "phone": "(352) 732-7008",
-    "address": "street: N/A location: Ocala, FL 34470"
-  },
-  {
-    "dataYpid": "21688886",
-    "name": "Text-King",
-    "description": "Advertising Agencies",
-    "phone": "(352) 537-0475",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "19623350",
-    "name": "Z Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(352) 622-1124",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467103599",
-    "name": "Bright Green Path Web Solutions",
-    "description": "Web Site Design & Services",
-    "phone": "(352) 362-8197",
-    "address": "street: N/A location: Silver Springs, FL 34488"
-  },
-  {
-    "dataYpid": "519790771",
     "name": "SP Web Solution(USA)",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 781-1130",
-    "address": "street: Po Box 32686 location: Reddick, FL 32686"
+    "address": " Po Box 32686  Reddick, FL 32686",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "475544216",
     "name": "Alpha2omega Business",
     "description": "Internet Marketing & Advertising",
     "phone": "(786) 205-4613",
-    "address": "street: NORTH-CENTRAL Fl location: Ocala, FL 34480"
+    "address": " NORTH-CENTRAL Fl  Ocala, FL 34480",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "18727699",
     "name": "WJ Distribution",
     "description": "Advertising Specialties",
     "phone": "(352) 591-2266",
-    "address": "street: 15398 NW 44th Avenue Rd location: Reddick, FL 32686"
+    "address": " 15398 NW 44th Avenue Rd  Reddick, FL 32686",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "2782527",
-    "name": "Mail Sort",
-    "description": "Mail & Shipping Services",
-    "phone": "(352) 620-5165",
-    "address": "street: N/A location: Ocala, FL 34474"
-  },
-  {
-    "dataYpid": "466225914",
-    "name": "PNS Internet Marketing & Web Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(352) 693-5067",
-    "address": "street: N/A location: Ocala, FL 34473"
-  },
-  {
-    "dataYpid": "575615748",
-    "name": "Pinnacle Growth Solutions",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(352) 480-8565",
-    "address": "street: N/A location: Belleview, FL 34420"
-  },
-  {
-    "dataYpid": "462617407",
-    "name": "Uneek Products",
-    "description": "Printing Services-Commercial",
-    "phone": "(352) 569-4317",
-    "address": "street: N/A location: Lake Panasoffkee, FL 33538"
-  },
-  {
-    "dataYpid": "574569563",
-    "name": "Heather Lenemier Graphic Artist",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(352) 615-1350",
-    "address": "street: N/A location: Ocala, FL 34471"
-  },
-  {
-    "dataYpid": "22842655",
-    "name": "1 Americas Promotions Custom Promotional Products and Promo Items",
-    "description": "T-Shirts",
-    "phone": "(352) 390-2209",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "13272249",
-    "name": "Augie's Towing",
-    "description": "Graphic Designers",
-    "phone": "(352) 867-7500",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "6958492",
     "name": "Lamar Outdoor Advertising",
     "description": "Advertising Agencies",
     "phone": "(352) 351-2345",
-    "address": "street: 2065 NW 57th St location: Ocala, FL 34475"
+    "address": " 2065 NW 57th St  Ocala, FL 34475",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "451702015",
     "name": "Bruce Merton Consulting",
     "description": "Advertising Agencies",
     "phone": "(352) 427-6247",
-    "address": "street: 1402 NE 51st Loop location: Ocala, FL 34479"
+    "address": " 1402 NE 51st Loop  Ocala, FL 34479",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "10956496",
     "name": "Drawn By The Light Inc",
     "description": "Advertising Agencies",
     "phone": "(352) 694-2178",
-    "address": "street: 3215 NE 49th St location: Ocala, FL 34479"
+    "address": " 3215 NE 49th St  Ocala, FL 34479",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "464429900",
     "name": "William B Faircloth Advg",
     "description": "Advertising Agencies",
     "phone": "(352) 351-8319",
-    "address": "street: 5187 NW 62nd Pl location: Ocala, FL 34482"
+    "address": " 5187 NW 62nd Pl  Ocala, FL 34482",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "14174349",
     "name": "Capstone Enterprises Inc",
     "description": "Advertising Agencies",
     "phone": "(352) 622-3311",
-    "address": "street: 3170 NW 100th St location: Ocala, FL 34475"
+    "address": " 3170 NW 100th St  Ocala, FL 34475",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "533544895",
     "name": "Redesigned Web",
     "description": "Advertising Agencies",
     "phone": "(352) 282-2615",
-    "address": "street: 3760 NE 28th Ter location: Ocala, FL 34479"
+    "address": " 3760 NE 28th Ter  Ocala, FL 34479",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "28729596",
     "name": "PMS Signs",
     "description": "Signs",
     "phone": "(352) 572-7906",
-    "address": "street: 7999 NW 60th Ave location: Ocala, FL 34482"
+    "address": " 7999 NW 60th Ave  Ocala, FL 34482",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "542650284",
     "name": "Restaurantsinocala.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 481-2114",
-    "address": "street: 15008 SE Us Highway 301 location: Hawthorne, FL 32640"
+    "address": " 15008 SE Us Highway 301  Hawthorne, FL 32640",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "475483494",
     "name": "Ocala OnLine Business Solutions",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 207-2463",
-    "address": "street: 4445 NE 3rd Ct location: Ocala, FL 34479"
+    "address": " 4445 NE 3rd Ct  Ocala, FL 34479",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "649635",
     "name": "Gene Glover Signs",
     "description": "Signs",
     "phone": "(352) 804-2778",
-    "address": "street: 12830 NW Highway 225A location: Reddick, FL 32686"
+    "address": " 12830 NW Highway 225A  Reddick, FL 32686",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "464495970",
     "name": "Signsfast Of Ocala",
     "description": "Signs",
     "phone": "(352) 433-2722",
-    "address": "street: 4722 NW Gainesville Rd location: Ocala, FL 34475"
+    "address": " 4722 NW Gainesville Rd  Ocala, FL 34475",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "7749272",
     "name": "PIP Printing",
     "description": "Advertising Agencies",
     "phone": "(352) 352-1132",
-    "address": "street: 11 Southwest 1st Avenue location: Ocala, FL 34471"
+    "address": " 11 Southwest 1st Avenue  Ocala, FL 34471",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "457391981",
     "name": "Pete Peterson Signs Inc",
     "description": "Signs",
     "phone": "(352) 625-2307",
-    "address": "street: 11094 NE Highway 314 location: Silver Springs, FL 34488"
+    "address": " 11094 NE Highway 314  Silver Springs, FL 34488",
+    "location": "Citrus"
   },
   {
-    "dataYpid": "533623776",
     "name": "Jmaw Designs",
     "description": "Signs",
     "phone": "(386) 983-0378",
-    "address": "street: 189 E Cowpen Lake Rd location: Hawthorne, FL 32640"
-  },
-  {
-    "dataYpid": "467362967",
-    "name": "Gene Glover Signs",
-    "description": "Advertising Specialties",
-    "phone": "(352) 351-0398",
-    "address": "street: 8797 W Highway 326 location: Ocala, FL 34482"
+    "address": " 189 E Cowpen Lake Rd  Hawthorne, FL 32640",
+    "location": "Citrus"
   }
 ]

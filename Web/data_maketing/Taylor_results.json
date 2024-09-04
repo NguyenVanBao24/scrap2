@@ -1,632 +1,478 @@
 [
   {
-    "dataYpid": "464675545",
     "name": "Cns Marketing Advertising Promotion",
     "description": "Marketing Programs & Services",
     "phone": "(786) 312-1067",
-    "address": "street: 13051 NW 7th Ave location: North Miami, FL 33168"
+    "address": "13051 NW 7th Ave  North Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "473945041",
     "name": "Advertise In Miami For Free",
     "description": "Marketing Programs & Services",
     "phone": "(305) 654-9370",
-    "address": "street: 192 NE 111th St location: Miami, FL 33161"
+    "address": "192 NE 111th St  Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "538362446",
-    "name": "Develop the Biz",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 326-0515",
-    "address": "street: N/A location: Miami, FL 33173"
-  },
-  {
-    "dataYpid": "480073157",
     "name": "C N S Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 685-0091",
-    "address": "street: 14815 NW 11th Ave location: Miami, FL 33168"
+    "address": "14815 NW 11th Ave  Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "522133811",
     "name": "Ultimate Software Solution",
     "description": "Marketing Programs & Services",
     "phone": "(305) 688-6258",
-    "address": "street: 745 NW 107th St location: Miami, FL 33168"
+    "address": "745 NW 107th St  Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "6703581",
     "name": "Usg International",
     "description": "Marketing Programs & Services",
     "phone": "(305) 688-5228",
-    "address": "street: 3001 NW 125th St location: Miami, FL 33167"
+    "address": "3001 NW 125th St  Miami, FL 33167",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "472216038",
     "name": "Remarketing Solutions International",
     "description": "Marketing Programs & Services",
     "phone": "(305) 623-1188",
-    "address": "street: 1098 NW 159th Dr location: Miami, FL 33169"
+    "address": "1098 NW 159th Dr  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "31201797",
     "name": "Document Imaging in Miami",
     "description": "Marketing Programs & Services",
     "phone": "(954) 858-5752",
-    "address": "street: Miami FL location: Miami, FL 33173"
+    "address": "Miami FL  Miami, FL 33173",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "458498605",
-    "name": "Sticky Starfish, Inc.",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 705-3133",
-    "address": "street: N/A location: Miami, FL 33169"
-  },
-  {
-    "dataYpid": "465269577",
-    "name": "COLLEEN ZIELSKI CONSULTING",
-    "description": "Marketing Programs & Services",
-    "phone": "(561) 596-8878",
-    "address": "street: N/A location: Miami, FL 33133"
-  },
-  {
-    "dataYpid": "474728416",
-    "name": "Effective Marketing and Promotions , Inc.",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 975-6266",
-    "address": "street: N/A location: Miami, FL 33193"
-  },
-  {
-    "dataYpid": "481473825",
-    "name": "G.R.F. Solutions, Corp.",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 546-1236",
-    "address": "street: N/A location: Miami, FL 33186"
-  },
-  {
-    "dataYpid": "481506065",
-    "name": "See Ya Group",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 708-1792",
-    "address": "street: N/A location: Miami, FL 33166"
-  },
-  {
-    "dataYpid": "504688740",
-    "name": "Design House",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 456-7253",
-    "address": "street: N/A location: Coral Gables, FL 33134"
-  },
-  {
-    "dataYpid": "523506709",
     "name": "Circle of One Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 576-3790",
-    "address": "street: 38 NW 105th St location: Miami Shores, FL 33150"
+    "address": "38 NW 105th St  Miami Shores, FL 33150",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465208287",
-    "name": "Daily Cash Dollars",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 267-3857",
-    "address": "street: N/A location: Hialeah, FL 33015"
-  },
-  {
-    "dataYpid": "468651414",
-    "name": "TheStephConcept",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 281-6682",
-    "address": "street: N/A location: Palmetto Bay, FL 33157"
-  },
-  {
-    "dataYpid": "483314567",
-    "name": "Posh Smart Designs",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 615-1175",
-    "address": "street: N/A location: South Miami, FL 33143"
-  },
-  {
-    "dataYpid": "461823108",
-    "name": "EMC Marketing & Advertising, Inc",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 663-9813",
-    "address": "street: N/A location: Hialeah, FL 33018"
-  },
-  {
-    "dataYpid": "532696714",
-    "name": "Somos Defensores USA",
-    "description": "Marketing Programs & Services",
-    "phone": "(866) 477-3972",
-    "address": "street: N/A location: Doral, FL 33166"
-  },
-  {
-    "dataYpid": "18972572",
-    "name": "Results Marketing Services Corp.",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 761-6133",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22362059",
-    "name": "Exclusive Marketing Corp",
-    "description": "Marketing Programs & Services",
-    "phone": "(786) 329-3416",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "460622985",
-    "name": "Buzz Factor LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 746-5952",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "519647714",
-    "name": "CoticeFacil.com",
-    "description": "Marketing Programs & Services",
-    "phone": "(571) 402-9016",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "528144208",
-    "name": "Lighthouse Internet Media",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 389-8955",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22163636",
-    "name": "I did it You can too",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 975-5596",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22164704",
-    "name": "Global Gifting System",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 386-0020",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22852096",
-    "name": "Nexus Creative Group",
-    "description": "Marketing Programs & Services",
-    "phone": "(305) 323-0238",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "253112",
-    "name": "Mario Garita Co",
-    "description": "Marketing Programs & Services",
-    "phone": "(408) 556-9791",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "533934270",
     "name": "Wise Pro Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(305) 340-4970",
-    "address": "street: 2467 NW 102nd St location: Miami, FL 33147"
+    "address": "2467 NW 102nd St  Miami, FL 33147",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464872138",
     "name": "United International Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 620-9597",
-    "address": "street: 1405 NW 167th St location: Miami, FL 33169"
+    "address": "1405 NW 167th St  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "480214914",
     "name": "Marketing Global Brand Corp",
     "description": "Marketing Programs & Services",
     "phone": "(786) 802-3159",
-    "address": "street: 16717 Park Centre Blvd location: Miami, FL 33169"
+    "address": "16717 Park Centre Blvd  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "460749673",
     "name": "MGB Corp",
     "description": "Marketing Programs & Services",
     "phone": "(305) 620-2810",
-    "address": "street: 1015 Park Centre Blvd location: Miami, FL 33169"
+    "address": "1015 Park Centre Blvd  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "6384289",
     "name": "Marketing Global",
     "description": "Marketing Programs & Services",
     "phone": "(305) 620-2810",
-    "address": "street: 1015 Park Centre Blvd location: Miami, FL 33169"
+    "address": "1015 Park Centre Blvd  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "484967727",
     "name": "Meel Corp",
     "description": "Marketing Programs & Services",
     "phone": "(305) 688-9199",
-    "address": "street: 11151 NW 36th Ave location: Miami, FL 33167"
+    "address": "11151 NW 36th Ave  Miami, FL 33167",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "534638625",
     "name": "Demir Group International, Inc",
     "description": "Marketing Programs & Services",
     "phone": "(305) 456-7585",
-    "address": "street: 10800 Biscayne Blvd location: Miami, FL 33161"
+    "address": "10800 Biscayne Blvd  Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "530680239",
     "name": "Mrkt",
     "description": "Marketing Programs & Services",
     "phone": "(305) 572-1800",
-    "address": "street: 8325 NE 2nd Ave location: Miami, FL 33138"
+    "address": "8325 NE 2nd Ave  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "569844590",
     "name": "OptFirst Internet Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 428-2539",
-    "address": "street: 620-1 Northeast 126th Street location: North Miami, FL 33161"
+    "address": "620-1 Northeast 126th Street  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "11804591",
     "name": "Bioquina Corp",
     "description": "Marketing Programs & Services",
     "phone": "(305) 893-2303",
-    "address": "street: 1073 NE 125th St location: North Miami, FL 33161"
+    "address": "1073 NE 125th St  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "475549568",
     "name": "Nomi",
     "description": "Marketing Programs & Services",
     "phone": "(305) 892-7938",
-    "address": "street: 1125 NE 125th St location: North Miami, FL 33161"
+    "address": "1125 NE 125th St  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465693018",
     "name": "Mastermind Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(954) 274-3204",
-    "address": "street: 12355 NE 13th Ave location: North Miami, FL 33161"
+    "address": "12355 NE 13th Ave  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "19832551",
     "name": "MCF Management",
     "description": "Marketing Programs & Services",
     "phone": "(305) 396-3936",
-    "address": "street: 237 NE 168th Ter location: North Miami Beach, FL 33162"
+    "address": "237 NE 168th Ter  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "524614358",
     "name": "Modern Ways Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(305) 300-9798",
-    "address": "street: 16721 NE 6th Ave location: North Miami Beach, FL 33162"
+    "address": "16721 NE 6th Ave  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "14839715",
     "name": "Profitable Promotions from Home.",
     "description": "Marketing Programs & Services",
     "phone": "(404) 838-6848",
-    "address": "street: 18035 NW 8th Pl location: Miami, FL 33169"
+    "address": "18035 NW 8th Pl  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "545443410",
     "name": "Tortuga Leads",
     "description": "Marketing Programs & Services",
     "phone": "(305) 607-5404",
-    "address": "street: 4000 Towerside Terrace location: Miami, FL 33138"
+    "address": "4000 Towerside Terrace  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "546603787",
     "name": "BBM Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(786) 553-8828",
-    "address": "street: 8101 Biscayne Blvd location: Miami, FL 33138"
+    "address": "8101 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "570418480",
     "name": "Bosseo",
     "description": "Marketing Programs & Services",
     "phone": "(786) 244-2544",
-    "address": "street: 754 NE 81st St location: Miami, FL 33138"
+    "address": "754 NE 81st St  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "516345437",
     "name": "Extreme Advertising",
     "description": "Marketing Programs & Services",
     "phone": "(305) 761-1434",
-    "address": "street: 18730 NW 8th Ave location: Miami, FL 33169"
+    "address": "18730 NW 8th Ave  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "564535555",
     "name": "Gregory St. Fort",
     "description": "Marketing Programs & Services",
     "phone": "(754) 801-0361",
-    "address": "street: 1648 NE 158 St location: Miami, FL 33162"
+    "address": "1648 NE 158 St  Miami, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "548734089",
     "name": "Happy Head Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 981-0439",
-    "address": "street: 360 NE 75th St location: Miami, FL 33138"
+    "address": "360 NE 75th St  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "483308000",
     "name": "T3 - Global LLC",
     "description": "Marketing Programs & Services",
     "phone": "(305) 733-4206",
-    "address": "street: 19542 NW 7th Ct location: Miami, FL 33169"
+    "address": "19542 NW 7th Ct  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464579198",
     "name": "Dimark Solutions LLC",
     "description": "Marketing Programs & Services",
     "phone": "(305) 469-9392",
-    "address": "street: 12550 Biscayne Blvd Ste 409 location: North Miami, FL 33181"
+    "address": "12550 Biscayne Blvd Ste 409  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "478434208",
     "name": "M J M Global Service",
     "description": "Marketing Programs & Services",
     "phone": "(786) 362-5075",
-    "address": "street: 12550 Biscayne Blvd location: North Miami, FL 33181"
+    "address": "12550 Biscayne Blvd  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "497742813",
     "name": "Unique Marketing & Signage Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(786) 539-8444",
-    "address": "street: 660 E 58th St location: Hialeah, FL 33013"
+    "address": "660 E 58th St  Hialeah, FL 33013",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "503915041",
     "name": "Yuka Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(786) 657-2446",
-    "address": "street: 1815 NE 144th St location: North Miami, FL 33181"
+    "address": "1815 NE 144th St  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "512890862",
     "name": "Diverse Holdings Marketing & Medical",
     "description": "Marketing Programs & Services",
     "phone": "(786) 303-5065",
-    "address": "street: 13899 Biscayne Blvd location: North Miami Beach, FL 33181"
+    "address": "13899 Biscayne Blvd  North Miami Beach, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "504699309",
     "name": "Shemorbent Enterprise",
     "description": "Marketing Programs & Services",
     "phone": "(305) 354-9023",
-    "address": "street: 1767 NE 162nd St location: North Miami Beach, FL 33162"
+    "address": "1767 NE 162nd St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "473343055",
     "name": "Dpc Marketing Department",
     "description": "Marketing Programs & Services",
     "phone": "(305) 691-5963",
-    "address": "street: 1074 E 27th St location: Hialeah, FL 33013"
+    "address": "1074 E 27th St  Hialeah, FL 33013",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "503035807",
     "name": "CitizenUSA",
     "description": "Marketing Programs & Services",
     "phone": "(305) 895-8975",
-    "address": "street: 2350 Arch Creek Dr location: North Miami, FL 33181"
+    "address": "2350 Arch Creek Dr  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465175961",
     "name": "Happy Days Tours",
     "description": "Marketing Programs & Services",
     "phone": "(305) 384-6110",
-    "address": "street: 16300 NE 19th Ave location: North Miami Beach, FL 33162"
+    "address": "16300 NE 19th Ave  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "532343366",
     "name": "BNG BRANDING",
     "description": "Marketing Programs & Services",
     "phone": "(954) 734-4139",
-    "address": "street: 18725 NW 32nd Pl location: Miami Gardens, FL 33056"
+    "address": "18725 NW 32nd Pl  Miami Gardens, FL 33056",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "506678919",
     "name": "Milestones Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(305) 459-3320",
-    "address": "street: 1990 NE 163rd St location: North Miami Beach, FL 33162"
+    "address": "1990 NE 163rd St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "468530616",
     "name": "Lightning Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(786) 657-2953",
-    "address": "street: 2040 NE 163rd St location: North Miami Beach, FL 33162"
+    "address": "2040 NE 163rd St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "7128508",
     "name": "Dauerflora Usa Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(305) 654-0703",
-    "address": "street: 20725 NE 16th Ave location: Miami, FL 33179"
+    "address": "20725 NE 16th Ave  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "530627996",
     "name": "TropicExposure,LLC",
     "description": "Marketing Programs & Services",
     "phone": "(754) 300-0799",
-    "address": "street: 1301 NE Miami Gardens Dr Ph 1 location: Miami, FL 33179"
+    "address": "1301 NE Miami Gardens Dr Ph 1  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "468219549",
     "name": "Lex Promotions & Mktng Group",
     "description": "Marketing Programs & Services",
     "phone": "(305) 974-4568",
-    "address": "street: 190 NE 199th St location: Miami, FL 33179"
+    "address": "190 NE 199th St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "559333584",
     "name": "Rethinken",
     "description": "Marketing Programs & Services",
     "phone": "(646) 564-1503",
-    "address": "street: 294 NW 54th St location: Miami, FL 33127"
+    "address": "294 NW 54th St  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "545365917",
     "name": "Mauluna Total Marketing Solution",
     "description": "Marketing Programs & Services",
     "phone": "(954) 857-1314",
-    "address": "street: 5600 NE 4th Ave location: Miami, FL 33137"
+    "address": "5600 NE 4th Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "573213098",
     "name": "Screen Media Group | Digital Marketing Agency",
     "description": "Marketing Programs & Services",
     "phone": "(754) 300-0366",
-    "address": "street: 1835 NE Miami Gardens Dr # 299 location: Miami, FL 33179"
+    "address": "1835 NE Miami Gardens Dr # 299  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "3515257",
     "name": "C M Global Marketing Consultants",
     "description": "Marketing Programs & Services",
     "phone": "(888) 860-7620",
-    "address": "street: 1835 NE Miami Gardens Dr location: Miami, FL 33179"
+    "address": "1835 NE Miami Gardens Dr  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "532689064",
     "name": "Wrell Inc. - Website Design & Marketing Services",
     "description": "Marketing Programs & Services",
     "phone": "(305) 458-2459",
-    "address": "street: 1750 NE 191st St location: Miami, FL 33179"
+    "address": "1750 NE 191st St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "495884339",
     "name": "Instant Win Sweepstakes",
     "description": "Marketing Programs & Services",
     "phone": "(786) 348-1674",
-    "address": "street: 470 NE 210th Circle Ter location: Miami, FL 33179"
+    "address": "470 NE 210th Circle Ter  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "574399857",
     "name": "Capture Times",
     "description": "Marketing Programs & Services",
     "phone": "(833) 318-1940",
-    "address": "street: 2492 NW 44th St location: Miami, FL 33142"
+    "address": "2492 NW 44th St  Miami, FL 33142",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "559432478",
     "name": "Ai Disruptive Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(404) 454-2697",
-    "address": "street: 4120 NW 3rd Ave location: Miami, FL 33127"
+    "address": "4120 NW 3rd Ave  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "5045471",
     "name": "Momentum Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(305) 757-5894",
-    "address": "street: 1031 Ives Dairy Rd location: Miami, FL 33179"
+    "address": "1031 Ives Dairy Rd  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29582753",
     "name": "Sci E-Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(305) 651-9311",
-    "address": "street: 200 NE 212th St location: Miami, FL 33179"
+    "address": "200 NE 212th St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "519886466",
     "name": "Supermarket Creative",
     "description": "Marketing Programs & Services",
     "phone": "(305) 420-5110",
-    "address": "street: 45 NE 41st St location: Miami, FL 33137"
+    "address": "45 NE 41st St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "21088471",
     "name": "Prestige Promotions",
     "description": "Marketing Programs & Services",
     "phone": "(305) 956-5974",
-    "address": "street: 20259 NE 15th Ct location: Miami, FL 33179"
+    "address": "20259 NE 15th Ct  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "530480736",
     "name": "Seiko Coporation of America",
     "description": "Marketing Programs & Services",
     "phone": "(786) 360-6869",
-    "address": "street: 130 NE 40th St location: Miami, FL 33137"
+    "address": "130 NE 40th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "576294414",
     "name": "Convierte Mas",
     "description": "Marketing Programs & Services",
     "phone": "(757) 908-6472",
-    "address": "street: 3933 Biscayne Blvd location: Miami, FL 33137"
+    "address": "3933 Biscayne Blvd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "560962088",
     "name": "International Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(786) 584-0090",
-    "address": "street: 3635 NE 1st Ave location: Miami, FL 33137"
+    "address": "3635 NE 1st Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "549686",
     "name": "Estrategia Hispana",
     "description": "Marketing Programs & Services",
     "phone": "(786) 320-6877",
-    "address": "street: 20725 NE 16th Ave location: Miami, FL 33179"
+    "address": "20725 NE 16th Ave  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "572126730",
     "name": "Mattyofit",
     "description": "Marketing Programs & Services",
     "phone": "(786) 882-3821",
-    "address": "street: 601 NE 36th St location: Miami, FL 33137"
+    "address": "601 NE 36th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "562590305",
     "name": "Imagine 360 Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(212) 313-9616",
-    "address": "street: 3301 NE 1st Ave location: Miami, FL 33137"
+    "address": "3301 NE 1st Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "482603718",
     "name": "Kad Marketing Corp",
     "description": "Marketing Programs & Services",
     "phone": "(888) 312-4994",
-    "address": "street: 18851 NE 29th Ave Ste 700 location: Miami, FL 33180"
+    "address": "18851 NE 29th Ave Ste 700  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "28875850",
     "name": "Sell A Boat.com Inc",
     "description": "Marketing Programs & Services",
     "phone": "(305) 936-2489",
-    "address": "street: 2125 NE 204th St location: Miami, FL 33179"
+    "address": "2125 NE 204th St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465186879",
     "name": "Veritas Marketing and Distribution",
     "description": "Marketing Programs & Services",
     "phone": "(305) 636-5454",
-    "address": "street: 1561 NW 28th St location: Miami, FL 33142"
+    "address": "1561 NW 28th St  Miami, FL 33142",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "528909907",
     "name": "Agency Marketing Machine",
     "description": "Marketing Programs & Services",
     "phone": "(786) 322-4999",
-    "address": "street: 3050 Biscayne Blvd location: Miami, FL 33137"
+    "address": "3050 Biscayne Blvd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "460731649",
     "name": "Corpocall",
     "description": "Marketing Programs & Services",
     "phone": "(786) 427-6666",
-    "address": "street: 2999 NE 191st St location: Miami, FL 33180"
+    "address": "2999 NE 191st St  Miami, FL 33180",
+    "location": "Taylor"
   }
 ]

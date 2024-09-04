@@ -1,1550 +1,1360 @@
 [
   {
-    "name": "Bodycandy.com",
-    "description": "Clothing Stores",
-    "phone": "(877) 829-5191",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Forever Tiffany's",
-    "description": "Clothing Stores",
-    "phone": "(850) 791-5207",
-    "address": "street: N/A location: Pensacola, FL 32526"
-  },
-  {
     "name": "T.J.Maxx",
     "description": "Clothing Stores",
     "phone": "(850) 476-0333",
-    "address": "street: 6625 W Highway 98 location: Pensacola, FL 32506"
+    "address": "6625 W Highway 98  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Nearly Dead Threads",
     "description": "Clothing Stores",
     "phone": "(850) 748-5400",
-    "address": "street: 3731 A West Navy Blvd location: Pensacola, FL 32507"
-  },
-  {
-    "name": "Michael Snell Bespoke",
-    "description": "Clothing Stores",
-    "phone": "(844) 214-1911",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "JeepBase.com",
-    "description": "Clothing Stores",
-    "phone": "(855) 735-4697",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Avon Independent Representative",
-    "description": "Clothing Stores",
-    "phone": "(850) 291-8341",
-    "address": "street: N/A location: Milton, FL 32583"
-  },
-  {
-    "name": "AVON",
-    "description": "Clothing Stores",
-    "phone": "(850) 696-9877",
-    "address": "street: N/A location: Navarre, FL 32566"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Clothing Stores",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
+    "address": "3731 A West Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Tots Teens and In Betweens",
     "description": "Clothing Stores",
     "phone": "(850) 516-3781",
-    "address": "street: 1020 N New Warrington Rd location: Pensacola, FL 32506"
+    "address": "1020 N New Warrington Rd  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "ML Fashion Inc",
     "description": "Clothing Stores",
     "phone": "(850) 285-0617",
-    "address": "street: 4205 Lillian Hwy location: Pensacola, FL 32506"
+    "address": "4205 Lillian Hwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Don Alans Mens Clothing",
     "description": "Clothing Stores",
     "phone": "(850) 439-1762",
-    "address": "street: 401 S Palafox St location: Pensacola, FL 32502"
+    "address": "401 S Palafox St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Angela's All That and More",
     "description": "Clothing Stores",
     "phone": "(850) 586-8813",
-    "address": "street: 1607 Gary Ave location: Pensacola, FL 32505"
+    "address": "1607 Gary Ave  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Goddessglitz",
     "description": "Clothing Stores",
     "phone": "(850) 610-3053",
-    "address": "street: 8 Wisconsin Dr location: Pensacola, FL 32505"
+    "address": "8 Wisconsin Dr  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "CiCi Fashionista Closet",
     "description": "Clothing Stores",
     "phone": "(866) 727-9323",
-    "address": "street: 1820 N W St location: Pensacola, FL 32505"
+    "address": "1820 N W St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Oxford House Waltham",
     "description": "Clothing Stores",
     "phone": "(850) 857-8196",
-    "address": "street: 2111 Waltham St location: Pensacola, FL 32505"
+    "address": "2111 Waltham St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Vince.",
     "description": "Clothing Stores",
     "phone": "(850) 607-7105",
-    "address": "street: 403 S Palafox St location: Pensacola, FL 32502"
+    "address": "403 S Palafox St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "I Have Skills Inc",
     "description": "Clothing Stores",
     "phone": "(850) 791-6567",
-    "address": "street: 2704 W Avery St location: Pensacola, FL 32505"
+    "address": "2704 W Avery St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Jacqueline Britts Apparels",
     "description": "Clothing Stores",
     "phone": "(850) 456-3388",
-    "address": "street: 1102 Webster Dr location: Pensacola, FL 32505"
+    "address": "1102 Webster Dr  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "DD's Discounts",
     "description": "Clothing Stores",
     "phone": "(850) 438-2668",
-    "address": "street: 3300 N Pace Blvd location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Rainbow Shops",
     "description": "Clothing Stores",
     "phone": "(850) 439-0124",
-    "address": "street: 1821 W Fairfield Dr location: Pensacola, FL 32501"
+    "address": "1821 W Fairfield Dr  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "Melobay",
     "description": "Clothing Stores",
     "phone": "(850) 542-0010",
-    "address": "street: 34 N Palafox St location: Pensacola, FL 32502"
+    "address": "34 N Palafox St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Rockalillies",
     "description": "Clothing Stores",
     "phone": "(850) 454-7248",
-    "address": "street: 10085 N Loop Rd Lot 11 location: Pensacola, FL 32507"
+    "address": "10085 N Loop Rd Lot 11  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Citi Trends",
     "description": "Clothing Stores",
     "phone": "(850) 332-4011",
-    "address": "street: 3300 N Pace Blvd Ste 245 location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd Ste 245  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Toad Hall Antiques & Gifts",
     "description": "Clothing Stores",
     "phone": "(850) 542-7548",
-    "address": "street: 824 E Belmont St location: Pensacola, FL 32501"
+    "address": "824 E Belmont St  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "Dope Shopping Made Easy",
     "description": "Clothing Stores",
     "phone": "(877) 336-0121",
-    "address": "street: 2355 W. Michigan Ave Ste 2355 location: Pensacola, FL 32526"
+    "address": "2355 W. Michigan Ave Ste 2355  Pensacola, FL 32526",
+    "location": "Washington"
   },
   {
     "name": "Sanders",
     "description": "Clothing Stores",
     "phone": "(850) 434-1616",
-    "address": "street: 4504 E Montclair Rd location: Pensacola, FL 32505"
+    "address": "4504 E Montclair Rd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Game Ready Clothing",
     "description": "Clothing Stores",
     "phone": "(850) 332-5309",
-    "address": "street: 934 Lucerne Ave location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Nearly Dead Threads",
-    "description": "Clothing Stores",
-    "phone": "(850) 748-5400",
-    "address": "street: 4006 N 9th Ave location: Pensacola, FL 32503"
+    "address": "934 Lucerne Ave  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Intracoastal Outfitters",
     "description": "Clothing Stores",
     "phone": "(850) 432-8638",
-    "address": "street: 701 E Gregory St location: Pensacola, FL 32502"
+    "address": "701 E Gregory St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Ole Time Leather",
     "description": "Clothing Stores",
     "phone": "(850) 438-7133",
-    "address": "street: 115 Beverly Pkwy location: Pensacola, FL 32505"
+    "address": "115 Beverly Pkwy  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Old Navy",
     "description": "Clothing Stores",
     "phone": "(850) 475-1302",
-    "address": "street: 5100 N 9th Ave Ste C315A location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste C315A  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Burlington Coat Factory",
     "description": "Clothing Stores",
     "phone": "(850) 475-0528",
-    "address": "street: 7171 N Davis Hwy Ste 8400 location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy Ste 8400  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Cotton On",
     "description": "Clothing Stores",
     "phone": "(850) 475-4145",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Undergound by Journeys",
     "description": "Clothing Stores",
     "phone": "(850) 474-1918",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Charlotte Tilbury",
     "description": "Clothing Stores",
     "phone": "(850) 473-0083",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "H&M",
     "description": "Clothing Stores",
     "phone": "(855) 466-7467",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Guess",
     "description": "Clothing Stores",
     "phone": "(850) 786-1252",
-    "address": "street: 5100 N 9th Ave Ste C337A location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste C337A  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Bealls Department Store",
     "description": "Clothing Stores",
     "phone": "(850) 479-3313",
-    "address": "street: 6241 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "6241 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Stein Mart",
     "description": "Clothing Stores",
     "phone": "(850) 484-2607",
-    "address": "street: 1660 Airport Blvd location: Pensacola, FL 32504"
+    "address": "1660 Airport Blvd  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Tillys",
     "description": "Clothing Stores",
     "phone": "(850) 477-4754",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "The Vintage Frock",
     "description": "Clothing Stores",
     "phone": "(850) 450-9045",
-    "address": "street: PO Box 1234 location: Gulf Breeze, FL 32562"
+    "address": "PO Box 1234  Gulf Breeze, FL 32562",
+    "location": "Washington"
   },
   {
     "name": "Jimmy Jazz",
     "description": "Clothing Stores",
     "phone": "(850) 969-0422",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "American Eagle",
     "description": "Clothing Stores",
     "phone": "(850) 857-6621",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Man Alive",
     "description": "Clothing Stores",
     "phone": "(850) 969-0422",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Hollister",
     "description": "Clothing Stores",
     "phone": "(850) 471-9108",
-    "address": "street: 5100 N 9th Ave Ste F627 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste F627  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Rue21",
     "description": "Clothing Stores",
     "phone": "(850) 476-2562",
-    "address": "street: 5100 N 9th Ave Spc D404 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Spc D404  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "You Got Personal",
     "description": "Clothing Stores",
     "phone": "(850) 449-5562",
-    "address": "street: PO Box 652 location: Gulf Breeze, FL 32562"
+    "address": "PO Box 652  Gulf Breeze, FL 32562",
+    "location": "Washington"
   },
   {
     "name": "Hot Topic",
     "description": "Clothing Stores",
     "phone": "(850) 471-2344",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "PacSun",
     "description": "Clothing Stores",
     "phone": "(850) 476-8550",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Underground Station",
     "description": "Clothing Stores",
     "phone": "(850) 474-1918",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Express",
     "description": "Clothing Stores",
     "phone": "(850) 475-5946",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Buckle",
     "description": "Clothing Stores",
     "phone": "(850) 473-1007",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Go Fish Clothing & Jewelry Company",
     "description": "Clothing Stores",
     "phone": "(850) 479-7498",
-    "address": "street: 2172 W Nine Mile Rd Ste 342 location: Pensacola, FL 32534"
+    "address": "2172 W Nine Mile Rd Ste 342  Pensacola, FL 32534",
+    "location": "Washington"
   },
   {
     "name": "D & J's Favorite Things",
     "description": "Clothing Stores",
     "phone": "(850) 312-9516",
-    "address": "street: 8917 N Davis Hwy location: Pensacola, FL 32514"
+    "address": "8917 N Davis Hwy  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Splash Resort Wear",
     "description": "Clothing Stores",
     "phone": "(850) 760-2030",
-    "address": "street: 14254 Perdido Key Dr location: Pensacola, FL 32507"
+    "address": "14254 Perdido Key Dr  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Ron Jon Surf Shop",
     "description": "Clothing Stores",
     "phone": "(850) 203-6555",
-    "address": "street: 400 Quietwater Beach Rd location: Pensacola Beach, FL 32561"
+    "address": "400 Quietwater Beach Rd  Pensacola Beach, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Envie",
     "description": "Clothing Stores",
     "phone": "(850) 934-7050",
-    "address": "street: 400 Quietwater Beach Rd location: Gulf Breeze, FL 32561"
-  },
-  {
-    "name": "MAC Sports Supplies",
-    "description": "Clothing Stores",
-    "phone": "(786) 671-4291",
-    "address": "street: N/A location: N/A"
+    "address": "400 Quietwater Beach Rd  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Bealls",
     "description": "Clothing Stores",
     "phone": "(850) 455-4694",
-    "address": "street: 400 N Navy Blvd location: Pensacola, FL 32507"
-  },
-  {
-    "name": "Ron Jon Surf Shop",
-    "description": "Clothing Stores",
-    "phone": "(850) 203-6555",
-    "address": "street: 400 Quietwater Beach Rd location: Pensacola Beach, FL 32561"
-  },
-  {
-    "name": "Envie",
-    "description": "Clothing Stores",
-    "phone": "(850) 934-7050",
-    "address": "street: 400 Quietwater Beach Rd location: Gulf Breeze, FL 32561"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(850) 934-6725",
-    "address": "street: 3345 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
-  },
-  {
-    "name": "MAC Sports Supplies",
-    "description": "Clothing Stores",
-    "phone": "(786) 671-4291",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(850) 455-4694",
-    "address": "street: 400 N Navy Blvd location: Pensacola, FL 32507"
+    "address": "400 N Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Bealls Outlet Stores",
     "description": "Clothing Stores",
     "phone": "(850) 455-4694",
-    "address": "street: 400 N Navy Blvd location: Pensacola, FL 32507"
+    "address": "400 N Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Dangerous Toys",
     "description": "Clothing Stores",
     "phone": "(850) 417-7951",
-    "address": "street: 910 Winton Ave location: Pensacola, FL 32507"
+    "address": "910 Winton Ave  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Shoe Show",
     "description": "Clothing Stores",
     "phone": "(850) 432-0325",
-    "address": "street: 3300 N Pace Blvd Suite 31 Town & Country Plaza location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Liquidation Udc",
-    "description": "Clothing Stores",
-    "phone": "(438) 988-3467",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Bravo Print",
-    "description": "Clothing Stores",
-    "phone": "(850) 525-0474",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Coastal Tees",
-    "description": "Clothing Stores",
-    "phone": "(850) 341-7203",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "GARAGE",
-    "description": "Clothing Stores",
-    "phone": "(850) 285-0113",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "GARAGE",
-    "description": "Clothing Stores",
-    "phone": "(850) 285-0481",
-    "address": "street: N/A location: N/A"
+    "address": "3300 N Pace Blvd Suite 31 Town & Country Plaza  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Its Personal by Sheila",
     "description": "Clothing Stores",
     "phone": "(850) 607-2520",
-    "address": "street: 2610 W Cervantes St location: Pensacola, FL 32505"
+    "address": "2610 W Cervantes St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Viola's Mens Apparel",
     "description": "Clothing Stores",
     "phone": "(850) 429-7146",
-    "address": "street: 2727 W Cervantes St location: Pensacola, FL 32505"
+    "address": "2727 W Cervantes St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Ross Dress for Less",
     "description": "Clothing Stores",
     "phone": "(850) 456-0150",
-    "address": "street: 4345 W Fairfield Dr location: Pensacola, FL 32505"
+    "address": "4345 W Fairfield Dr  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Kay Fashion",
     "description": "Clothing Stores",
     "phone": "(850) 332-5913",
-    "address": "street: 2520 W Cervantes St location: Pensacola, FL 32505"
+    "address": "2520 W Cervantes St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "City Gear",
     "description": "Clothing Stores",
     "phone": "(850) 378-7055",
-    "address": "street: 4600 Mobile Hwy location: Pensacola, FL 32506"
+    "address": "4600 Mobile Hwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Bosso's Uniform Company",
     "description": "Clothing Stores",
     "phone": "(850) 438-7608",
-    "address": "street: 1120 W Government St location: Pensacola, FL 32502"
+    "address": "1120 W Government St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Running Wild",
     "description": "Clothing Stores",
     "phone": "(850) 435-9222",
-    "address": "street: 3012 E Cervantes St location: Pensacola, FL 32503"
+    "address": "3012 E Cervantes St  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Innerlight Inc",
     "description": "Clothing Stores",
     "phone": "(850) 495-3507",
-    "address": "street: 114 N Palafox St location: Pensacola, FL 32502"
-  },
-  {
-    "name": "City Gear",
-    "description": "Clothing Stores",
-    "phone": "(850) 696-2398",
-    "address": "street: 3300 N Pace Blvd Ste 180 location: Pensacola, FL 32505"
+    "address": "114 N Palafox St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Image Menswear",
     "description": "Clothing Stores",
     "phone": "(850) 433-4896",
-    "address": "street: 3300 N Pace Blvd location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Ordon's Inc",
     "description": "Clothing Stores",
     "phone": "(850) 438-4931",
-    "address": "street: 907 N 12th Ave location: Pensacola, FL 32501"
+    "address": "907 N 12th Ave  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "GARAGE",
     "description": "Clothing Stores",
     "phone": "(850) 285-0481",
-    "address": "street: 5406 Sun Valley Dr location: Pensacola, FL 32505"
+    "address": "5406 Sun Valley Dr  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Lori's Sewing Shop",
     "description": "Clothing Stores",
     "phone": "(850) 944-3065",
-    "address": "street: 6335 Mobile Hwy location: Pensacola, FL 32526"
+    "address": "6335 Mobile Hwy  Pensacola, FL 32526",
+    "location": "Washington"
   },
   {
     "name": "David Bowen Sporting Goods",
     "description": "Clothing Stores",
     "phone": "(850) 494-2244",
-    "address": "street: 5800 N W St Ste 1 location: Pensacola, FL 32505"
+    "address": "5800 N W St Ste 1  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Big Rhino Screen Printing",
     "description": "Clothing Stores",
     "phone": "(850) 469-9028",
-    "address": "street: 2709 N Pace Blvd location: Pensacola, FL 32505"
+    "address": "2709 N Pace Blvd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Uniformly Yours",
     "description": "Clothing Stores",
     "phone": "(850) 432-6533",
-    "address": "street: 103 Beverly Pkwy location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Ross Dress for Less",
-    "description": "Clothing Stores",
-    "phone": "(850) 857-1142",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "103 Beverly Pkwy  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Maurices - Closed",
     "description": "Clothing Stores",
     "phone": "(850) 479-3500",
-    "address": "street: 5100 N 9th Ave Ste A109 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste A109  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Marshalls",
     "description": "Clothing Stores",
     "phone": "(850) 478-7407",
-    "address": "street: 1650 Airport Blvd location: Pensacola, FL 32504"
+    "address": "1650 Airport Blvd  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Justice",
     "description": "Clothing Stores",
     "phone": "(850) 479-7378",
-    "address": "street: 5100 N 9th Ave Ste F609 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste F609  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Shoe Station",
     "description": "Clothing Stores",
     "phone": "(850) 474-9311",
-    "address": "street: 6601 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "6601 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "JCPenney",
     "description": "Clothing Stores",
     "phone": "(850) 478-4500",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Torrid",
     "description": "Clothing Stores",
     "phone": "(850) 477-8419",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Oshkosh B'Gosh",
     "description": "Clothing Stores",
     "phone": "(850) 474-6956",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Diva's",
     "description": "Clothing Stores",
     "phone": "(850) 474-1600",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "The Children's Place",
     "description": "Clothing Stores",
     "phone": "(850) 473-9394",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Flight Deck",
     "description": "Clothing Stores",
     "phone": "(850) 497-6528",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Windsor",
     "description": "Clothing Stores",
     "phone": "(888) 495-4957",
-    "address": "street: 5100 N 9th Ave Spc F60 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Spc F60  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Journeys",
     "description": "Clothing Stores",
     "phone": "(850) 857-0780",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Contempo Casuals",
     "description": "Clothing Stores",
     "phone": "(850) 478-0609",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Snipes",
     "description": "Clothing Stores",
     "phone": "(850) 969-0422",
-    "address": "street: 5100 N 9th Ave Ste A105A location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Shoe Show",
-    "description": "Clothing Stores",
-    "phone": "(850) 479-7242",
-    "address": "street: 5100 N Cordova Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste A105A  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Spencers",
     "description": "Clothing Stores",
     "phone": "(833) 543-0751",
-    "address": "street: 5100 Cordova Mall Unit 5100 location: Pensacola, FL 32504"
+    "address": "5100 Cordova Mall Unit 5100  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Five Below",
     "description": "Clothing Stores",
     "phone": "(850) 299-9459",
-    "address": "street: 1654 Airport Blvd Unit 140 location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(850) 476-7880",
-    "address": "street: 6235 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(850) 479-3313",
-    "address": "street: 6241 N Davis Hwy Ste C location: Pensacola, FL 32504"
+    "address": "1654 Airport Blvd Unit 140  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "T.J. Maxx & HomeGoods",
     "description": "Clothing Stores",
     "phone": "(850) 476-0333",
-    "address": "street: 6625 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "T.J. Maxx & HomeGoods",
-    "description": "Clothing Stores",
-    "phone": "(850) 476-0333",
-    "address": "street: 6625 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "6625 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Sears",
     "description": "Clothing Stores",
     "phone": "(847) 286-6213",
-    "address": "street: 7801 Sears Blvd location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Sears",
-    "description": "Clothing Stores",
-    "phone": "(850) 474-5400",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(850) 478-4883",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(850) 478-4500",
-    "address": "street: 7171 N Davis Hwy & Route 10 location: Pensacola, FL 32504"
-  },
-  {
-    "name": "JCPenney",
-    "description": "Clothing Stores",
-    "phone": "(850) 478-4500",
-    "address": "street: 7171 N Davis Hwy And Rt 10 location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Bealls",
-    "description": "Clothing Stores",
-    "phone": "(850) 203-7014",
-    "address": "street: 1151 Gulf Breeze Pkwy location: Gulf Breeze, FL 32561"
-  },
-  {
-    "name": "Bealls Outlet Stores",
-    "description": "Clothing Stores",
-    "phone": "(850) 916-7080",
-    "address": "street: 1151 Gulf Breeze Pkwy location: Gulf Breeze, FL 32561"
+    "address": "7801 Sears Blvd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Chico's",
     "description": "Clothing Stores",
     "phone": "(850) 473-6804",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Cache",
     "description": "Clothing Stores",
     "phone": "(850) 857-1023",
-    "address": "street: 5100 N 9th Ave Ste C337 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste C337  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Loft",
     "description": "Clothing Stores",
     "phone": "(850) 477-1992",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Catherines Plus Sizes",
     "description": "Clothing Stores",
     "phone": "(850) 483-8082",
-    "address": "street: 5010 Bayou Blvd Ste 3 location: Pensacola, FL 32503"
+    "address": "5010 Bayou Blvd Ste 3  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Wet Seal",
     "description": "Clothing Stores",
     "phone": "(850) 478-0011",
-    "address": "street: 5100 N 9th Ave Ste B217 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste B217  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Gibson Girl Clothing",
     "description": "Clothing Stores",
     "phone": "(850) 932-2647",
-    "address": "street: 816 Gulf Breeze Pkwy location: Gulf Breeze, FL 32561"
+    "address": "816 Gulf Breeze Pkwy  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Zumiez",
     "description": "Clothing Stores",
     "phone": "(850) 478-6104",
-    "address": "street: 5100 N 9th Ave Ste E517 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste E517  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Two Times A Lady",
     "description": "Clothing Stores",
     "phone": "(850) 474-3778",
-    "address": "street: 2755 E Olive Rd location: Pensacola, FL 32514"
+    "address": "2755 E Olive Rd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "SEPHORA at Kohl's",
     "description": "Clothing Stores",
     "phone": "(850) 478-3250",
-    "address": "street: 9300 Baldridge Dr location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Ross Dress for Less",
-    "description": "Clothing Stores",
-    "phone": "(850) 471-0554",
-    "address": "street: 8102 N Davis Hwy location: Pensacola, FL 32514"
+    "address": "9300 Baldridge Dr  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Dirt Cheap",
     "description": "Clothing Stores",
     "phone": "(850) 477-4543",
-    "address": "street: 8102 N Davis Hwy location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Shoe Show",
-    "description": "Clothing Stores",
-    "phone": "(850) 484-6404",
-    "address": "street: 8996 Pensacola Blvd location: Pensacola, FL 32534"
+    "address": "8102 N Davis Hwy  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "La Di Da Boutique Inc",
     "description": "Clothing Stores",
     "phone": "(850) 525-3261",
-    "address": "street: 875 E Nine Mile Rd, Suite 13 location: Pensacola, FL 32514"
+    "address": "875 E Nine Mile Rd, Suite 13  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Gent's Formal Wear",
     "description": "Clothing Stores",
     "phone": "(850) 969-0397",
-    "address": "street: 1340 E Nine Mile Rd location: Pensacola, FL 32514"
+    "address": "1340 E Nine Mile Rd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Tropical Waves",
     "description": "Clothing Stores",
     "phone": "(850) 932-4155",
-    "address": "street: 3 Via De Luna Dr location: Gulf Breeze, FL 32561"
+    "address": "3 Via De Luna Dr  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Islanders Surf & Sport",
     "description": "Clothing Stores",
     "phone": "(850) 916-0454",
-    "address": "street: 400 Quietwater Beach Rd Ste 6A location: Gulf Breeze, FL 32561"
+    "address": "400 Quietwater Beach Rd Ste 6A  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Hiram's Tailor",
     "description": "Clothing Stores",
     "phone": "(850) 450-8813",
-    "address": "street: 2939 Coral Strip Pkwy location: Gulf Breeze, FL 32563"
+    "address": "2939 Coral Strip Pkwy  Gulf Breeze, FL 32563",
+    "location": "Washington"
   },
   {
     "name": "Currin Graphics",
     "description": "Clothing Stores",
     "phone": "(850) 505-0955",
-    "address": "street: 2814 Copter Rd location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Bealls Department Store",
-    "description": "Clothing Stores",
-    "phone": "(850) 934-6725",
-    "address": "street: 3345 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
+    "address": "2814 Copter Rd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Logo Masters International Inc",
     "description": "Clothing Stores",
     "phone": "(850) 937-6770",
-    "address": "street: 3018 Stefani Road, Bldg. 2 location: Cantonment, FL 32533"
+    "address": "3018 Stefani Road, Bldg. 2  Cantonment, FL 32533",
+    "location": "Washington"
   },
   {
     "name": "Walmart Supercenter",
     "description": "General Merchandise",
     "phone": "(850) 453-6311",
-    "address": "street: 501 N Navy Blvd location: Pensacola, FL 32507"
+    "address": "501 N Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Cato Fashions",
     "description": "Women's Clothing",
     "phone": "(850) 455-4615",
-    "address": "street: 400 N Navy Blvd location: Pensacola, FL 32507"
+    "address": "400 N Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Hibbett Sports",
     "description": "Sporting Goods",
     "phone": "(850) 455-4822",
-    "address": "street: 400 N Navy Blvd Ste 6B location: Pensacola, FL 32507"
+    "address": "400 N Navy Blvd Ste 6B  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "pOpshelf",
     "description": "Variety Stores",
     "phone": "(850) 361-2299",
-    "address": "street: 400 N Navy Blvd location: Pensacola, FL 32507"
+    "address": "400 N Navy Blvd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "West Marine",
     "description": "Boat Equipment & Supplies",
     "phone": "(850) 453-8447",
-    "address": "street: 3500 Barrancas Ave location: Pensacola, FL 32507"
-  },
-  {
-    "name": "Tien Son Custom Tailored Suits- Pensacola Menswear",
-    "description": "Men's Clothing",
-    "phone": "(850) 696-7765",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Lost Bay Trader",
-    "description": "Uniforms",
-    "phone": "(850) 516-3151",
-    "address": "street: N/A location: Pensacola, FL 32506"
-  },
-  {
-    "name": "Leone Culture",
-    "description": "Department Stores",
-    "phone": "(850) 564-6236",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 995-0542",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Burlington Stores",
-    "description": "Department Stores",
-    "phone": "(850) 475-0564",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Reggie's Sportswear",
-    "description": "Sportswear",
-    "phone": "(850) 450-9929",
-    "address": "street: N/A location: Navarre, FL 32566"
-  },
-  {
-    "name": "Certified Clothing",
-    "description": "Men's Clothing",
-    "phone": "(850) 384-9403",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 733-5019",
-    "address": "street: N/A location: N/A"
+    "address": "3500 Barrancas Ave  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Good Times Stop",
     "description": "Department Stores",
     "phone": "(850) 791-6775",
-    "address": "street: 3319 Mobile Hwy location: Pensacola, FL 32505"
+    "address": "3319 Mobile Hwy  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Kay Fashions",
     "description": "Women's Clothing",
     "phone": "(850) 433-1444",
-    "address": "street: 2601 W Cervantes St location: Pensacola, FL 32505"
+    "address": "2601 W Cervantes St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Wal-Mart SuperCenter",
     "description": "General Merchandise",
     "phone": "(850) 455-9852",
-    "address": "street: 4600 Mobile Hwy location: Pensacola, FL 32506"
+    "address": "4600 Mobile Hwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Renee's Bridal & Special Occasions",
     "description": "Women's Clothing",
     "phone": "(850) 494-7924",
-    "address": "street: 811 W Garden St location: Pensacola, FL 32502"
+    "address": "811 W Garden St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Downtown Motorsports",
     "description": "Sportswear",
     "phone": "(850) 637-3867",
-    "address": "street: 1299 N W St location: Pensacola, FL 32505"
+    "address": "1299 N W St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "First National Bank",
     "description": "Discount Stores",
     "phone": "(850) 455-1817",
-    "address": "street: 4600 Mobile Hwy location: Pensacola, FL 32506"
+    "address": "4600 Mobile Hwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Simply Fashion",
     "description": "Women's Clothing",
     "phone": "(850) 457-4084",
-    "address": "street: 4600 Mobile Hwy location: Pensacola, FL 32506"
+    "address": "4600 Mobile Hwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "The Market",
     "description": "Women's Clothing",
     "phone": "(850) 434-3012",
-    "address": "street: 248 W Garden St location: Pensacola, FL 32502"
-  },
-  {
-    "name": "The Market",
-    "description": "Shoe Stores",
-    "phone": "(850) 434-3012",
-    "address": "street: 700 S Palafox St location: Pensacola, FL 32502"
+    "address": "248 W Garden St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Lovin Mood Lingerie",
     "description": "Sporting Goods",
     "phone": "(850) 462-5548",
-    "address": "street: 5104 N W St location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 458-5550",
-    "address": "street: 2951 S Blue Angel Pkwy location: Pensacola, FL 32506"
+    "address": "5104 N W St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Weatherford's Outback",
     "description": "Sportswear",
     "phone": "(850) 469-9922",
-    "address": "street: 3009 E Cervantes St location: Pensacola, FL 32503"
+    "address": "3009 E Cervantes St  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Target",
     "description": "General Merchandise",
     "phone": "(850) 454-3000",
-    "address": "street: 2950 S Blue Angel Pkwy location: Pensacola, FL 32506"
+    "address": "2950 S Blue Angel Pkwy  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Simply 6",
     "description": "Women's Fashion Accessories",
     "phone": "(850) 432-5711",
-    "address": "street: 3300 N Pace Blvd location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Ordon's Inc",
-    "description": "Men's Clothing",
-    "phone": "(850) 438-4931",
-    "address": "street: 210 Palafox Pl location: Pensacola, FL 32502"
+    "address": "3300 N Pace Blvd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Indigeaux Denim Bar & Boutique",
     "description": "Boutique Items",
     "phone": "(850) 607-2255",
-    "address": "street: 116 Palafox Pl location: Pensacola, FL 32502"
+    "address": "116 Palafox Pl  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Pink",
     "description": "Women's Clothing",
     "phone": "(850) 439-1191",
-    "address": "street: 101 E Government St location: Pensacola, FL 32502"
+    "address": "101 E Government St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "La Bona International Boutique",
     "description": "Women's Clothing",
     "phone": "(850) 857-1211",
-    "address": "street: 507 S Adams St location: Pensacola, FL 32502"
+    "address": "507 S Adams St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Simply 10",
     "description": "Women's Clothing",
     "phone": "(850) 444-8410",
-    "address": "street: 3300 N Pace Blvd Town & Country location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd Town & Country  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Bluetique",
     "description": "Women's Clothing",
     "phone": "(850) 432-1264",
-    "address": "street: 212 S Alcaniz St location: Pensacola, FL 32502"
+    "address": "212 S Alcaniz St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Accessories Plus",
     "description": "Women's Clothing",
     "phone": "(850) 457-1111",
-    "address": "street: 643 Cedar Bluff Dr location: Pensacola, FL 32506"
+    "address": "643 Cedar Bluff Dr  Pensacola, FL 32506",
+    "location": "Washington"
   },
   {
     "name": "Sam's Dollar Store",
     "description": "Variety Stores",
     "phone": "(850) 453-2679",
-    "address": "street: 10447 Sorrento Rd location: Pensacola, FL 32507"
+    "address": "10447 Sorrento Rd  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Scout",
     "description": "Women's Clothing",
     "phone": "(850) 607-7105",
-    "address": "street: 404 E Wright St location: Pensacola, FL 32501"
+    "address": "404 E Wright St  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "Beauty Town",
     "description": "Barbers Equipment & Supplies",
     "phone": "(850) 434-5633",
-    "address": "street: 3300 N Pace Blvd Ste 20 location: Pensacola, FL 32505"
-  },
-  {
-    "name": "Simply Fashion",
-    "description": "Women's Clothing",
-    "phone": "(850) 432-5711",
-    "address": "street: 3300 N Pace Blvd location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd Ste 20  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Bodied By Chazz",
     "description": "Women's Clothing",
     "phone": "(850) 741-2615",
-    "address": "street: 3300 N Pace Blvd location: Pensacola, FL 32505"
+    "address": "3300 N Pace Blvd  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Michele's Ladies Apparel",
     "description": "Women's Clothing",
     "phone": "(850) 435-2862",
-    "address": "street: 2013 N Palafox St location: Pensacola, FL 32501"
+    "address": "2013 N Palafox St  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "Sobo Boutique",
     "description": "Women's Clothing",
     "phone": "(850) 434-0258",
-    "address": "street: 518 N 9th Ave location: Pensacola, FL 32501"
+    "address": "518 N 9th Ave  Pensacola, FL 32501",
+    "location": "Washington"
   },
   {
     "name": "Levels",
     "description": "Women's Clothing",
     "phone": "(850) 332-5514",
-    "address": "street: 2829 W Michigan Ave #a location: Pensacola, FL 32526"
+    "address": "2829 W Michigan Ave #a  Pensacola, FL 32526",
+    "location": "Washington"
   },
   {
     "name": "Aqua Decor & Design",
     "description": "Interior Designers & Decorators",
     "phone": "(850) 912-4744",
-    "address": "street: 1320 N 9th Ave location: Pensacola, FL 32503"
+    "address": "1320 N 9th Ave  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Lee Tracy",
     "description": "Women's Clothing",
     "phone": "(850) 912-8639",
-    "address": "street: 701 E Gregory St location: Pensacola, FL 32502"
+    "address": "701 E Gregory St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Latinos & Parties",
     "description": "General Merchandise",
     "phone": "(850) 637-1075",
-    "address": "street: 5222 N W St location: Pensacola, FL 32505"
+    "address": "5222 N W St  Pensacola, FL 32505",
+    "location": "Washington"
   },
   {
     "name": "Eileen Fisher",
     "description": "Women's Clothing",
     "phone": "(850) 434-3012",
-    "address": "street: 28 W Garden St location: Pensacola, FL 32502"
+    "address": "28 W Garden St  Pensacola, FL 32502",
+    "location": "Washington"
   },
   {
     "name": "Dt Fashion",
     "description": "Women's Clothing",
     "phone": "(850) 435-9804",
-    "address": "street: 1119 N 8th Ave location: Pensacola, FL 32503"
-  },
-  {
-    "name": "Cato Fashions",
-    "description": "Women's Clothing",
-    "phone": "(850) 479-8440",
-    "address": "street: 6245 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Target",
-    "description": "General Merchandise",
-    "phone": "(850) 494-9070",
-    "address": "street: 4711 Bayou Blvd location: Pensacola, FL 32503"
+    "address": "1119 N 8th Ave  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Lids",
     "description": "Hat Shops",
     "phone": "(850) 476-6553",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "American Freight - Appliance, Furniture, Mattress",
     "description": "Discount Stores",
     "phone": "(850) 474-0948",
-    "address": "street: 6235 N Davis Hwy Ste 101 location: Pensacola, FL 32504"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(850) 483-5523",
-    "address": "street: 5303 N Davis Hwy location: Pensacola, FL 32503"
+    "address": "6235 N Davis Hwy Ste 101  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Talbots",
     "description": "Women's Clothing",
     "phone": "(850) 494-2667",
-    "address": "street: 4411 Bayou Blvd location: Pensacola, FL 32503"
+    "address": "4411 Bayou Blvd  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Lil Johns Big and Tall Mens Fashion and Alteration Shop",
     "description": "Men's Clothing",
     "phone": "(850) 484-0904",
-    "address": "street: 5700 N Davis Hwy location: Pensacola, FL 32503"
+    "address": "5700 N Davis Hwy  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Edwin Watts Golf",
     "description": "Golf Equipment & Supplies",
     "phone": "(850) 477-0519",
-    "address": "street: 5711 N Davis Hwy location: Pensacola, FL 32503"
-  },
-  {
-    "name": "Edwin Watts Golf",
-    "description": "Golf Equipment & Supplies",
-    "phone": "(850) 477-0519",
-    "address": "street: 5717 N Davis Hwy location: Pensacola, FL 32503"
+    "address": "5711 N Davis Hwy  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Rococo",
     "description": "Candles",
     "phone": "(850) 607-6073",
-    "address": "street: 4970 Bayou Blvd location: Pensacola, FL 32503"
+    "address": "4970 Bayou Blvd  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Soma Intimates",
     "description": "Lingerie",
     "phone": "(850) 479-4855",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Lady Foot Locker",
     "description": "Shoe Stores",
     "phone": "(850) 478-4855",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Foot Locker",
     "description": "Shoe Stores",
     "phone": "(850) 478-1693",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Victoria's Secret",
     "description": "Lingerie",
     "phone": "(850) 479-8655",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Finish Line",
     "description": "Shoe Stores",
     "phone": "(850) 969-0478",
-    "address": "street: 5100 N 9th Ave Ste E515 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste E515  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Christopher & Banks",
     "description": "Women's Clothing",
     "phone": "(850) 477-9903",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Frederick's of Hollywood",
     "description": "Lingerie",
     "phone": "(850) 476-3490",
-    "address": "street: 5100 N 9th Ave Ste H805 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste H805  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Body Central",
     "description": "Women's Clothing",
     "phone": "(850) 478-4772",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Dan & Joyce Trading Inc",
     "description": "Women's Clothing",
     "phone": "(850) 476-7477",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "BCBGMAXAZRIA",
     "description": "Women's Clothing",
     "phone": "(850) 474-1278",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "DressBarn",
     "description": "Women's Clothing",
     "phone": "(850) 494-2024",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Footaction USA",
     "description": "Shoe Stores",
     "phone": "(850) 478-0872",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Belk",
     "description": "Department Stores",
     "phone": "(850) 484-3300",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Aerie",
     "description": "Women's Clothing",
     "phone": "(850) 483-6048",
-    "address": "street: 5100 N 9th Ave Ste D421A location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste D421A  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Lane Bryant - Closed",
     "description": "Women's Clothing",
     "phone": "(850) 466-4994",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Motherhood Maternity",
     "description": "Maternity Clothes",
     "phone": "(850) 494-0277",
-    "address": "street: 5100 N 9th Ave Ste A121 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste A121  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Men's Wearhouse",
     "description": "Men's Clothing",
     "phone": "(850) 475-5891",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Dick's Sporting Goods",
     "description": "Sporting Goods",
     "phone": "(850) 478-9605",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Vans",
     "description": "Shoe Stores",
     "phone": "(850) 477-4900",
-    "address": "street: 5100 N 9th Ave Ste A122 location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste A122  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Versona",
     "description": "Women's Clothing",
     "phone": "(850) 474-9966",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Champs Sports",
     "description": "Sportswear",
     "phone": "(850) 474-8886",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "JoS. A. Bank",
     "description": "Men's Clothing",
     "phone": "(850) 475-2664",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Francesca's",
     "description": "Women's Clothing",
     "phone": "(850) 262-8829",
-    "address": "street: 5100 N 9th Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Ann Taylor",
     "description": "Women's Clothing",
     "phone": "(850) 477-1992",
-    "address": "street: 5100 N 9th Ave Ste E3 location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Men's Wearhouse",
-    "description": "Men's Clothing",
-    "phone": "(850) 475-5891",
-    "address": "street: 5100 N Cordova Ave location: Pensacola, FL 32504"
+    "address": "5100 N 9th Ave Ste E3  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Go Fish Clothing & Jewelry Co",
     "description": "Women's Clothing",
     "phone": "(850) 934-5251",
-    "address": "street: 6993 Forshalee St location: Pensacola, FL 32503"
+    "address": "6993 Forshalee St  Pensacola, FL 32503",
+    "location": "Washington"
   },
   {
     "name": "Sears Outlet",
     "description": "Discount Stores",
     "phone": "(850) 474-0949",
-    "address": "street: 6235 N Davis Hwy Ste 101 location: Pensacola, FL 32504"
+    "address": "6235 N Davis Hwy Ste 101  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Bealls Florida",
     "description": "Home Furnishings",
     "phone": "(850) 479-3313",
-    "address": "street: 6241 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Motherhood Maternity",
-    "description": "Maternity Clothes",
-    "phone": "(850) 475-2626",
-    "address": "street: 7175C N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "West Marine",
-    "description": "Boat Equipment & Supplies",
-    "phone": "(850) 476-2774",
-    "address": "street: 7160 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "6241 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Rack Room Shoes",
     "description": "Shoe Stores",
     "phone": "(850) 477-1022",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Famous Footwear",
     "description": "Shoe Stores",
     "phone": "(850) 476-2946",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Finish Line",
-    "description": "Shoe Stores",
-    "phone": "(850) 478-5040",
-    "address": "street: 7171 N Davis Hwy Ste 1013 location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Academy Sports + Outdoors",
     "description": "Sporting Goods",
     "phone": "(850) 473-3800",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "McRae's Department Store",
     "description": "Department Stores",
     "phone": "(850) 494-6221",
-    "address": "street: 7171 N Davis Hwy location: Pensacola, FL 32504"
+    "address": "7171 N Davis Hwy  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Bridal Suite",
     "description": "Women's Clothing",
     "phone": "(850) 494-9989",
-    "address": "street: 2401 Langley Ave location: Pensacola, FL 32504"
+    "address": "2401 Langley Ave  Pensacola, FL 32504",
+    "location": "Washington"
   },
   {
     "name": "Jen's Designer Deals",
     "description": "Women's Clothing",
     "phone": "(850) 384-5368",
-    "address": "street: 360 Gulf Breeze Pkwy location: Gulf Breeze, FL 32561"
+    "address": "360 Gulf Breeze Pkwy  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "Tennis Girl",
     "description": "Tennis Equipment & Supplies",
     "phone": "(850) 932-2554",
-    "address": "street: 504 Plantation Hill Rd location: Gulf Breeze, FL 32561"
+    "address": "504 Plantation Hill Rd  Gulf Breeze, FL 32561",
+    "location": "Washington"
   },
   {
     "name": "The Bridal Suite",
     "description": "Bridal Shops",
     "phone": "(850) 494-9989",
-    "address": "street: 1340 E Nine Mile Rd location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Target",
-    "description": "General Merchandise",
-    "phone": "(850) 473-8647",
-    "address": "street: 1749 E Nine Mile Rd location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 479-2101",
-    "address": "street: 2650 Creighton Rd location: Pensacola, FL 32504"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 484-4881",
-    "address": "street: 8970 Pensacola Blvd location: Pensacola, FL 32534"
+    "address": "1340 E Nine Mile Rd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Runway Chic",
     "description": "Women's Clothing",
     "phone": "(850) 332-7200",
-    "address": "street: 8084 N Davis Hwy location: Pensacola, FL 32514"
+    "address": "8084 N Davis Hwy  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Channel Control Merchants",
     "description": "Discount Stores",
     "phone": "(850) 477-4543",
-    "address": "street: 8102 N Davis Hwy location: Pensacola, FL 32514"
+    "address": "8102 N Davis Hwy  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "AVON",
     "description": "Gift Baskets",
     "phone": "(850) 696-9030",
-    "address": "street: 8311 Beal St location: Pensacola, FL 32514"
+    "address": "8311 Beal St  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Blues Conspiracy",
     "description": "Shirts-Custom Made",
     "phone": "(850) 492-7512",
-    "address": "street: 13900 Canal Dr location: Pensacola, FL 32507"
+    "address": "13900 Canal Dr  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Cato",
     "description": "Women's Clothing",
     "phone": "(850) 479-9735",
-    "address": "street: 8970 Pensacola Blvd location: Pensacola, FL 32534"
-  },
-  {
-    "name": "Cato Fashions",
-    "description": "Women's Clothing",
-    "phone": "(850) 479-9735",
-    "address": "street: 8994 Pensacola Blvd location: Pensacola, FL 32534"
-  },
-  {
-    "name": "Hibbett Sports",
-    "description": "Sporting Goods",
-    "phone": "(850) 477-9600",
-    "address": "street: 3 W Nine Mile Rd Ste 11 location: Pensacola, FL 32534"
+    "address": "8970 Pensacola Blvd  Pensacola, FL 32534",
+    "location": "Washington"
   },
   {
     "name": "Ministry Village Bargain Center",
     "description": "Department Stores",
     "phone": "(850) 912-8222",
-    "address": "street: 92 E Nine Mile Rd location: Pensacola, FL 32534"
+    "address": "92 E Nine Mile Rd  Pensacola, FL 32534",
+    "location": "Washington"
   },
   {
     "name": "Yeagle & Patterson-Reece",
     "description": "Women's Clothing",
     "phone": "(850) 497-6090",
-    "address": "street: 8800 University Pkwy location: Pensacola, FL 32514"
-  },
-  {
-    "name": "The Market",
-    "description": "Women's Clothing",
-    "phone": "(850) 466-3330",
-    "address": "street: 13700 Perdido Key Dr location: Pensacola, FL 32507"
+    "address": "8800 University Pkwy  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Barefoot Gypsy Boutique",
     "description": "Resale Shops",
     "phone": "(850) 281-7060",
-    "address": "street: 13700 Perdido Key Dr Unit 121 location: Pensacola, FL 32507"
+    "address": "13700 Perdido Key Dr Unit 121  Pensacola, FL 32507",
+    "location": "Washington"
   },
   {
     "name": "Drift Boutique",
     "description": "Boutique Items",
     "phone": "(850) 332-5126",
-    "address": "street: 955 E Nine Mile Rd Ste 105 location: Pensacola, FL 32514"
+    "address": "955 E Nine Mile Rd Ste 105  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Gypsi Southern",
     "description": "Women's Clothing",
     "phone": "(850) 332-7042",
-    "address": "street: 2600 W Nine Mile Rd location: Pensacola, FL 32534"
+    "address": "2600 W Nine Mile Rd  Pensacola, FL 32534",
+    "location": "Washington"
   },
   {
     "name": "Walmart Grocery Pickup",
     "description": "Department Stores",
     "phone": "(850) 208-2103",
-    "address": "street: 1525 E Nine Mile Rd location: Pensacola, FL 32514"
+    "address": "1525 E Nine Mile Rd  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Sears Hometown Stores",
     "description": "Department Stores",
     "phone": "(850) 857-5150",
-    "address": "street: 8792 Ely St location: Pensacola, FL 32514"
-  },
-  {
-    "name": "Wal-Mart SuperCenter",
-    "description": "General Merchandise",
-    "phone": "(850) 934-4821",
-    "address": "street: 3767 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
-  },
-  {
-    "name": "Bealls Florida",
-    "description": "Home Furnishings",
-    "phone": "(850) 934-6725",
-    "address": "street: 3345 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
-  },
-  {
-    "name": "Hibbett Sports",
-    "description": "Sporting Goods",
-    "phone": "(850) 932-8830",
-    "address": "street: 3755 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
-  },
-  {
-    "name": "Walmart Supercenter",
-    "description": "General Merchandise",
-    "phone": "(850) 934-0362",
-    "address": "street: 3767 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
+    "address": "8792 Ely St  Pensacola, FL 32514",
+    "location": "Washington"
   },
   {
     "name": "Live Oak Trading",
     "description": "General Merchandise",
     "phone": "(850) 203-1999",
-    "address": "street: 4222 Gulf Breeze Pkwy location: Gulf Breeze, FL 32563"
+    "address": "4222 Gulf Breeze Pkwy  Gulf Breeze, FL 32563",
+    "location": "Washington"
   },
   {
     "name": "Caseys Discount Guns",
     "description": "Department Stores",
     "phone": "(251) 961-7664",
-    "address": "street: 9980 Soldier Creek Rd location: Lillian, AL 36549"
+    "address": "9980 Soldier Creek Rd  Lillian, AL 36549",
+    "location": "Washington"
   }
 ]

@@ -1,1143 +1,429 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575798349",
-    "name": "Z to A Media",
-    "description": "Printing Services-Commercial",
-    "phone": "(727) 416-7769",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "556631293",
     "name": "Mywidgyhub",
     "description": "Advertising Agencies",
     "phone": "(813) 682-9464",
-    "address": "street: 10927 Keys Gate Dr location: Riverview, FL 33579"
+    "address": " 10927 Keys Gate Dr  Riverview, FL 33579",
+    "location": "Bay"
   },
   {
-    "dataYpid": "472928684",
     "name": "Phoenix Advertising",
     "description": "Advertising Agencies",
     "phone": "(813) 642-0002",
-    "address": "street: 11542 Sumner Rd location: Wimauma, FL 33598"
+    "address": " 11542 Sumner Rd  Wimauma, FL 33598",
+    "location": "Bay"
   },
   {
-    "dataYpid": "480179584",
     "name": "Small Business Advisor",
     "description": "Advertising Agencies",
     "phone": "(813) 672-1052",
-    "address": "street: 10321 Avelar Ridge Dr location: Riverview, FL 33578"
+    "address": " 10321 Avelar Ridge Dr  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "503901078",
-    "name": "Social Media Business Builder",
-    "description": "Advertising Agencies",
-    "phone": "(813) 468-1384",
-    "address": "street: N/A location: Land O Lakes, FL 34639"
-  },
-  {
-    "dataYpid": "545602367",
-    "name": "Carmichael Grafix",
-    "description": "Advertising Agencies",
-    "phone": "(813) 675-4640",
-    "address": "street: N/A location: Brandon, FL 33510"
-  },
-  {
-    "dataYpid": "11965738",
-    "name": "Marketing Matters Inc",
-    "description": "Advertising Agencies",
-    "phone": "(813) 258-1000",
-    "address": "street: N/A location: Tampa, FL 33606"
-  },
-  {
-    "dataYpid": "18285267",
-    "name": "Michael Oransky & Company",
-    "description": "Advertising Agencies",
-    "phone": "(813) 281-0755",
-    "address": "street: N/A location: Tampa, FL 33613"
-  },
-  {
-    "dataYpid": "4942087",
-    "name": "Put Your Name On It!",
-    "description": "Advertising Agencies",
-    "phone": "(813) 972-1460",
-    "address": "street: N/A location: Tampa, FL 33647"
-  },
-  {
-    "dataYpid": "559977935",
-    "name": "RevLocal",
-    "description": "Advertising Agencies",
-    "phone": "(863) 578-5589",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576837716",
-    "name": "KT Creative Solutions",
-    "description": "Advertising Agencies",
-    "phone": "(813) 390-8252",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "3159519",
-    "name": "Absolute Media Exposure",
-    "description": "Advertising Agencies",
-    "phone": "(813) 412-1861",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "466793573",
-    "name": "Zzzz Line",
-    "description": "Advertising Agencies",
-    "phone": "(813) 622-6863",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "542037784",
-    "name": "Conversion Buddha",
-    "description": "Advertising Agencies",
-    "phone": "(844) 283-3412",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "571882031",
-    "name": "Van•Ness Agency",
-    "description": "Advertising Agencies",
-    "phone": "(910) 370-8706",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "497748590",
-    "name": "VSFmarketing",
-    "description": "Advertising Agencies",
-    "phone": "(813) 606-4171",
-    "address": "street: N/A location: Odessa, FL 33556"
-  },
-  {
-    "dataYpid": "482069578",
-    "name": "Blue Lynx Marketing Inc",
-    "description": "Advertising Agencies",
-    "phone": "(863) 800-0736",
-    "address": "street: N/A location: Apollo Beach, FL 33572"
-  },
-  {
-    "dataYpid": "533084129",
-    "name": "Morning Star Interactive, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(813) 732-6862",
-    "address": "street: N/A location: Tampa, FL 33618"
-  },
-  {
-    "dataYpid": "496490119",
-    "name": "TO-WEL ness, LLC",
-    "description": "Advertising Agencies",
-    "phone": "(813) 388-0517",
-    "address": "street: N/A location: Wesley Chapel, FL 33545"
-  },
-  {
-    "dataYpid": "28880077",
-    "name": "Chasm Communications Inc",
-    "description": "Advertising Agencies",
-    "phone": "(813) 283-0908",
-    "address": "street: N/A location: Tampa, FL 33626"
-  },
-  {
-    "dataYpid": "505710428",
-    "name": "Eric Hood Photography",
-    "description": "Advertising Agencies",
-    "phone": "(813) 336-4775",
-    "address": "street: N/A location: Tampa, FL 33626"
-  },
-  {
-    "dataYpid": "461871548",
-    "name": "Liquid Marketing LLC",
-    "description": "Advertising Agencies",
-    "phone": "(813) 990-0912",
-    "address": "street: N/A location: Land O Lakes, FL 34638"
-  },
-  {
-    "dataYpid": "519860536",
-    "name": "Paperless Direct Mail, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(888) 683-9702",
-    "address": "street: N/A location: Tampa, FL 33626"
-  },
-  {
-    "dataYpid": "465165809",
-    "name": "Gulash Graphics",
-    "description": "Advertising Agencies",
-    "phone": "(813) 994-5110",
-    "address": "street: N/A location: Lutz, FL 33559"
-  },
-  {
-    "dataYpid": "542589340",
-    "name": "Media Design Shop",
-    "description": "Advertising Agencies",
-    "phone": "(813) 571-4002",
-    "address": "street: N/A location: Brandon, FL 33511"
-  },
-  {
-    "dataYpid": "571549365",
-    "name": "Florida Women Magazine",
-    "description": "Advertising Agencies",
-    "phone": "(813) 682-9364",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576090967",
-    "name": "Digital Aspect Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(727) 249-4662",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22705410",
-    "name": "Coyote Design",
-    "description": "Advertising Agencies",
-    "phone": "(813) 831-0924",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465234117",
-    "name": "ChanceLife, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(904) 325-5352",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "495843038",
-    "name": "PerksTown",
-    "description": "Advertising Agencies",
-    "phone": "(813) 441-0456",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467947193",
-    "name": "Ad Trikes - Advertising Tricycles and Billboard Trailers",
-    "description": "Advertising Agencies",
-    "phone": "(813) 966-7460",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "478389210",
-    "name": "Promotional1.com",
-    "description": "Advertising Agencies",
-    "phone": "(813) 441-8403",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560363866",
-    "name": "Grid Girls Promotions",
-    "description": "Advertising Agencies",
-    "phone": "(877) 937-1183",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "564499891",
-    "name": "Black Dragon Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(727) 263-4990",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "10350486",
-    "name": "Consumers Rate It.com Yellow Pages Inc.",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 549-0750",
-    "address": "street: N/A location: Tampa, FL 33614"
-  },
-  {
-    "dataYpid": "474879933",
-    "name": "Cafe Pays Bills Coffee Tampa",
-    "description": "Coffee & Tea",
-    "phone": "(813) 317-9630",
-    "address": "street: N/A location: Riverview, FL 33578"
-  },
-  {
-    "dataYpid": "576329072",
-    "name": "Your Business Graphic Solution LLC",
-    "description": "Web Site Design & Services",
-    "phone": "(718) 300-4390",
-    "address": "street: N/A location: Tampa, FL 33617"
-  },
-  {
-    "dataYpid": "10494",
-    "name": "ATI PROMOTIONS",
-    "description": "Advertising-Promotional Products",
-    "phone": "(813) 810-1610",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22690390",
-    "name": "Just Relax Services",
-    "description": "Financing Services",
-    "phone": "(888) 580-4648",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "3771478",
-    "name": "Pelican Promotional Products",
-    "description": "Advertising Specialties",
-    "phone": "(813) 960-9390",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "480908492",
     "name": "Fullest Extent Media",
     "description": "Marketing Programs & Services",
     "phone": "(813) 658-8234",
-    "address": "street: 13194 Us Highway 301 S Ste 143 location: Riverview, FL 33578"
+    "address": " 13194 Us Highway 301 S Ste 143  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "515435392",
     "name": "CMK Web Solutions",
     "description": "Internet Marketing & Advertising",
     "phone": "(302) 217-9633",
-    "address": "street: 13420 Beechberry Dr location: Riverview, FL 33579"
+    "address": " 13420 Beechberry Dr  Riverview, FL 33579",
+    "location": "Bay"
   },
   {
-    "dataYpid": "497762678",
     "name": "Travel Blog Success LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 419-6005",
-    "address": "street: 16263 Diamond Bay Dr location: Wimauma, FL 33598"
+    "address": " 16263 Diamond Bay Dr  Wimauma, FL 33598",
+    "location": "Bay"
   },
   {
-    "dataYpid": "560963557",
     "name": "Only195.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 421-0698",
-    "address": "street: 13194 Us Highway 301 S location: Riverview, FL 33578"
+    "address": " 13194 Us Highway 301 S  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "12389579",
-    "name": "Brian Alaway Consulting",
-    "description": "Internet Consultants",
-    "phone": "(813) 644-9717",
-    "address": "street: N/A location: Tampa, FL 33609"
-  },
-  {
-    "dataYpid": "465488717",
-    "name": "INET Inbound Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(866) 808-2662",
-    "address": "street: N/A location: Tampa, FL 33618"
-  },
-  {
-    "dataYpid": "475211895",
     "name": "Laser Sharp Sign Design",
     "description": "Advertising Specialties",
     "phone": "(813) 445-7300",
-    "address": "street: 10609 Deepbrook Dr location: Riverview, FL 33569"
+    "address": " 10609 Deepbrook Dr  Riverview, FL 33569",
+    "location": "Bay"
   },
   {
-    "dataYpid": "467053172",
-    "name": "AVTek Media",
-    "description": "Audio-Visual Creative Services",
-    "phone": "(813) 409-2282",
-    "address": "street: N/A location: Brandon, FL 33509"
-  },
-  {
-    "dataYpid": "467174454",
-    "name": "Tampa Bay Savers",
-    "description": "Coupon Advertising",
-    "phone": "(813) 767-1133",
-    "address": "street: N/A location: Tampa, FL 33689"
-  },
-  {
-    "dataYpid": "478306819",
-    "name": "Global Sign Restoration, Inc.",
-    "description": "Signs",
-    "phone": "(800) 238-9916",
-    "address": "street: N/A location: Odessa, FL 33556"
-  },
-  {
-    "dataYpid": "505172281",
-    "name": "LED Truck Sign Rental",
-    "description": "Balloons-Advertising & Signage",
-    "phone": "(813) 784-6092",
-    "address": "street: N/A location: Tampa, FL 33618"
-  },
-  {
-    "dataYpid": "86675",
-    "name": "Neon Delights",
-    "description": "Signs",
-    "phone": "(727) 842-8842",
-    "address": "street: N/A location: Tampa, FL 33601"
-  },
-  {
-    "dataYpid": "455603060",
-    "name": "Webmasters at Inner Web Unlimited",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 855-1566",
-    "address": "street: N/A location: Riverview, FL 33578"
-  },
-  {
-    "dataYpid": "497650894",
-    "name": "StratusCreative",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 922-5999",
-    "address": "street: N/A location: Tampa, FL 33605"
-  },
-  {
-    "dataYpid": "531397829",
-    "name": "SEO International",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 360-0175",
-    "address": "street: N/A location: Tampa, FL 33647"
-  },
-  {
-    "dataYpid": "535227678",
-    "name": "cyber reach seo",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 374-1106",
-    "address": "street: N/A location: Riverview, FL 33579"
-  },
-  {
-    "dataYpid": "545459716",
-    "name": "Pro Digital Strategies",
-    "description": "Web Site Design & Services",
-    "phone": "(813) 693-1633",
-    "address": "street: N/A location: Tampa, FL 33602"
-  },
-  {
-    "dataYpid": "546090393",
-    "name": "DJR Online Marketing Solutions",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 856-9766",
-    "address": "street: N/A location: Tampa, FL 33618"
-  },
-  {
-    "dataYpid": "548424957",
-    "name": "1Force Marketing, LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 540-7322",
-    "address": "street: N/A location: Tampa, FL 33602"
-  },
-  {
-    "dataYpid": "549113325",
-    "name": "Vicariously Me Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 451-9332",
-    "address": "street: N/A location: Riverview, FL 33578"
-  },
-  {
-    "dataYpid": "557845507",
-    "name": "New Vizions",
-    "description": "Graphic Designers",
-    "phone": "(904) 800-9466",
-    "address": "street: N/A location: Tampa, FL 33613"
-  },
-  {
-    "dataYpid": "567042006",
-    "name": "Techit2daMaxx",
-    "description": "Web Site Design & Services",
-    "phone": "(813) 808-2343",
-    "address": "street: N/A location: Zephyrhills, FL 33540"
-  },
-  {
-    "dataYpid": "468796099",
-    "name": "Signs by Randall",
-    "description": "Truck Painting & Lettering",
-    "phone": "(813) 666-7446",
-    "address": "street: N/A location: Tampa, FL 33614"
-  },
-  {
-    "dataYpid": "496012110",
-    "name": "Eternal Lifetime Productions, LLC",
-    "description": "Audio-Visual Creative Services",
-    "phone": "(800) 536-1936",
-    "address": "street: N/A location: Tampa, FL 33613"
-  },
-  {
-    "dataYpid": "464693351",
-    "name": "Cottingham Data",
-    "description": "Interactive Media",
-    "phone": "(813) 381-4604",
-    "address": "street: N/A location: Valrico, FL 33596"
-  },
-  {
-    "dataYpid": "457383231",
-    "name": "Concessions And Rides",
-    "description": "Amusement Places & Arcades",
-    "phone": "(813) 778-4120",
-    "address": "street: N/A location: Ruskin, FL 33575"
-  },
-  {
-    "dataYpid": "495769749",
-    "name": "All Area Signs, LLC",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(863) 614-7839",
-    "address": "street: N/A location: Valrico, FL 33594"
-  },
-  {
-    "dataYpid": "10861498",
-    "name": "LocalDirective",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(866) 925-9524",
-    "address": "street: N/A location: Tampa, FL 33609"
-  },
-  {
-    "dataYpid": "451717950",
-    "name": "Lyngberg Enterprises, Inc",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 322-0419",
-    "address": "street: N/A location: Sun City Center, FL 33573"
-  },
-  {
-    "dataYpid": "457900418",
-    "name": "Envisualize Design, LLC.",
-    "description": "Graphic Designers",
-    "phone": "(813) 263-8633",
-    "address": "street: N/A location: Tampa, FL 33610"
-  },
-  {
-    "dataYpid": "461459819",
-    "name": "Capps Ruschke Inc",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 756-4148",
-    "address": "street: N/A location: Lithia, FL 33547"
-  },
-  {
-    "dataYpid": "462538870",
-    "name": "Social Marketing Maniacs",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 344-9457",
-    "address": "street: N/A location: Ruskin, FL 33570"
-  },
-  {
-    "dataYpid": "465204173",
-    "name": "MatchedMarketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 325-0006",
-    "address": "street: N/A location: Tampa, FL 33629"
-  },
-  {
-    "dataYpid": "483323219",
-    "name": "Best Edge SEM",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 321-5695",
-    "address": "street: N/A location: Tampa, FL 33647"
-  },
-  {
-    "dataYpid": "501468768",
-    "name": "Retail Consultants of Tampa Bay",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 773-7030",
-    "address": "street: N/A location: Ruskin, FL 33570"
-  },
-  {
-    "dataYpid": "535456840",
-    "name": "Tegra Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 358-7275",
-    "address": "street: N/A location: Tampa, FL 33602"
-  },
-  {
-    "dataYpid": "576675311",
-    "name": "WEBINDAYS | Website Development, Advertising & Photography Services",
-    "description": "Web Site Design & Services",
-    "phone": "(917) 376-2696",
-    "address": "street: N/A location: Apollo Beach, FL 33572"
-  },
-  {
-    "dataYpid": "23155845",
-    "name": "Promos Judith Noriega Inc",
-    "description": "Advertising-Promotional Products",
-    "phone": "(813) 872-8282",
-    "address": "street: N/A location: Tampa, FL 33609"
-  },
-  {
-    "dataYpid": "461875217",
-    "name": "Sum Poosie Energy Drink",
-    "description": "Beverages",
-    "phone": "(727) 953-5920",
-    "address": "street: N/A location: Riverview, FL 33569"
-  },
-  {
-    "dataYpid": "538621763",
-    "name": "ProPages",
-    "description": "Marketing Programs & Services",
-    "phone": "(813) 482-6565",
-    "address": "street: N/A location: Tampa, FL 33609"
-  },
-  {
-    "dataYpid": "457928177",
-    "name": "Psychic Love Readings By Victoria Vega",
-    "description": "Coupon Advertising",
-    "phone": "(813) 850-3344",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "466891400",
-    "name": "A Step Closer L.L.C.",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 775-7284",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "472978213",
-    "name": "Maternowski Marketing",
-    "description": "Interactive Media",
-    "phone": "(813) 421-2738",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "207036",
-    "name": "Calm Seas Strategists LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 924-6689",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23199863",
-    "name": "KTP Designs",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 365-4416",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "238165",
-    "name": "Image Forward",
-    "description": "Internet Consultants",
-    "phone": "(813) 448-3107",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "252816",
-    "name": "Florida Vacation Condo Web Directory",
-    "description": "Directory & Guide Advertising",
-    "phone": "(813) 988-3630",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "549299536",
-    "name": "Katapult Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(561) 272-8567",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "565881066",
-    "name": "Patient Growth Blueprint",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 602-5160",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "572912502",
-    "name": "Host.Support",
-    "description": "Web Site Hosting",
-    "phone": "(813) 488-0375",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "11578",
-    "name": "Stork News®",
-    "description": "Gift Baskets",
-    "phone": "(813) 654-6775",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "19008537",
-    "name": "Attractions By Magnetix",
-    "description": "Advertising Specialties",
-    "phone": "(813) 412-6015",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22160852",
-    "name": "A Graphic Difference",
-    "description": "Business Cards",
-    "phone": "(813) 310-1629",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22277210",
-    "name": "Key Tag Network",
-    "description": "Coupon Advertising",
-    "phone": "(813) 470-9506",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "472207738",
-    "name": "The Narrow Road.",
-    "description": "Advertising Specialties",
-    "phone": "(813) 443-1875",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465203410",
-    "name": "Roadside Robots",
-    "description": "Advertising-Promotional Products",
-    "phone": "(813) 390-6431",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "527254584",
-    "name": "Florida Lighting & Signs Inc",
-    "description": "Signs",
-    "phone": "(813) 986-7611",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "460163852",
-    "name": "OppAdsAmerica (Opportunity Ad Magazine)",
-    "description": "Direct Mail Advertising",
-    "phone": "(813) 465-1868",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452210104",
-    "name": "AXIS Websites, LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 323-7260",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468520082",
-    "name": "SLM Web Consulting",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 446-5445",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "521646853",
-    "name": "Floridaalarm.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 657-0120",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573734656",
-    "name": "Peeples and Places",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(561) 398-8920",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "7599510",
-    "name": "Blue Life Pool Service",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 597-5009",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "15427532",
-    "name": "Friendly Sign",
-    "description": "Advertising Specialties",
-    "phone": "(813) 888-7446",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "14451933",
     "name": "Solar Designs",
     "description": "Auto Repair & Service",
     "phone": "(813) 922-0532",
-    "address": "street: 103 W College Ave location: Ruskin, FL 33570"
+    "address": " 103 W College Ave  Ruskin, FL 33570",
+    "location": "Bay"
   },
   {
-    "dataYpid": "549991292",
     "name": "Joda Digital Marketing & Pub",
     "description": "Advertising Agencies",
     "phone": "(855) 522-5632",
-    "address": "street: 2733 Brookville Dr location: Valrico, FL 33596"
+    "address": " 2733 Brookville Dr  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "561737198",
     "name": "Meticulous Jess Marketing Agency",
     "description": "Advertising Agencies",
     "phone": "(813) 822-9884",
-    "address": "street: 10668 New East Bay Rd location: Gibsonton, FL 33534"
+    "address": " 10668 New East Bay Rd  Gibsonton, FL 33534",
+    "location": "Bay"
   },
   {
-    "dataYpid": "504399420",
     "name": "Indivo",
     "description": "Advertising Agencies",
     "phone": "(877) 446-3486",
-    "address": "street: 235 Apollo Beach Blvd Ste 256 location: Apollo Beach, FL 33572"
+    "address": " 235 Apollo Beach Blvd Ste 256  Apollo Beach, FL 33572",
+    "location": "Bay"
   },
   {
-    "dataYpid": "481221753",
     "name": "Resseguie Advertising",
     "description": "Advertising Agencies",
     "phone": "(813) 642-0606",
-    "address": "street: 2203 N Creek Ct location: Sun City Center, FL 33573"
+    "address": " 2203 N Creek Ct  Sun City Center, FL 33573",
+    "location": "Bay"
   },
   {
-    "dataYpid": "18155998",
     "name": "Smedley Creative Graphic Design",
     "description": "Advertising Agencies",
     "phone": "(813) 431-1029",
-    "address": "street: 4618 River Close Blvd location: Valrico, FL 33596"
+    "address": " 4618 River Close Blvd  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "573134900",
     "name": "Swim Digital Group",
     "description": "Advertising Agencies",
     "phone": "(813) 225-1010",
-    "address": "street: 10810 Boyette Rd location: Riverview, FL 33569"
+    "address": " 10810 Boyette Rd  Riverview, FL 33569",
+    "location": "Bay"
   },
   {
-    "dataYpid": "459347616",
     "name": "Tone & Assoc",
     "description": "Advertising Agencies",
     "phone": "(813) 689-2292",
-    "address": "street: 2104 Crooked Creek Way location: Valrico, FL 33596"
+    "address": " 2104 Crooked Creek Way  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "504873832",
     "name": "Ad Mechanics",
     "description": "Advertising Agencies",
     "phone": "(404) 312-8935",
-    "address": "street: 5002 Muir Way location: Lithia, FL 33547"
+    "address": " 5002 Muir Way  Lithia, FL 33547",
+    "location": "Bay"
   },
   {
-    "dataYpid": "510280355",
     "name": "Apollo Digital Marketing",
     "description": "Advertising Agencies",
     "phone": "(813) 540-2447",
-    "address": "street: 6560 Simone Shores Cir location: Apollo Beach, FL 33572"
+    "address": " 6560 Simone Shores Cir  Apollo Beach, FL 33572",
+    "location": "Bay"
   },
   {
-    "dataYpid": "464557813",
     "name": "Freight Management Service",
     "description": "Advertising Agencies",
     "phone": "(813) 677-6004",
-    "address": "street: 7423 US Highway 301 S location: Riverview, FL 33578"
+    "address": " 7423 US Highway 301 S  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "28918795",
     "name": "Francis J Riva Jr",
     "description": "Advertising Agencies",
     "phone": "(813) 661-5090",
-    "address": "street: 3911 Saddle Ridge St location: Valrico, FL 33596"
+    "address": " 3911 Saddle Ridge St  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "459506752",
     "name": "Raoust & Partners",
     "description": "Advertising Agencies",
     "phone": "(813) 661-5900",
-    "address": "street: 3111 Bent Creek Dr location: Valrico, FL 33596"
+    "address": " 3111 Bent Creek Dr  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "6142575",
     "name": "Federation For Natural Resource Conservation",
     "description": "Advertising Agencies",
     "phone": "(813) 654-4636",
-    "address": "street: 1706 S Kings Ave location: Brandon, FL 33511"
+    "address": " 1706 S Kings Ave  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "464541678",
     "name": "A Game Consulting Intl",
     "description": "Advertising Agencies",
     "phone": "(813) 657-3719",
-    "address": "street: 3920 Valrico Grove Dr location: Valrico, FL 33594"
+    "address": " 3920 Valrico Grove Dr  Valrico, FL 33594",
+    "location": "Bay"
   },
   {
-    "dataYpid": "497760566",
     "name": "Top Charter Fishing Network, Inc.",
     "description": "Advertising Agencies",
     "phone": "(949) 292-8747",
-    "address": "street: 1045 Apollo Beach Blvd location: Apollo Beach, FL 33572"
+    "address": " 1045 Apollo Beach Blvd  Apollo Beach, FL 33572",
+    "location": "Bay"
   },
   {
-    "dataYpid": "12158979",
     "name": "Phoenix Advertising Graphics",
     "description": "Advertising Agencies",
     "phone": "(813) 642-0002",
-    "address": "street: 6101 Adamsville Rd location: Gibsonton, FL 33534"
+    "address": " 6101 Adamsville Rd  Gibsonton, FL 33534",
+    "location": "Bay"
   },
   {
-    "dataYpid": "576337923",
     "name": "OptiPro SEO",
     "description": "Advertising Agencies",
     "phone": "(813) 317-6521",
-    "address": "street: 7307 Guilford Pine Ln location: Apollo Beach, FL 33572"
+    "address": " 7307 Guilford Pine Ln  Apollo Beach, FL 33572",
+    "location": "Bay"
   },
   {
-    "dataYpid": "540816969",
     "name": "Superbolt Studios",
     "description": "Advertising Agencies",
     "phone": "(813) 203-4624",
-    "address": "street: 9648 US Hwy 301 S. #217 location: Riverview, FL 33569"
+    "address": " 9648 US Hwy 301 S. #217  Riverview, FL 33569",
+    "location": "Bay"
   },
   {
-    "dataYpid": "548200913",
     "name": "Emu Web Marketing",
     "description": "Advertising Agencies",
     "phone": "(813) 402-0217",
-    "address": "street: 2929 Minuteman Ln location: Brandon, FL 33511"
+    "address": " 2929 Minuteman Ln  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "531843343",
     "name": "Merchantside",
     "description": "Advertising Agencies",
     "phone": "(813) 602-1308",
-    "address": "street: 650 E Bloomingdale Ave location: Brandon, FL 33511"
+    "address": " 650 E Bloomingdale Ave  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "481421497",
     "name": "Distinctive Impressions Advertising & Promotions",
     "description": "Advertising Agencies",
     "phone": "(813) 672-2573",
-    "address": "street: 11705 Boyette Rd # 414 location: Riverview, FL 33569"
+    "address": " 11705 Boyette Rd # 414  Riverview, FL 33569",
+    "location": "Bay"
   },
   {
-    "dataYpid": "534748545",
     "name": "E&A Lounge Promotions",
     "description": "Advertising Agencies",
     "phone": "(863) 529-1120",
-    "address": "street: 2412 Cedarcrest Pl location: Valrico, FL 33596"
+    "address": " 2412 Cedarcrest Pl  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "475572960",
     "name": "TheBrandonDirectory.Com",
     "description": "Advertising Agencies",
     "phone": "(202) 738-1960",
-    "address": "street: 905 Tuscanny St location: Brandon, FL 33511"
+    "address": " 905 Tuscanny St  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "454905807",
     "name": "Russ Russ Productions",
     "description": "Advertising Agencies",
     "phone": "(813) 661-5736",
-    "address": "street: 2104 Golf Manor Blvd location: Valrico, FL 33596"
+    "address": " 2104 Golf Manor Blvd  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "3960692",
     "name": "Horse N Tack",
     "description": "Advertising Agencies",
     "phone": "(813) 685-9663",
-    "address": "street: 7820 Lithia Pinecrest Rd location: Lithia, FL 33547"
+    "address": " 7820 Lithia Pinecrest Rd  Lithia, FL 33547",
+    "location": "Bay"
   },
   {
-    "dataYpid": "4482768",
     "name": "Rocken Graphics",
     "description": "Advertising Agencies",
     "phone": "(813) 672-2189",
-    "address": "street: 6915 Riverview Dr location: Riverview, FL 33578"
+    "address": " 6915 Riverview Dr  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "15122306",
     "name": "Postal Shop",
     "description": "Mail & Shipping Services",
     "phone": "(813) 661-5668",
-    "address": "street: 5668 Fishhawk Crossing Blvd location: Lithia, FL 33547"
+    "address": " 5668 Fishhawk Crossing Blvd  Lithia, FL 33547",
+    "location": "Bay"
   },
   {
-    "dataYpid": "530654506",
     "name": "Lawnline Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 944-3400",
-    "address": "street: 235 Apollo Beach Blvd # 128 location: Apollo Beach, FL 33572"
+    "address": " 235 Apollo Beach Blvd # 128  Apollo Beach, FL 33572",
+    "location": "Bay"
   },
   {
-    "dataYpid": "456845869",
     "name": "Sign-stine Signs & Wrap Graphics",
     "description": "Searchlights & Floodlights",
     "phone": "(813) 626-7446",
-    "address": "street: PO Box 964 location: Valrico, FL 33595"
+    "address": " PO Box 964  Valrico, FL 33595",
+    "location": "Bay"
   },
   {
-    "dataYpid": "209870",
     "name": "Graphesis Marketing & Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 468-4607",
-    "address": "street: 2717 Briarpatch Dr location: Valrico, FL 33596"
+    "address": " 2717 Briarpatch Dr  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "512785037",
     "name": "Custom Wallart",
     "description": "Signs",
     "phone": "(813) 689-5400",
-    "address": "street: 3113 Lithia Pinecrest Rd location: Valrico, FL 33596"
+    "address": " 3113 Lithia Pinecrest Rd  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "539086574",
     "name": "Market Area Reports",
     "description": "Direct Mail Advertising",
     "phone": "(813) 773-5671",
-    "address": "street: 5315 Twin Creeks Dr location: Valrico, FL 33596"
+    "address": " 5315 Twin Creeks Dr  Valrico, FL 33596",
+    "location": "Bay"
   },
   {
-    "dataYpid": "576563974",
     "name": "Wolf Bot Ai",
     "description": "Internet Marketing & Advertising",
     "phone": "(855) 965-3268",
-    "address": "street: 4846 Sun City Center Blvd location: Sun City Center, FL 33573"
+    "address": " 4846 Sun City Center Blvd  Sun City Center, FL 33573",
+    "location": "Bay"
   },
   {
-    "dataYpid": "549179836",
     "name": "Apotheca",
     "description": "Internet Marketing & Advertising",
     "phone": "(440) 701-6665",
-    "address": "street: 16440 Bridgewalk Dr location: Lithia, FL 33547"
+    "address": " 16440 Bridgewalk Dr  Lithia, FL 33547",
+    "location": "Bay"
   },
   {
-    "dataYpid": "533180385",
     "name": "Tampa Bay Interactive",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 451-3681",
-    "address": "street: Po Box 121 location: Lithia, FL 33547"
+    "address": " Po Box 121  Lithia, FL 33547",
+    "location": "Bay"
   },
   {
-    "dataYpid": "494500157",
     "name": "Mackey Productions, LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 699-0843",
-    "address": "street: 5409 Lindburg St location: Riverview, FL 33578"
+    "address": " 5409 Lindburg St  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "462565066",
     "name": "Mace Multimedia",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 704-0460",
-    "address": "street: 10312 Bloomingdale Ave Ste 108-380 location: Riverview, FL 33578"
+    "address": " 10312 Bloomingdale Ave Ste 108-380  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "458322997",
     "name": "Creative Web Actions",
     "description": "Web Site Design & Services",
     "phone": "(813) 856-3312",
-    "address": "street: PO Box 746 location: Valrico, FL 33595"
+    "address": " PO Box 746  Valrico, FL 33595",
+    "location": "Bay"
   },
   {
-    "dataYpid": "563902765",
     "name": "Scan Corp",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 653-2877",
-    "address": "street: 910 Lithia Pinecrest Rd location: Brandon, FL 33511"
+    "address": " 910 Lithia Pinecrest Rd  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "575292440",
     "name": "Quality Signs Tampa",
     "description": "Signs",
     "phone": "(813) 689-8671",
-    "address": "street: 10312 Bloomingdale Ave location: Riverview, FL 33578"
+    "address": " 10312 Bloomingdale Ave  Riverview, FL 33578",
+    "location": "Bay"
   },
   {
-    "dataYpid": "553601726",
     "name": "Donnaspromoscom",
     "description": "Internet Marketing & Advertising",
     "phone": "(205) 980-6400",
-    "address": "street: 9616 Birnamwood St location: Riverview, FL 33569"
+    "address": " 9616 Birnamwood St  Riverview, FL 33569",
+    "location": "Bay"
   },
   {
-    "dataYpid": "503579359",
-    "name": "Custom Wallart",
-    "description": "Advertising Specialties",
-    "phone": "(813) 689-5400",
-    "address": "street: 5492 Lithia Pinecrest Rd location: Lithia, FL 33547"
-  },
-  {
-    "dataYpid": "473388848",
     "name": "Signs Now",
     "description": "Signs",
     "phone": "(813) 404-5267",
-    "address": "street: 2012 Green Juniper Ln location: Brandon, FL 33511"
+    "address": " 2012 Green Juniper Ln  Brandon, FL 33511",
+    "location": "Bay"
   },
   {
-    "dataYpid": "481582833",
     "name": "ADM2 Exhibits & Displays",
     "description": "Directory & Guide Advertising",
     "phone": "(844) 283-8582",
-    "address": "street: 5690 W Crenshaw St location: Tampa, FL 33634"
+    "address": " 5690 W Crenshaw St  Tampa, FL 33634",
+    "location": "Bay"
   },
   {
-    "dataYpid": "2636425",
     "name": "Beth Wexler",
     "description": "Computer & Equipment Dealers",
     "phone": "(813) 435-9146",
-    "address": "street: 7211 N Dale Mabry Hwy Ste 104 location: Tampa, FL 33614"
+    "address": " 7211 N Dale Mabry Hwy Ste 104  Tampa, FL 33614",
+    "location": "Bay"
   },
   {
-    "dataYpid": "460713107",
     "name": "Tampa Bay Times",
     "description": "Newspapers",
     "phone": "(656) 201-8700",
-    "address": "street: 490 1st Ave S location: St Petersburg, FL 33701"
+    "address": " 490 1st Ave S  St Petersburg, FL 33701",
+    "location": "Bay"
   },
   {
-    "dataYpid": "509702769",
     "name": "Advertizing Air Force",
     "description": "Advertising-Aerial",
     "phone": "(727) 823-0240",
-    "address": "street: 341 8th Ave SE location: Saint Petersburg, FL 33701"
+    "address": " 341 8th Ave SE  Saint Petersburg, FL 33701",
+    "location": "Bay"
   },
   {
-    "dataYpid": "12994144",
     "name": "Directnet Advertisingnet Inc",
     "description": "Advertising Agencies",
     "phone": "(727) 567-6630",
-    "address": "street: 9400 4th St N location: Saint Petersburg, FL 33702"
+    "address": " 9400 4th St N  Saint Petersburg, FL 33702",
+    "location": "Bay"
   },
   {
-    "dataYpid": "561270042",
     "name": "Emerald Coast Striping",
     "description": "Parking Lot Maintenance & Marking",
     "phone": "(813) 355-4974",
-    "address": "street: 4826 Airport Rd location: Zephyrhills, FL 33542"
+    "address": " 4826 Airport Rd  Zephyrhills, FL 33542",
+    "location": "Bay"
   },
   {
-    "dataYpid": "21817021",
     "name": "Owens Electric",
     "description": "Professional Engineers",
     "phone": "(941) 210-0205",
-    "address": "street: 2242 Industrial Blvd Fl 34234 location: Sarasota, FL 34234"
+    "address": " 2242 Industrial Blvd Fl 34234  Sarasota, FL 34234",
+    "location": "Bay"
   },
   {
-    "dataYpid": "12788972",
     "name": "Interprint Web Printing",
     "description": "Catalog Designers & Compilers",
     "phone": "(727) 477-0424",
-    "address": "street: 12350 US Highway 19 N location: Clearwater, FL 33764"
+    "address": " 12350 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Bay"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575798349",
-    "name": "Z to A Media",
-    "description": "Marketing Consultants",
-    "phone": "(727) 416-7769",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "546974868",
-    "name": "Banner Marketing Group",
-    "description": "Flags, Flagpoles & Accessories",
-    "phone": "(805) 528-5018",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9818410",
     "name": "2SF Advertizing & Design",
     "description": "Graphic Designers",
     "phone": "(813) 416-0882",
-    "address": "street: 4204 N Riverside Dr location: Tampa, FL 33603"
+    "address": " 4204 N Riverside Dr  Tampa, FL 33603",
+    "location": "Bay"
   },
   {
-    "dataYpid": "9556368",
     "name": "Signs Marketing & Advertisi",
     "description": "Signs",
     "phone": "(941) 727-2901",
-    "address": "street: 5421 15th St E location: Bradenton, FL 34203"
+    "address": " 5421 15th St E  Bradenton, FL 34203",
+    "location": "Bay"
   }
 ]

@@ -1,122 +1,114 @@
 [
   {
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Advertising-Promotional Products",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "All Kinds of Design",
-    "description": "Advertising-Promotional Products",
-    "phone": "(386) 935-4924",
-    "address": "street: N/A location: N/A"
-  },
-  {
     "name": "Remember Me Promotional Specialists",
     "description": "Advertising-Promotional Products",
     "phone": "(912) 230-6981",
-    "address": "street: 16821 27th Pl location: Lake City, FL 32024"
+    "address": "16821 27th Pl  Lake City, FL 32024",
+    "location": "Bradford"
   },
   {
     "name": "Cady Promos, Inc.",
     "description": "Advertising-Promotional Products",
     "phone": "(800) 234-5561",
-    "address": "street: 2140 SW Main Blvd location: Lake City, FL 32025"
+    "address": "2140 SW Main Blvd  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "All Kinds of Design",
     "description": "Advertising-Promotional Products",
     "phone": "(386) 344-4997",
-    "address": "street: 197 SW Joyful Loop location: Lake City, FL 32024"
+    "address": "197 SW Joyful Loop  Lake City, FL 32024",
+    "location": "Bradford"
   },
   {
     "name": "Fla-Ga Signs",
     "description": "Signs",
     "phone": "(386) 438-5911",
-    "address": "street: 356 NW Turner Ave location: Lake City, FL 32055"
+    "address": "356 NW Turner Ave  Lake City, FL 32055",
+    "location": "Bradford"
   },
   {
     "name": "Rise Above Seo",
     "description": "Advertising Agencies",
     "phone": "(800) 625-0012",
-    "address": "street: 291 SW Fantasy Gln location: Lake City, FL 32024"
+    "address": "291 SW Fantasy Gln  Lake City, FL 32024",
+    "location": "Bradford"
   },
   {
     "name": "Signco",
     "description": "Signs",
     "phone": "(386) 755-4704",
-    "address": "street: 162 SW Spencer Ct location: Lake City, FL 32024"
+    "address": "162 SW Spencer Ct  Lake City, FL 32024",
+    "location": "Bradford"
   },
   {
     "name": "Global Sign Images",
     "description": "Signs",
     "phone": "(386) 438-5717",
-    "address": "street: 484 SW Commerce Dr Ste 130 location: Lake City, FL 32025"
+    "address": "484 SW Commerce Dr Ste 130  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Nation Signs",
     "description": "Signs",
     "phone": "(386) 752-4660",
-    "address": "street: 471 SW State Road 247 location: Lake City, FL 32025"
+    "address": "471 SW State Road 247  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Brushworks",
     "description": "Signs",
     "phone": "(386) 752-6722",
-    "address": "street: 13324 S Us Highway 441 location: Lake City, FL 32025"
+    "address": "13324 S Us Highway 441  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Diamond S Designs",
     "description": "Advertising-Promotional Products",
     "phone": "(386) 227-6022",
-    "address": "street: 18701 104th St location: Live Oak, FL 32060"
+    "address": "18701 104th St  Live Oak, FL 32060",
+    "location": "Bradford"
   },
   {
     "name": "Hunter Printing Co",
     "description": "Stationery Stores",
     "phone": "(386) 752-2707",
-    "address": "street: 1330 SW Main Blvd location: Lake City, FL 32025"
+    "address": "1330 SW Main Blvd  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Capital Signs",
     "description": "Signs",
     "phone": "(386) 487-6482",
-    "address": "street: 366 SW Knox St location: Lake City, FL 32025"
+    "address": "366 SW Knox St  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Linton, Caleb",
     "description": "Advertising Agencies",
     "phone": "(386) 292-6882",
-    "address": "street: 144 SW Waterford Ct location: Lake City, FL 32025"
-  },
-  {
-    "name": "Global Sign Images",
-    "description": "Advertising Specialties",
-    "phone": "(386) 438-5717",
-    "address": "street: 125 SW Midtown Pl location: Lake City, FL 32025"
+    "address": "144 SW Waterford Ct  Lake City, FL 32025",
+    "location": "Bradford"
   },
   {
     "name": "Image of July Morning Co",
     "description": "Advertising Agencies",
     "phone": "(386) 752-8088",
-    "address": "street: 231 NW Burk Ave Ste 101 location: Lake City, FL 32055"
+    "address": "231 NW Burk Ave Ste 101  Lake City, FL 32055",
+    "location": "Bradford"
   },
   {
     "name": "Dowling Signs-North Central FL",
     "description": "Signs",
     "phone": "(386) 201-0813",
-    "address": "street: 18038 NW 246th St location: High Springs, FL 32643"
+    "address": "18038 NW 246th St  High Springs, FL 32643",
+    "location": "Bradford"
   },
   {
     "name": "Kms Media Solutions",
     "description": "Advertising Agencies",
     "phone": "(352) 258-0193",
-    "address": "street: PO Box 580 location: High Springs, FL 32655"
+    "address": "PO Box 580  High Springs, FL 32655",
+    "location": "Bradford"
   }
 ]

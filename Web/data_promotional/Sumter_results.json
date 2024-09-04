@@ -1,1577 +1,723 @@
 [
   {
-    "dataYpid": "570426651",
     "name": "Label Seven Apparel",
     "description": "Advertising-Promotional Products",
     "phone": "(689) 208-8417",
-    "address": "street: 1243 Commons Ct location: Clermont, FL 34711"
+    "address": " 1243 Commons Ct - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "481921521",
     "name": "Coleman Design Service",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 399-7378",
-    "address": "street: P O Box 618174 location: Orlando, FL 32861"
+    "address": " P O Box 618174 - Orlando, FL 32861",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "466364143",
-    "name": "Affiliate",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 460-6164",
-    "address": "street: N/A location: Kissimmee, FL 34743"
-  },
-  {
-    "dataYpid": "539107897",
-    "name": "Foreign Boiz Productions",
-    "description": "Advertising-Promotional Products",
-    "phone": "(850) 684-8803",
-    "address": "street: N/A location: Kissimmee, FL 34758"
-  },
-  {
-    "dataYpid": "541902415",
-    "name": "postadusa",
-    "description": "Advertising-Promotional Products",
-    "phone": "(862) 373-1118",
-    "address": "street: N/A location: Orlando, FL 32801"
-  },
-  {
-    "dataYpid": "489372334",
-    "name": "BookedPro",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 219-4093",
-    "address": "street: N/A location: Orlando, FL 32835"
-  },
-  {
-    "dataYpid": "503131717",
-    "name": "Christees Creations",
-    "description": "Advertising-Promotional Products",
-    "phone": "(352) 350-6758",
-    "address": "street: N/A location: The Villages, FL 32162"
-  },
-  {
-    "dataYpid": "22390482",
-    "name": "Work at home",
-    "description": "Advertising-Promotional Products",
-    "phone": "(352) 729-4132",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "26251290",
-    "name": "JAB Graphics",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 957-8626",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "533116412",
-    "name": "Independence Pedicab",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 460-4240",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "10191787",
-    "name": "Code 3 Promotions",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 206-4966",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464397310",
-    "name": "A & A Advertising Specialties",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 381-5799",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "477977185",
-    "name": "Dynamite Discounts",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 920-8824",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505326102",
-    "name": "Al-9br.Com",
-    "description": "Advertising-Promotional Products",
-    "phone": "(701) 446-7912",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560346950",
-    "name": "Just-2-Shop.Com",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 300-3307",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560355359",
-    "name": "Creative Imaging, Ltd.",
-    "description": "Advertising-Promotional Products",
-    "phone": "(844) 848-1900",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560805464",
-    "name": "Ads Up Balloons",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 406-3936",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "561705559",
-    "name": "The Sunshine Group",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 623-3333",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "1619695",
-    "name": "AdvertiseIT",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 522-8064",
-    "address": "street: N/A location: Orlando, FL 32810"
-  },
-  {
-    "dataYpid": "13706975",
-    "name": "Genesis Products & Service Inc",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 855-3909",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "20638117",
-    "name": "Thousands Online",
-    "description": "Advertising-Promotional Products",
-    "phone": "(352) 978-8291",
-    "address": "street: N/A location: Minneola, FL 34715"
-  },
-  {
-    "dataYpid": "474583299",
     "name": "Central Florida Travel",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 494-0595",
-    "address": "street: 4327 S Highway 27 PMB 184 location: Clermont, FL 34711"
+    "address": " 4327 S Highway 27 PMB 184 - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "474526715",
     "name": "Graphix Solutions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 234-7271",
-    "address": "street: 2478 Lake Debra Dr location: orlando, FL 32835"
+    "address": " 2478 Lake Debra Dr - orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "566740778",
     "name": "Economical Quality Products",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 497-1351",
-    "address": "street: 738 Business Park Blvd location: Winter Garden, FL 34787"
+    "address": " 738 Business Park Blvd - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "459145664",
     "name": "Proforma Platinum Impressions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 877-9186",
-    "address": "street: 6982 Swinscoe Ln location: Windermere, FL 34786"
+    "address": " 6982 Swinscoe Ln - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "20564660",
     "name": "Miracle's Digital Promise",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 968-5966",
-    "address": "street: 3100 Old Winter Garden Rd location: Ocoee, FL 34761"
+    "address": " 3100 Old Winter Garden Rd - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "506240721",
     "name": "Speciatly Incentives- Florida",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 253-5128",
-    "address": "street: 1316 Westmeath Ct location: Apopka, FL 32703"
+    "address": " 1316 Westmeath Ct - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "22770188",
     "name": "DeHarris Advertising & Promotions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 202-2370",
-    "address": "street: 934 S Central Ave location: Apopka, FL 32703"
+    "address": " 934 S Central Ave - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "562806355",
     "name": "A1 Balloon",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 354-2300",
-    "address": "street: 2773 N Apopka Vineland Rd location: Orlando, FL 32818"
+    "address": " 2773 N Apopka Vineland Rd - Orlando, FL 32818",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "478340110",
     "name": "Trump Auto Promotions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 203-0854",
-    "address": "street: 7065 Westpointe Blvd Ste 319 location: Orlando, FL 32835"
+    "address": " 7065 Westpointe Blvd Ste 319 - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "503485150",
     "name": "Vision and Designs Central Florida Signs",
     "description": "Advertising-Promotional Products",
     "phone": "(305) 349-3597",
-    "address": "street: 6644 Old Winter Garden Rd location: Orlando, FL 32835"
+    "address": " 6644 Old Winter Garden Rd - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "1029347",
     "name": "South Lake Quick Print",
     "description": "Advertising-Promotional Products",
     "phone": "(352) 243-2265",
-    "address": "street: 331 N Highway 27 location: Clermont, FL 34711"
+    "address": " 331 N Highway 27 - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472099488",
-    "name": "Professional Images",
-    "description": "Advertising-Promotional Products",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452134159",
-    "name": "Florida balloons & Promotions",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 222-8877",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "503136870",
     "name": "Minuteman Press",
     "description": "Advertising-Promotional Products",
     "phone": "(352) 394-7770",
-    "address": "street: 304 Mohawk Rd location: Minneola, FL 34715"
+    "address": " 304 Mohawk Rd - Minneola, FL 34715",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "1105790",
-    "name": "Amerinational Management Services, Inc.",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 895-1996",
-    "address": "street: N/A location: Orlando, FL 32814"
-  },
-  {
-    "dataYpid": "457426478",
-    "name": "East Orlando Printing 32828",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 947-6700",
-    "address": "street: N/A location: Orlando, FL 32828"
-  },
-  {
-    "dataYpid": "469534997",
-    "name": "Plaudits",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 993-4200",
-    "address": "street: N/A location: Ocoee, FL 34761"
-  },
-  {
-    "dataYpid": "510628200",
-    "name": "Bomb Branding",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 757-9038",
-    "address": "street: N/A location: Orlando, FL 32806"
-  },
-  {
-    "dataYpid": "545063184",
-    "name": "Signature Coins",
-    "description": "Advertising-Promotional Products",
-    "phone": "(800) 480-6822",
-    "address": "street: N/A location: Orlando, FL 32820"
-  },
-  {
-    "dataYpid": "545868017",
-    "name": "1950Films",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 807-0992",
-    "address": "street: N/A location: Winter Garden, FL 34787"
-  },
-  {
-    "dataYpid": "523769853",
-    "name": "Elokuent",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 734-3565",
-    "address": "street: N/A location: Orlando, FL 32806"
-  },
-  {
-    "dataYpid": "539412194",
-    "name": "GGR Marketing & PR",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 427-1800",
-    "address": "street: N/A location: Orlando, FL 32803"
-  },
-  {
-    "dataYpid": "576570538",
-    "name": "Komfy Owl Prints",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 225-1568",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9778257",
-    "name": "Link Printing",
-    "description": "Advertising-Promotional Products",
-    "phone": "(352) 429-0803",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22842668",
-    "name": "1 Americas Promotions Custom Promotional Products and Promo Items",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 558-1312",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "256382",
-    "name": "Let's Go Promos",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 277-4758",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "31212241",
-    "name": "The Flag Site",
-    "description": "Advertising-Promotional Products",
-    "phone": "(877) 612-3181",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "514565350",
-    "name": "Marketing Abstract Advertising",
-    "description": "Advertising-Promotional Products",
-    "phone": "(321) 746-6779",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "2343826",
-    "name": "Rimco Marketing Products",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 290-0883",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "2938236",
-    "name": "Americana Sales Ventures, Inc.",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 862-8388",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467552903",
-    "name": "Monkey Business Promotions",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 541-2370",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "482100143",
-    "name": "DewFlicky",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 608-5570",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "473533102",
     "name": "Wicked Motosports",
     "description": "Advertising-Promotional Products",
     "phone": "(352) 989-5922",
-    "address": "street: 1516 Max Hooks Rd Ste J location: Groveland, FL 34736"
+    "address": " 1516 Max Hooks Rd Ste J - Groveland, FL 34736",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "519110416",
     "name": "Burnt Toast Productions",
     "description": "Advertising-Promotional Products",
     "phone": "(208) 477-6667",
-    "address": "street: 4548 Barrister Dr location: Clermont, FL 34711"
+    "address": " 4548 Barrister Dr - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "495852686",
     "name": "Reaching Our Destiny, Inc",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 603-5387",
-    "address": "street: 13162 Social Ln location: Winter Garden, FL 34787"
+    "address": " 13162 Social Ln - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "475635573",
     "name": "AD & Expressions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 579-8753",
-    "address": "street: 600 Cagan Park Ave location: Clermont, FL 34714"
+    "address": " 600 Cagan Park Ave - Clermont, FL 34714",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "553854230",
     "name": "Tshirt Society Group",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 404-1299",
-    "address": "street: 979 Almond Tree Cir location: Orlando, FL 32835"
+    "address": " 979 Almond Tree Cir - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "507595732",
     "name": "CreoleBiz.com",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 949-2590",
-    "address": "street: 581 N Park Ave Unit 952 location: Apopka, FL 32704"
+    "address": " 581 N Park Ave Unit 952 - Apopka, FL 32704",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "572789360",
     "name": "Kreative Koncepts",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 889-8200",
-    "address": "street: 746 Primrose Willow Way location: Apopka, FL 32712"
+    "address": " 746 Primrose Willow Way - Apopka, FL 32712",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "572789360",
-    "name": "Kreative Koncepts",
-    "description": "Advertising-Promotional Products",
-    "phone": "(407) 889-8200",
-    "address": "street: 746 Primrose Willow Way location: Apopka, FL 32712"
-  },
-  {
-    "dataYpid": "504482769",
     "name": "Skillful Antics Web & Seo",
     "description": "Web Site Design & Services",
     "phone": "(352) 516-2649",
-    "address": "street: 141 N Highway 27 location: Clermont, FL 34711"
+    "address": " 141 N Highway 27 - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "467447621",
     "name": "Graphics Direct Inc",
     "description": "Signs",
     "phone": "(352) 432-3996",
-    "address": "street: 552 S Highway 27 Ste B location: Minneola, FL 34715"
+    "address": " 552 S Highway 27 Ste B - Minneola, FL 34715",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468525255",
-    "name": "Full Access Experiential Media Group, LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(800) 614-5939",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "523958796",
     "name": "Affordable Sings",
     "description": "Signs",
     "phone": "(352) 241-7645",
-    "address": "street: 192 W Highway 50 location: Clermont, FL 34711"
+    "address": " 192 W Highway 50 - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "482456788",
     "name": "Red Giant Entertainment Inc",
     "description": "Product Design, Development & Marketing",
     "phone": "(866) 926-6427",
-    "address": "street: 614 E Highway 50 # 235 location: Clermont, FL 34711"
+    "address": " 614 E Highway 50 # 235 - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "11615723",
     "name": "Kyle Promotions",
     "description": "Advertising Specialties",
     "phone": "(352) 394-5493",
-    "address": "street: 748 Lake Ave location: Clermont, FL 34711"
+    "address": " 748 Lake Ave - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "2505168",
     "name": "Appletree Ink",
     "description": "Copying & Duplicating Service",
     "phone": "(352) 243-1066",
-    "address": "street: 761 W Montrose St location: Clermont, FL 34711"
+    "address": " 761 W Montrose St - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "551776869",
-    "name": "Matt Meyers, SEM",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(616) 340-8212",
-    "address": "street: N/A location: Clermont, FL 34711"
-  },
-  {
-    "dataYpid": "466832397",
-    "name": "Super Affiliate Media",
-    "description": "Online & Mail Order Shopping",
-    "phone": "(352) 556-1554",
-    "address": "street: N/A location: Clermont, FL 34714"
-  },
-  {
-    "dataYpid": "541785494",
-    "name": "Great White SEM",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(616) 340-8212",
-    "address": "street: N/A location: Clermont, FL 34711"
-  },
-  {
-    "dataYpid": "461768748",
-    "name": "Remove Complaints Board.info - Remove Complaints",
-    "description": "Publicity Service",
-    "phone": "(407) 610-0600",
-    "address": "street: N/A location: Orlando, FL 32816"
-  },
-  {
-    "dataYpid": "536408804",
-    "name": "DIGITTO Media",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(407) 577-3038",
-    "address": "street: N/A location: Winter Garden, FL 34787"
-  },
-  {
-    "dataYpid": "460717053",
     "name": "Sales Bait - Print, Promotion, Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(321) 356-5471",
-    "address": "street: We ship EVERYWHERE location: Longwood, FL 32750"
+    "address": " We ship EVERYWHERE - Longwood, FL 32750",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "465114673",
     "name": "Vital Signs Physicians",
     "description": "Advertising Specialties",
     "phone": "(407) 846-0202",
-    "address": "street: 1504 Village Oak Ln location: Kissimmee, FL 34746"
+    "address": " 1504 Village Oak Ln - Kissimmee, FL 34746",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "480058616",
-    "name": "Michelle Martin Creative",
-    "description": "Advertising Agencies",
-    "phone": "(352) 383-3172",
-    "address": "street: N/A location: Mount Dora, FL 32757"
-  },
-  {
-    "dataYpid": "503136341",
-    "name": "Charles Wingo Signs Inc",
-    "description": "Signs-Maintenance & Repair",
-    "phone": "(407) 886-8131",
-    "address": "street: N/A location: Apopka, FL 32704"
-  },
-  {
-    "dataYpid": "505260632",
-    "name": "Ocasio Consulting",
-    "description": "Web Site Design & Services",
-    "phone": "(321) 300-4837",
-    "address": "street: N/A location: Orlando, FL 32828"
-  },
-  {
-    "dataYpid": "576116990",
     "name": "Nia Riddle",
     "description": "Marketing Programs & Services",
     "phone": "(407) 283-7805",
-    "address": "street: 3518 W Bind St. location: Kissimmee, FL 34741"
+    "address": " 3518 W Bind St. - Kissimmee, FL 34741",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "22989714",
-    "name": "Eyeris Networks",
-    "description": "Advertising Agencies",
-    "phone": "(407) 745-1015",
-    "address": "street: N/A location: Orlando, FL 32801"
-  },
-  {
-    "dataYpid": "456491901",
-    "name": "Net Marketing Advisers",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(352) 404-5225",
-    "address": "street: N/A location: Minneola, FL 34715"
-  },
-  {
-    "dataYpid": "459711433",
-    "name": "Orlando Internet Marketing - Partners and Profits, LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "N/A",
-    "address": "street: N/A location: Orlando, FL 32825"
-  },
-  {
-    "dataYpid": "465129555",
-    "name": "Local Area Biz",
-    "description": "Marketing Programs & Services",
-    "phone": "(800) 530-4348",
-    "address": "street: N/A location: Orlando, FL 32822"
-  },
-  {
-    "dataYpid": "467122560",
-    "name": "GEM2 Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(407) 690-6279",
-    "address": "street: N/A location: Orlando, FL 32839"
-  },
-  {
-    "dataYpid": "468756752",
-    "name": "iMarketSpas",
-    "description": "Day Spas",
-    "phone": "(407) 476-8684",
-    "address": "street: N/A location: Orlando, FL 32810"
-  },
-  {
-    "dataYpid": "480082492",
-    "name": "K&Q Marketing Solutions",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 988-2574",
-    "address": "street: N/A location: Clarcona, FL 32710"
-  },
-  {
-    "dataYpid": "481074560",
-    "name": "eListAds",
-    "description": "Advertising Agencies",
-    "phone": "(407) 233-0813",
-    "address": "street: N/A location: Orlando, FL 32806"
-  },
-  {
-    "dataYpid": "483301198",
-    "name": "Hello Sexy Productions",
-    "description": "Video Production Services",
-    "phone": "(407) 624-6749",
-    "address": "street: N/A location: Orlando, FL 32837"
-  },
-  {
-    "dataYpid": "483907618",
-    "name": "Daniel Fernandez â€” Web Designer & Graphic Designer",
-    "description": "Advertising Agencies",
-    "phone": "(407) 536-8145",
-    "address": "street: N/A location: Orlando, FL 32833"
-  },
-  {
-    "dataYpid": "496055012",
-    "name": "Grace Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(407) 960-6183",
-    "address": "street: N/A location: Winter Park, FL 32790"
-  },
-  {
-    "dataYpid": "510485398",
-    "name": "Property Manager Vendors",
-    "description": "Advertising Specialties",
-    "phone": "(407) 801-8750",
-    "address": "street: N/A location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "512300476",
-    "name": "Dynamic Advantage Creative Marketing Consultants",
-    "description": "Advertising Agencies",
-    "phone": "(862) 216-0570",
-    "address": "street: N/A location: Orlando, FL 32829"
-  },
-  {
-    "dataYpid": "539018093",
-    "name": "MG Designs",
-    "description": "Advertising Agencies",
-    "phone": "(407) 498-4686",
-    "address": "street: N/A location: Saint Cloud, FL 34772"
-  },
-  {
-    "dataYpid": "541245379",
-    "name": "Resort Vacation International",
-    "description": "Advertising Specialties",
-    "phone": "(855) 443-6080",
-    "address": "street: N/A location: Orlando, FL 32817"
-  },
-  {
-    "dataYpid": "542036130",
-    "name": "PascaleMedia.com",
-    "description": "Web Site Design & Services",
-    "phone": "(407) 462-1547",
-    "address": "street: N/A location: Orlando, FL 32801"
-  },
-  {
-    "dataYpid": "19264452",
-    "name": "Cardboard Ads",
-    "description": "Advertising Agencies",
-    "phone": "(407) 348-0258",
-    "address": "street: N/A location: Kissimmee, FL 34744"
-  },
-  {
-    "dataYpid": "453933833",
-    "name": "iDDi Studio | Design & Consulting",
-    "description": "Package Design & Development",
-    "phone": "(407) 591-9154",
-    "address": "street: N/A location: Orlando, FL 32835"
-  },
-  {
-    "dataYpid": "456242573",
-    "name": "Casanova's GPW Design",
-    "description": "Advertising Agencies",
-    "phone": "(407) 486-9299",
-    "address": "street: N/A location: Orlando, FL 32835"
-  },
-  {
-    "dataYpid": "456852648",
-    "name": "Local Business SEO",
-    "description": "Advertising Specialties",
-    "phone": "(407) 616-1009",
-    "address": "street: N/A location: Altamonte Springs, FL 32701"
-  },
-  {
-    "dataYpid": "456895113",
-    "name": "Your In-Trance To Success",
-    "description": "Communications Services",
-    "phone": "(407) 234-5911",
-    "address": "street: N/A location: Orlando, FL 32809"
-  },
-  {
-    "dataYpid": "460735109",
-    "name": "Burkhard Agency",
-    "description": "Advertising Agencies",
-    "phone": "(407) 895-3092",
-    "address": "street: N/A location: Orlando, FL 32803"
-  },
-  {
-    "dataYpid": "465328245",
-    "name": "Connection Soup LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(407) 814-3433",
-    "address": "street: N/A location: Apopka, FL 32712"
-  },
-  {
-    "dataYpid": "467911215",
-    "name": "Redzio.com",
-    "description": "Internet Consultants",
-    "phone": "(888) 673-3946",
-    "address": "street: N/A location: Orlando, FL 32801"
-  },
-  {
-    "dataYpid": "468515277",
-    "name": "Gelmtree Advertising",
-    "description": "Copy Writers",
-    "phone": "(352) 408-8601",
-    "address": "street: N/A location: Howey in the Hills, FL 34737"
-  },
-  {
-    "dataYpid": "468595290",
-    "name": "Peer Marketing Group",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(407) 792-0644",
-    "address": "street: N/A location: Orlando, FL 32801"
-  },
-  {
-    "dataYpid": "475656213",
-    "name": "AK Public Relations",
-    "description": "Publicity Service",
-    "phone": "(407) 529-5543",
-    "address": "street: N/A location: Winter Park, FL 32792"
-  },
-  {
-    "dataYpid": "476036253",
-    "name": "Whitehurst Productions",
-    "description": "Advertising Specialties",
-    "phone": "(407) 619-3623",
-    "address": "street: N/A location: Orlando, FL 32812"
-  },
-  {
-    "dataYpid": "515715828",
-    "name": "Inspire Design",
-    "description": "Graphic Designers",
-    "phone": "(407) 460-0118",
-    "address": "street: N/A location: Orlando, FL 32832"
-  },
-  {
-    "dataYpid": "552172119",
-    "name": "Your CMO on Call",
-    "description": "Marketing Consultants",
-    "phone": "(407) 588-8046",
-    "address": "street: N/A location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "566987040",
-    "name": "Lavishly Digital Solutions LLC",
-    "description": "Advertising Agencies",
-    "phone": "(407) 305-9421",
-    "address": "street: N/A location: Orlando, FL 32822"
-  },
-  {
-    "dataYpid": "18309361",
-    "name": "MiraMate.com Hispanic Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(407) 758-2531",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "19544766",
-    "name": "Reaper Harpy Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(407) 414-8276",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22755540",
-    "name": "LOCAL AD LINK",
-    "description": "Coupon Advertising",
-    "phone": "(407) 529-9980",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22918208",
-    "name": "Instant Marketing Profits",
-    "description": "Educational Materials",
-    "phone": "(800) 578-0782",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23209345",
-    "name": "The Bureau For Professional Pet Care, ethics & Business",
-    "description": "Business Plans Development",
-    "phone": "(888) 669-3695",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "3832652",
-    "name": "Al's Signs",
-    "description": "Signs",
-    "phone": "(407) 719-8952",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452297204",
-    "name": "Central Florida Marketing Solutions, LLC",
-    "description": "Interactive Media",
-    "phone": "(407) 963-0360",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "453749423",
-    "name": "Business Strategy Consulting",
-    "description": "Advertising Agencies",
-    "phone": "(407) 494-6584",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464572042",
-    "name": "Small Business Partners of Florida LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(352) 410-8805",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465112119",
-    "name": "Diva Works Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(407) 470-0069",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465328232",
-    "name": "Advision Advertising",
-    "description": "Interactive Media",
-    "phone": "(407) 456-3463",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "466895444",
-    "name": "Business to Business Networking and Solutions",
-    "description": "Advertising Specialties",
-    "phone": "(407) 291-7560",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468002691",
-    "name": "Light to the Nations Fellowship",
-    "description": "Advertising Specialties",
-    "phone": "(239) 246-7272",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "475915566",
-    "name": "God Given Talent Inc",
-    "description": "Advertising Agencies",
-    "phone": "(786) 213-3805",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "476269154",
-    "name": "Princesafarandulera",
-    "description": "Advertising Specialties",
-    "phone": "(787) 243-5400",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505046873",
-    "name": "Useche.Co",
-    "description": "Advertising Agencies",
-    "phone": "(313) 396-2651",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "527438274",
-    "name": "RevLocal",
-    "description": "Advertising Agencies",
-    "phone": "(407) 753-2167",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "538376342",
-    "name": "The Contemporary Agency",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(323) 300-4745",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "567931542",
-    "name": "Peak 9 Digital Agency",
-    "description": "Directory & Guide Advertising",
-    "phone": "(407) 900-4919",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "571702971",
-    "name": "Skillful Antics™ Web & SEO",
-    "description": "Web Site Design & Services",
-    "phone": "(352) 516-2649",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573523579",
-    "name": "American SEO & WEB",
-    "description": "Advertising Agencies",
-    "phone": "(407) 347-2982",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574309575",
-    "name": "Cindtoro Digital Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(407) 923-0109",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576141350",
-    "name": "Around My Town - Local Marketing Hub",
-    "description": "Marketing Consultants",
-    "phone": "(321) 290-7552",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576597465",
-    "name": "Brands That Last",
-    "description": "Advertising Agencies",
-    "phone": "(407) 353-0632",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576687164",
-    "name": "V Digital Services",
-    "description": "Advertising Agencies",
-    "phone": "(407) 214-1773",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22764198",
-    "name": "OviedoBiz",
-    "description": "Directory & Guide Advertising",
-    "phone": "(407) 977-0123",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23194325",
-    "name": "On The Mark Productions",
-    "description": "Advertising Agencies",
-    "phone": "(321) 256-1862",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "451037746",
-    "name": "TriMobile Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(561) 281-2394",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464559654",
-    "name": "CPM Media, LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(407) 486-8478",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464688756",
-    "name": "Everything Autootive Directory",
-    "description": "Marketing Consultants",
-    "phone": "(407) 692-3564",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467531203",
-    "name": "Evolve Evolve Design Group",
-    "description": "Advertising Agencies",
-    "phone": "(407) 420-1234",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "471821947",
-    "name": "Small Business Bio's",
-    "description": "Advertising Specialties",
-    "phone": "(321) 747-4028",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "495597080",
-    "name": "Micro Marketing Strategies",
-    "description": "Advertising Specialties",
-    "phone": "(407) 442-0306",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "496019574",
-    "name": "Lakes of Windermere Private Publication",
-    "description": "Print Advertising",
-    "phone": "(407) 551-9339",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "525079409",
-    "name": "Crabtree Ink",
-    "description": "Advertising Agencies",
-    "phone": "(321) 293-2722",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560631082",
-    "name": "Alphabet Signs",
-    "description": "Advertising Specialties",
-    "phone": "(407) 521-2874",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "564880660",
-    "name": "Novus Digital Solutions",
-    "description": "Advertising Agencies",
-    "phone": "(689) 777-6613",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574953993",
-    "name": "Infinity Digital Media",
-    "description": "Advertising Agencies",
-    "phone": "(407) 536-8210",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "1873306",
     "name": "Lighthouse Address Systems Inc",
     "description": "Signs",
     "phone": "(352) 243-4788",
-    "address": "street: 12538 Katherine Cir location: Clermont, FL 34711"
+    "address": " 12538 Katherine Cir - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472448193",
     "name": "Hughes Dralene",
     "description": "Advertising Agencies",
     "phone": "(407) 469-2155",
-    "address": "street: 15935 Willo Pines Ln location: Montverde, FL 34756"
+    "address": " 15935 Willo Pines Ln - Montverde, FL 34756",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "521952628",
     "name": "Market VINE inc",
     "description": "Marketing Programs & Services",
     "phone": "(352) 708-4922",
-    "address": "street: 1502 Max Hooks Rd Ste C location: Groveland, FL 34736"
+    "address": " 1502 Max Hooks Rd Ste C - Groveland, FL 34736",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "525666424",
     "name": "500 Web Design",
     "description": "Advertising Agencies",
     "phone": "(352) 353-8480",
-    "address": "street: 1502 Max Hooks Rd Ste C location: Groveland, FL 34736"
+    "address": " 1502 Max Hooks Rd Ste C - Groveland, FL 34736",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "29018203",
     "name": "Selzlers Installation",
     "description": "Advertising Agencies",
     "phone": "(352) 242-2465",
-    "address": "street: 11406 Beggs Ct location: Clermont, FL 34711"
+    "address": " 11406 Beggs Ct - Clermont, FL 34711",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "19650320",
     "name": "D & P Advertising",
     "description": "Advertising Agencies",
     "phone": "(352) 429-9983",
-    "address": "street: 16540 Lake Stewart Dr location: Groveland, FL 34736"
+    "address": " 16540 Lake Stewart Dr - Groveland, FL 34736",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "477491743",
     "name": "Sign Eddie",
     "description": "Advertising Specialties",
     "phone": "(352) 557-4265",
-    "address": "street: 1133 Bluegrass Dr location: Groveland, FL 34736"
+    "address": " 1133 Bluegrass Dr - Groveland, FL 34736",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "561600686",
     "name": "Graphix Wizard Inc",
     "description": "Lithographers",
     "phone": "(407) 656-9742",
-    "address": "street: 308 Valencia Ct location: Winter Garden, FL 34787"
+    "address": " 308 Valencia Ct - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "465706899",
     "name": "Vidaroo Corp",
     "description": "Advertising Agencies",
     "phone": "(321) 293-3360",
-    "address": "street: 8 N Highland Ave location: Winter Garden, FL 34787"
+    "address": " 8 N Highland Ave - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "552118485",
     "name": "My Website Spot - Winter Garden Web Design & SEO",
     "description": "Web Site Design & Services",
     "phone": "(407) 499-4008",
-    "address": "street: 2968 Irish Peach Dr location: Winter Garden, FL 34787"
+    "address": " 2968 Irish Peach Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "576279869",
     "name": "My Website Spot-Custom Tailored Web Design",
     "description": "Web Site Design & Services",
     "phone": "(407) 499-4008",
-    "address": "street: 2968 Irish Peach Dr location: Winter Garden, FL 34787"
+    "address": " 2968 Irish Peach Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "464279695",
     "name": "Jose Aldamuy Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 877-8451",
-    "address": "street: 102 W Story Rd location: Winter Garden, FL 34787"
+    "address": " 102 W Story Rd - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "467639041",
     "name": "Plan A Pr Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(407) 905-0608",
-    "address": "street: 132 W Plant St location: Winter Garden, FL 34787"
+    "address": " 132 W Plant St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "677398",
     "name": "Anonymous Productions",
     "description": "Advertising Agencies",
     "phone": "(407) 654-9090",
-    "address": "street: 130 S Main St location: Winter Garden, FL 34787"
+    "address": " 130 S Main St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "545204603",
     "name": "Valpak of Central Florida",
     "description": "Advertising Agencies",
     "phone": "(407) 973-7357",
-    "address": "street: 14027 Hampshire Bay Cir location: Winter Garden, FL 34787"
+    "address": " 14027 Hampshire Bay Cir - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "516685688",
     "name": "Central Graphics",
     "description": "Signs",
     "phone": "(407) 877-4781",
-    "address": "street: 417 S Dillard St location: Winter Garden, FL 34787"
+    "address": " 417 S Dillard St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "6306999",
     "name": "Alarie Design Associates Inc",
     "description": "Graphic Designers",
     "phone": "(407) 656-8879",
-    "address": "street: 260 E Plant St location: Winter Garden, FL 34787"
+    "address": " 260 E Plant St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "16274935",
     "name": "Sign Wave",
     "description": "Signs",
     "phone": "(407) 614-5913",
-    "address": "street: 537 S Dillard St location: Winter Garden, FL 34787"
+    "address": " 537 S Dillard St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "2015489",
     "name": "West Orange Times",
     "description": "Advertising Specialties",
     "phone": "(407) 656-2121",
-    "address": "street: 720 S Dillard St location: Winter Garden, FL 34787"
+    "address": " 720 S Dillard St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "28909915",
     "name": "Freebie Wallet Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 877-7008",
-    "address": "street: 13350 W Colonial Dr location: Winter Garden, FL 34787"
+    "address": " 13350 W Colonial Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "467836336",
     "name": "Cypress Signs Inc",
     "description": "Signs",
     "phone": "(407) 654-4316",
-    "address": "street: 13340 W Colonial Dr location: Winter Garden, FL 34787"
+    "address": " 13340 W Colonial Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "559618179",
     "name": "Detorres Group",
     "description": "Advertising Agencies",
     "phone": "(877) 700-1592",
-    "address": "street: 13340 W Colonial Dr location: Winter Garden, FL 34787"
+    "address": " 13340 W Colonial Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "560584980",
     "name": "Em Agency",
     "description": "Advertising Agencies",
     "phone": "(407) 573-6061",
-    "address": "street: 855 E Plant St location: Winter Garden, FL 34787"
+    "address": " 855 E Plant St - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "575157665",
-    "name": "Em Agency",
-    "description": "Advertising Agencies",
-    "phone": "(407) 573-6061",
-    "address": "street: 855 E Plant St Ste 1600 location: Winter Garden, FL 34787"
-  },
-  {
-    "dataYpid": "566481293",
     "name": "Fourcolor.net",
     "description": "Printing Services-Commercial",
     "phone": "(407) 877-7222",
-    "address": "street: 1308 Vic Kay Ct location: Winter Garden, FL 34787"
+    "address": " 1308 Vic Kay Ct - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "6535110",
     "name": "Daily Graphics and Design",
     "description": "Graphic Designers",
     "phone": "(407) 877-7222",
-    "address": "street: Po Box 770430 location: Winter Garden, FL 34777"
+    "address": " Po Box 770430 - Winter Garden, FL 34777",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "465706544",
     "name": "Central Florida Signpros",
     "description": "Embroidery",
     "phone": "(407) 656-7699",
-    "address": "street: 13028 W Colonial Dr location: Winter Garden, FL 34787"
+    "address": " 13028 W Colonial Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "543464189",
     "name": "The Apopka Chief",
     "description": "Advertising Specialties",
     "phone": "(407) 886-2777",
-    "address": "street: 400 N Park Ave location: Apopka, FL 32712"
+    "address": " 400 N Park Ave - Apopka, FL 32712",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "528395317",
     "name": "Inspire Visual",
     "description": "Web Site Design & Services",
     "phone": "(407) 476-1950",
-    "address": "street: 1100 Us Highway 27 # 6774 location: Clermont, FL 34713"
+    "address": " 1100 Us Highway 27 # 6774 - Clermont, FL 34713",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "28720294",
     "name": "Terpexpo",
     "description": "Advertising Specialties",
     "phone": "(407) 329-3677",
-    "address": "street: 17105 Cypresswood Way location: Clermont, FL 34714"
+    "address": " 17105 Cypresswood Way - Clermont, FL 34714",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "504721426",
     "name": "Central Florida Graphic Design",
     "description": "Computer Graphics",
     "phone": "(321) 439-1356",
-    "address": "street: 16744 Cagan Crossings Blvd location: Clermont, FL 34714"
+    "address": " 16744 Cagan Crossings Blvd - Clermont, FL 34714",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "28920226",
     "name": "Enterprise Integration Solutions",
     "description": "Advertising Agencies",
     "phone": "(407) 905-9536",
-    "address": "street: 2130 Tall Oak Dr location: Winter Garden, FL 34787"
+    "address": " 2130 Tall Oak Dr - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "4412438",
     "name": "Big Daddy's Signs",
     "description": "Signs",
     "phone": "(407) 347-5965",
-    "address": "street: 1319 Green Forest Ct location: Winter Garden, FL 34787"
+    "address": " 1319 Green Forest Ct - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "1289991",
     "name": "J M Design",
     "description": "Graphic Designers",
     "phone": "(407) 654-9007",
-    "address": "street: 370 Blue Stone Cir location: Winter Garden, FL 34787"
+    "address": " 370 Blue Stone Cir - Winter Garden, FL 34787",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "497414718",
     "name": "FPIS Brochure Distribution",
     "description": "Advertising Specialties",
     "phone": "(407) 656-8818",
-    "address": "street: 220 Story Rd location: Ocoee, FL 34761"
+    "address": " 220 Story Rd - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "549934220",
     "name": "I and J Signs and Awnings Inc",
     "description": "Signs",
     "phone": "(407) 378-2054",
-    "address": "street: 844 Maguire Rd location: Ocoee, FL 34761"
+    "address": " 844 Maguire Rd - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "11626779",
     "name": "The Sign Factory",
     "description": "Signs",
     "phone": "(407) 656-7986",
-    "address": "street: 711 S Bluford Ave location: Ocoee, FL 34761"
+    "address": " 711 S Bluford Ave - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "568301026",
     "name": "Nicholas Prowse",
     "description": "Advertising Specialties",
     "phone": "(973) 886-7138",
-    "address": "street: 2476 Sweet Viburnum Way location: Ocoee, FL 34761"
+    "address": " 2476 Sweet Viburnum Way - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "547261890",
     "name": "Trighton Interactive",
     "description": "Web Site Design & Services",
     "phone": "(407) 440-2972",
-    "address": "street: 2582 Maguire Rd # 417 location: Ocoee, FL 34761"
+    "address": " 2582 Maguire Rd # 417 - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "7130581",
     "name": "Ashland",
     "description": "Advertising Agencies",
     "phone": "(407) 876-0045",
-    "address": "street: 2042 Maguire Rd location: Windermere, FL 34786"
+    "address": " 2042 Maguire Rd - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "454343865",
     "name": "Prince Michael",
     "description": "Advertising Agencies",
     "phone": "(407) 347-7887",
-    "address": "street: 7749 Jailene Dr location: Windermere, FL 34786"
+    "address": " 7749 Jailene Dr - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "469670705",
     "name": "Diggersleather",
     "description": "Advertising Agencies",
     "phone": "(407) 367-8874",
-    "address": "street: 1612 Blackwood Ave location: Gotha, FL 34734"
+    "address": " 1612 Blackwood Ave - Gotha, FL 34734",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "14675327",
     "name": "Amy Jones Creative Pro",
     "description": "Advertising Agencies",
     "phone": "(407) 466-6852",
-    "address": "street: 3460 Crystal St location: Gotha, FL 34734"
+    "address": " 3460 Crystal St - Gotha, FL 34734",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "550195985",
     "name": "Best Read Guide",
     "description": "Directory & Guide Advertising",
     "phone": "(407) 654-0220",
-    "address": "street: 33 Main St location: Windermere, FL 34786"
+    "address": " 33 Main St - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "16438602",
     "name": "Shiver Outdoor Advertising",
     "description": "Transit Advertising",
     "phone": "(407) 889-7734",
-    "address": "street: 3367 N Washington St location: Zellwood, FL 32798"
+    "address": " 3367 N Washington St - Zellwood, FL 32798",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "18050839",
-    "name": "Lewellen & Best Exhibits, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(407) 258-8708",
-    "address": "street: N/A location: Ocoee, FL 34761"
-  },
-  {
-    "dataYpid": "6638810",
     "name": "Maranatha Motors",
     "description": "Advertising Agencies",
     "phone": "(352) 735-2565",
-    "address": "street: 4275 N Orange Blossom Trl location: Mount Dora, FL 32757"
+    "address": " 4275 N Orange Blossom Trl - Mount Dora, FL 32757",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "500533955",
     "name": "Guru Design",
     "description": "Web Site Design & Services",
     "phone": "(407) 616-7646",
-    "address": "street: 6757 Sadler Rd location: Mount Dora, FL 32757"
+    "address": " 6757 Sadler Rd - Mount Dora, FL 32757",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "196392",
     "name": "HI4OC",
     "description": "Direct Mail Advertising",
     "phone": "(407) 287-6129",
-    "address": "street: PO Box 1022 location: Gotha, FL 34734"
+    "address": " PO Box 1022 - Gotha, FL 34734",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "512962872",
     "name": "Prodigy Launch",
     "description": "Advertising Agencies",
     "phone": "(540) 404-1572",
-    "address": "street: 10631 Village Lake Rd location: Windermere, FL 34786"
+    "address": " 10631 Village Lake Rd - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "464278483",
     "name": "Alan D Kennedy & Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 876-2128",
-    "address": "street: 9807 Walzer Ct location: Windermere, FL 34786"
+    "address": " 9807 Walzer Ct - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "28757399",
     "name": "Equity Source Consultants Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 522-9664",
-    "address": "street: 1902 Reed Hill Dr location: Windermere, FL 34786"
+    "address": " 1902 Reed Hill Dr - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "549997569",
     "name": "Sunshine Print Signs",
     "description": "Signs-Maintenance & Repair",
     "phone": "(407) 757-0834",
-    "address": "street: 8991 W Colonial Dr location: Ocoee, FL 34761"
+    "address": " 8991 W Colonial Dr - Ocoee, FL 34761",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "576030053",
     "name": "Forte Models",
     "description": "Advertising Agencies",
     "phone": "(407) 744-5451",
-    "address": "street: 380 Hawthorne Hills Pl location: Orlando, FL 32835"
+    "address": " 380 Hawthorne Hills Pl - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "465179472",
     "name": "GSK Consulting",
     "description": "Directory & Guide Advertising",
     "phone": "(813) 431-1278",
-    "address": "street: 1713 Westover Reserve Blvd location: Windermere, FL 34786"
+    "address": " 1713 Westover Reserve Blvd - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472630418",
     "name": "Nationwide Marketing and Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 814-3929",
-    "address": "street: 1077 W Orange Blossom Trl location: Apopka, FL 32712"
+    "address": " 1077 W Orange Blossom Trl - Apopka, FL 32712",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472089362",
     "name": "TodaysLocalBusiness.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 337-2816",
-    "address": "street: 9311 Woodbreeze Blvd location: Windermere, FL 34786"
+    "address": " 9311 Woodbreeze Blvd - Windermere, FL 34786",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "496280823",
     "name": "More Commerce, Inc.",
     "description": "Marketing Consultants",
     "phone": "(407) 505-5588",
-    "address": "street: 1168 Woodman Way location: Orlando, FL 32818"
+    "address": " 1168 Woodman Way - Orlando, FL 32818",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472444830",
     "name": "Rcp Advertising & Marketing Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 578-5955",
-    "address": "street: 7849 Saint Andrews Cir location: Orlando, FL 32835"
+    "address": " 7849 Saint Andrews Cir - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "496490859",
     "name": "Stahl Beizen",
     "description": "Radio Station Equipment",
     "phone": "(407) 610-0991",
-    "address": "street: 3409 Dragoon Pl location: Orlando, FL 32818"
+    "address": " 3409 Dragoon Pl - Orlando, FL 32818",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "511626790",
     "name": "TAG Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 398-6629",
-    "address": "street: 4705 S Apopka Vineland Rd Ste 130 location: Orlando, FL 32819"
+    "address": " 4705 S Apopka Vineland Rd Ste 130 - Orlando, FL 32819",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "21780092",
     "name": "Kim Parrish Creative Services",
     "description": "Advertising Specialties",
     "phone": "(407) 880-0201",
-    "address": "street: 314 S Central Ave location: Apopka, FL 32703"
+    "address": " 314 S Central Ave - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "453352781",
     "name": "Parrish Sena Group",
     "description": "Advertising Agencies",
     "phone": "(407) 880-0208",
-    "address": "street: 314 S Central Ave location: Apopka, FL 32703"
+    "address": " 314 S Central Ave - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "3549832",
-    "name": "Ashland",
-    "description": "Advertising Agencies",
-    "phone": "(407) 298-8960",
-    "address": "street: 7760 Senjill Ct location: Orlando, FL 32818"
-  },
-  {
-    "dataYpid": "251455",
     "name": "Web Science",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 473-4039",
-    "address": "street: 509 S Park Ave location: Apopka, FL 32703"
+    "address": " 509 S Park Ave - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "464514365",
     "name": "Local Phone Book",
     "description": "Directory & Guide Advertising",
     "phone": "(407) 884-0199",
-    "address": "street: 54 E 2nd St location: Apopka, FL 32703"
+    "address": " 54 E 2nd St - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "5149784",
     "name": "Central Florida Sign Installers",
     "description": "Advertising Agencies",
     "phone": "(407) 880-7446",
-    "address": "street: 54 E 2nd St location: Apopka, FL 32703"
+    "address": " 54 E 2nd St - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "497611533",
     "name": "Grand Design Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 599-0759",
-    "address": "street: 7516 Old Winter Garden Rd location: Orlando, FL 32835"
+    "address": " 7516 Old Winter Garden Rd - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "456282367",
     "name": "FASTSIGNS",
     "description": "Signs",
     "phone": "(407) 770-1500",
-    "address": "street: 7154 W Colonial Dr location: Orlando, FL 32818"
+    "address": " 7154 W Colonial Dr - Orlando, FL 32818",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "576250877",
     "name": "Aox Leads",
     "description": "Advertising Agencies",
     "phone": "(854) 269-5323",
-    "address": "street: 7651 Ashley Park Ct location: Orlando, FL 32835"
+    "address": " 7651 Ashley Park Ct - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "468790956",
     "name": "watergraphics",
     "description": "Marketing Programs & Services",
     "phone": "(407) 913-6379",
-    "address": "street: 5036 Dr Phillips Blvd location: Orlando, FL 32819"
+    "address": " 5036 Dr Phillips Blvd - Orlando, FL 32819",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "576702675",
     "name": "Think Agency",
     "description": "Advertising Agencies",
     "phone": "(407) 875-1999",
-    "address": "street: 5036 Dr Phillips Blvd location: Orlando, FL 32819"
+    "address": " 5036 Dr Phillips Blvd - Orlando, FL 32819",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "460697525",
     "name": "Creative Signs Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 293-9393",
-    "address": "street: 2301 S Hiawassee Rd location: Orlando, FL 32835"
+    "address": " 2301 S Hiawassee Rd - Orlando, FL 32835",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "21791843",
     "name": "Sewing Studio Fabric Superstore",
     "description": "Quilting Machines",
     "phone": "(407) 910-2761",
-    "address": "street: 9605 S Us Highway 17/92 location: Maitland, FL 32751"
+    "address": " 9605 S Us Highway 17/92 - Maitland, FL 32751",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "472738464",
     "name": "Reputation Savior Inc",
     "description": "Advertising Agencies",
     "phone": "(800) 826-1372",
-    "address": "street: 1706 E Semoran Blvd Ste 112 location: Apopka, FL 32703"
+    "address": " 1706 E Semoran Blvd Ste 112 - Apopka, FL 32703",
+    "location": "Sumter"
   },
   {
-    "dataYpid": "484365461",
     "name": "Reputation Savior",
     "description": "Advertising Agencies",
     "phone": "(407) 464-0036",
-    "address": "street: 1661 Votaw Rd location: Apopka, FL 32703"
+    "address": " 1661 Votaw Rd - Apopka, FL 32703",
+    "location": "Sumter"
   }
 ]

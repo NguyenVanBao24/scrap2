@@ -1,317 +1,156 @@
 [
   {
-    "dataYpid": "517449082",
     "name": "Davis Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(850) 673-9533",
-    "address": "street: 128 E Base St location: Madison, FL 32340"
+    "address": "128 E Base St  Madison, FL 32340",
+    "location": "Madison"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22709634",
-    "name": "The Dreamers Web",
-    "description": "Marketing Programs & Services",
-    "phone": "(850) 528-8229",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "876900",
-    "name": "Freedom Business Group",
-    "description": "Marketing Programs & Services",
-    "phone": "(850) 391-3569",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "455253289",
-    "name": "Element Pool Design",
-    "description": "Interactive Media",
-    "phone": "(850) 366-2851",
-    "address": "street: N/A location: Tallahassee, FL 32312"
-  },
-  {
-    "dataYpid": "456491946",
-    "name": "Reciprocate LLC",
-    "description": "Internet Consultants",
-    "phone": "(651) 675-6943",
-    "address": "street: N/A location: Tallahassee, FL 32311"
-  },
-  {
-    "dataYpid": "543567392",
-    "name": "B-EZ Graphix",
-    "description": "Graphic Designers",
-    "phone": "(850) 692-8851",
-    "address": "street: N/A location: Tallahassee, FL 32311"
-  },
-  {
-    "dataYpid": "574497242",
-    "name": "ThePromotionalGuy.com",
-    "description": "Marketing Consultants",
-    "phone": "(850) 459-8747",
-    "address": "street: N/A location: Tallahassee, FL 32301"
-  },
-  {
-    "dataYpid": "464409524",
-    "name": "MarketDone",
-    "description": "Public Relations Counselors",
-    "phone": "(850) 425-5240",
-    "address": "street: N/A location: Tallahassee, FL 32301"
-  },
-  {
-    "dataYpid": "474162477",
-    "name": "Pantechne Studios",
-    "description": "Interactive Media",
-    "phone": "(904) 463-0546",
-    "address": "street: N/A location: Tallahassee, FL 32303"
-  },
-  {
-    "dataYpid": "509575535",
-    "name": "Music Tree Muzik",
-    "description": "Marketing Consultants",
-    "phone": "(850) 320-1297",
-    "address": "street: N/A location: Tallahassee, FL 32302"
-  },
-  {
-    "dataYpid": "562280122",
-    "name": "Elite Tek",
-    "description": "Marketing Consultants",
-    "phone": "(850) 325-0253",
-    "address": "street: N/A location: Tallahassee, FL 32308"
-  },
-  {
-    "dataYpid": "480611082",
-    "name": "Brazilius Web Solutions",
-    "description": "Interactive Media",
-    "phone": "(786) 264-2747",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467052753",
-    "name": "Digi 10 Media",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(561) 809-3967",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "28638653",
-    "name": "Ink Blot Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(850) 345-7940",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452228317",
-    "name": "ZAMZUU'S INTERNET BUSINESS CENTER",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 329-6177",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12674024",
-    "name": "Market Image Florida",
-    "description": "Market Research & Analysis",
-    "phone": "(850) 576-2600",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "1965125",
-    "name": "Lobby Tools Inc",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 915-0142",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465168764",
-    "name": "Thinking Thrifty",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 555-1234",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "474596483",
-    "name": "mywebmarket.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 766-2711",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12543879",
-    "name": "Steve Brown Direct Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(850) 877-3533",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "572087819",
-    "name": "HARN Digital",
-    "description": "Advertising Agencies",
-    "phone": "(850) 597-0838",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9433272",
-    "name": "Brandedge Inc",
-    "description": "Marketing Consultants",
-    "phone": "(850) 671-3343",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "559586846",
     "name": "Plante Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(386) 658-3945",
-    "address": "street: 7686 207th Rd location: Dowling Park, FL 32060"
+    "address": "7686 207th Rd  Dowling Park, FL 32060",
+    "location": "Madison"
   },
   {
-    "dataYpid": "518476239",
     "name": "1804 Entertainment Alliance",
     "description": "Web Site Hosting",
     "phone": "(866) 937-1804",
-    "address": "street: PO Box 0000 location: Valdosta, GA 31603"
+    "address": "PO Box 0000  Valdosta, GA 31603",
+    "location": "Madison"
   },
   {
-    "dataYpid": "524580565",
     "name": "Anchored Media Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(702) 506-2211",
-    "address": "street: 4013 Johnston Rd location: Valdosta, GA 31606"
+    "address": "4013 Johnston Rd  Valdosta, GA 31606",
+    "location": "Madison"
   },
   {
-    "dataYpid": "566399827",
     "name": "Signaturesurveys.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(866) 863-9117",
-    "address": "street: 2167 E 21st St location: Valdosta, GA 31601"
+    "address": "2167 E 21st St  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "547474410",
     "name": "Hammer Automative Marketing",
     "description": "Computer Software & Services",
     "phone": "(229) 333-8006",
-    "address": "street: 3794 Kinderlou Frst location: Valdosta, GA 31601"
+    "address": "3794 Kinderlou Frst  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "487701684",
     "name": "Envision Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(413) 525-6661",
-    "address": "street: 2935 N Ashley St location: Valdosta, GA 31602"
+    "address": "2935 N Ashley St  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "492750275",
     "name": "24-7 Tech",
     "description": "Computers & Computer Equipment-Service & Repair",
     "phone": "(850) 295-1409",
-    "address": "street: 301 E Hampton Springs Ave location: Perry, FL 32347"
+    "address": "301 E Hampton Springs Ave  Perry, FL 32347",
+    "location": "Madison"
   },
   {
-    "dataYpid": "505772190",
     "name": "Nick Alan SEO",
     "description": "Internet Marketing & Advertising",
     "phone": "(229) 469-8155",
-    "address": "street: 100 N Patterson St # 101 location: Valdosta, GA 31601"
+    "address": "100 N Patterson St # 101  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "544083810",
     "name": "Acquired Digital Marketing and Advertising",
     "description": "Internet Marketing & Advertising",
     "phone": "(229) 548-0455",
-    "address": "street: 3321 N Valdosta Rd location: Valdosta, GA 31602"
+    "address": "3321 N Valdosta Rd  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "10401063",
     "name": "Fusion Creative Marketing",
     "description": "Advertising Agencies",
     "phone": "(229) 460-0479",
-    "address": "street: 210 E Alden Ave location: Valdosta, GA 31602"
+    "address": "210 E Alden Ave  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "570789137",
     "name": "Crown Produce Market",
     "description": "Direct Marketing Services",
     "phone": "(229) 333-7807",
-    "address": "street: 3950 Old Highway 41 N location: Valdosta, GA 31602"
+    "address": "3950 Old Highway 41 N  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "526405854",
     "name": "Modern Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(229) 224-0960",
-    "address": "street: 990 S Jefferson St location: Monticello, FL 32344"
+    "address": "990 S Jefferson St  Monticello, FL 32344",
+    "location": "Madison"
   },
   {
-    "dataYpid": "561108447",
     "name": "Safety Hand Rakes",
     "description": "Internet Marketing & Advertising",
     "phone": "(229) 292-8833",
-    "address": "street: 1616 Euclid St location: Valdosta, GA 31602"
+    "address": "1616 Euclid St  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "562342291",
     "name": "Seorank Agency",
     "description": "Advertising Agencies",
     "phone": "(850) 223-1210",
-    "address": "street: 3454 San Pedro Rd location: Perry, FL 32347"
+    "address": "3454 San Pedro Rd  Perry, FL 32347",
+    "location": "Madison"
   },
   {
-    "dataYpid": "543507602",
     "name": "Clark's Marketing",
     "description": "Marketing Consultants",
     "phone": "(386) 219-0579",
-    "address": "street: 13339 County Road 136 location: Live Oak, FL 32060"
+    "address": "13339 County Road 136  Live Oak, FL 32060",
+    "location": "Madison"
   },
   {
-    "dataYpid": "8167282",
     "name": "Image Matters",
     "description": "Marketing Consultants",
     "phone": "(229) 548-2874",
-    "address": "street: 112 N Patterson St location: Valdosta, GA 31601"
+    "address": "112 N Patterson St  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "495491401",
     "name": "RPM Diagnostics",
     "description": "Business Coaches & Consultants",
     "phone": "(229) 232-5406",
-    "address": "street: 509 N Patterson St location: Valdosta, GA 31601"
+    "address": "509 N Patterson St  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "560667606",
     "name": "Vector Marketing",
     "description": "Marketing Consultants",
     "phone": "(229) 232-8262",
-    "address": "street: 902 N Ashley St location: Valdosta, GA 31601"
+    "address": "902 N Ashley St  Valdosta, GA 31601",
+    "location": "Madison"
   },
   {
-    "dataYpid": "495610945",
     "name": "Economy Transfers",
     "description": "Marketing Consultants",
     "phone": "(229) 232-4375",
-    "address": "street: 411 Cowart Ave location: Valdosta, GA 31602"
+    "address": "411 Cowart Ave  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "15032775",
     "name": "Smp Marketing",
     "description": "Marketing Consultants",
     "phone": "(229) 242-7539",
-    "address": "street: 2225 Bemiss Rd location: Valdosta, GA 31602"
+    "address": "2225 Bemiss Rd  Valdosta, GA 31602",
+    "location": "Madison"
   },
   {
-    "dataYpid": "476074636",
     "name": "Affectpoint",
     "description": "Publishers-Directory & Guide",
     "phone": "(229) 539-9504",
-    "address": "street: 3700 Bermuda Run Dr location: Valdosta, GA 31605"
+    "address": "3700 Bermuda Run Dr  Valdosta, GA 31605",
+    "location": "Madison"
   }
 ]

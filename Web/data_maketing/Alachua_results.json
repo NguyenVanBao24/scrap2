@@ -1,541 +1,471 @@
 [
   {
-    "dataYpid": "552175011",
     "name": "H & H Media Group",
     "description": "Marketing Programs & Services",
     "phone": "(352) 559-5599",
-    "address": "street: 13432 NW 135th Dr location: Alachua, FL 32615"
+    "address": "13432 NW 135th Dr  Alachua, FL 32615",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "454345441",
     "name": "Jeremy Lee Designs, LLC",
     "description": "Graphic Designers",
     "phone": "(352) 256-0797",
-    "address": "street: 4823 NW 79th Rd location: Gainesville, FL 32653"
+    "address": "4823 NW 79th Rd  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "557954486",
     "name": "CJW Global Solutions",
     "description": "Business Coaches & Consultants",
     "phone": "(518) 618-2107",
-    "address": "street: 8135 NW 54th St location: Gainesville, FL 32653"
+    "address": "8135 NW 54th St  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "576692152",
     "name": "High Impact Media Solutions",
     "description": "Marketing Consultants",
     "phone": "(386) 205-9612",
-    "address": "street: 15202 NW 147th Dr Ste 1200-168 location: Alachua, FL 32615"
+    "address": "15202 NW 147th Dr Ste 1200-168  Alachua, FL 32615",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "538633992",
     "name": "Chameleon Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(386) 518-5310",
-    "address": "street: 6201 NW 123rd Pl location: Gainesville, FL 32653"
+    "address": "6201 NW 123rd Pl  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575305414",
     "name": "Restaurant Results Partners",
     "description": "Marketing Programs & Services",
     "phone": "(352) 320-4934",
-    "address": "street: 5127 NW 39th Ave location: Gainesville, FL 32606"
+    "address": "5127 NW 39th Ave  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "29287960",
     "name": "Adsam Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(352) 371-3737",
-    "address": "street: 5206 NW 50th Ln location: Gainesville, FL 32653"
+    "address": "5206 NW 50th Ln  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "505266426",
     "name": "Retyp LLC",
     "description": "Marketing Programs & Services",
     "phone": "(561) 247-5395",
-    "address": "street: 5127 NW 24th Dr location: Gainesville, FL 32605"
+    "address": "5127 NW 24th Dr  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "567673056",
-    "name": "Quantum Leads 24-7",
-    "description": "Marketing Programs & Services",
-    "phone": "(877) 711-1716",
-    "address": "street: N/A location: Melrose, FL 32666"
-  },
-  {
-    "dataYpid": "481454223",
-    "name": "Moses Media Inc",
-    "description": "Marketing Programs & Services",
-    "phone": "(352) 332-9930",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "526799243",
     "name": "Premier Marketing Experts LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 356-8711",
-    "address": "street: 9200 NW 39th Ave Ste 130-40 location: Gainesville, FL 32606"
+    "address": "9200 NW 39th Ave Ste 130-40  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "467116304",
     "name": "Gator Town Daily Deals",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 264-0068",
-    "address": "street: 5200 NW 43rd St Ste 102-182 location: Gainesville, FL 32606"
+    "address": "5200 NW 43rd St Ste 102-182  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "513563311",
     "name": "Chef S McPherson Consulting Inc",
     "description": "Marketing Consultants",
     "phone": "(866) 784-9225",
-    "address": "street: 3723 NW 62nd Pl location: Gainesville, FL 32653"
+    "address": "3723 NW 62nd Pl  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "464367037",
     "name": "Online Potential Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 234-4372",
-    "address": "street: 5126 NW 59th Ln location: Gainesville, FL 32653"
+    "address": "5126 NW 59th Ln  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "503185850",
     "name": "American Directions Group",
     "description": "Market Research & Analysis",
     "phone": "(352) 727-7667",
-    "address": "street: 4703 NW 53rd Ave Ste A4 location: Gainesville, FL 32653"
+    "address": "4703 NW 53rd Ave Ste A4  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "562118043",
     "name": "Data Targeting Inc",
     "description": "Market Research & Analysis",
     "phone": "(352) 332-2115",
-    "address": "street: 3515 NW 98th St location: Gainesville, FL 32606"
+    "address": "3515 NW 98th St  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "465280077",
     "name": "Blu Dove Designs",
     "description": "Web Site Design & Services",
     "phone": "(800) 875-0380",
-    "address": "street: 4635 NW 53rd Ave Suite 205-e location: Gainesville, FL 32653"
+    "address": "4635 NW 53rd Ave Suite 205-e  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "473676259",
     "name": "Spotlight Website Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 359-7827",
-    "address": "street: 5200 NW 43rd St Ste 102-213 location: Gainesville, FL 32606"
+    "address": "5200 NW 43rd St Ste 102-213  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "566488238",
     "name": "Skullasticaffairs.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(716) 866-7672",
-    "address": "street: Nw 86th Blvd location: Gainesville, FL 32653"
+    "address": "Nw 86th Blvd  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "6264755",
     "name": "Catheryn Johnson Corp",
     "description": "Marketing Consultants",
     "phone": "(352) 327-9049",
-    "address": "street: 4703 NW 53rd Ave location: Gainesville, FL 32653"
+    "address": "4703 NW 53rd Ave  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "557707298",
     "name": "Get Leads Group",
     "description": "Marketing Consultants",
     "phone": "(352) 642-0470",
-    "address": "street: 5127 NW 39th Ave location: Gainesville, FL 32606"
+    "address": "5127 NW 39th Ave  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "480156880",
     "name": "Essex Street Consulting LLC",
     "description": "Consultants Referral Service",
     "phone": "(352) 256-0831",
-    "address": "street: 4111 nw 43rd st location: Gainesville, FL 32606"
+    "address": "4111 nw 43rd st  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "530575509",
     "name": "Bee Persuasive",
     "description": "Advertising-Broadcast & Film",
     "phone": "(352) 246-3969",
-    "address": "street: 3534 NW 40th Ter location: Gainesville, FL 32606"
+    "address": "3534 NW 40th Ter  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "460142866",
-    "name": "DM Creative Studios",
-    "description": "Web Site Design & Services",
-    "phone": "(352) 219-4571",
-    "address": "street: N/A location: Gainesville, FL 32653"
-  },
-  {
-    "dataYpid": "480129325",
-    "name": "Leading Edge Agency",
-    "description": "Advertising Agencies",
-    "phone": "(352) 228-1646",
-    "address": "street: N/A location: Gainesville, FL 32601"
-  },
-  {
-    "dataYpid": "467190574",
-    "name": "399Design.com",
-    "description": "Marketing Consultants",
-    "phone": "(866) 722-0053",
-    "address": "street: N/A location: Gainesville, FL 32601"
-  },
-  {
-    "dataYpid": "565173307",
-    "name": "Puzzles Marketing Systems",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(386) 853-0928",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575893517",
-    "name": "AidaSEO",
-    "description": "Advertising Agencies",
-    "phone": "(352) 740-0403",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "13833001",
-    "name": "Data Targeting",
-    "description": "Market Research & Analysis",
-    "phone": "(352) 332-2115",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "543712876",
     "name": "The Underdog",
     "description": "Marketing Programs & Services",
     "phone": "(305) 496-6677",
-    "address": "street: 4203 NW 15th Pl location: Gainesville, FL 32605"
+    "address": "4203 NW 15th Pl  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "529498035",
     "name": "Ocala Star Banner",
     "description": "Marketing Programs & Services",
     "phone": "(352) 867-4010",
-    "address": "street: 2700 SW 13th St location: Gainesville, FL 32608"
+    "address": "2700 SW 13th St  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "476118764",
     "name": "MGS Marketing Data",
     "description": "Marketing Programs & Services",
     "phone": "(951) 824-8839",
-    "address": "street: 3315 NW 11th st location: gainesville, FL 32609"
+    "address": "3315 NW 11th st  gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "28607930",
     "name": "B R Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(352) 376-8368",
-    "address": "street: 3961 SW 6th Pl location: Gainesville, FL 32607"
+    "address": "3961 SW 6th Pl  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "530891029",
     "name": "SharpSpring",
     "description": "Marketing Programs & Services",
     "phone": "(352) 835-0549",
-    "address": "street: 304 W University Ave location: Gainesville, FL 32601"
+    "address": "304 W University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "489104354",
     "name": "Digital Brands Inc",
     "description": "Marketing Programs & Services",
     "phone": "(888) 217-5962",
-    "address": "street: 15 SE 1st Ave, 2nd Floor location: Gainesville, FL 32601"
+    "address": "15 SE 1st Ave, 2nd Floor  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "526295867",
     "name": "Marketing Mud",
     "description": "Marketing Programs & Services",
     "phone": "(352) 281-8156",
-    "address": "street: 1314 S Main St location: Gainesville, FL 32601"
+    "address": "1314 S Main St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "474310349",
     "name": "Allegra",
     "description": "Marketing Programs & Services",
     "phone": "(352) 373-7547",
-    "address": "street: 327 NW 23rd Ave location: Gainesville, FL 32609"
+    "address": "327 NW 23rd Ave  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "548074999",
     "name": "SharpSpring, Inc",
     "description": "Marketing Programs & Services",
     "phone": "(352) 433-4232",
-    "address": "street: 5001 Celebration Pointe Ave Ste 410 location: Gainesville, FL 32608"
+    "address": "5001 Celebration Pointe Ave Ste 410  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "563868759",
     "name": "Modernized Mobile",
     "description": "Marketing Programs & Services",
     "phone": "(352) 221-9531",
-    "address": "street: 747 SW 2nd Ave location: Gainesville, FL 32601"
+    "address": "747 SW 2nd Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "553541104",
     "name": "Houchens Consulting Inc",
     "description": "Marketing Programs & Services",
     "phone": "(352) 562-0310",
-    "address": "street: 6265 SW 50th St location: Gainesville, FL 32608"
+    "address": "6265 SW 50th St  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "481532144",
     "name": "Elite Computing Concepts",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 575-0618",
-    "address": "street: 5100 SW 91st Ter location: Gainesville, FL 32608"
+    "address": "5100 SW 91st Ter  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "496386929",
     "name": "PHOS Creative",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 505-3626",
-    "address": "street: 2131 NW 40th Ter Ste B location: Gainesville, FL 32605"
+    "address": "2131 NW 40th Ter Ste B  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "531845206",
     "name": "BestMarketingConsultant.com",
     "description": "Marketing Consultants",
     "phone": "(229) 938-4041",
-    "address": "street: 1112 SE 7th Ave location: Gainesville, FL 32601"
+    "address": "1112 SE 7th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "495315812",
     "name": "Ball Copywriting Services",
     "description": "Marketing Consultants",
     "phone": "(630) 272-8141",
-    "address": "street: 2801 NW 23rd Blvd Apt P-102 location: Gainesville, FL 32605"
+    "address": "2801 NW 23rd Blvd Apt P-102  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "540755078",
     "name": "Ibiza Branding",
     "description": "Marketing Consultants",
     "phone": "(352) 213-5906",
-    "address": "street: 235 S Main St. Suite 206 location: Gainesville, FL 32601"
+    "address": "235 S Main St. Suite 206  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "574538173",
     "name": "Liquid Creative - Marketing Agency (Gainesville)",
     "description": "Marketing Consultants",
     "phone": "(352) 600-5050",
-    "address": "street: 602 S Main St Ste 1202 location: Gainesville, FL 32601"
+    "address": "602 S Main St Ste 1202  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "453330039",
     "name": "Perceptive Market Research Inc",
     "description": "Market Research & Analysis",
     "phone": "(352) 336-6760",
-    "address": "street: 3615 SW 13th St location: Gainesville, FL 32608"
+    "address": "3615 SW 13th St  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "505077547",
     "name": "The Versatile Group of Hollywood, Inc,.",
     "description": "Internet Marketing & Advertising",
     "phone": "(954) 274-7538",
-    "address": "street: 7070 SW 24th Ave location: Gainesville, FL 32607"
+    "address": "7070 SW 24th Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "507874136",
     "name": "Azurea Inc",
     "description": "Market Research & Analysis",
     "phone": "(352) 378-0555",
-    "address": "street: 6342 NW 18th Dr location: Gainesville, FL 32653"
+    "address": "6342 NW 18th Dr  Gainesville, FL 32653",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "9350342",
     "name": "Florida Research Institute",
     "description": "Market Research & Analysis",
     "phone": "(352) 375-3982",
-    "address": "street: 3615 SW 13th St Ste 5 location: Gainesville, FL 32608"
+    "address": "3615 SW 13th St Ste 5  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "507109691",
     "name": "Pdhlibrary.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 367-2526",
-    "address": "street: 4566 NW 5th Blvd location: Gainesville, FL 32609"
+    "address": "4566 NW 5th Blvd  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "502803105",
     "name": "Shitcha SEO Gainesville",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 315-1353",
-    "address": "street: 2103 SW 75th Ter location: gainesville, FL 32607"
+    "address": "2103 SW 75th Ter  gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "475722903",
     "name": "Amber Innana-Plug In Profit",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 328-0929",
-    "address": "street: 1120 NW location: Gainesville, FL 32609"
+    "address": "1120 NW  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "495997548",
     "name": "Gainesville Local SEO And Web Designs",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 325-1786",
-    "address": "street: 32 E University Ave location: Gainesville, FL 32601"
+    "address": "32 E University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "503097635",
     "name": "RedZero Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 339-2906",
-    "address": "street: 5110 SW 91st Dr Suite B location: Gainesville, FL 32608"
+    "address": "5110 SW 91st Dr Suite B  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "469040744",
     "name": "Gatorshout",
     "description": "Marketing Consultants",
     "phone": "(352) 358-1190",
-    "address": "street: 4300 NW 23rd Ave location: Gainesville, FL 32606"
+    "address": "4300 NW 23rd Ave  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "551239633",
     "name": "Allied Marketing Insurance",
     "description": "Insurance",
     "phone": "(352) 554-5425",
-    "address": "street: 2233 NW 41st St location: Gainesville, FL 32606"
+    "address": "2233 NW 41st St  Gainesville, FL 32606",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "547792376",
     "name": "SD Marketing One",
     "description": "Marketing Consultants",
     "phone": "(352) 240-6299",
-    "address": "street: 6419 W Newberry Rd location: Gainesville, FL 32605"
+    "address": "6419 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "450936023",
     "name": "Corporate Marketing Solutions",
     "description": "Marketing Consultants",
     "phone": "(352) 371-6444",
-    "address": "street: 5200 Newberry Rd location: Gainesville, FL 32607"
+    "address": "5200 Newberry Rd  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "9887742",
     "name": "Rgi Medical",
     "description": "Marketing Consultants",
     "phone": "(352) 378-3633",
-    "address": "street: 4637 NW 6th St Ste A location: Gainesville, FL 32609"
+    "address": "4637 NW 6th St Ste A  Gainesville, FL 32609",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "22646014",
     "name": "IMG College Gator Sports Marketing",
     "description": "Marketing Consultants",
     "phone": "(352) 505-5229",
-    "address": "street: 3909 Newberry Rd location: Gainesville, FL 32607"
+    "address": "3909 Newberry Rd  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "562919195",
     "name": "Wj Marketing Concepts",
     "description": "Marketing Consultants",
     "phone": "(352) 260-0404",
-    "address": "street: 3324 W University Ave location: Gainesville, FL 32607"
+    "address": "3324 W University Ave  Gainesville, FL 32607",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "497637023",
     "name": "My Time Apps",
     "description": "Marketing Consultants",
     "phone": "(352) 872-5997",
-    "address": "street: 1212 NW 12th Ave location: Gainesville, FL 32601"
+    "address": "1212 NW 12th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "503766474",
     "name": "Vector Marketing",
     "description": "Marketing Consultants",
     "phone": "(352) 508-1348",
-    "address": "street: 502 NW 16th Ave location: Gainesville, FL 32601"
+    "address": "502 NW 16th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "505200146",
     "name": "My Time Apps Inc",
     "description": "Marketing Consultants",
     "phone": "(352) 872-5997",
-    "address": "street: 204 W University Ave location: Gainesville, FL 32601"
+    "address": "204 W University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "568084307",
     "name": "Liquid Creative - Marketing Agency Gainesville",
     "description": "Marketing Consultants",
     "phone": "(352) 600-5050",
-    "address": "street: 309 NE 1st St location: Gainesville, FL 32601"
+    "address": "309 NE 1st St  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "460123886",
     "name": "Kar Media",
     "description": "Marketing Consultants",
     "phone": "(352) 505-5587",
-    "address": "street: 20 W University Ave Ste 301 location: Gainesville, FL 32601"
+    "address": "20 W University Ave Ste 301  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "473228056",
     "name": "Bulter Enterprise",
     "description": "Marketing Consultants",
     "phone": "(352) 373-0095",
-    "address": "street: 3524 SW Archer Rd location: Gainesville, FL 32608"
+    "address": "3524 SW Archer Rd  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "467162171",
     "name": "KPL & Associates, LLC",
     "description": "Insurance",
     "phone": "(352) 217-6744",
-    "address": "street: 7950 SW 47th ct location: Gainesville, FL 32608"
+    "address": "7950 SW 47th ct  Gainesville, FL 32608",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "465027741",
     "name": "JBH & Associates",
     "description": "Business Coaches & Consultants",
     "phone": "(352) 335-9559",
-    "address": "street: 701 SW 23rd Pl location: Gainesville, FL 32601"
+    "address": "701 SW 23rd Pl  Gainesville, FL 32601",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "551734060",
     "name": "Ubizmedia Digital Marketing",
     "description": "Marketing Consultants",
     "phone": "(352) 614-8303",
-    "address": "street: 1510 SW Old Lake City Ter location: High Springs, FL 32643"
+    "address": "1510 SW Old Lake City Ter  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "571180743",
     "name": "The Forrester Group, Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 439-8337",
-    "address": "street: 156 NE 46th Ter location: Gainesville, FL 32641"
+    "address": "156 NE 46th Ter  Gainesville, FL 32641",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "530807510",
     "name": "Divegear.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 454-8158",
-    "address": "street: 18481 High Springs Main St location: High Springs, FL 32643"
+    "address": "18481 High Springs Main St  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "548595832",
     "name": "Gino's-Gelato.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 275-4051",
-    "address": "street: 20604 NW 250th St location: High Springs, FL 32643"
+    "address": "20604 NW 250th St  High Springs, FL 32643",
+    "location": "Alachua"
   },
   {
-    "dataYpid": "28615298",
     "name": "CDV 505, Inc",
     "description": "Marketing Consultants",
     "phone": "(352) 294-7634",
-    "address": "street: 6120 SW 37th Way location: Gainesville, FL 32608"
+    "address": "6120 SW 37th Way  Gainesville, FL 32608",
+    "location": "Alachua"
   }
 ]

@@ -1,1052 +1,765 @@
 [
   {
-    "dataYpid": "487818967",
     "name": "Moro Advertising Solutions",
     "description": "Advertising Agencies",
     "phone": "(305) 681-2252",
-    "address": "street: 545 NW 129th St location: North Miami, FL 33168"
+    "address": " 545 NW 129th St  North Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465701258",
-    "name": "International Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 499-9000",
-    "address": "street: N/A location: Miami, FL 33183"
-  },
-  {
-    "dataYpid": "465490366",
-    "name": "PRODUCCIONES ALEVIDEOS",
-    "description": "Advertising Agencies",
-    "phone": "(786) 283-0038",
-    "address": "street: N/A location: Miami, FL 33135"
-  },
-  {
-    "dataYpid": "481164746",
     "name": "Rodriguez, Jose",
     "description": "Advertising Agencies",
     "phone": "(305) 751-3144",
-    "address": "street: 45 NW 119th St location: Miami, FL 33168"
+    "address": " 45 NW 119th St  Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "479415486",
     "name": "Poetic Akhu",
     "description": "Advertising Agencies",
     "phone": "(786) 253-5612",
-    "address": "street: 540 NW 165th Street Rd location: Miami, FL 33169"
+    "address": " 540 NW 165th Street Rd  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "497777622",
     "name": "Square One Branding",
     "description": "Advertising Agencies",
     "phone": "(786) 552-6343",
-    "address": "street: 8201 Coral Way location: Miami, FL 33155"
+    "address": " 8201 Coral Way  Miami, FL 33155",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "495657618",
-    "name": "Miami Advertising Guru",
-    "description": "Advertising Agencies",
-    "phone": "(305) 213-2421",
-    "address": "street: N/A location: Miami, FL 33126"
-  },
-  {
-    "dataYpid": "495955543",
-    "name": "Sorensen Communications",
-    "description": "Advertising Agencies",
-    "phone": "(305) 274-8337",
-    "address": "street: N/A location: Miami, FL 33256"
-  },
-  {
-    "dataYpid": "504932215",
-    "name": "Umbaji",
-    "description": "Advertising Agencies",
-    "phone": "(305) 551-4604",
-    "address": "street: N/A location: Miami, FL 33172"
-  },
-  {
-    "dataYpid": "531559021",
-    "name": "Fishing Talent Digital Marketing Agency",
-    "description": "Advertising Agencies",
-    "phone": "(786) 327-7712",
-    "address": "street: N/A location: Miami, FL 33166"
-  },
-  {
-    "dataYpid": "552624146",
-    "name": "Matrix global sms",
-    "description": "Advertising Agencies",
-    "phone": "(305) 440-0585",
-    "address": "street: N/A location: Miami, FL 33155"
-  },
-  {
-    "dataYpid": "458159222",
-    "name": "A & A Enterprises",
-    "description": "Advertising Agencies",
-    "phone": "(305) 274-1091",
-    "address": "street: N/A location: Miami, FL 33176"
-  },
-  {
-    "dataYpid": "481896898",
-    "name": "Creative Advertising Caribbean",
-    "description": "Advertising Agencies",
-    "phone": "(868) 796-0146",
-    "address": "street: N/A location: Miami, FL 33186"
-  },
-  {
-    "dataYpid": "482198636",
-    "name": "GoPedi",
-    "description": "Advertising Agencies",
-    "phone": "(866) 462-3182",
-    "address": "street: N/A location: Miami, FL 33180"
-  },
-  {
-    "dataYpid": "498757322",
-    "name": "Codis, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(513) 403-1885",
-    "address": "street: N/A location: Miami, FL 33137"
-  },
-  {
-    "dataYpid": "531497704",
-    "name": "EyeSea Solutions",
-    "description": "Advertising Agencies",
-    "phone": "(754) 300-9506",
-    "address": "street: N/A location: Miami, FL 33132"
-  },
-  {
-    "dataYpid": "535914093",
     "name": "Castingland Miami",
     "description": "Advertising Agencies",
     "phone": "(786) 542-0500",
-    "address": "street: 475 NE 123rd St location: North Miami, FL 33161"
+    "address": " 475 NE 123rd St  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "487176911",
     "name": "Star Town Plus",
     "description": "Advertising Agencies",
     "phone": "(305) 758-7433",
-    "address": "street: 12010 N Miami Ave location: North Miami, FL 33168"
+    "address": " 12010 N Miami Ave  North Miami, FL 33168",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "18595069",
     "name": "Hunter-Hamersmith & Associates Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 895-3492",
-    "address": "street: 725 NE 125th St location: North Miami, FL 33161"
+    "address": " 725 NE 125th St  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "454864349",
     "name": "HH Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 895-8430",
-    "address": "street: 725 NE 125th St location: North Miami, FL 33161"
+    "address": " 725 NE 125th St  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "23321818",
     "name": "Haitian American Leadership",
     "description": "Advertising Agencies",
     "phone": "(786) 953-4041",
-    "address": "street: 12811 W Dixie Hwy location: North Miami, FL 33161"
+    "address": " 12811 W Dixie Hwy  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "489149380",
-    "name": "Sea Star Films",
-    "description": "Advertising Agencies",
-    "phone": "(786) 565-2865",
-    "address": "street: N/A location: North Miami Beach, FL 33160"
-  },
-  {
-    "dataYpid": "544209336",
-    "name": "PlanSEO Marketing | Agencia SEO en Miami",
-    "description": "Advertising Agencies",
-    "phone": "(786) 613-2358",
-    "address": "street: N/A location: Hialeah, FL 33015"
-  },
-  {
-    "dataYpid": "453386447",
-    "name": "Concept Cafe Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(786) 533-1840",
-    "address": "street: N/A location: Hialeah, FL 33010"
-  },
-  {
-    "dataYpid": "462521687",
-    "name": "Jackie Zambrano, LLC",
-    "description": "Advertising Agencies",
-    "phone": "(305) 305-6226",
-    "address": "street: N/A location: Doral, FL 33178"
-  },
-  {
-    "dataYpid": "540845648",
-    "name": "Zen-promo",
-    "description": "Advertising Agencies",
-    "phone": "(305) 203-3892",
-    "address": "street: N/A location: North Miami, FL 33181"
-  },
-  {
-    "dataYpid": "542379543",
-    "name": "Superlative Creative",
-    "description": "Advertising Agencies",
-    "phone": "(305) 707-6993",
-    "address": "street: N/A location: Miami Beach, FL 33139"
-  },
-  {
-    "dataYpid": "15778089",
-    "name": "Dominique Dekindt",
-    "description": "Advertising Agencies",
-    "phone": "(305) 969-6184",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452148963",
-    "name": "JOHNOFALLTYPE",
-    "description": "Advertising Agencies",
-    "phone": "(305) 498-0614",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "502239168",
-    "name": "All Star Media Solutions Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(786) 380-8899",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574302613",
-    "name": "Michael Haupert, Miami Digital Marketing Consultant, Advertising, Social Media Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(786) 635-5574",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12896964",
-    "name": "Travel Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(305) 654-3506",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "16480243",
-    "name": "Ryder & Schild Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 854-0580",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "19505893",
-    "name": "Creative On Demand",
-    "description": "Advertising Agencies",
-    "phone": "(305) 854-8496",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21483325",
-    "name": "VendorPlus Inc",
-    "description": "Advertising Agencies",
-    "phone": "(305) 441-8100",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "461490664",
-    "name": "Blonde Concepts",
-    "description": "Advertising Agencies",
-    "phone": "(305) 793-1660",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467355380",
-    "name": "Pixel Graphics Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(305) 718-0595",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467781669",
-    "name": "Branding Forces",
-    "description": "Advertising Agencies",
-    "phone": "(305) 534-9898",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "473580102",
-    "name": "Valpak",
-    "description": "Advertising Agencies",
-    "phone": "(305) 380-9610",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "481921578",
-    "name": "FN Magazine (Fashion Nerrd, Inc)",
-    "description": "Advertising Agencies",
-    "phone": "(954) 417-5114",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "501717280",
-    "name": "All-Ways Advertising Co",
-    "description": "Advertising Agencies",
-    "phone": "(305) 653-7588",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505672457",
-    "name": "Misterfreek",
-    "description": "Advertising Agencies",
-    "phone": "(631) 355-9435",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560350073",
-    "name": "YesMapPromo.com",
-    "description": "Advertising Agencies",
-    "phone": "(866) 999-9510",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "568207871",
-    "name": "Comrade Digital Marketing Agency - Miami",
-    "description": "Advertising Agencies",
-    "phone": "(305) 768-1129",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "574902450",
-    "name": "Executive Advertising Group",
-    "description": "Advertising Agencies",
-    "phone": "(305) 597-5454",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "31215399",
     "name": "T D I",
     "description": "Advertising Agencies",
     "phone": "(305) 622-2877",
-    "address": "street: 1570 NW 165th St location: Miami, FL 33169"
+    "address": " 1570 NW 165th St  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464513932",
     "name": "Afrovisions Pr Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 949-8239",
-    "address": "street: 1348 NE 147th St location: Miami, FL 33161"
+    "address": " 1348 NE 147th St  Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "472134398",
     "name": "Lloyds Bushel & Associates Corp",
     "description": "Advertising Agencies",
     "phone": "(305) 981-2353",
-    "address": "street: 11098 Biscayne Blvd location: Miami, FL 33161"
+    "address": " 11098 Biscayne Blvd  Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "4832270",
     "name": "Mediatech",
     "description": "Advertising Agencies",
     "phone": "(305) 757-4900",
-    "address": "street: 9999 NE 2nd Ave location: Miami Shores, FL 33138"
+    "address": " 9999 NE 2nd Ave  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "502875344",
     "name": "Armand",
     "description": "Advertising Agencies",
     "phone": "(844) 996-6337",
-    "address": "street: 9600 NE 2nd Ave location: Miami Shores, FL 33138"
+    "address": " 9600 NE 2nd Ave  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "509435160",
     "name": "Cre8ive Juice Group",
     "description": "Advertising Agencies",
     "phone": "(786) 360-3221",
-    "address": "street: 9620 NE 2nd Ave location: Miami Shores, FL 33138"
+    "address": " 9620 NE 2nd Ave  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "17384857",
     "name": "Stanson Group",
     "description": "Advertising Agencies",
     "phone": "(305) 456-3854",
-    "address": "street: 9526 NE 2nd Ave location: Miami Shores, FL 33138"
+    "address": " 9526 NE 2nd Ave  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "14745017",
     "name": "Tropic Survival Advertising & Marketing",
     "description": "Advertising Agencies",
     "phone": "(305) 899-7229",
-    "address": "street: 1125 NE 125th St Ste 400 location: North Miami, FL 33161"
+    "address": " 1125 NE 125th St Ste 400  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "549923104",
     "name": "Generation E",
     "description": "Advertising Agencies",
     "phone": "(315) 871-7273",
-    "address": "street: 555 NW 87th St location: El Portal, FL 33150"
+    "address": " 555 NW 87th St  El Portal, FL 33150",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "496014837",
     "name": "Red Throne Productions LLC",
     "description": "Advertising Agencies",
     "phone": "(954) 670-7889",
-    "address": "street: 12450 NW 38th Ave location: Opa Locka, FL 33054"
+    "address": " 12450 NW 38th Ave  Opa Locka, FL 33054",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "10600959",
     "name": "I Hostthm.Com",
     "description": "Advertising Agencies",
     "phone": "(305) 891-7322",
-    "address": "street: 14260 NE 12th Ave location: North Miami, FL 33161"
+    "address": " 14260 NE 12th Ave  North Miami, FL 33161",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "526257090",
     "name": "Executive Digital",
     "description": "Advertising Agencies",
     "phone": "(786) 391-2945",
-    "address": "street: 9325 NE 6th Ave location: Miami Shores, FL 33138"
+    "address": " 9325 NE 6th Ave  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "506408940",
     "name": "The Dautel Group",
     "description": "Advertising Agencies",
     "phone": "(561) 203-5509",
-    "address": "street: 9190 Biscayne Blvd Ste 201 location: Miami Shores, FL 33138"
+    "address": " 9190 Biscayne Blvd Ste 201  Miami Shores, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29575657",
     "name": "Advertising Updated Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 944-6718",
-    "address": "street: 1248 NE 154th St location: North Miami Beach, FL 33162"
+    "address": " 1248 NE 154th St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464825334",
     "name": "Walter Vision Productions Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 572-9313",
-    "address": "street: 801 NE 167th St location: North Miami Beach, FL 33162"
+    "address": " 801 NE 167th St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "466987851",
     "name": "Anc Communications",
     "description": "Advertising Agencies",
     "phone": "(305) 646-1770",
-    "address": "street: 1000 Quayside Ter location: Miami, FL 33138"
+    "address": " 1000 Quayside Ter  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "552101380",
     "name": "Eterpro",
     "description": "Advertising Agencies",
     "phone": "(305) 529-3641",
-    "address": "street: 4000 Towerside Ter location: Miami, FL 33138"
+    "address": " 4000 Towerside Ter  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "467317332",
     "name": "Latamer Trading Co Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 891-5638",
-    "address": "street: 4000 Towerside Ter location: Miami, FL 33138"
+    "address": " 4000 Towerside Ter  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "520035654",
     "name": "Got It Newspaper",
     "description": "Advertising Agencies",
     "phone": "(954) 839-7502",
-    "address": "street: 18350 nw 2nd Ave location: Miami, FL 33169"
+    "address": " 18350 nw 2nd Ave  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "574474755",
     "name": "Highleveladvertising",
     "description": "Advertising Agencies",
     "phone": "(954) 625-9123",
-    "address": "street: 111 NW 183rd St Ste 302 location: Miami, FL 33169"
+    "address": " 111 NW 183rd St Ste 302  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29198156",
     "name": "Mike Davis Consultant PA",
     "description": "Advertising Agencies",
     "phone": "(305) 974-4549",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "469863270",
     "name": "Metellus Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 974-4857",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "510430643",
     "name": "Family Matters",
     "description": "Advertising Agencies",
     "phone": "(786) 520-4255",
-    "address": "street: 99 NW 183rd St location: Miami, FL 33169"
+    "address": " 99 NW 183rd St  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "545179022",
     "name": "Creative State",
     "description": "Advertising Agencies",
     "phone": "(305) 504-8877",
-    "address": "street: 156 NW 73rd St location: Miami, FL 33150"
+    "address": " 156 NW 73rd St  Miami, FL 33150",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "470885417",
     "name": "Marlite Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 655-3520",
-    "address": "street: 300 NE 183rd St location: Miami, FL 33179"
+    "address": " 300 NE 183rd St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "575082017",
     "name": "Aikiu",
     "description": "Advertising Agencies",
     "phone": "(305) 229-5093",
-    "address": "street: 7636 NE 4th Ct location: Miami, FL 33138"
+    "address": " 7636 NE 4th Ct  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "469863294",
-    "name": "Cre8ive Juice Group",
-    "description": "Advertising Agencies",
-    "phone": "(786) 360-3221",
-    "address": "street: 7251 NE 2nd Ave location: Miami, FL 33138"
-  },
-  {
-    "dataYpid": "575833696",
     "name": "The LED City",
     "description": "Advertising Agencies",
     "phone": "(786) 744-3050",
-    "address": "street: 1943 NE 148th St location: Miami, FL 33181"
+    "address": " 1943 NE 148th St  Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "547002750",
     "name": "Conway & Partners",
     "description": "Advertising Agencies",
     "phone": "(305) 420-5090",
-    "address": "street: 7261 NE 4th Ave location: Miami, FL 33138"
+    "address": " 7261 NE 4th Ave  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "518205634",
     "name": "Wikot",
     "description": "Advertising Agencies",
     "phone": "(786) 615-3232",
-    "address": "street: 7300 Biscayne Blvd location: Miami, FL 33138"
+    "address": " 7300 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "533477903",
     "name": "The Community",
     "description": "Advertising Agencies",
     "phone": "(786) 452-9341",
-    "address": "street: 7300 Biscayne Blvd location: Miami, FL 33138"
+    "address": " 7300 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "539520380",
     "name": "Www.Exhibitdeal.Com",
     "description": "Advertising Agencies",
     "phone": "(310) 899-1257",
-    "address": "street: 18502 NE 5th Ave location: Miami, FL 33179"
+    "address": " 18502 NE 5th Ave  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "473950684",
     "name": "TSR Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 696-6634",
-    "address": "street: 7000 NW 32nd Ave location: Miami, FL 33147"
+    "address": " 7000 NW 32nd Ave  Miami, FL 33147",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "564741654",
     "name": "Zoom IQ Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 604-0006",
-    "address": "street: 6815 Biscayne Blvd location: Miami, FL 33138"
+    "address": " 6815 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29517701",
     "name": "Pierson Distributors",
     "description": "Advertising Agencies",
     "phone": "(305) 757-7474",
-    "address": "street: 1145 Belle Meade Island Dr location: Miami, FL 33138"
+    "address": " 1145 Belle Meade Island Dr  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "10715246",
     "name": "Martinez & Fernandez",
     "description": "Advertising Agencies",
     "phone": "(305) 558-6555",
-    "address": "street: 11900 Biscayne Blvd location: North Miami, FL 33181"
+    "address": " 11900 Biscayne Blvd  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "457327721",
     "name": "Media Department II",
     "description": "Advertising Agencies",
     "phone": "(305) 892-5272",
-    "address": "street: 12000 Biscayne Blvd location: North Miami, FL 33181"
+    "address": " 12000 Biscayne Blvd  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "549923004",
     "name": "Infinite Market Agency",
     "description": "Advertising Agencies",
     "phone": "(305) 849-9117",
-    "address": "street: 16401 NW 37th Ave location: Opa Locka, FL 33054"
+    "address": " 16401 NW 37th Ave  Opa Locka, FL 33054",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464454356",
     "name": "GLG Projects Intergration",
     "description": "Advertising Agencies",
     "phone": "(305) 892-7152",
-    "address": "street: 12550 Biscayne Blvd Ste 311 location: North Miami, FL 33181"
+    "address": " 12550 Biscayne Blvd Ste 311  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464313429",
     "name": "Miami Offshore Service",
     "description": "Advertising Agencies",
     "phone": "(786) 472-1889",
-    "address": "street: 12555 Biscayne Blvd location: North Miami, FL 33181"
+    "address": " 12555 Biscayne Blvd  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "466855208",
     "name": "Behr Advertising, Inc.",
     "description": "Advertising Agencies",
     "phone": "(305) 674-8406",
-    "address": "street: 1801 NE 123rd St Ste 314 location: North Miami, FL 33181"
+    "address": " 1801 NE 123rd St Ste 314  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "554439827",
     "name": "Green Dot Advertising",
     "description": "Advertising Agencies",
     "phone": "(305) 674-8406",
-    "address": "street: 1801 NE 123rd St location: North Miami, FL 33181"
+    "address": " 1801 NE 123rd St  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "457369583",
     "name": "Keyes Martin & Gaby",
     "description": "Advertising Agencies",
     "phone": "(305) 702-6386",
-    "address": "street: 13899 Biscayne Blvd location: North Miami Beach, FL 33181"
+    "address": " 13899 Biscayne Blvd  North Miami Beach, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "3588162",
     "name": "Ad-Pros Group",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9906",
-    "address": "street: 1810 NE 153rd St location: North Miami Beach, FL 33162"
+    "address": " 1810 NE 153rd St  North Miami Beach, FL 33162",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "459378863",
     "name": "Mak Media",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9563",
-    "address": "street: 15050 NE 20th Ave Ste 101 location: North Miami, FL 33181"
+    "address": " 15050 NE 20th Ave Ste 101  North Miami, FL 33181",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "469438627",
     "name": "Beber Silverstein Group",
     "description": "Advertising Agencies",
     "phone": "(305) 856-9800",
-    "address": "street: 89 NE 27th St location: Miami, FL 33137"
+    "address": " 89 NE 27th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "460457934",
     "name": "Rabinovici And Assoc",
     "description": "Advertising Agencies",
     "phone": "(305) 655-0021",
-    "address": "street: 20815 NE 16th Ave location: Miami, FL 33179"
+    "address": " 20815 NE 16th Ave  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "458677404",
     "name": "Brain Switch Advertising",
     "description": "Advertising Agencies",
     "phone": "(305) 576-1415",
-    "address": "street: 250 NW 23rd St location: Miami, FL 33127"
+    "address": " 250 NW 23rd St  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "533258012",
     "name": "The Badimon Group",
     "description": "Advertising Agencies",
     "phone": "(305) 785-8511",
-    "address": "street: 2971 NE 185th St APT 1906 location: Miami, FL 33180"
+    "address": " 2971 NE 185th St APT 1906  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "575953823",
     "name": "C-Com Group, Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 447-4015",
-    "address": "street: 6380 NE 4th Ave location: Miami, FL 33138"
+    "address": " 6380 NE 4th Ave  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "455588727",
     "name": "La Comunidad Corp",
     "description": "Advertising Agencies",
     "phone": "(305) 865-9600",
-    "address": "street: 6400 Biscayne Blvd location: Miami, FL 33138"
+    "address": " 6400 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "576213782",
     "name": "Brett Goldstein",
     "description": "Advertising Agencies",
     "phone": "(329) 204-0320",
-    "address": "street: 6445 NE 7th Ave Apt 416N location: Miami, FL 33138"
+    "address": " 6445 NE 7th Ave Apt 416N  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "16547619",
-    "name": "The Community",
-    "description": "Advertising Agencies",
-    "phone": "(786) 636-8966",
-    "address": "street: 6322 Biscayne Blvd location: Miami, FL 33138"
-  },
-  {
-    "dataYpid": "11281528",
     "name": "Sharp & Company",
     "description": "Advertising Agencies",
     "phone": "(305) 751-4451",
-    "address": "street: 5617 NW 7th Ave location: Miami, FL 33127"
+    "address": " 5617 NW 7th Ave  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "528742960",
     "name": "The Community Agency",
     "description": "Advertising Agencies",
     "phone": "(305) 865-9600",
-    "address": "street: 6300 Biscayne Blvd location: Miami, FL 33138"
+    "address": " 6300 Biscayne Blvd  Miami, FL 33138",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "381355",
     "name": "Maax And Company",
     "description": "Advertising Agencies",
     "phone": "(305) 999-9721",
-    "address": "street: 190 NE 199th St location: Miami, FL 33179"
+    "address": " 190 NE 199th St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464493147",
     "name": "Linder Consulting Group",
     "description": "Advertising Agencies",
     "phone": "(305) 956-9725",
-    "address": "street: 1551 NE Miami Gardens Dr location: Miami, FL 33179"
+    "address": " 1551 NE Miami Gardens Dr  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "472415364",
     "name": "Saggio International Bus Sltns",
     "description": "Advertising Agencies",
     "phone": "(786) 440-5275",
-    "address": "street: 20295 NW 2nd Ave location: Miami, FL 33169"
+    "address": " 20295 NW 2nd Ave  Miami, FL 33169",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "551935614",
     "name": "Opg Media Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(786) 704-1401",
-    "address": "street: 5305 NW 2nd Ave location: Miami, FL 33127"
+    "address": " 5305 NW 2nd Ave  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465261087",
     "name": "Green DOT Advertsing",
     "description": "Advertising Agencies",
     "phone": "(305) 674-8406",
-    "address": "street: 5400 NE 4th Ct Ste 3 location: Miami, FL 33137"
+    "address": " 5400 NE 4th Ct Ste 3  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "478312587",
     "name": "Mobile Billboard Miami",
     "description": "Advertising Agencies",
     "phone": "(305) 814-5880",
-    "address": "street: 19820 NE 10th Ct location: Miami, FL 33179"
+    "address": " 19820 NE 10th Ct  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "552050800",
     "name": "Produ",
     "description": "Advertising Agencies",
     "phone": "(305) 256-6774",
-    "address": "street: 4256 NW 7th Ave location: Miami, FL 33127"
+    "address": " 4256 NW 7th Ave  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "481077070",
     "name": "A S R O M Tech",
     "description": "Advertising Agencies",
     "phone": "(786) 520-4455",
-    "address": "street: 75 NE 211th St location: Miami, FL 33179"
+    "address": " 75 NE 211th St  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "530249718",
     "name": "Zebra Advertisement",
     "description": "Advertising Agencies",
     "phone": "(305) 974-4204",
-    "address": "street: 1021 Ives Dairy Rd Ste 212 location: Miami, FL 33179"
+    "address": " 1021 Ives Dairy Rd Ste 212  Miami, FL 33179",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464498661",
     "name": "Michael Szucs Productions",
     "description": "Advertising Agencies",
     "phone": "(305) 666-6646",
-    "address": "street: 4535 Sabal Palm Rd location: Miami, FL 33137"
+    "address": " 4535 Sabal Palm Rd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "467795701",
     "name": "R & O Media, Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 993-5585",
-    "address": "street: 4141 NE 2nd Ave Ste 202 location: Miami, FL 33137"
+    "address": " 4141 NE 2nd Ave Ste 202  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "461612783",
     "name": "Elastic People",
     "description": "Advertising Agencies",
     "phone": "(305) 573-3434",
-    "address": "street: 4141 NE 2nd Ave Ste 108 location: Miami, FL 33137"
+    "address": " 4141 NE 2nd Ave Ste 108  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464860533",
     "name": "Gold Coast Advertising Associates Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 576-4141",
-    "address": "street: 4141 NE 2nd Ave location: Miami, FL 33137"
+    "address": " 4141 NE 2nd Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "528526981",
     "name": "Catapult 13",
     "description": "Advertising Agencies",
     "phone": "(305) 788-6948",
-    "address": "street: 5 NW 39th St location: Miami, FL 33127"
+    "address": " 5 NW 39th St  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "8214165",
     "name": "Subway",
     "description": "Advertising Agencies",
     "phone": "(305) 572-0404",
-    "address": "street: 3401 N Miami Ave Ste 124 location: Miami, FL 33127"
+    "address": " 3401 N Miami Ave Ste 124  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "23209673",
     "name": "Wwworld Media, Inc.",
     "description": "Advertising Agencies",
     "phone": "(305) 572-0404",
-    "address": "street: 3401 N Miami Ave Ste 239 location: Miami, FL 33127"
+    "address": " 3401 N Miami Ave Ste 239  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "544585869",
     "name": "Alphametic",
     "description": "Advertising Agencies",
     "phone": "(786) 565-2810",
-    "address": "street: 3401 N Miami Ave Ste 230 location: Miami, FL 33127"
+    "address": " 3401 N Miami Ave Ste 230  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "10365879",
     "name": "Starlight Advertising Specialty",
     "description": "Advertising Agencies",
     "phone": "(305) 438-0098",
-    "address": "street: 3550 Biscayne Blvd location: Miami, FL 33137"
+    "address": " 3550 Biscayne Blvd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "503225346",
     "name": "Max Borges Marketing Solutions",
     "description": "Advertising Agencies",
     "phone": "(305) 576-1171",
-    "address": "street: 3550 Biscayne Blvd location: Miami, FL 33137"
+    "address": " 3550 Biscayne Blvd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "556427839",
     "name": "WMX",
     "description": "Advertising Agencies",
     "phone": "(305) 572-0404",
-    "address": "street: 3401 N. Miami Ave. Ste. 239 location: MIami, FL 33137"
+    "address": " 3401 N. Miami Ave. Ste. 239  MIami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "23035590",
     "name": "Four",
     "description": "Advertising Agencies",
     "phone": "(305) 360-4160",
-    "address": "street: 3509 NE 2nd Ave location: Miami, FL 33137"
+    "address": " 3509 NE 2nd Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "559574777",
     "name": "Hayday Advertising",
     "description": "Advertising Agencies",
     "phone": "(786) 410-2886",
-    "address": "street: 3199 NW 36th St location: Miami, FL 33142"
+    "address": " 3199 NW 36th St  Miami, FL 33142",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "573649407",
     "name": "Kivvit",
     "description": "Advertising Agencies",
     "phone": "(305) 964-8035",
-    "address": "street: 3250 NE 1st Ave location: Miami, FL 33137"
+    "address": " 3250 NE 1st Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464315292",
     "name": "Limelite",
     "description": "Advertising Agencies",
     "phone": "(786) 787-0409",
-    "address": "street: 18851 NE 29th Ave Ste 100 location: Miami, FL 33180"
+    "address": " 18851 NE 29th Ave Ste 100  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464514734",
     "name": "Encajes Sa",
     "description": "Advertising Agencies",
     "phone": "(786) 924-3781",
-    "address": "street: 18851 NE 29th Ave location: Miami, FL 33180"
+    "address": " 18851 NE 29th Ave  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "496374702",
     "name": "D V Advertising",
     "description": "Advertising Agencies",
     "phone": "(786) 542-6625",
-    "address": "street: 3050 Biscayne Blvd location: Miami, FL 33137"
+    "address": " 3050 Biscayne Blvd  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "528091142",
     "name": "Avtalents Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 450-5568",
-    "address": "street: 3300 NE 191st St location: Miami, FL 33180"
+    "address": " 3300 NE 191st St  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "481551809",
-    "name": "Wikot",
-    "description": "Advertising Agencies",
-    "phone": "(786) 615-3232",
-    "address": "street: 80 NE 29th St location: Miami, FL 33137"
-  },
-  {
-    "dataYpid": "548508716",
-    "name": "Executive Advertising Group",
-    "description": "Advertising Agencies",
-    "phone": "(305) 597-5454",
-    "address": "street: 2930 Biscayne Blvd location: Miami, FL 33137"
-  },
-  {
-    "dataYpid": "535913270",
     "name": "Alphametic SEO Agency Miami",
     "description": "Advertising Agencies",
     "phone": "(786) 565-2810",
-    "address": "street: 400 NW 26th St location: Miami, FL 33127"
+    "address": " 400 NW 26th St  Miami, FL 33127",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "499269202",
     "name": "Sting House",
     "description": "Advertising Agencies",
     "phone": "(305) 456-3296",
-    "address": "street: 89 NE 27th St Unit 102 location: Miami, FL 33137"
+    "address": " 89 NE 27th St Unit 102  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "531336824",
     "name": "Beber Slverstein Partners Advertising",
     "description": "Advertising Agencies",
     "phone": "(305) 856-9800",
-    "address": "street: 89 NE 27th St location: Miami, FL 33137"
+    "address": " 89 NE 27th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "545361181",
     "name": "Outform Inc",
     "description": "Advertising Agencies",
     "phone": "(800) 204-0524",
-    "address": "street: 82 NE 26th St location: Miami, FL 33137"
+    "address": " 82 NE 26th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "504743016",
     "name": "SEED Branding Studio",
     "description": "Advertising Agencies",
     "phone": "(305) 987-0876",
-    "address": "street: 3330 NE 190th St Apt 1419 location: Miami, FL 33180"
+    "address": " 3330 NE 190th St Apt 1419  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "481125867",
     "name": "Fire Pepper Marketing",
     "description": "Advertising Agencies",
     "phone": "(305) 777-1786",
-    "address": "street: 2627 NE 203rd St Ste 202 location: Miami, FL 33180"
+    "address": " 2627 NE 203rd St Ste 202  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "552407762",
     "name": "Season Miami",
     "description": "Advertising Agencies",
     "phone": "(305) 573-8888",
-    "address": "street: 162 NE 25th St location: Miami, FL 33137"
+    "address": " 162 NE 25th St  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464858279",
     "name": "Arena Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 466-5551",
-    "address": "street: 3370 NE 190th St location: Miami, FL 33180"
+    "address": " 3370 NE 190th St  Miami, FL 33180",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "464860609",
     "name": "Viva Partnership",
     "description": "Advertising Agencies",
     "phone": "(305) 576-6007",
-    "address": "street: 3227 NE 2nd Ave location: Miami, FL 33137"
+    "address": " 3227 NE 2nd Ave  Miami, FL 33137",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29269979",
     "name": "Big Promotion Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 624-0577",
-    "address": "street: 16005 NW 52nd Ave location: Hialeah, FL 33014"
+    "address": " 16005 NW 52nd Ave  Hialeah, FL 33014",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "461488121",
     "name": "Z Media Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 532-5566",
-    "address": "street: 1666 79th Street Cswy location: North Bay Village, FL 33141"
+    "address": " 1666 79th Street Cswy  North Bay Village, FL 33141",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "29378988",
     "name": "Sebastian Consulting Group",
     "description": "Advertising Agencies",
     "phone": "(305) 364-3351",
-    "address": "street: 6970 W 2nd Ln location: Hialeah, FL 33014"
+    "address": " 6970 W 2nd Ln  Hialeah, FL 33014",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "525890409",
-    "name": "One Stop Business Center",
-    "description": "N/A",
-    "phone": "(305) 705-4178",
-    "address": "street: 19654 NW 27th Ave location: Miami Gardens, FL 33056"
-  },
-  {
-    "dataYpid": "529627978",
     "name": "Done Deal Miami",
     "description": "Advertising Agencies",
     "phone": "(305) 330-0295",
-    "address": "street: 1050 E 17th St location: Hialeah, FL 33010"
+    "address": " 1050 E 17th St  Hialeah, FL 33010",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "456144392",
     "name": "A P S Technologies",
     "description": "Advertising Agencies",
     "phone": "(305) 357-7449",
-    "address": "street: 630 W 84th St location: Hialeah, FL 33014"
+    "address": " 630 W 84th St  Hialeah, FL 33014",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "551678108",
     "name": "MVP Advertising",
     "description": "Advertising Agencies",
     "phone": "(305) 556-2200",
-    "address": "street: 13960 NW 60th Ave location: Miami Lakes, FL 33014"
+    "address": " 13960 NW 60th Ave  Miami Lakes, FL 33014",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "465716035",
     "name": "Anmar Party Magazine Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 557-0428",
-    "address": "street: 5901 NW 151st St location: Miami Lakes, FL 33014"
+    "address": " 5901 NW 151st St  Miami Lakes, FL 33014",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "544535620",
     "name": "MJL Select",
     "description": "Advertising Agencies",
     "phone": "(305) 981-0100",
-    "address": "street: 1666 79th Street Cswy location: North Bay Village, FL 33141"
+    "address": " 1666 79th Street Cswy  North Bay Village, FL 33141",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "460155344",
     "name": "Golden K Media",
     "description": "Advertising Agencies",
     "phone": "(305) 397-8028",
-    "address": "street: 1666 79th Street Cswy location: North Bay Village, FL 33141"
+    "address": " 1666 79th Street Cswy  North Bay Village, FL 33141",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "497433213",
     "name": "Hi-Gloss Design Inc",
     "description": "Advertising Agencies",
     "phone": "(305) 759-7288",
-    "address": "street: 1666 79th Street Cswy location: North Bay Village, FL 33141"
+    "address": " 1666 79th Street Cswy  North Bay Village, FL 33141",
+    "location": "Taylor"
   },
   {
-    "dataYpid": "6149273",
     "name": "Emerge International",
     "description": "Advertising Agencies",
     "phone": "(305) 624-3808",
-    "address": "street: 5231 NW 180th Ter location: Miami Gardens, FL 33055"
+    "address": " 5231 NW 180th Ter  Miami Gardens, FL 33055",
+    "location": "Taylor"
   }
 ]

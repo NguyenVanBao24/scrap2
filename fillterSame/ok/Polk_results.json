@@ -1,0 +1,758 @@
+[
+  {
+    "dataYpid": "525570926",
+    "name": "American Laser Designs",
+    "description": "Advertising-Promotional Products",
+    "phone": "(262) 749-4746",
+    "address": " Po Box 1641 - Polk City, FL 33868"
+  },
+  {
+    "dataYpid": "573453823",
+    "name": "Click Thru Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(863) 592-8086",
+    "address": " 4959 Tennessee Lake Dr - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "462481272",
+    "name": "Evolving",
+    "description": "Meeting & Event Planning Services",
+    "phone": "(863) 513-0057",
+    "address": " 4003 Carey Ct - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "464342855",
+    "name": "Cap Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(863) 984-4521",
+    "address": " 225 Chadwick Ct - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "451686773",
+    "name": "William Whittle Consultant",
+    "description": "Advertising Agencies",
+    "phone": "(863) 815-2473",
+    "address": " 1637 Yorkshire Trl - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "169535",
+    "name": "Torch Designs",
+    "description": "Advertising Agencies",
+    "phone": "(863) 614-0029",
+    "address": " 4415 Ne Sandy Blvd - Lakeland, FL 33805"
+  },
+  {
+    "dataYpid": "564937570",
+    "name": "Stumpies Marketing Group",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 614-1672",
+    "address": " 102 E Bridgers Ave - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "10896413",
+    "name": "Partner Marketing",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 295-9118",
+    "address": " 1012 5th St SE - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "508936688",
+    "name": "Falcon Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 709-4488",
+    "address": " 1170 N Florence Ave - Lakeland, FL 33805"
+  },
+  {
+    "dataYpid": "495851043",
+    "name": "Kelton Signs & Banners",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 940-9725",
+    "address": " 2020 S Combee Rd Ste 33801 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "530122381",
+    "name": "Minuteman Press",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 337-6670",
+    "address": " 2058 E Edgewood Dr Ste C - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "6208198",
+    "name": "Bomar Trophy Shop",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 682-1439",
+    "address": " 1051 S Florida Ave - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "5486827",
+    "name": "Gallagher Advertising",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 686-9923",
+    "address": " 1628 E Gary Rd - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "479257917",
+    "name": "Image Creations By Billie",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 937-8833",
+    "address": " 2184 Malachite Dr - Lakeland, FL 33810"
+  },
+  {
+    "dataYpid": "507312025",
+    "name": "Aquatain",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 280-6969",
+    "address": " 5593 Commercial Blvd - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "456923556",
+    "name": "Masters Wholesale Distribution",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 859-1062",
+    "address": " 5515 Us Highway 98 N - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "3839765",
+    "name": "Bruno Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 667-2533",
+    "address": " 135 Complex Dr - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "546380198",
+    "name": "Goodman Distribution Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 965-8411",
+    "address": " 750 42nd St NW - Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "465050892",
+    "name": "Pace Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 686-1606",
+    "address": " 2130 Interstate Dr - Lakeland, FL 33805"
+  },
+  {
+    "dataYpid": "457562403",
+    "name": "B-Lak Logistics Services Inc",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 324-6800",
+    "address": " 387 E Central Ave - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "456628651",
+    "name": "Soltec",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 937-8819",
+    "address": " 3705 Us Highway 98 S Ste 12 - Lakeland, FL 33812"
+  },
+  {
+    "dataYpid": "2885470",
+    "name": "Cypress Signs",
+    "description": "Banners, Flags & Pennants",
+    "phone": "(863) 294-1683",
+    "address": " 160 Spirit Lake Rd - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "549174437",
+    "name": "HUSH Media Networks",
+    "description": "Advertising Agencies",
+    "phone": "(800) 214-8036",
+    "address": " PO Box 1804 - Davenport, FL 33836"
+  },
+  {
+    "dataYpid": "466628524",
+    "name": "Today & Tonight Inc",
+    "description": "Directory & Guide Advertising",
+    "phone": "(863) 401-8001",
+    "address": " 39 3rd St SW Ste 201 - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "460346837",
+    "name": "Just-In-Time Signs",
+    "description": "Signs",
+    "phone": "(863) 944-1766",
+    "address": " 706 Magnolia Ave - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "539341",
+    "name": "The Ledger",
+    "description": "Marketing Programs & Services",
+    "phone": "(863) 802-7000",
+    "address": " 300 W Lime St - Lakeland, FL 33815"
+  },
+  {
+    "dataYpid": "490780991",
+    "name": "Local Marketing Pros",
+    "description": "Marketing Consultants",
+    "phone": "(863) 576-1180",
+    "address": " 6119 Brahman Dr - Lakeland, FL 33810"
+  },
+  {
+    "dataYpid": "510525352",
+    "name": "A Home Town Connection Marketing Solutions L.L.C.",
+    "description": "Altering & Remodeling Contractors",
+    "phone": "(863) 221-8288",
+    "address": " 4266 Stafford Dr - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "1371853",
+    "name": "All About Signs & Service Inc",
+    "description": "Signs",
+    "phone": "(863) 666-3990",
+    "address": " 2727 Industrial Park Dr - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "571553784",
+    "name": "Mastro Digital Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(863) 400-0407",
+    "address": " 502 E Main St - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "575015592",
+    "name": "Dippidi",
+    "description": "Advertising Agencies",
+    "phone": "(863) 591-5384",
+    "address": " 502 E Main St - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "575793663",
+    "name": "SoccerLeads",
+    "description": "Advertising Agencies",
+    "phone": "(863) 400-0407",
+    "address": " 502 E Main St - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "523848202",
+    "name": "Properganda Inc",
+    "description": "Advertising Agencies",
+    "phone": "(239) 430-9400",
+    "address": " 231 N Kentucky Ave Ste 214 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "461049813",
+    "name": "MosierData - Web Design & Internet Marketing",
+    "description": "Web Site Design & Services",
+    "phone": "(863) 687-0000",
+    "address": " 211 E Main St Ste 315 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "560337302",
+    "name": "Shed Marketer",
+    "description": "Marketing Programs & Services",
+    "phone": "(888) 348-1069",
+    "address": " 211 E Main St Ste 213 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "569926233",
+    "name": "Hurimark SEO Agency",
+    "description": "Advertising Agencies",
+    "phone": "(650) 586-0072",
+    "address": " 122 E Main St Unit 130 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "480438822",
+    "name": "Nice Branding Agency",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(863) 216-5683",
+    "address": " 123 S Tennessee Ave Ste 2 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "11330126",
+    "name": "Phoenix Graphics",
+    "description": "Graphic Designers",
+    "phone": "(863) 294-7083",
+    "address": " 300 1st St S - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "524037637",
+    "name": "Curious Jane",
+    "description": "Advertising Specialties",
+    "phone": "(863) 646-2488",
+    "address": " 439 Florida Ave S #301 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "453950798",
+    "name": "Monroe Marketing Design. LLC",
+    "description": "Marketing Programs & Services",
+    "phone": "(863) 288-8118",
+    "address": " 128 Terrace Dr Apt 3 - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "6251832",
+    "name": "Signs & Specialties",
+    "description": "Truck Painting & Lettering",
+    "phone": "(863) 686-5900",
+    "address": " 1829 E Edgewood Dr - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "840310",
+    "name": "Lake Gibson Sports World",
+    "description": "Screen Printing",
+    "phone": "(863) 858-5423",
+    "address": " 6906 US Highway 98 N - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "28624636",
+    "name": "All-Tex",
+    "description": "Distributing Service-Circular, Sample, Etc",
+    "phone": "(863) 420-7400",
+    "address": " 220 Deen Still Rd Ste 300 - Davenport, FL 33897"
+  },
+  {
+    "dataYpid": "764985",
+    "name": "Lakeland Outdoor Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(863) 603-0373",
+    "address": " 215 E Bay St - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "562284295",
+    "name": "Moonstocks",
+    "description": "Advertising Agencies",
+    "phone": "(800) 601-0639",
+    "address": " 304 E Pine St Unit 1132 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "531064354",
+    "name": "Florida Regional Service Office",
+    "description": "Distributing Service-Circular, Sample, Etc",
+    "phone": "(863) 683-8224",
+    "address": " 2222 S Combee Rd Ste 6 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "474164920",
+    "name": "Elite Advertising & Design",
+    "description": "Advertising Agencies",
+    "phone": "(863) 937-9676",
+    "address": " 2058 E Edgewood Dr Ste A - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "465015459",
+    "name": "Nissen Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 688-7078",
+    "address": " 1037 S Florida Ave - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "12067550",
+    "name": "Kingston Partners Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 967-5487",
+    "address": " 118 E Lake Ave - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "561357036",
+    "name": "Sign Postman",
+    "description": "Advertising Specialties",
+    "phone": "(863) 808-0005",
+    "address": " 5337 N Socrum Loop Rd - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "559479672",
+    "name": "Lighthouse Sign Services",
+    "description": "Signs",
+    "phone": "(863) 400-3660",
+    "address": " 5403 Polk City Rd - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "464222960",
+    "name": "Imperial Imprinting",
+    "description": "Advertising Agencies",
+    "phone": "(863) 551-9400",
+    "address": " 2495 Joey Dr - Auburndale, FL 33823"
+  },
+  {
+    "dataYpid": "4888917",
+    "name": "Gator Sign Corp",
+    "description": "Signs",
+    "phone": "(863) 965-2046",
+    "address": " 2099 42nd St NW - Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "561461721",
+    "name": "Cottrell Creations",
+    "description": "Signs",
+    "phone": "(863) 602-7320",
+    "address": " 5421 Us Highway 98 N - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "4963796",
+    "name": "Craig Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(863) 853-4116",
+    "address": " 528 Worchester Ct - Lakeland, FL 33809"
+  },
+  {
+    "dataYpid": "470111764",
+    "name": "All American Signs Inc",
+    "description": "Signs",
+    "phone": "(863) 665-7161",
+    "address": " 206 N Eastside Dr - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "510638359",
+    "name": "Inca Concept",
+    "description": "Advertising Specialties",
+    "phone": "(407) 300-2642",
+    "address": " 520 Ronshelle Ave - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "510467577",
+    "name": "Mpact",
+    "description": "Signs",
+    "phone": "(863) 669-0535",
+    "address": " 1709 E Memorial Blvd - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "502139176",
+    "name": "Capstone Advertising, Inc.",
+    "description": "Advertising Specialties",
+    "phone": "(863) 225-3670",
+    "address": " 752 Lady Diana Dr - Davenport, FL 33837"
+  },
+  {
+    "dataYpid": "506412269",
+    "name": "Chilton Signs LP",
+    "description": "Signs",
+    "phone": "(863) 438-0880",
+    "address": " 2584 Sand Hill Point Cir - Davenport, FL 33837"
+  },
+  {
+    "dataYpid": "1034667",
+    "name": "Crt International",
+    "description": "Signs",
+    "phone": "(863) 683-5322",
+    "address": " 1512 E Gary Rd - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "493539354",
+    "name": "Advertising Solutions & Printing",
+    "description": "Advertising Agencies",
+    "phone": "(863) 291-6808",
+    "address": " 3191 Recker Hwy - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "544624502",
+    "name": "Florida Signs and Graphic",
+    "description": "Graphic Designers",
+    "phone": "(863) 353-9270",
+    "address": " 1100 Polk City Rd - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "560419199",
+    "name": "Signcorp Inc",
+    "description": "Signs",
+    "phone": "(863) 875-3019",
+    "address": " 512 6th St NW - Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "473424060",
+    "name": "Webb's Signs and Graphics",
+    "description": "Signs",
+    "phone": "(863) 606-8409",
+    "address": " 1620 S Combee Rd - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "5558116",
+    "name": "Focus Magazine",
+    "description": "Advertising Agencies",
+    "phone": "(863) 293-9484",
+    "address": " 501 W Central Ave - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "504670983",
+    "name": "Century Signs Inc",
+    "description": "Signs",
+    "phone": "(863) 816-6947",
+    "address": " 2020 S Combee Rd Ste 4 - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "460716624",
+    "name": "Pro -Ad Media Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 802-5043",
+    "address": " 224 N Kentucky Ave - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "5933066",
+    "name": "Cyberlink1",
+    "description": "Advertising Agencies",
+    "phone": "(863) 299-3177",
+    "address": " 340 W Central Ave - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "573177922",
+    "name": "KDM Creative Studio",
+    "description": "Graphic Designers",
+    "phone": "(863) 280-6118",
+    "address": " 245 W Central Ave - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "777177",
+    "name": "The Florida Senior",
+    "description": "Advertising Agencies",
+    "phone": "(863) 802-5043",
+    "address": " 225 N Florida Ave - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "559203946",
+    "name": "FASTSIGNS",
+    "description": "Signs",
+    "phone": "(863) 485-6865",
+    "address": " 228 N Florida Ave - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "29276767",
+    "name": "Nissen Group",
+    "description": "Digital Printing & Imaging",
+    "phone": "(863) 294-2812",
+    "address": " 150 3rd St SW - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "462379508",
+    "name": "Quinlan Co Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 422-1393",
+    "address": " 6654 State Road 544 - Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "2281106",
+    "name": "Visual Images",
+    "description": "Signs",
+    "phone": "(863) 297-8018",
+    "address": " 231 3rd St SW - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "572768113",
+    "name": "Tinsley Creative",
+    "description": "Advertising Agencies",
+    "phone": "(863) 583-0081",
+    "address": " 2310 Commerce Point Dr - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "542898857",
+    "name": "Maximize Digital Media",
+    "description": "Digital Printing & Imaging",
+    "phone": "(863) 606-5994",
+    "address": " 303 S Florida Ave - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "512467272",
+    "name": "Kellogg Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(863) 583-3559",
+    "address": " 439 S Florida Ave - Lakeland, FL 33801"
+  },
+  {
+    "dataYpid": "510647355",
+    "name": "Honduespacios.com",
+    "description": "Advertising Specialties",
+    "phone": "(407) 414-9131",
+    "address": " 128 Terrace Dr # AP6 - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "568338872",
+    "name": "Lakay Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(877) 852-2276",
+    "address": " 332 Avenue BSW Suite 200-18 - Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "11426818",
+    "name": "Tmr Agency",
+    "description": "Advertising Agencies",
+    "phone": "(863) 583-0081",
+    "address": " 1046 S Florida Ave - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "1942277",
+    "name": "Digitech Graphics",
+    "description": "Signs",
+    "phone": "(863) 668-8770",
+    "address": " 3020 Winter Lake Rd - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "18126618",
+    "name": "American Specialty Enterprises",
+    "description": "Advertising Specialties",
+    "phone": "(863) 293-9422",
+    "address": " 711 Heritage Dr NE - Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "9876848",
+    "name": "J & V Publications",
+    "description": "Advertising Agencies",
+    "phone": "(863) 421-2124",
+    "address": " 901 Wood Ave - Haines City, FL 33844"
+  },
+  {
+    "dataYpid": "529402665",
+    "name": "Seo Sports Center",
+    "description": "Screen Printing",
+    "phone": "(863) 666-3159",
+    "address": " 2828 States St - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "5144304",
+    "name": "Central Florida Austism Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 816-5886",
+    "address": " 1525 S Florida Ave Ste 3 - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "482150886",
+    "name": "Pro Level Apparel",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 295-5427",
+    "address": " 3260 Dundee Rd - Winter Haven, FL 33884"
+  },
+  {
+    "dataYpid": "475635573",
+    "name": "AD & Expressions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 579-8753",
+    "address": " 600 Cagan Park Ave - Clermont, FL 34714"
+  },
+  {
+    "dataYpid": "546219933",
+    "name": "Partner Marketing Group",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 295-9118",
+    "address": " 4930 Dundee Rd - Winter Haven, FL 33884"
+  },
+  {
+    "dataYpid": "492441142",
+    "name": "Snl Distrubution Service",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 683-5344",
+    "address": " 3359 W Memorial Blvd - Lakeland, FL 33815"
+  },
+  {
+    "dataYpid": "482427596",
+    "name": "Gorin Cockrell McCoy",
+    "description": "Advertising-Promotional Products",
+    "phone": "(863) 802-3400",
+    "address": " 3715 Frontage Rd N - Lakeland, FL 33810"
+  },
+  {
+    "dataYpid": "2289679",
+    "name": "Ray Graphics Scrn Prntng",
+    "description": "Screen Printing",
+    "phone": "(863) 325-0911",
+    "address": " 1895 Executive Rd - Winter Haven, FL 33884"
+  },
+  {
+    "dataYpid": "572980204",
+    "name": "LED Truck Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 577-4175",
+    "address": " 400 Callawalk Ct - Davenport, FL 33896"
+  },
+  {
+    "dataYpid": "528395317",
+    "name": "Inspire Visual",
+    "description": "Web Site Design & Services",
+    "phone": "(407) 476-1950",
+    "address": " 1100 Us Highway 27 # 6774 - Clermont, FL 34713"
+  },
+  {
+    "dataYpid": "4994244",
+    "name": "Brenmar Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 644-6687",
+    "address": " 1666 Williamsburg Sq - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "556339247",
+    "name": "Sitemap",
+    "description": "Advertising Agencies",
+    "phone": "(863) 825-7006",
+    "address": " 1649 Williamsburg Sq - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "13945344",
+    "name": "Levimar & Co Inc",
+    "description": "Advertising Specialties",
+    "phone": "(863) 683-6740",
+    "address": " 327 Allamanda Dr - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "546862062",
+    "name": "Jamtam",
+    "description": "Advertising Agencies",
+    "phone": "(407) 787-3719",
+    "address": " 1596 Heritage Crossing Ct - Reunion, FL 34747"
+  },
+  {
+    "dataYpid": "464393177",
+    "name": "Lumen Consulting Svc",
+    "description": "Advertising Agencies",
+    "phone": "(863) 424-6177",
+    "address": " 640 Loma Bonita Dr - Davenport, FL 33837"
+  },
+  {
+    "dataYpid": "464788846",
+    "name": "Higgenbotham Martin E Cai",
+    "description": "Advertising Agencies",
+    "phone": "(863) 644-6681",
+    "address": " 1666 Williamsburg Sq - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "457423671",
+    "name": "Damatex Group Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(407) 396-4900",
+    "address": " 1505 Legends Blvd - Champions Gate, FL 33896"
+  },
+  {
+    "dataYpid": "470066014",
+    "name": "Royalty Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(863) 709-0591",
+    "address": " 3308 Cleveland Heights Blvd - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "530811429",
+    "name": "Skyspot Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(863) 709-8948",
+    "address": " 3300 Bridgefield Dr - Lakeland, FL 33803"
+  },
+  {
+    "dataYpid": "22088812",
+    "name": "Tampa Bay Stitching Co",
+    "description": "Embroidery",
+    "phone": "(863) 859-5266",
+    "address": " 5107 Shady Oak Dr N - Lakeland, FL 33810"
+  },
+  {
+    "dataYpid": "15491763",
+    "name": "Pate Marketing Group",
+    "description": "Marketing Consultants",
+    "phone": "(863) 701-2575",
+    "address": " 2525 Drane Field Rd - Lakeland, FL 33811"
+  },
+  {
+    "dataYpid": "10300185",
+    "name": "Datamex Group",
+    "description": "Advertising Agencies",
+    "phone": "(407) 396-4900",
+    "address": " 751 N Goodman Rd - Kissimmee, FL 34747"
+  },
+  {
+    "dataYpid": "504721426",
+    "name": "Central Florida Graphic Design",
+    "description": "Computer Graphics",
+    "phone": "(321) 439-1356",
+    "address": " 16744 Cagan Crossings Blvd - Clermont, FL 34714"
+  },
+  {
+    "dataYpid": "28720294",
+    "name": "Terpexpo",
+    "description": "Advertising Specialties",
+    "phone": "(407) 329-3677",
+    "address": " 17105 Cypresswood Way - Clermont, FL 34714"
+  }
+]

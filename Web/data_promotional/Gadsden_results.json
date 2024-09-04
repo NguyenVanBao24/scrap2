@@ -3,252 +3,189 @@
     "name": "Wtcs Radio",
     "description": "Advertising Agencies",
     "phone": "(850) 274-8823",
-    "address": "street: 16812 Blue Star Hwy location: Gretna, FL 32332"
+    "address": "16812 Blue Star Hwy  Gretna, FL 32332",
+    "location": "Gadsden"
   },
   {
     "name": "Blues Boy Music",
     "description": "Advertising Agencies",
     "phone": "(850) 627-8127",
-    "address": "street: 448 Bradford Ln location: Quincy, FL 32351"
+    "address": "448 Bradford Ln  Quincy, FL 32351",
+    "location": "Gadsden"
   },
   {
     "name": "Direct At Home Jobs",
     "description": "Employment Opportunities",
     "phone": "(850) 270-2958",
-    "address": "street: PO Box 1202 location: Quincy, FL 32353"
+    "address": "PO Box 1202  Quincy, FL 32353",
+    "location": "Gadsden"
   },
   {
     "name": "D & M Signs & Design",
     "description": "Signs",
     "phone": "(850) 627-6558",
-    "address": "street: 121 W Clark St location: Quincy, FL 32351"
-  },
-  {
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Production Tours Inc",
-    "description": "Advertising-Promotional Products",
-    "phone": "(850) 224-7913",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Advertising-Promotional Products",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "A T-Shirt Prince",
-    "description": "Advertising-Promotional Products",
-    "phone": "(561) 792-1415",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "EZLocal.com",
-    "description": "Advertising-Promotional Products",
-    "phone": "(850) 408-1604",
-    "address": "street: N/A location: Tallahassee, FL 32312"
-  },
-  {
-    "name": "Panhandle Creations",
-    "description": "Advertising-Promotional Products",
-    "phone": "(850) 273-5982",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Chamillah Designs",
-    "description": "Graphic Designers",
-    "phone": "(727) 492-1699",
-    "address": "street: N/A location: Tallahassee, FL 32308"
-  },
-  {
-    "name": "Vera Voices",
-    "description": "Advertising Specialties",
-    "phone": "(850) 321-9514",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Ink Blot Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(850) 345-7940",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Thinking Thrifty",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 555-1234",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Zimmerman Agency",
-    "description": "Advertising Agencies",
-    "phone": "(850) 877-1521",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Enjoy Gujarat",
-    "description": "Advertising Agencies",
-    "phone": "(740) 551-1273",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Jensen Signs",
-    "description": "Advertising Specialties",
-    "phone": "(850) 792-2764",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "HARN Digital",
-    "description": "Advertising Agencies",
-    "phone": "(850) 597-0838",
-    "address": "street: N/A location: N/A"
+    "address": "121 W Clark St  Quincy, FL 32351",
+    "location": "Gadsden"
   },
   {
     "name": "Durra-Print",
     "description": "Advertising-Promotional Products",
     "phone": "(850) 583-6395",
-    "address": "street: 3044 W Tharpe St location: Tallahassee, FL 32303"
+    "address": "3044 W Tharpe St  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Homestead Imprinted Sportswear",
     "description": "Advertising-Promotional Products",
     "phone": "(229) 872-3202",
-    "address": "street: 273 Darsey Rd location: Cairo, GA 39828"
-  },
-  {
-    "name": "work from home data entry jobs",
-    "description": "Advertising-Promotional Products",
-    "phone": "(876) 477-2540",
-    "address": "street: N/A location: Tallahasse, FL 32304"
+    "address": "273 Darsey Rd  Cairo, GA 39828",
+    "location": "Gadsden"
   },
   {
     "name": "Altrua Marketing Design",
     "description": "Advertising-Promotional Products",
     "phone": "(850) 574-0806",
-    "address": "street: 5349 Capital Cir NW location: Tallahassee, FL 32303"
+    "address": "5349 Capital Cir NW  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "in focUS apparel",
     "description": "Advertising-Promotional Products",
     "phone": "(850) 524-3832",
-    "address": "street: 3783 Hartsfield Rd location: Tallahassee, FL 32303"
+    "address": "3783 Hartsfield Rd  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Precision Signs",
     "description": "Signs",
     "phone": "(850) 536-6701",
-    "address": "street: 1515 Capital Cir NW Ste 5 location: Tallahassee, FL 32303"
+    "address": "1515 Capital Cir NW Ste 5  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Bill's Signs & Service Inc",
     "description": "Signs-Maintenance & Repair",
     "phone": "(850) 576-6847",
-    "address": "street: 5765 Mandy Ln location: Tallahassee, FL 32304"
+    "address": "5765 Mandy Ln  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "Eyecatcher Signs Graphics",
     "description": "Signs",
     "phone": "(850) 574-7446",
-    "address": "street: 2622 W Tennessee St location: Tallahassee, FL 32304"
+    "address": "2622 W Tennessee St  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "Hunter Owens Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 514-2211",
-    "address": "street: 3351 N Monroe St location: Tallahassee, FL 32303"
+    "address": "3351 N Monroe St  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Alpha Displays & Promotions",
     "description": "Advertising Specialties",
     "phone": "(850) 514-4333",
-    "address": "street: 1412 Fl Ga Hwy location: Havana, FL 32333"
+    "address": "1412 Fl Ga Hwy  Havana, FL 32333",
+    "location": "Gadsden"
   },
   {
     "name": "FASTSIGNS",
     "description": "Signs",
     "phone": "(850) 878-8963",
-    "address": "street: 3200 Commonwealth Blvd location: Tallahassee, FL 32303"
+    "address": "3200 Commonwealth Blvd  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Wilderness Graphics",
     "description": "Graphic Designers",
     "phone": "(850) 224-6414",
-    "address": "street: 3465 Garber Dr location: Tallahassee, FL 32303"
+    "address": "3465 Garber Dr  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Sign Printers",
     "description": "Signs",
     "phone": "(850) 575-3828",
-    "address": "street: 1486 Max Dr location: Tallahassee, FL 32303"
+    "address": "1486 Max Dr  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Sunshine Advertising",
     "description": "Signs",
     "phone": "(850) 878-2000",
-    "address": "street: 2017 Coffee Ln location: Tallahassee, FL 32303"
+    "address": "2017 Coffee Ln  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Target Copy",
     "description": "Printing Services",
     "phone": "(850) 224-3007",
-    "address": "street: 635 W Tennessee St location: Tallahassee, FL 32304"
+    "address": "635 W Tennessee St  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "The Social Source, LLC",
     "description": "Advertising Agencies",
     "phone": "(850) 273-8439",
-    "address": "street: 799 W Gaines St location: Tallahassee, FL 32304"
+    "address": "799 W Gaines St  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "National-Marketplace.com",
     "description": "Advertising Agencies",
     "phone": "(850) 276-9894",
-    "address": "street: 480 W Tennessee St location: Tallahassee, FL 32301"
+    "address": "480 W Tennessee St  Tallahassee, FL 32301",
+    "location": "Gadsden"
   },
   {
     "name": "Captiveyes Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 391-0752",
-    "address": "street: 2141 Skyland Dr location: Tallahassee, FL 32303"
+    "address": "2141 Skyland Dr  Tallahassee, FL 32303",
+    "location": "Gadsden"
   },
   {
     "name": "Rael Moshe Nagahiawathabey",
     "description": "Advertising Agencies",
     "phone": "(850) 329-2531",
-    "address": "street: 1322 Rumba Ln location: Tallahassee, FL 32304"
+    "address": "1322 Rumba Ln  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "Ansun",
     "description": "Advertising Specialties",
     "phone": "(850) 345-5608",
-    "address": "street: 800 Ocala Rd location: Tallahassee, FL 32304"
+    "address": "800 Ocala Rd  Tallahassee, FL 32304",
+    "location": "Gadsden"
   },
   {
     "name": "Severance Sign Art",
     "description": "Signs",
     "phone": "(850) 643-5712",
-    "address": "street: 10629 NW State Road 20 location: Bristol, FL 32321"
+    "address": "10629 NW State Road 20  Bristol, FL 32321",
+    "location": "Gadsden"
   },
   {
     "name": "STREET ADVERTISING...",
     "description": "Advertising Agencies",
     "phone": "(850) 274-3153",
-    "address": "street: 480 W Tennessee St location: Tallahassee, FL 32301"
+    "address": "480 W Tennessee St  Tallahassee, FL 32301",
+    "location": "Gadsden"
   },
   {
     "name": "Country Clutter",
     "description": "Signs",
     "phone": "(850) 593-5052",
-    "address": "street: 7696 Highway 90 location: Sneads, FL 32460"
+    "address": "7696 Highway 90  Sneads, FL 32460",
+    "location": "Gadsden"
   },
   {
     "name": "Red Enterprises",
     "description": "Advertising Specialties",
     "phone": "(850) 224-3930",
-    "address": "street: 1308 High Rd location: Tallahassee, FL 32304"
+    "address": "1308 High Rd  Tallahassee, FL 32304",
+    "location": "Gadsden"
   }
 ]

@@ -43,20 +43,18 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
             const phone = el.querySelector(".phones.phone");
             const street = el.querySelector(".adr > .street-address");
             const location = el.querySelector(".adr > .locality");
-            const dataYpid = el.getAttribute("data-ypid");
+
             return {
-              dataYpid: dataYpid || "N/A",
               name: name ? name.innerText : "N/A",
               description: description ? description.innerText : "N/A",
               phone: phone ? phone.innerText : "N/A",
-              address: `street: ${street ? street.innerText : "N/A"} location: ${
+              address: ` ${street ? street.innerText : "N/A"} - ${
                 location ? location.innerText : "N/A"
               }`,
             };
           } catch (err) {
             console.error("Lỗi khi lấy dữ liệu của một phần tử:", err);
             return {
-              dataYpid: "N/A",
               name: "N/A",
               description: "N/A",
               phone: "N/A",

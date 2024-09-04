@@ -1,542 +1,268 @@
 [
   {
-    "name": "The Phobia Shop",
-    "description": "Clothing Stores",
-    "phone": "(786) 397-3355",
-    "address": "street: N/A location: Miami, FL 33173"
-  },
-  {
-    "name": "Uniquely In The Bag",
-    "description": "Clothing Stores",
-    "phone": "(786) 253-5006",
-    "address": "street: N/A location: Miami, FL 33176"
-  },
-  {
-    "name": "Eyo Eyo",
-    "description": "Clothing Stores",
-    "phone": "(470) 530-2309",
-    "address": "street: N/A location: Miami, FL 33127"
-  },
-  {
-    "name": "AFRO-FUSION",
-    "description": "Clothing Stores",
-    "phone": "(786) 452-8279",
-    "address": "street: N/A location: N/A"
-  },
-  {
     "name": "American Eagle Outfitters",
     "description": "Clothing Stores",
     "phone": "(305) 787-8585",
-    "address": "street: 15372 W Dixie Hwy location: North Miami Beach, FL 33162"
+    "address": "15372 W Dixie Hwy  North Miami Beach, FL 33162",
+    "location": "Nassau"
   },
   {
     "name": "Mopaxpress Plus Inc",
     "description": "Clothing Stores",
     "phone": "(305) 944-1616",
-    "address": "street: 1905 NE 154th St location: North Miami Beach, FL 33162"
-  },
-  {
-    "name": "Distinct Apparel Inc",
-    "description": "Clothing Stores",
-    "phone": "(305) 640-0400",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Magic Cola Fashion Corp",
-    "description": "Clothing Stores",
-    "phone": "(305) 890-3943",
-    "address": "street: N/A location: Hialeah, FL 33012"
-  },
-  {
-    "name": "Alexia Wellness Meditation And Yoga Lounge",
-    "description": "Clothing Stores",
-    "phone": "(305) 454-0051",
-    "address": "street: N/A location: Sunny Isles Beach, FL 33160"
+    "address": "1905 NE 154th St  North Miami Beach, FL 33162",
+    "location": "Nassau"
   },
   {
     "name": "Bella D'vah Couture",
     "description": "Clothing Stores",
     "phone": "(305) 974-5236",
-    "address": "street: 14600 W Dixie Hwy location: North Miami, FL 33161"
+    "address": "14600 W Dixie Hwy  North Miami, FL 33161",
+    "location": "Nassau"
   },
   {
     "name": "Find Less",
     "description": "Clothing Stores",
     "phone": "(305) 952-3095",
-    "address": "street: 1966 NE 148th Ter location: North Miami, FL 33181"
+    "address": "1966 NE 148th Ter  North Miami, FL 33181",
+    "location": "Nassau"
   },
   {
     "name": "Advanced Fashion",
     "description": "Clothing Stores",
     "phone": "(305) 940-5158",
-    "address": "street: 1993 NE 148th St location: North Miami, FL 33181"
+    "address": "1993 NE 148th St  North Miami, FL 33181",
+    "location": "Nassau"
   },
   {
     "name": "Clothingunder10.com",
     "description": "Clothing Stores",
     "phone": "(305) 944-1616",
-    "address": "street: 19501 NE 10th Ave Ste 106 location: North Miami Beach, FL 33179"
+    "address": "19501 NE 10th Ave Ste 106  North Miami Beach, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "New Gerald Fashion",
     "description": "Clothing Stores",
     "phone": "(305) 893-2030",
-    "address": "street: 13649 W Dixie Hwy location: North Miami, FL 33161"
+    "address": "13649 W Dixie Hwy  North Miami, FL 33161",
+    "location": "Nassau"
   },
   {
     "name": "Our Fabulous Finds",
     "description": "Clothing Stores",
     "phone": "(855) 336-6875",
-    "address": "street: 19140 W Dixie Hwy location: Aventura, FL 33180"
-  },
-  {
-    "name": "Fashion-ModeUsa.com",
-    "description": "Clothing Stores",
-    "phone": "(305) 467-1720",
-    "address": "street: N/A location: Doral, FL 33178"
-  },
-  {
-    "name": "Magic Cola Fashion",
-    "description": "Clothing Stores",
-    "phone": "(305) 290-1539",
-    "address": "street: N/A location: Hialeah, FL 33012"
-  },
-  {
-    "name": "VBK",
-    "description": "Clothing Stores",
-    "phone": "(786) 539-5897",
-    "address": "street: N/A location: Coral Gables, FL 33146"
-  },
-  {
-    "name": "Ahmat , LLC",
-    "description": "Clothing Stores",
-    "phone": "(305) 343-1363",
-    "address": "street: N/A location: Aventura, FL 33160"
-  },
-  {
-    "name": "Anjavik Fashions",
-    "description": "Clothing Stores",
-    "phone": "(305) 406-3450",
-    "address": "street: N/A location: Doral, FL 33126"
-  },
-  {
-    "name": "Maris Vintage and More Inc",
-    "description": "Clothing Stores",
-    "phone": "(305) 949-9040",
-    "address": "street: N/A location: North Miami Beach, FL 33160"
-  },
-  {
-    "name": "Industrias Desafio Inc",
-    "description": "Clothing Stores",
-    "phone": "(305) 445-7010",
-    "address": "street: N/A location: Coral Gables, FL 33134"
-  },
-  {
-    "name": "Ellafashionable",
-    "description": "Clothing Stores",
-    "phone": "(786) 499-1770",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Magic Cola Fashion",
-    "description": "Clothing Stores",
-    "phone": "(305) 788-7881",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Coolibar - Technical, Elegant, Sun Protection You Wear.",
-    "description": "Clothing Stores",
-    "phone": "(800) 926-6509",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "T &H Clothing",
-    "description": "Clothing Stores",
-    "phone": "(305) 534-4711",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "LYK-iT, Inc.",
-    "description": "Clothing Stores",
-    "phone": "(866) 868-4824",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Pariskelly",
-    "description": "Clothing Stores",
-    "phone": "(855) 249-5894",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Londyn Allure",
-    "description": "Clothing Stores",
-    "phone": "(954) 401-2363",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Burlington Stores",
-    "description": "Clothing Stores",
-    "phone": "(305) 256-0376",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "LYK-iT, Inc.",
-    "description": "Clothing Stores",
-    "phone": "(866) 868-4824",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Pariskelly",
-    "description": "Clothing Stores",
-    "phone": "(855) 249-5894",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Londyn Allure",
-    "description": "Clothing Stores",
-    "phone": "(954) 401-2363",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Burlington Stores",
-    "description": "Clothing Stores",
-    "phone": "(305) 256-0376",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Azul Boutique",
-    "description": "Clothing Stores",
-    "phone": "(786) 250-3251",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Lewis's New & Used Boutique",
-    "description": "Clothing Stores",
-    "phone": "(877) 537-8655",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Liquidation Fashion Outlet",
-    "description": "Clothing Stores",
-    "phone": "(347) 765-2122",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "5 Stripes T's",
-    "description": "Clothing Stores",
-    "phone": "(855) 251-9995",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Cubainacan",
-    "description": "Clothing Stores",
-    "phone": "(844) 920-9003",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Mi Mi Mi Miami",
-    "description": "Clothing Stores",
-    "phone": "(877) 770-6716",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Warrior's Pride",
-    "description": "Clothing Stores",
-    "phone": "(855) 557-9400",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Anine Bing corp",
-    "description": "Clothing Stores",
-    "phone": "(305) 974-2925",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "MIA Custom",
-    "description": "Clothing Stores",
-    "phone": "(786) 262-2084",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Blac Leaf",
-    "description": "Clothing Stores",
-    "phone": "(786) 353-9701",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Bonpoint Usa",
-    "description": "Clothing Stores",
-    "phone": "(786) 558-5598",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Bimba Y Lola Us",
-    "description": "Clothing Stores",
-    "phone": "(305) 974-2053",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Ross Stores Inc",
-    "description": "Clothing Stores",
-    "phone": "(786) 238-7693",
-    "address": "street: N/A location: N/A"
+    "address": "19140 W Dixie Hwy  Aventura, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Stone Rose",
     "description": "Clothing Stores",
     "phone": "(305) 393-8468",
-    "address": "street: 19589 NE 10th Ave location: Miami, FL 33179"
-  },
-  {
-    "name": "Rep It Out Apparel",
-    "description": "Clothing Stores",
-    "phone": "(305) 206-8036",
-    "address": "street: N/A location: Miami Lakes, FL 33014"
+    "address": "19589 NE 10th Ave  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "Tennis Plaza (Aventura)",
     "description": "Clothing Stores",
     "phone": "(306) 890-1808",
-    "address": "street: 15400 Biscayne Blvd Ste 110 location: Aventura, FL 33160"
-  },
-  {
-    "name": "Selec Your Look",
-    "description": "Clothing Stores",
-    "phone": "(305) 456-2758",
-    "address": "street: N/A location: Miami Lakes, FL 33014"
-  },
-  {
-    "name": "Occupy Wall Street Wristbands",
-    "description": "Clothing Stores",
-    "phone": "(832) 867-3793",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Partners In Cinema",
-    "description": "Clothing Stores",
-    "phone": "(954) 632-4283",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Sexc Gurl Clothing",
-    "description": "Clothing Stores",
-    "phone": "(216) 855-7632",
-    "address": "street: N/A location: North Miami Beach, FL 33181"
-  },
-  {
-    "name": "AVON",
-    "description": "Clothing Stores",
-    "phone": "(786) 486-9681",
-    "address": "street: N/A location: Hialeah, FL 33015"
-  },
-  {
-    "name": "Absolutely Pawssible",
-    "description": "Clothing Stores",
-    "phone": "(305) 275-6715",
-    "address": "street: N/A location: Miami, FL 33173"
-  },
-  {
-    "name": "CBC Fashion",
-    "description": "Clothing Stores",
-    "phone": "(305) 638-9060",
-    "address": "street: N/A location: Miami, FL 33142"
-  },
-  {
-    "name": "No Sleep Clothing",
-    "description": "Clothing Stores",
-    "phone": "(305) 498-6063",
-    "address": "street: N/A location: Hialeah, FL 33014"
-  },
-  {
-    "name": "La Lune Sacs Boutique",
-    "description": "Clothing Stores",
-    "phone": "(786) 521-0230",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Haute Glam Boutique",
-    "description": "Clothing Stores",
-    "phone": "(305) 613-1344",
-    "address": "street: N/A location: N/A"
+    "address": "15400 Biscayne Blvd Ste 110  Aventura, FL 33160",
+    "location": "Nassau"
   },
   {
     "name": "Charlotte Russe",
     "description": "Clothing Stores",
     "phone": "(305) 819-6210",
-    "address": "street: W 1675 49Th Street location: Hialeah, FL 33012"
-  },
-  {
-    "name": "Needle and Thread",
-    "description": "Clothing Stores",
-    "phone": "(305) 562-1102",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Clothing Stores",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
+    "address": "W 1675 49Th Street  Hialeah, FL 33012",
+    "location": "Nassau"
   },
   {
     "name": "Best Selection",
     "description": "Clothing Stores",
     "phone": "(786) 718-7184",
-    "address": "street: 16880 NE 4th Ave location: Miami, FL 33161"
+    "address": "16880 NE 4th Ave  Miami, FL 33161",
+    "location": "Nassau"
   },
   {
     "name": "L C Decor",
     "description": "Clothing Stores",
     "phone": "(305) 655-1073",
-    "address": "street: 19569 NW 2nd Ave location: Miami, FL 33169"
+    "address": "19569 NW 2nd Ave  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
     "name": "Tommy Hilfiger",
     "description": "Clothing Stores",
     "phone": "(305) 682-3202",
-    "address": "street: 19535 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19535 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Old Navy",
     "description": "Clothing Stores",
     "phone": "(305) 940-4640",
-    "address": "street: 3885 NE 163rd St location: North Miami Beach, FL 33160"
+    "address": "3885 NE 163rd St  North Miami Beach, FL 33160",
+    "location": "Nassau"
   },
   {
     "name": "Boutique Flirt",
     "description": "Clothing Stores",
     "phone": "(305) 944-3533",
-    "address": "street: 17100 Collins Ave Ste 104 location: Sunny Isles Beach, FL 33160"
+    "address": "17100 Collins Ave Ste 104  Sunny Isles Beach, FL 33160",
+    "location": "Nassau"
   },
   {
     "name": "Shoehandy & More Creation.",
     "description": "Clothing Stores",
     "phone": "(888) 920-5507",
-    "address": "street: 20295 NW 2nd Ave Ste 201 location: Miami, FL 33169"
+    "address": "20295 NW 2nd Ave Ste 201  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
     "name": "Donald J Pliner",
     "description": "Clothing Stores",
     "phone": "(305) 792-4774",
-    "address": "street: 19575 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19575 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Michael Allenova",
     "description": "Clothing Stores",
     "phone": "(305) 705-2095",
-    "address": "street: 526 NE 199th Ln location: Miami, FL 33179"
+    "address": "526 NE 199th Ln  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "Fly Supply Clothing",
     "description": "Clothing Stores",
     "phone": "(305) 651-1888",
-    "address": "street: 371 NW 170th St location: Miami, FL 33169"
+    "address": "371 NW 170th St  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
     "name": "Stylish Baby Clothes",
     "description": "Clothing Stores",
     "phone": "(786) 228-9059",
-    "address": "street: 18350 NW 2nd Ave Ste 500 location: Miami, FL 33169"
+    "address": "18350 NW 2nd Ave Ste 500  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
     "name": "Gan Eden Fashion",
     "description": "Clothing Stores",
     "phone": "(305) 778-2091",
-    "address": "street: 20436 NE 16th Pl location: Miami, FL 33179"
+    "address": "20436 NE 16th Pl  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "South Athletics",
     "description": "Clothing Stores",
     "phone": "(305) 654-0414",
-    "address": "street: 20436 NE 16th Pl location: Miami, FL 33179"
+    "address": "20436 NE 16th Pl  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "Evoke European House of Fashion",
     "description": "Clothing Stores",
     "phone": "(305) 490-1437",
-    "address": "street: 496 NW 165th Street Rd location: Miami, FL 33169"
+    "address": "496 NW 165th Street Rd  Miami, FL 33169",
+    "location": "Nassau"
   },
   {
     "name": "Timberland",
     "description": "Clothing Stores",
     "phone": "(305) 467-4598",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Quiksilver Inc - QS Retail Inc",
     "description": "Clothing Stores",
     "phone": "(305) 932-9192",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Aeropostale",
     "description": "Clothing Stores",
     "phone": "(305) 937-7766",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "H&M",
     "description": "Clothing Stores",
     "phone": "(855) 466-7467",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "BCBG Cbg",
     "description": "Clothing Stores",
     "phone": "(305) 936-0334",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Peace Love World",
     "description": "Clothing Stores",
     "phone": "(305) 690-7969",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "DVF (Diane von Furstenberg)",
     "description": "Clothing Stores",
     "phone": "(305) 735-8960",
-    "address": "street: 19501 Biscayne Blvd Ste 803 location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd Ste 803  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Guess",
     "description": "Clothing Stores",
     "phone": "(305) 239-9417",
-    "address": "street: 19501 Biscayne Blvd Ste 1615a location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd Ste 1615a  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Faconnable",
     "description": "Clothing Stores",
     "phone": "(305) 792-2610",
-    "address": "street: 19501 Biscayne Blvd Ste 057 location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd Ste 057  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Vineyard Vines",
     "description": "Clothing Stores",
     "phone": "(305) 933-8452",
-    "address": "street: 19501 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Hugo Boss",
     "description": "Clothing Stores",
     "phone": "(305) 792-1413",
-    "address": "street: 19501 Biscayne Blvd Ste 49 location: Miami, FL 33180"
+    "address": "19501 Biscayne Blvd Ste 49  Miami, FL 33180",
+    "location": "Nassau"
   },
   {
     "name": "Fallas Paredes",
     "description": "Clothing Stores",
     "phone": "(305) 770-0159",
-    "address": "street: 850 Ives Dairy Rd location: Miami, FL 33179"
+    "address": "850 Ives Dairy Rd  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "DD's Discounts",
     "description": "Clothing Stores",
     "phone": "(305) 249-4895",
-    "address": "street: 850 Ives Dairy Rd location: Miami, FL 33179"
+    "address": "850 Ives Dairy Rd  Miami, FL 33179",
+    "location": "Nassau"
   },
   {
     "name": "Vince.",
     "description": "Clothing Stores",
     "phone": "(305) 356-6900",
-    "address": "street: 19507 Biscayne Blvd location: Miami, FL 33180"
+    "address": "19507 Biscayne Blvd  Miami, FL 33180",
+    "location": "Nassau"
   }
 ]

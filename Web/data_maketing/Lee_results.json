@@ -1,191 +1,30 @@
 [
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "517449082",
     "name": "Davis Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(850) 673-9533",
-    "address": "street: 128 E Base St location: Madison, FL 32340"
+    "address": "128 E Base St  Madison, FL 32340",
+    "location": "Lee"
   },
   {
-    "dataYpid": "559586846",
     "name": "Plante Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(386) 658-3945",
-    "address": "street: 7686 207th Rd location: Dowling Park, FL 32060"
+    "address": "7686 207th Rd  Dowling Park, FL 32060",
+    "location": "Lee"
   },
   {
-    "dataYpid": "22709634",
-    "name": "The Dreamers Web",
-    "description": "Marketing Programs & Services",
-    "phone": "(850) 528-8229",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "876900",
-    "name": "Freedom Business Group",
-    "description": "Marketing Programs & Services",
-    "phone": "(850) 391-3569",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "455253289",
-    "name": "Element Pool Design",
-    "description": "Interactive Media",
-    "phone": "(850) 366-2851",
-    "address": "street: N/A location: Tallahassee, FL 32312"
-  },
-  {
-    "dataYpid": "456491946",
-    "name": "Reciprocate LLC",
-    "description": "Internet Consultants",
-    "phone": "(651) 675-6943",
-    "address": "street: N/A location: Tallahassee, FL 32311"
-  },
-  {
-    "dataYpid": "543567392",
-    "name": "B-EZ Graphix",
-    "description": "Graphic Designers",
-    "phone": "(850) 692-8851",
-    "address": "street: N/A location: Tallahassee, FL 32311"
-  },
-  {
-    "dataYpid": "574497242",
-    "name": "ThePromotionalGuy.com",
-    "description": "Marketing Consultants",
-    "phone": "(850) 459-8747",
-    "address": "street: N/A location: Tallahassee, FL 32301"
-  },
-  {
-    "dataYpid": "464409524",
-    "name": "MarketDone",
-    "description": "Public Relations Counselors",
-    "phone": "(850) 425-5240",
-    "address": "street: N/A location: Tallahassee, FL 32301"
-  },
-  {
-    "dataYpid": "474162477",
-    "name": "Pantechne Studios",
-    "description": "Interactive Media",
-    "phone": "(904) 463-0546",
-    "address": "street: N/A location: Tallahassee, FL 32303"
-  },
-  {
-    "dataYpid": "509575535",
-    "name": "Music Tree Muzik",
-    "description": "Marketing Consultants",
-    "phone": "(850) 320-1297",
-    "address": "street: N/A location: Tallahassee, FL 32302"
-  },
-  {
-    "dataYpid": "562280122",
-    "name": "Elite Tek",
-    "description": "Marketing Consultants",
-    "phone": "(850) 325-0253",
-    "address": "street: N/A location: Tallahassee, FL 32308"
-  },
-  {
-    "dataYpid": "480611082",
-    "name": "Brazilius Web Solutions",
-    "description": "Interactive Media",
-    "phone": "(786) 264-2747",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467052753",
-    "name": "Digi 10 Media",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(561) 809-3967",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "28638653",
-    "name": "Ink Blot Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(850) 345-7940",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452228317",
-    "name": "ZAMZUU'S INTERNET BUSINESS CENTER",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 329-6177",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12674024",
-    "name": "Market Image Florida",
-    "description": "Market Research & Analysis",
-    "phone": "(850) 576-2600",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "1965125",
-    "name": "Lobby Tools Inc",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 915-0142",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465168764",
-    "name": "Thinking Thrifty",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 555-1234",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "474596483",
-    "name": "mywebmarket.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 766-2711",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "12543879",
-    "name": "Steve Brown Direct Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(850) 877-3533",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "572087819",
-    "name": "HARN Digital",
-    "description": "Advertising Agencies",
-    "phone": "(850) 597-0838",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9433272",
-    "name": "Brandedge Inc",
-    "description": "Marketing Consultants",
-    "phone": "(850) 671-3343",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "543507602",
     "name": "Clark's Marketing",
     "description": "Marketing Consultants",
     "phone": "(386) 219-0579",
-    "address": "street: 13339 County Road 136 location: Live Oak, FL 32060"
+    "address": "13339 County Road 136  Live Oak, FL 32060",
+    "location": "Lee"
   },
   {
-    "dataYpid": "518476239",
     "name": "1804 Entertainment Alliance",
     "description": "Web Site Hosting",
     "phone": "(866) 937-1804",
-    "address": "street: PO Box 0000 location: Valdosta, GA 31603"
+    "address": "PO Box 0000  Valdosta, GA 31603",
+    "location": "Lee"
   }
 ]

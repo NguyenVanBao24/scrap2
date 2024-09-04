@@ -1,170 +1,142 @@
 [
   {
-    "dataYpid": "463323615",
     "name": "Mark Smith Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 374-2009",
-    "address": "street: 98 Miracle Strip Pkwy SE location: Fort Walton Beach, FL 32548"
+    "address": " 98 Miracle Strip Pkwy SE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "467567500",
     "name": "A 2 Z Specialty Advertising",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 654-3080",
-    "address": "street: 13 Eglin Parkway NE Suite B location: Fort Walton Beach, FL 32548"
+    "address": " 13 Eglin Parkway NE Suite B  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "464425953",
     "name": "April Showers Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 226-7640",
-    "address": "street: 226 Andalusia St NE location: Fort Walton Beach, FL 32548"
+    "address": " 226 Andalusia St NE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "5794204",
     "name": "Specialty Advertising Concepts",
     "description": "Advertising Specialties",
     "phone": "(850) 244-1726",
-    "address": "street: 219 Crewilla Dr NW location: Fort Walton Beach, FL 32548"
+    "address": " 219 Crewilla Dr NW  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "20626818",
     "name": "Woerner Outdoor & Advertising",
     "description": "Signs",
     "phone": "(850) 863-2670",
-    "address": "street: 234 Racetrack Rd NE location: Fort Walton Beach, FL 32547"
+    "address": " 234 Racetrack Rd NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "506495243",
     "name": "Apex Advertising",
     "description": "Advertising Specialties",
     "phone": "(850) 244-5866",
-    "address": "street: 151 Mary Esther Blvd location: Mary Esther, FL 32569"
+    "address": " 151 Mary Esther Blvd  Mary Esther, FL 32569",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "8573177",
     "name": "Lamar Outdoor Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 862-4343",
-    "address": "street: 223 Green Acres Rd location: Fort Walton Beach, FL 32547"
+    "address": " 223 Green Acres Rd  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "470854021",
     "name": "Think Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 837-3352",
-    "address": "street: 401 Mountain Dr location: Destin, FL 32541"
+    "address": " 401 Mountain Dr  Destin, FL 32541",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "451175468",
     "name": "Advertiser The",
     "description": "Newspapers",
     "phone": "(850) 678-8000",
-    "address": "street: 1613 23rd St location: Niceville, FL 32578"
+    "address": " 1613 23rd St  Niceville, FL 32578",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "480689625",
     "name": "Eternal Advertising Solutions",
     "description": "Advertising Specialties",
     "phone": "(850) 269-1830",
-    "address": "street: 119 Snowdrift Rd location: Miramar Beach, FL 32550"
+    "address": " 119 Snowdrift Rd  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "464452875",
     "name": "One Stop Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 939-9550",
-    "address": "street: 7596 Frankfort St location: Navarre, FL 32566"
+    "address": " 7596 Frankfort St  Navarre, FL 32566",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "454848100",
     "name": "Cornerstone Marketing & Advertising Inc",
     "description": "Marketing Programs & Services",
     "phone": "(850) 231-3087",
-    "address": "street: 114 Logan Ln Ste 4 location: Santa Rosa Beach, FL 32459"
+    "address": " 114 Logan Ln Ste 4  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "505817954",
     "name": "Blue32 Advertising",
     "description": "Marketing Programs & Services",
     "phone": "(850) 855-9585",
-    "address": "street: 174 Watercolor Way location: Santa Rosa Beach, FL 32459"
+    "address": " 174 Watercolor Way  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "17902496",
     "name": "Gulfstar Advertising Brochure Distribution",
     "description": "Advertising Specialties",
     "phone": "(850) 983-0018",
-    "address": "street: 5914 Hogans Aly location: Milton, FL 32570"
+    "address": " 5914 Hogans Aly  Milton, FL 32570",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "7330730",
     "name": "Bill Salter Advertising Inc",
     "description": "Outdoor Advertising",
     "phone": "(850) 994-4611",
-    "address": "street: 5547 Highway 90 location: Milton, FL 32571"
+    "address": " 5547 Highway 90  Milton, FL 32571",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "559411080",
     "name": "Bill Salter Advertise",
     "description": "Advertising Agencies",
     "phone": "(850) 994-4611",
-    "address": "street: 5692 Trevino Dr location: Milton, FL 32570"
+    "address": " 5692 Trevino Dr  Milton, FL 32570",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "14668236",
-    "name": "Interspace Airport Advertising - CLOSED",
-    "description": "Advertising Agencies",
-    "phone": "N/A",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "492946815",
     "name": "Boomer Aviation Inc",
     "description": "Directory & Guide Advertising",
     "phone": "(850) 244-1313",
-    "address": "street: 40 Lincoln Dr NW location: Fort Walton Beach, FL 32547"
+    "address": " 40 Lincoln Dr NW  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "5090177",
     "name": "Trophy Center Inc",
     "description": "Awards",
     "phone": "(850) 862-8413",
-    "address": "street: 529 Eglin Pkwy NE location: Fort Walton Beach, FL 32547"
+    "address": " 529 Eglin Pkwy NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "19791526",
     "name": "Copy Systems Business Center",
     "description": "Commercial Artists",
     "phone": "(850) 279-9100",
-    "address": "street: 4821 Us Hwy 98 W location: Santa Rosa Beach, FL 32459"
+    "address": " 4821 Us Hwy 98 W  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
   },
   {
-    "dataYpid": "524003346",
     "name": "Printers of Pensacola",
     "description": "Printing Services",
     "phone": "(850) 434-2588",
-    "address": "street: 1207 W Garden St location: Pensacola, FL 32502"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "546974868",
-    "name": "Banner Marketing Group",
-    "description": "Flags, Flagpoles & Accessories",
-    "phone": "(805) 528-5018",
-    "address": "street: N/A location: N/A"
+    "address": " 1207 W Garden St  Pensacola, FL 32502",
+    "location": "Okaloosa"
   }
 ]

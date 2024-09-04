@@ -1,218 +1,114 @@
 [
   {
-    "name": "Bodycandy.com",
-    "description": "Clothing Stores",
-    "phone": "(877) 829-5191",
-    "address": "street: N/A location: N/A"
-  },
-  {
     "name": "Retail Therapy",
     "description": "Clothing Stores",
     "phone": "(850) 267-0990",
-    "address": "street: 4552 US Highway 98 W location: Santa Rosa Beach, FL 32459"
+    "address": "4552 US Highway 98 W  Santa Rosa Beach, FL 32459",
+    "location": "Escambia"
   },
   {
     "name": "Rue 21",
     "description": "Clothing Stores",
     "phone": "(850) 269-2600",
-    "address": "street: 4443Cmnsdrestei-102&I-103 location: Destin, FL 32541"
-  },
-  {
-    "name": "Saint Lucille Fashion Boutique",
-    "description": "Clothing Stores",
-    "phone": "N/A",
-    "address": "street: N/A location: Destin, FL 32541"
-  },
-  {
-    "name": "My Sister's Closet Designer Clothing & Accessories",
-    "description": "Clothing Stores",
-    "phone": "(850) 683-9400",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Clec Granite Telecommunications-9927",
-    "description": "Clothing Stores",
-    "phone": "(850) 650-4828",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "2 J's Casual Beach Garb",
-    "description": "Clothing Stores",
-    "phone": "(844) 523-9886",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Brobarian Life Project",
-    "description": "Clothing Stores",
-    "phone": "(850) 226-9900",
-    "address": "street: N/A location: Fort Walton Beach, FL 32547"
+    "address": "4443Cmnsdrestei-102&I-103  Destin, FL 32541",
+    "location": "Escambia"
   },
   {
     "name": "Ralph Lauren",
     "description": "Clothing Stores",
     "phone": "(850) 650-5100",
-    "address": "street: 10562 US Highway 98 W location: Miramar Beach, FL 32550"
-  },
-  {
-    "name": "Old Navy",
-    "description": "Clothing Stores",
-    "phone": "(850) 269-2883",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Tab's Online Boutique & More",
-    "description": "Clothing Stores",
-    "phone": "(850) 768-0397",
-    "address": "street: N/A location: Crestview, FL 32539"
-  },
-  {
-    "name": "Professional Images",
-    "description": "Clothing Stores",
-    "phone": "(561) 626-8897",
-    "address": "street: N/A location: N/A"
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
   },
   {
     "name": "School Spirit Supplies",
     "description": "Clothing Stores",
     "phone": "(866) 862-3222",
-    "address": "street: 1580 Texas Pkwy location: Crestview, FL 32536"
+    "address": "1580 Texas Pkwy  Crestview, FL 32536",
+    "location": "Escambia"
   },
   {
     "name": "J & P Glitz & Glitter",
     "description": "Clothing Stores",
     "phone": "(850) 398-6999",
-    "address": "street: 604 W James Lee Blvd location: Crestview, FL 32536"
-  },
-  {
-    "name": "MAC Sports Supplies",
-    "description": "Clothing Stores",
-    "phone": "(786) 671-4291",
-    "address": "street: N/A location: N/A"
+    "address": "604 W James Lee Blvd  Crestview, FL 32536",
+    "location": "Escambia"
   },
   {
     "name": "Oceana Blue",
     "description": "Clothing Stores",
     "phone": "(850) 622-0106",
-    "address": "street: 56 Spires Ln Unit 17A location: Santa Rosa Beach, FL 32459"
-  },
-  {
-    "name": "Haggar Clothing Co",
-    "description": "Clothing Stores",
-    "phone": "(850) 650-2730",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Mandi’s Avon Corner",
-    "description": "Clothing Stores",
-    "phone": "(520) 388-7344",
-    "address": "street: N/A location: Crestview, FL 32536"
-  },
-  {
-    "name": "Rogers' 3D Photo",
-    "description": "Clothing Stores",
-    "phone": "(850) 307-8981",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Emerald Coast Clothing & Tanning",
-    "description": "Clothing Stores",
-    "phone": "(850) 689-3226",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Designs By Grace",
-    "description": "Clothing Stores",
-    "phone": "(850) 218-0900",
-    "address": "street: N/A location: N/A"
+    "address": "56 Spires Ln Unit 17A  Santa Rosa Beach, FL 32459",
+    "location": "Escambia"
   },
   {
     "name": "Kenneth Cole",
     "description": "Clothing Stores",
     "phone": "(850) 654-8789",
-    "address": "street: 10562 US Highway 98 W location: Miramar Beach, FL 32550"
-  },
-  {
-    "name": "Wet Seal",
-    "description": "Clothing Stores",
-    "phone": "(850) 269-0058",
-    "address": "street: N/A location: N/A"
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
   },
   {
     "name": "Taylor's Bridal Consulting & Dressmaking",
     "description": "Clothing Stores",
     "phone": "(850) 682-4909",
-    "address": "street: 5936 Meadow Ln N location: Crestview, FL 32539"
+    "address": "5936 Meadow Ln N  Crestview, FL 32539",
+    "location": "Escambia"
   },
   {
     "name": "Sears",
     "description": "Clothing Stores",
     "phone": "(850) 689-8500",
-    "address": "street: 1133 Industrial Dr location: Crestview, FL 32539"
+    "address": "1133 Industrial Dr  Crestview, FL 32539",
+    "location": "Escambia"
   },
   {
     "name": "Intimate Treasures",
     "description": "Clothing Stores",
     "phone": "(850) 423-1150",
-    "address": "street: 478 E James Lee Blvd location: Crestview, FL 32539"
+    "address": "478 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
   },
   {
     "name": "Boca Boutique & Galeri",
     "description": "Boutique Items",
     "phone": "(850) 654-8810",
-    "address": "street: 12889 US Highway 98 W location: Miramar Beach, FL 32550"
+    "address": "12889 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
   },
   {
     "name": "Juicy Couture",
     "description": "Women's Clothing",
     "phone": "(850) 650-0332",
-    "address": "street: 10562 US Highway 98 W location: Miramar Beach, FL 32550"
-  },
-  {
-    "name": "Hibbett Sports",
-    "description": "Sporting Goods",
-    "phone": "(850) 269-2266",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Under Armour Factory House",
-    "description": "Sportswear",
-    "phone": "(850) 351-0120",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "name": "Kate's Of Fwb",
-    "description": "Women's Clothing",
-    "phone": "(850) 243-0509",
-    "address": "street: N/A location: N/A"
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
   },
   {
     "name": "Kindred",
     "description": "Women's Clothing",
     "phone": "(850) 537-2848",
-    "address": "street: 1307 Georgia Ave location: Baker, FL 32531"
+    "address": "1307 Georgia Ave  Baker, FL 32531",
+    "location": "Escambia"
   },
   {
     "name": "Cato",
     "description": "Women's Clothing",
     "phone": "(850) 689-3654",
-    "address": "street: 219 Lakeview Dr location: Crestview, FL 32536"
+    "address": "219 Lakeview Dr  Crestview, FL 32536",
+    "location": "Escambia"
   },
   {
     "name": "Cherokee Beach Factory Outlet",
     "description": "Discount Stores",
     "phone": "(850) 689-8000",
-    "address": "street: 478 E James Lee Blvd location: Crestview, FL 32539"
+    "address": "478 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
   },
   {
     "name": "Born Country",
     "description": "Department Stores",
     "phone": "(850) 331-3124",
-    "address": "street: 702 E James Lee Blvd location: Crestview, FL 32539"
-  },
-  {
-    "name": "Avon Independent Sales Representative",
-    "description": "Women's Fashion Accessories",
-    "phone": "(850) 682-0070",
-    "address": "street: N/A location: Crestview, FL 32539"
+    "address": "702 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
   }
 ]

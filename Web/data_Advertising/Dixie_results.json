@@ -1,3775 +1,3439 @@
 [
   {
-    "dataYpid": "29467367",
     "name": "Fenestra",
     "description": "Advertising Agencies",
     "phone": "(407) 436-2825",
-    "address": "street: 134 Wilson Bay Ct location: Sanford, FL 32771"
+    "address": " 134 Wilson Bay Ct  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "575889833",
     "name": "Maritime Drive",
     "description": "Advertising Agencies",
     "phone": "(407) 862-7363",
-    "address": "street: 130 Maritime Dr location: Sanford, FL 32771"
+    "address": " 130 Maritime Dr  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "547776702",
     "name": "Backseat Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 915-7006",
-    "address": "street: 485 Specialty Pt location: Sanford, FL 32771"
+    "address": " 485 Specialty Pt  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "476336983",
-    "name": "Joan Marchand",
-    "description": "Advertising Agencies",
-    "phone": "(407) 444-2090",
-    "address": "street: N/A location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "565089676",
     "name": "Floor Rivers Media",
     "description": "Advertising Agencies",
     "phone": "(407) 733-6984",
-    "address": "street: 2020 Washington Ave location: Sanford, FL 32771"
+    "address": " 2020 Washington Ave  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482768560",
     "name": "Delta Connection Academy Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 430-4100",
-    "address": "street: 2700 Flightline Ave location: Sanford, FL 32773"
+    "address": " 2700 Flightline Ave  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "558940612",
     "name": "Evok Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 302-4416",
-    "address": "street: 152 N 4th St location: Lake Mary, FL 32746"
+    "address": " 152 N 4th St  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464279340",
     "name": "Interprecision Technology Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 322-6328",
-    "address": "street: 837 Pickfair Ter location: Lake Mary, FL 32746"
+    "address": " 837 Pickfair Ter  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22634366",
     "name": "Adeo Media Group",
     "description": "Advertising Agencies",
     "phone": "(407) 833-9200",
-    "address": "street: 737 Stirling Center Pl location: Lake Mary, FL 32746"
+    "address": " 737 Stirling Center Pl  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482831034",
     "name": "Noor Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 321-2313",
-    "address": "street: 298 Main Rd location: Lake Mary, FL 32746"
+    "address": " 298 Main Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "568022004",
     "name": "Mash & Lauter Marketing",
     "description": "Advertising Agencies",
     "phone": "(407) 205-8220",
-    "address": "street: 1540 International Pkwy Ste 2000 location: Lake Mary, FL 32746"
+    "address": " 1540 International Pkwy Ste 2000  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "536155797",
     "name": "Checkout Locals",
     "description": "Advertising Agencies",
     "phone": "(407) 777-4506",
-    "address": "street: 1540 International Pkwy Suite 2000 location: Lake Mary, FL 32746"
+    "address": " 1540 International Pkwy Suite 2000  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9202570",
     "name": "Fast Lane Promotions",
     "description": "Advertising Agencies",
     "phone": "(407) 328-7653",
-    "address": "street: 270 Waymont Ct Ste 120 location: Lake Mary, FL 32746"
+    "address": " 270 Waymont Ct Ste 120  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "158059",
     "name": "Gcs Enterprise Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 562-1859",
-    "address": "street: 801 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 801 International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "517425050",
     "name": "Advertising Specialty Institute",
     "description": "Advertising Agencies",
     "phone": "(407) 430-3698",
-    "address": "street: 4300 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 4300 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "503247746",
     "name": "Proforma A&G Marketing Group",
     "description": "Advertising Agencies",
     "phone": "(386) 626-9200",
-    "address": "street: 255 Primera Blvd Ste 160 location: Lake Mary, FL 32746"
+    "address": " 255 Primera Blvd Ste 160  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "226467",
     "name": "Stephenson and Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 833-3728",
-    "address": "street: 250 International Pkwy Ste 108 location: Lake Mary, FL 32746"
+    "address": " 250 International Pkwy Ste 108  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "1181629",
     "name": "Halldale Media Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 322-5605",
-    "address": "street: 115 Timberlachen Cir location: Lake Mary, FL 32746"
+    "address": " 115 Timberlachen Cir  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464374905",
     "name": "Clk Resources Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 321-4833",
-    "address": "street: 518 Whittingham Pl location: Lake Mary, FL 32746"
+    "address": " 518 Whittingham Pl  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9923678",
     "name": "Precisionplay Media",
     "description": "Advertising Agencies",
     "phone": "(407) 805-8800",
-    "address": "street: 160 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 160 International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "552044384",
     "name": "Intersect Media Solutions",
     "description": "Advertising Agencies",
     "phone": "(866) 404-5913",
-    "address": "street: 1025 Greenwood Blvd location: Lake Mary, FL 32746"
+    "address": " 1025 Greenwood Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451720050",
     "name": "Greenwood Ventures",
     "description": "Advertising Agencies",
     "phone": "(407) 585-8800",
-    "address": "street: 1025 Greenwood Blvd location: Lake Mary, FL 32746"
+    "address": " 1025 Greenwood Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "576737897",
     "name": "Asche Corp",
     "description": "Advertising Agencies",
     "phone": "(321) 200-0770",
-    "address": "street: 1325 S International Pkwy location: Lake Mary, FL 32746"
+    "address": " 1325 S International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "478134178",
     "name": "Lake Emma Corp Park",
     "description": "Advertising Agencies",
     "phone": "(407) 804-1586",
-    "address": "street: 3200 Lake Emma Rd location: Lake Mary, FL 32746"
+    "address": " 3200 Lake Emma Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "4209366",
     "name": "J D A",
     "description": "Advertising Agencies",
     "phone": "(407) 942-0379",
-    "address": "street: 1825 Duffy Ct location: Lake Mary, FL 32746"
+    "address": " 1825 Duffy Ct  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29441581",
     "name": "Robert Declara",
     "description": "Advertising Agencies",
     "phone": "(386) 668-1690",
-    "address": "street: 203 Buena Vista St location: Debary, FL 32713"
+    "address": " 203 Buena Vista St  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "497285192",
     "name": "NCM Media Networks-Debary",
     "description": "Advertising Agencies",
     "phone": "(386) 668-6670",
-    "address": "street: 50 Forest Eagle Ct location: Debary, FL 32713"
+    "address": " 50 Forest Eagle Ct  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548660182",
     "name": "i4 Advertising Agency LLC",
     "description": "Advertising Agencies",
     "phone": "(407) 416-1515",
-    "address": "street: 610 Deltona Blvd, Ste D location: Deltona, FL 32725"
+    "address": " 610 Deltona Blvd, Ste D  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464528425",
     "name": "Dari",
     "description": "Advertising Agencies",
     "phone": "(407) 330-3167",
-    "address": "street: PO Box 4363 location: Deltona, FL 32725"
+    "address": " PO Box 4363  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "11396654",
     "name": "Residex Branch 919",
     "description": "Advertising Agencies",
     "phone": "(407) 834-2202",
-    "address": "street: 1620 Timocuan Way location: Longwood, FL 32750"
+    "address": " 1620 Timocuan Way  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8890426",
     "name": "Calico Industries",
     "description": "Advertising Agencies",
     "phone": "(321) 207-7193",
-    "address": "street: 1609 Cherrywood Ln location: Longwood, FL 32750"
+    "address": " 1609 Cherrywood Ln  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550983808",
     "name": "Epic Media",
     "description": "Advertising Agencies",
     "phone": "(407) 807-7287",
-    "address": "street: 8718 Shimmering Pine Pl location: Sanford, FL 32771"
+    "address": " 8718 Shimmering Pine Pl  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559146070",
     "name": "N2Nsites",
     "description": "Advertising Agencies",
     "phone": "(407) 732-7288",
-    "address": "street: 8674 Crested Eagle Pl location: Sanford, FL 32771"
+    "address": " 8674 Crested Eagle Pl  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "500565275",
     "name": "EZ Yield Com",
     "description": "Advertising Agencies",
     "phone": "(407) 629-0900",
-    "address": "street: 125 Excelsior Pkwy Ste 101 location: Winter Springs, FL 32708"
+    "address": " 125 Excelsior Pkwy Ste 101  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "540697670",
     "name": "Inplas Performance Solutions",
     "description": "Advertising Agencies",
     "phone": "(814) 460-2605",
-    "address": "street: 4 Pine Meadow Ct location: Debary, FL 32713"
+    "address": " 4 Pine Meadow Ct  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482197199",
     "name": "Tru-Sun Media",
     "description": "Advertising Agencies",
     "phone": "(407) 388-1001",
-    "address": "street: 1255 Belle Ave location: Winter Springs, FL 32708"
+    "address": " 1255 Belle Ave  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "4459937",
     "name": "Cuellar & Sachse",
     "description": "Advertising Agencies",
     "phone": "(407) 647-9292",
-    "address": "street: 149 Shadow Trl location: Longwood, FL 32750"
+    "address": " 149 Shadow Trl  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29043638",
     "name": "Gilbert Manjura Marketing and Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 261-5739",
-    "address": "street: 346 Freeman St location: Longwood, FL 32750"
+    "address": " 346 Freeman St  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458543381",
     "name": "Catalog Solutions",
     "description": "Advertising Agencies",
     "phone": "(386) 775-1070",
-    "address": "street: 609 N Charles Richard Beall Blvd Ste 101 location: Debary, FL 32713"
+    "address": " 609 N Charles Richard Beall Blvd Ste 101  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28992290",
     "name": "J D Hill Inc",
     "description": "Advertising Agencies",
     "phone": "(386) 775-2398",
-    "address": "street: 157 Brassington Dr location: Debary, FL 32713"
+    "address": " 157 Brassington Dr  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "565117143",
     "name": "78 Madison",
     "description": "Advertising Agencies",
     "phone": "(407) 788-7070",
-    "address": "street: 1401 Town Plaza Ct location: Winter Springs, FL 32708"
+    "address": " 1401 Town Plaza Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459919343",
     "name": "Interactive Resources",
     "description": "Advertising Agencies",
     "phone": "(407) 830-4068",
-    "address": "street: 605 Tradewinds Dr location: Deltona, FL 32738"
+    "address": " 605 Tradewinds Dr  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "479856178",
     "name": "Aedieno",
     "description": "Advertising Agencies",
     "phone": "(407) 265-8001",
-    "address": "street: 250 W Church Ave Ste 200 location: Longwood, FL 32750"
+    "address": " 250 W Church Ave Ste 200  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29349957",
     "name": "Via Cindy",
     "description": "Advertising Agencies",
     "phone": "(407) 695-0183",
-    "address": "street: 102 W Bahama Rd location: Winter Springs, FL 32708"
+    "address": " 102 W Bahama Rd  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29479612",
     "name": "Welcom Consulting Svc",
     "description": "Advertising Agencies",
     "phone": "(407) 696-7896",
-    "address": "street: 673 Venture Ct location: Winter Springs, FL 32708"
+    "address": " 673 Venture Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "497037056",
     "name": "Neo Reach Inc",
     "description": "Advertising Agencies",
     "phone": "(321) 316-4999",
-    "address": "street: 250 S Ronald Reagan Blvd location: Longwood, FL 32750"
+    "address": " 250 S Ronald Reagan Blvd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "5799047",
     "name": "Trombo's Printery Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 332-8283",
-    "address": "street: 705 W State Road 434 location: Longwood, FL 32750"
+    "address": " 705 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464330304",
     "name": "L J Productions",
     "description": "Advertising Agencies",
     "phone": "(407) 443-1684",
-    "address": "street: 255 Rosedale Dr location: Deltona, FL 32738"
+    "address": " 255 Rosedale Dr  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "537869252",
     "name": "Abx Enterprises",
     "description": "Advertising Agencies",
     "phone": "(407) 960-2510",
-    "address": "street: 765 W State Road 434 location: Longwood, FL 32750"
+    "address": " 765 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "4682583",
     "name": "DeFalco Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 551-0303",
-    "address": "street: 1441 S Grant St location: Longwood, FL 32750"
+    "address": " 1441 S Grant St  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "13155459",
     "name": "Word of Mouth",
     "description": "Advertising Agencies",
     "phone": "(386) 532-3295",
-    "address": "street: 1090 S Cooper Dr location: Deltona, FL 32725"
+    "address": " 1090 S Cooper Dr  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464298154",
     "name": "Prime Media Now",
     "description": "Advertising Agencies",
     "phone": "(407) 331-7128",
-    "address": "street: 1225 Bennett Dr location: Longwood, FL 32750"
+    "address": " 1225 Bennett Dr  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9380847",
     "name": "Americomics",
     "description": "Advertising Agencies",
     "phone": "(407) 767-0199",
-    "address": "street: 1225 Bennett Dr Unit 111 location: Longwood, FL 32750"
+    "address": " 1225 Bennett Dr Unit 111  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29413339",
     "name": "Gill Associates",
     "description": "Advertising Agencies",
     "phone": "(386) 574-2781",
-    "address": "street: 469 Glen Haven Dr location: Deltona, FL 32738"
+    "address": " 469 Glen Haven Dr  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459298965",
     "name": "Fax IT Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 339-4555",
-    "address": "street: 1499 Robert St location: Longwood, FL 32750"
+    "address": " 1499 Robert St  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "480698180",
     "name": "Serendipity Medical Management Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 322-3525",
-    "address": "street: 1601 Wildcat Ct location: Winter Springs, FL 32708"
+    "address": " 1601 Wildcat Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "569517968",
     "name": "Wallob",
     "description": "Advertising Agencies",
     "phone": "(336) 203-7932",
-    "address": "street: 1420 E. Altamonte Drive location: Altamonte Springs, FL 32714"
+    "address": " 1420 E. Altamonte Drive  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "500743778",
     "name": "AdWise Creative",
     "description": "Advertising Agencies",
     "phone": "(407) 734-3638",
-    "address": "street: 1740 Cypress Ave location: Orange City, FL 32763"
+    "address": " 1740 Cypress Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28845249",
     "name": "Solutions Etc Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 366-4170",
-    "address": "street: 1624 White Dove Dr location: Winter Springs, FL 32708"
+    "address": " 1624 White Dove Dr  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467446389",
     "name": "Rushing & Associates Design",
     "description": "Advertising Agencies",
     "phone": "(407) 679-4876",
-    "address": "street: 4900 E Lake Dr location: Winter Springs, FL 32708"
+    "address": " 4900 E Lake Dr  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "17103296",
     "name": "Fresh Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 998-5123",
-    "address": "street: 1855 W State Road 434 location: Longwood, FL 32750"
+    "address": " 1855 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464506133",
     "name": "Chassis-Craft",
     "description": "Advertising Agencies",
     "phone": "(407) 782-5799",
-    "address": "street: 1120 N Black Acre Ct location: Winter Springs, FL 32708"
+    "address": " 1120 N Black Acre Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464517380",
     "name": "Rho Mar Marketing Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 332-0926",
-    "address": "street: PO Box 181504 location: Casselberry, FL 32718"
+    "address": " PO Box 181504  Casselberry, FL 32718",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8979431",
     "name": "Results Marketing",
     "description": "Advertising Agencies",
     "phone": "(407) 786-5660",
-    "address": "street: 609 N Longview Pl location: Longwood, FL 32779"
+    "address": " 609 N Longview Pl  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464512627",
     "name": "Visualtize",
     "description": "Advertising Agencies",
     "phone": "(321) 972-3191",
-    "address": "street: 329 Ringwood Cir location: Winter Springs, FL 32708"
+    "address": " 329 Ringwood Cir  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467191084",
     "name": "Evaluvest Banch Ops Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 865-7408",
-    "address": "street: 1150 Douglas Ave Ste 1070 location: Altamonte Springs, FL 32714"
+    "address": " 1150 Douglas Ave Ste 1070  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "17941251",
     "name": "Product Marketing Group",
     "description": "Advertising Agencies",
     "phone": "(407) 774-6363",
-    "address": "street: 978 Douglas Ave location: Altamonte Springs, FL 32714"
+    "address": " 978 Douglas Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "460530078",
     "name": "Mall Media Services, Inc.",
     "description": "Advertising Agencies",
     "phone": "(407) 443-2369",
-    "address": "street: 412 E Citrus St location: Altamonte Springs, FL 32701"
+    "address": " 412 E Citrus St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571084278",
     "name": "Cobia Marketing - Digital Marketing For Dentists",
     "description": "Advertising Agencies",
     "phone": "(407) 890-9966",
-    "address": "street: 269 Aulin Ave Ste 1005 location: Oviedo, FL 32765"
+    "address": " 269 Aulin Ave Ste 1005  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559590281",
     "name": "Homemag Orlando Samjay Media",
     "description": "Advertising Agencies",
     "phone": "(407) 865-7526",
-    "address": "street: 187 Sabal Palm Dr location: Longwood, FL 32779"
+    "address": " 187 Sabal Palm Dr  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6461801",
     "name": "Capital Advantage",
     "description": "Advertising Agencies",
     "phone": "(407) 261-9002",
-    "address": "street: 498 Palm Springs Dr location: Altamonte Springs, FL 32701"
+    "address": " 498 Palm Springs Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8064688",
     "name": "Righter Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 261-9001",
-    "address": "street: 498 Palm Springs Dr location: Altamonte Springs, FL 32701"
+    "address": " 498 Palm Springs Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "564294219",
     "name": "JKR Advertising & Marketings",
     "description": "Advertising Agencies",
     "phone": "(321) 397-0777",
-    "address": "street: 195 Wekiva Springs Rd location: Longwood, FL 32779"
+    "address": " 195 Wekiva Springs Rd  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "551378043",
     "name": "Charles Williams Business Group",
     "description": "Advertising Agencies",
     "phone": "(407) 764-8484",
-    "address": "street: 407 Wekiva Springs Rd location: Longwood, FL 32779"
+    "address": " 407 Wekiva Springs Rd  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549925673",
     "name": "Small Pond Media",
     "description": "Advertising Agencies",
     "phone": "(407) 951-8034",
-    "address": "street: 126 Wilshire Blvd location: Casselberry, FL 32707"
+    "address": " 126 Wilshire Blvd  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548645147",
     "name": "Push Button Productions",
     "description": "Advertising Agencies",
     "phone": "(888) 494-7874",
-    "address": "street: 815 Orienta Ave Ste 1060 location: Altamonte Springs, FL 32701"
+    "address": " 815 Orienta Ave Ste 1060  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464392355",
     "name": "Newton's Force",
     "description": "Advertising Agencies",
     "phone": "(407) 682-7896",
-    "address": "street: 478 E Altamonte Dr location: Altamonte Springs, FL 32701"
+    "address": " 478 E Altamonte Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "553240342",
     "name": "BCV Deals",
     "description": "Advertising Agencies",
     "phone": "(407) 571-2980",
-    "address": "street: 260 Maitland Ave location: Altamonte Springs, FL 32701"
+    "address": " 260 Maitland Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "473330188",
     "name": "Genius Advertising & Marketing",
     "description": "Advertising Agencies",
     "phone": "(407) 682-3037",
-    "address": "street: 864 Little Bend Rd location: Altamonte Springs, FL 32714"
+    "address": " 864 Little Bend Rd  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "531943408",
     "name": "Medtech Momentum",
     "description": "Advertising Agencies",
     "phone": "(407) 960-2994",
-    "address": "street: 377 Maitland Ave location: Altamonte Springs, FL 32701"
+    "address": " 377 Maitland Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "16259626",
     "name": "Corporate Image Bureau",
     "description": "Advertising Agencies",
     "phone": "(407) 774-1529",
-    "address": "street: 445 Douglas Ave location: Altamonte Springs, FL 32714"
+    "address": " 445 Douglas Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464481276",
     "name": "Premier Development Construction",
     "description": "Advertising Agencies",
     "phone": "(407) 401-2504",
-    "address": "street: 385 Douglas Ave Ste 2250 location: Altamonte Springs, FL 32714"
+    "address": " 385 Douglas Ave Ste 2250  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472799696",
     "name": "Business Equipment Sales & Service",
     "description": "Advertising Agencies",
     "phone": "(386) 775-4124",
-    "address": "street: 555 Werley Trl location: Orange City, FL 32763"
+    "address": " 555 Werley Trl  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "17359559",
     "name": "Delisle & Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 331-7705",
-    "address": "street: 711 Ballard St location: Altamonte Springs, FL 32701"
+    "address": " 711 Ballard St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6664405",
     "name": "Monster Media",
     "description": "Advertising Agencies",
     "phone": "(407) 478-8163",
-    "address": "street: 555 S Lake Destiny Dr Suite 100 location: Orlando, FL 32810"
+    "address": " 555 S Lake Destiny Dr Suite 100  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "480107634",
     "name": "MP advertising.com",
     "description": "Advertising Agencies",
     "phone": "(407) 324-3255",
-    "address": "street: PO Box 3052 E. Jefferson Street location: Orlando, FL 32802"
+    "address": " PO Box 3052 E. Jefferson Street  Orlando, FL 32802",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "511795518",
     "name": "Higgins Marketing Group, Inc.",
     "description": "Advertising Agencies",
     "phone": "(407) 680-3735",
-    "address": "street: 219 Duncan Trl location: Longwood, FL 32779"
+    "address": " 219 Duncan Trl  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458058536",
     "name": "Brandcomet",
     "description": "Advertising Agencies",
     "phone": "(407) 622-1993",
-    "address": "street: 465 S Orlando Ave location: Maitland, FL 32751"
+    "address": " 465 S Orlando Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "530775889",
     "name": "Conectar Agency Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 801-0046",
-    "address": "street: 1620 S Orlando Ave location: Maitland, FL 32751"
+    "address": " 1620 S Orlando Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464522860",
     "name": "Maurya Software Consulting Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 359-3529",
-    "address": "street: 802 Kingsbridge Dr location: Oviedo, FL 32765"
+    "address": " 802 Kingsbridge Dr  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457126447",
     "name": "Chameleon Web/Multimedia Design",
     "description": "Advertising Agencies",
     "phone": "(407) 616-2645",
-    "address": "street: 315 Lakepointe Dr location: Altamonte Springs, FL 32701"
+    "address": " 315 Lakepointe Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "633975",
     "name": "Help 4 You America Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 265-7248",
-    "address": "street: 241 Obrien Rd location: Fern Park, FL 32730"
+    "address": " 241 Obrien Rd  Fern Park, FL 32730",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "567148126",
     "name": "M77 Media",
     "description": "Advertising Agencies",
     "phone": "(833) 992-1313",
-    "address": "street: 217 N Westmonte Dr location: Altamonte Springs, FL 32714"
+    "address": " 217 N Westmonte Dr  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "514342851",
     "name": "Cmts",
     "description": "Advertising Agencies",
     "phone": "(904) 739-9804",
-    "address": "street: 608 Maitland Ave location: Altamonte Springs, FL 32701"
+    "address": " 608 Maitland Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "478130621",
     "name": "Interexpo Communications",
     "description": "Advertising Agencies",
     "phone": "(321) 214-0009",
-    "address": "street: 3309 Bennington Ct location: Winter Park, FL 32792"
+    "address": " 3309 Bennington Ct  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457382861",
     "name": "CSI Promotions",
     "description": "Advertising Agencies",
     "phone": "(407) 468-5099",
-    "address": "street: 479 Montgomery Pl location: Altamonte Springs, FL 32714"
+    "address": " 479 Montgomery Pl  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22998254",
     "name": "Jungle Network",
     "description": "Advertising Agencies",
     "phone": "(407) 389-2002",
-    "address": "street: 479 Montgomery Pl location: Altamonte Springs, FL 32714"
+    "address": " 479 Montgomery Pl  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464235955",
     "name": "Gillman Advertising Specialties",
     "description": "Advertising Agencies",
     "phone": "(407) 331-5111",
-    "address": "street: 657 Maitland Ave location: Altamonte Springs, FL 32701"
+    "address": " 657 Maitland Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "480698021",
     "name": "Yuppify",
     "description": "Advertising Agencies",
     "phone": "(407) 761-6952",
-    "address": "street: 606 Lake Orienta Dr location: Altamonte Springs, FL 32701"
+    "address": " 606 Lake Orienta Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "460338645",
     "name": "Technical Communications Group",
     "description": "Advertising Agencies",
     "phone": "(407) 831-2235",
-    "address": "street: 403 Barclay Ave location: Altamonte Springs, FL 32701"
+    "address": " 403 Barclay Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "511626696",
     "name": "Fat Free Media",
     "description": "Advertising Agencies",
     "phone": "(407) 786-8669",
-    "address": "street: 932 Centre Cir location: Altamonte Springs, FL 32714"
+    "address": " 932 Centre Cir  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464246664",
     "name": "Rw Mindrup & Assoc",
     "description": "Advertising Agencies",
     "phone": "(407) 774-0672",
-    "address": "street: 725 Little Wekiva Cir location: Altamonte Springs, FL 32714"
+    "address": " 725 Little Wekiva Cir  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2123850",
     "name": "TCS Media Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 252-1026",
-    "address": "street: 2688 Queen Mary Pl location: Maitland, FL 32751"
+    "address": " 2688 Queen Mary Pl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "335712",
     "name": "Timeshare",
     "description": "Advertising Agencies",
     "phone": "(407) 831-0203",
-    "address": "street: 1398 State Road 436 location: Casselberry, FL 32707"
+    "address": " 1398 State Road 436  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467458478",
     "name": "AG Ad Agency",
     "description": "Advertising Agencies",
     "phone": "(407) 645-1950",
-    "address": "street: 166 Lookout Pl Ste 101 location: Maitland, FL 32751"
+    "address": " 166 Lookout Pl Ste 101  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459596451",
     "name": "Yard Media",
     "description": "Advertising Agencies",
     "phone": "(407) 657-1361",
-    "address": "street: 1964 Howell Branch Rd Ste 202 location: Winter Park, FL 32792"
+    "address": " 1964 Howell Branch Rd Ste 202  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "454936264",
     "name": "G A & Co",
     "description": "Advertising Agencies",
     "phone": "(407) 339-1736",
-    "address": "street: 333 Croton Dr location: Maitland, FL 32751"
+    "address": " 333 Croton Dr  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464221470",
     "name": "Parallel Marketing Service",
     "description": "Advertising Agencies",
     "phone": "(407) 517-4835",
-    "address": "street: 2670 Creekview Cir location: Oviedo, FL 32765"
+    "address": " 2670 Creekview Cir  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2393690",
     "name": "Gregory Lang Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 740-0527",
-    "address": "street: 1985 Howell Branch Rd location: Maitland, FL 32751"
+    "address": " 1985 Howell Branch Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6617008",
     "name": "Patterson & Taylor Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 339-0793",
-    "address": "street: 145 S Orange Suite 8 Ave location: Maitland, FL 32751"
+    "address": " 145 S Orange Suite 8 Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "466776496",
     "name": "Bernard Hodes Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 740-5002",
-    "address": "street: 1101 N Lake Destiny Rd Ste 300 location: Maitland, FL 32751"
+    "address": " 1101 N Lake Destiny Rd Ste 300  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29464971",
     "name": "Apex International Solutions",
     "description": "Advertising Agencies",
     "phone": "(407) 365-0587",
-    "address": "street: 2945 Bayhead Run location: Oviedo, FL 32765"
+    "address": " 2945 Bayhead Run  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15049692",
     "name": "Think Agency",
     "description": "Advertising Agencies",
     "phone": "(407) 875-1999",
-    "address": "street: 1001 N Lake Destiny Rd Ste 300 location: Maitland, FL 32751"
+    "address": " 1001 N Lake Destiny Rd Ste 300  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15800642",
     "name": "Dominion Enterprises",
     "description": "Advertising Agencies",
     "phone": "(407) 673-3466",
-    "address": "street: 901 N Lake Destiny Rd location: Maitland, FL 32751"
+    "address": " 901 N Lake Destiny Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548108413",
     "name": "Rennew Media",
     "description": "Advertising Agencies",
     "phone": "(407) 900-7734",
-    "address": "street: 151 N Maitland Ave location: Maitland, FL 32751"
+    "address": " 151 N Maitland Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "553395059",
     "name": "TKO-Terry/Kane Orlando Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 649-8730",
-    "address": "street: 1051 Winderley Pl location: Maitland, FL 32751"
+    "address": " 1051 Winderley Pl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "475676756",
     "name": "Florida Apartment Assn",
     "description": "Advertising Agencies",
     "phone": "(407) 647-8839",
-    "address": "street: 875 Concourse Pkwy S location: Maitland, FL 32751"
+    "address": " 875 Concourse Pkwy S  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505531394",
     "name": "Jerry Defalco Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 661-3131",
-    "address": "street: 1060 Maitland Center Commons Blvd Ste 410 location: Maitland, FL 32751"
+    "address": " 1060 Maitland Center Commons Blvd Ste 410  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8558744",
     "name": "Vergason Sojourner McWaters",
     "description": "Advertising Agencies",
     "phone": "(407) 673-4984",
-    "address": "street: 5901 Brick Ct location: Winter Park, FL 32792"
+    "address": " 5901 Brick Ct  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549934129",
     "name": "Wilcox & Associates Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 629-6746",
-    "address": "street: 540 S Maitland Ave location: Maitland, FL 32751"
+    "address": " 540 S Maitland Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "558974561",
     "name": "iHeartMedia",
     "description": "Advertising Agencies",
     "phone": "(407) 916-7800",
-    "address": "street: 2500 Maitland Center Pkwy location: Maitland, FL 32751"
+    "address": " 2500 Maitland Center Pkwy  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464520871",
     "name": "US Associates Bright Hse Network",
     "description": "Advertising Agencies",
     "phone": "(407) 951-7254",
-    "address": "street: 2600 Maitland Center Pkwy Ste 295 location: Maitland, FL 32751"
+    "address": " 2600 Maitland Center Pkwy Ste 295  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549925604",
     "name": "Grandesign Media Services",
     "description": "Advertising Agencies",
     "phone": "(407) 599-0759",
-    "address": "street: 1951 Palmer Ave location: Winter Park, FL 32792"
+    "address": " 1951 Palmer Ave  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472444882",
     "name": "Morgan Mary",
     "description": "Advertising Agencies",
     "phone": "(407) 644-6277",
-    "address": "street: 1630 Mayfield Ave location: Winter Park, FL 32789"
+    "address": " 1630 Mayfield Ave  Winter Park, FL 32789",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15999111",
     "name": "Reliable Experts Consulting",
     "description": "Advertising Agencies",
     "phone": "(321) 206-8881",
-    "address": "street: 1800 Pembrook Dr location: Orlando, FL 32810"
+    "address": " 1800 Pembrook Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "453341715",
     "name": "Stadler-Green Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 667-4800",
-    "address": "street: 1800 Pembrook Dr location: Orlando, FL 32810"
+    "address": " 1800 Pembrook Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "12770074",
     "name": "Nscope Multimedia",
     "description": "Advertising Agencies",
     "phone": "(407) 704-3640",
-    "address": "street: 877 Grand Regency Pointe Unit 105 location: Altamonte Springs, FL 32714"
+    "address": " 877 Grand Regency Pointe Unit 105  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459299211",
     "name": "National Ad Mark Corporation",
     "description": "Advertising Agencies",
     "phone": "(407) 660-6684",
-    "address": "street: 101 Southhall Ln location: Maitland, FL 32751"
+    "address": " 101 Southhall Ln  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "7736710",
     "name": "The Ad Team",
     "description": "Advertising Agencies",
     "phone": "(407) 667-4708",
-    "address": "street: 101 Southhall Ln location: Maitland, FL 32751"
+    "address": " 101 Southhall Ln  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28674912",
     "name": "Comprehensive HR Solutions",
     "description": "Advertising Agencies",
     "phone": "(407) 578-8399",
-    "address": "street: 696 Oak Hollow Way location: Altamonte Springs, FL 32714"
+    "address": " 696 Oak Hollow Way  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "479329299",
     "name": "Chance Advertising Agency",
     "description": "Advertising Agencies",
     "phone": "(321) 946-0666",
-    "address": "street: 803 Trailwood Dr Suite 100 location: Apopka, FL 32712"
+    "address": " 803 Trailwood Dr Suite 100  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "10972264",
     "name": "MLB Creative",
     "description": "Advertising Agencies",
     "phone": "(407) 645-4652",
-    "address": "street: 1778 N Park Ave Ste 100 location: Maitland, FL 32751"
+    "address": " 1778 N Park Ave Ste 100  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "12494766",
     "name": "Grb Enterprises",
     "description": "Advertising Agencies",
     "phone": "(407) 644-1612",
-    "address": "street: 1150 Grove St location: Maitland, FL 32751"
+    "address": " 1150 Grove St  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459534532",
     "name": "Cutting Edge Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 629-6366",
-    "address": "street: 1300 Lyndale Blvd location: Winter Park, FL 32789"
+    "address": " 1300 Lyndale Blvd  Winter Park, FL 32789",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "480760518",
     "name": "Judi Edwards Management Co",
     "description": "Advertising Agencies",
     "phone": "(407) 359-5797",
-    "address": "street: 4250 Alafaya Trl location: Oviedo, FL 32765"
+    "address": " 4250 Alafaya Trl  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15477787",
     "name": "Jane Newnum and Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 647-0442",
-    "address": "street: 2107 N Park Ave location: Winter Park, FL 32789"
+    "address": " 2107 N Park Ave  Winter Park, FL 32789",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571669647",
     "name": "JKR Advertising & Marketing",
     "description": "Advertising Agencies",
     "phone": "(321) 397-0777",
-    "address": "street: 298 S Lake Destiny Dr location: Orlando, FL 32810"
+    "address": " 298 S Lake Destiny Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8527956",
     "name": "Promo Only",
     "description": "Advertising Agencies",
     "phone": "(407) 838-2030",
-    "address": "street: 257 S Lake Destiny Dr location: Orlando, FL 32810"
+    "address": " 257 S Lake Destiny Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "566598333",
     "name": "Jvzoo",
     "description": "Advertising Agencies",
     "phone": "(406) 285-8966",
-    "address": "street: 1945 W County Rd location: Oviedo, FL 32766"
+    "address": " 1945 W County Rd  Oviedo, FL 32766",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504624082",
     "name": "Corporate Relations Group Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 628-5700",
-    "address": "street: 2649 Pemberton Dr location: Apopka, FL 32703"
+    "address": " 2649 Pemberton Dr  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28803730",
     "name": "Global Marketing Ent",
     "description": "Advertising Agencies",
     "phone": "(407) 298-2480",
-    "address": "street: 5554 Burlwood Dr location: Orlando, FL 32810"
+    "address": " 5554 Burlwood Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464528353",
     "name": "Kreative Koncepts",
     "description": "Advertising Agencies",
     "phone": "(407) 889-8200",
-    "address": "street: 1631 Rock Springs Rd location: Apopka, FL 32712"
+    "address": " 1631 Rock Springs Rd  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464506330",
     "name": "Freyer, Patricia",
     "description": "Advertising Agencies",
     "phone": "(407) 884-1684",
-    "address": "street: 8 W Virgil St location: Apopka, FL 32712"
+    "address": " 8 W Virgil St  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533669184",
     "name": "Citrus Sign Studio",
     "description": "Advertising Agencies",
     "phone": "(321) 285-0730",
-    "address": "street: 6110 Edgewater Dr Suite H location: Orlando, FL 32810"
+    "address": " 6110 Edgewater Dr Suite H  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464534979",
     "name": "Switch Consulting Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 252-4634",
-    "address": "street: PO Box 677326 location: Orlando, FL 32867"
+    "address": " PO Box 677326  Orlando, FL 32867",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "543277989",
     "name": "Ads",
     "description": "Advertising Agencies",
     "phone": "(407) 293-0293",
-    "address": "street: 5722 N Pine Hills Rd location: Orlando, FL 32810"
+    "address": " 5722 N Pine Hills Rd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464276777",
     "name": "Innovative Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 814-7800",
-    "address": "street: 2436 Cedar Knoll Dr location: Apopka, FL 32712"
+    "address": " 2436 Cedar Knoll Dr  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "454947967",
     "name": "Cyber Marketing",
     "description": "Advertising Agencies",
     "phone": "(407) 324-9100",
-    "address": "street: 2380 W 25th St location: Sanford, FL 32771"
+    "address": " 2380 W 25th St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "562504895",
     "name": "Sandara Saints",
     "description": "Advertising Agencies",
     "phone": "(407) 878-1695",
-    "address": "street: 103 Lindsey Way location: Sanford, FL 32771"
+    "address": " 103 Lindsey Way  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "527309603",
     "name": "Maus Media Group",
     "description": "Advertising Agencies",
     "phone": "(407) 302-5880",
-    "address": "street: 1160 Rinehart Rd location: Sanford, FL 32771"
+    "address": " 1160 Rinehart Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "547486131",
     "name": "Relentless Media",
     "description": "Advertising Agencies",
     "phone": "(407) 252-3980",
-    "address": "street: 1429 Dolgner Pl location: Sanford, FL 32771"
+    "address": " 1429 Dolgner Pl  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6783701",
-    "name": "Cyber Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(407) 320-7012",
-    "address": "street: 2001 E Lake Mary Blvd location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "563908527",
     "name": "SearchOutsidethebox.com Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 562-6143",
-    "address": "street: 1521 Little Gem Loop location: Sanford, FL 32773"
+    "address": " 1521 Little Gem Loop  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458145266",
     "name": "Online Tactix, LLC",
     "description": "Advertising Agencies",
     "phone": "(888) 541-4447",
-    "address": "street: 5224 W State Road 46 # 131 location: Sanford, FL 32771"
+    "address": " 5224 W State Road 46 # 131  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "29267380",
     "name": "SearchOutsidethebox",
     "description": "Advertising Agencies",
     "phone": "(407) 562-6143",
-    "address": "street: 905 Pine Way location: Sanford, FL 32773"
+    "address": " 905 Pine Way  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505069848",
     "name": "Proforma Nextgen Printing Plus",
     "description": "Advertising Agencies",
     "phone": "(407) 804-9444",
-    "address": "street: 425 Cardinal Oaks Ct location: Lake Mary, FL 32746"
+    "address": " 425 Cardinal Oaks Ct  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "555986754",
     "name": "Crank Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 830-7312",
-    "address": "street: 1135 Townpark Ave Ste 2125 location: Lake Mary, FL 32746"
+    "address": " 1135 Townpark Ave Ste 2125  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "495306875",
     "name": "Iceberg Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 486-8478",
-    "address": "street: 3415 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 3415 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "509368484",
     "name": "Levitation Studio Inc.",
     "description": "Advertising Agencies",
     "phone": "(888) 514-8814",
-    "address": "street: 1540 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 1540 International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "21690677",
     "name": "NG Production Films, Inc.",
     "description": "Advertising Agencies",
     "phone": "(877) 203-2895",
-    "address": "street: 801 International Pkwy Ste 500 location: Lake Mary, FL 32746"
+    "address": " 801 International Pkwy Ste 500  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "547694964",
     "name": "JLS Automotive Marketing Inc.",
     "description": "Advertising Agencies",
     "phone": "(321) 363-0624",
-    "address": "street: 799 Sherbourne Cir location: Lake Mary, FL 32746"
+    "address": " 799 Sherbourne Cir  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "516286412",
     "name": "Marchand & Company - Marketing Media",
     "description": "Advertising Agencies",
     "phone": "(407) 444-2090",
-    "address": "street: 4300 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 4300 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "497157589",
     "name": "Stephenson & Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 833-3728",
-    "address": "street: 255 Primera Blvd Ste 160 location: Lake Mary, FL 32746"
+    "address": " 255 Primera Blvd Ste 160  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465166604",
     "name": "Sun & Fun Media",
     "description": "Advertising Agencies",
     "phone": "(407) 328-0505",
-    "address": "street: 1315 S International Pkwy Ste 1131 location: Lake Mary, FL 32746"
+    "address": " 1315 S International Pkwy Ste 1131  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2276668",
     "name": "Progressive Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 732-4036",
-    "address": "street: 1001 Sand Pond Rd location: Lake Mary, FL 32746"
+    "address": " 1001 Sand Pond Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "1933678",
     "name": "Heritage First Capital",
     "description": "Advertising Agencies",
     "phone": "(407) 444-5959",
-    "address": "street: 30 Skyline Dr # 201 location: Lake Mary, FL 32746"
+    "address": " 30 Skyline Dr # 201  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "532744891",
     "name": "Community Outreach Involvement Inc.",
     "description": "Advertising Agencies",
     "phone": "(386) 753-5079",
-    "address": "street: 314 Sunnyside Ln location: Debary, FL 32713"
+    "address": " 314 Sunnyside Ln  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "473334645",
     "name": "Office Creations Desktop Publishing & Oc Photo Gifts & Home Decor",
     "description": "Advertising Agencies",
     "phone": "(540) 220-3505",
-    "address": "street: 224 Hammock Oak Cir location: Debary, FL 32713"
+    "address": " 224 Hammock Oak Cir  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467146383",
     "name": "Internet Performance Group",
     "description": "Advertising Agencies",
     "phone": "(877) 474-9997",
-    "address": "street: 107 14th Ave location: Longwood, FL 32750"
+    "address": " 107 14th Ave  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "575766713",
     "name": "Arcane Marketing",
     "description": "Advertising Agencies",
     "phone": "(208) 938-5988",
-    "address": "street: 240 E Palmetto Ave Ste 100 location: Longwood, FL 32750"
+    "address": " 240 E Palmetto Ave Ste 100  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "5018361",
     "name": "TJM Communications Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 265-1823",
-    "address": "street: 1312 Town Plaza Ct location: Winter Springs, FL 32708"
+    "address": " 1312 Town Plaza Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "576194422",
     "name": "Clarity Creative Group",
     "description": "Advertising Agencies",
     "phone": "(407) 233-4464",
-    "address": "street: 925 Florida 434 location: Winter Springs, FL 32708"
+    "address": " 925 Florida 434  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "10212217",
     "name": "Wilcox & Associates, Inc.",
     "description": "Advertising Agencies",
     "phone": "(407) 830-4808",
-    "address": "street: 258 Short Ave location: Longwood, FL 32750"
+    "address": " 258 Short Ave  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533779344",
     "name": "Digital Graphics Plus",
     "description": "Advertising Agencies",
     "phone": "(407) 869-0077",
-    "address": "street: 205 National Pl location: Longwood, FL 32750"
+    "address": " 205 National Pl  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "536343395",
     "name": "H B Production Group",
     "description": "Advertising Agencies",
     "phone": "(407) 339-9070",
-    "address": "street: 1225 Bennett Dr Unit 200 location: Longwood, FL 32750"
+    "address": " 1225 Bennett Dr Unit 200  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467424836",
     "name": "H B Production Services Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 339-9070",
-    "address": "street: 1275 Bennett Dr location: Longwood, FL 32750"
+    "address": " 1275 Bennett Dr  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "498715953",
     "name": "K2 Evolution",
     "description": "Advertising Agencies",
     "phone": "(321) 972-5915",
-    "address": "street: 1355 Bennett Dr Unit 177 location: Longwood, FL 32750"
+    "address": " 1355 Bennett Dr Unit 177  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "481269119",
     "name": "In Motion Media Solutions",
     "description": "Advertising Agencies",
     "phone": "(407) 960-1839",
-    "address": "street: 3352 S Us Highway 17/92 location: Casselberry, FL 32707"
+    "address": " 3352 S Us Highway 17/92  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "513519729",
     "name": "Mr. Checkout Distributors",
     "description": "Advertising Agencies",
     "phone": "(407) 603-6557",
-    "address": "street: 381 S Central Ave location: Oviedo, FL 32765"
+    "address": " 381 S Central Ave  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "1058840",
     "name": "Pro-Tech Printers Inc",
     "description": "Advertising Agencies",
     "phone": "(386) 774-6837",
-    "address": "street: 1060 E Industrial Dr location: Orange City, FL 32763"
+    "address": " 1060 E Industrial Dr  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "16135659",
     "name": "Lewellen Enterprises",
     "description": "Advertising Agencies",
     "phone": "(407) 478-1964",
-    "address": "street: 927 Fern St location: Altamonte Springs, FL 32701"
+    "address": " 927 Fern St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9088758",
     "name": "J R Stacy & Associates",
     "description": "Advertising Agencies",
     "phone": "(407) 660-1919",
-    "address": "street: 413 Ringwood Cir location: Winter Springs, FL 32708"
+    "address": " 413 Ringwood Cir  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22852669",
     "name": "Flitehaus Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 971-2244",
-    "address": "street: 3000 Dovera Dr Ste 140 location: Oviedo, FL 32765"
+    "address": " 3000 Dovera Dr Ste 140  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "561303975",
     "name": "My Website Spot - Casselberry Web Design & SEO",
     "description": "Advertising Agencies",
     "phone": "(407) 499-4008",
-    "address": "street: 513 Elm Dr location: Casselberry, FL 32707"
+    "address": " 513 Elm Dr  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550192348",
     "name": "Chance AD",
     "description": "Advertising Agencies",
     "phone": "(407) 788-0028",
-    "address": "street: 2484 Sr. 434 Studio 208 location: Longwood, FL 32779"
+    "address": " 2484 Sr. 434 Studio 208  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "558167223",
     "name": "Azir Spares, Inc.",
     "description": "Advertising Agencies",
     "phone": "(844) 267-2235",
-    "address": "street: 1070 Montgomery Rd PMB 509 location: Altamonte Springs, FL 32714"
+    "address": " 1070 Montgomery Rd PMB 509  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "471972305",
-    "name": "Chance Advertising Agency",
-    "description": "Advertising Agencies",
-    "phone": "(407) 788-0028",
-    "address": "street: 2484 W. Sr 434 #208 location: Longwood, FL 32779"
-  },
-  {
-    "dataYpid": "12793990",
     "name": "Cash Magazine Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 672-1700",
-    "address": "street: 266 Wilshire Blvd location: Casselberry, FL 32707"
+    "address": " 266 Wilshire Blvd  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "532591278",
     "name": "Roar! Internet Marketing",
     "description": "Advertising Agencies",
     "phone": "(407) 786-7330",
-    "address": "street: 307 Cranes Roost Blvd Ste 2020 location: Altamonte Springs, FL 32701"
+    "address": " 307 Cranes Roost Blvd Ste 2020  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458647569",
     "name": "Affordable Display Products, Inc.",
     "description": "Advertising Agencies",
     "phone": "(866) 550-0656",
-    "address": "street: 285 W Central Parkway Suite 1726 location: Altamonte Springs, FL 32714"
+    "address": " 285 W Central Parkway Suite 1726  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550192205",
     "name": "Hispanic Yellow Pages Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 767-8300",
-    "address": "street: 1033 State Road 436 location: Casselberry, FL 32707"
+    "address": " 1033 State Road 436  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "496019121",
     "name": "Go Digital Advertising",
     "description": "Advertising Agencies",
     "phone": "(407) 497-7198",
-    "address": "street: 2735 W State Road 434 location: Longwood, FL 32779"
+    "address": " 2735 W State Road 434  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "21791843",
     "name": "Sewing Studio Fabric Superstore",
     "description": "Advertising Agencies",
     "phone": "(407) 910-2761",
-    "address": "street: 9605 S Us Highway 17/92 location: Maitland, FL 32751"
+    "address": " 9605 S Us Highway 17/92  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "468228079",
     "name": "TCS Media",
     "description": "Advertising Agencies",
     "phone": "(407) 252-1026",
-    "address": "street: 2333 Chinook Trl location: Maitland, FL 32751"
+    "address": " 2333 Chinook Trl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "496798867",
     "name": "ETC Marketing",
     "description": "Advertising Agencies",
     "phone": "(877) 992-1313",
-    "address": "street: 217 N Westmonte Dr Ste 2014 location: Altamonte Springs, FL 32714"
+    "address": " 217 N Westmonte Dr Ste 2014  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482034950",
     "name": "Think Agency Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 875-1999",
-    "address": "street: 217 N Westmonte Dr Ste 3019 location: Altamonte Springs, FL 32714"
+    "address": " 217 N Westmonte Dr Ste 3019  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548198999",
     "name": "FusionTech Media",
     "description": "Advertising Agencies",
     "phone": "(407) 512-0424",
-    "address": "street: 237 S Westmonte Dr Ste 100-B location: Altamonte Springs, FL 32714"
+    "address": " 237 S Westmonte Dr Ste 100-B  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "487982024",
     "name": "Beech Outdoor",
     "description": "Advertising Agencies",
     "phone": "(407) 645-2210",
-    "address": "street: 1672 Indian Dance Ct location: Maitland, FL 32751"
+    "address": " 1672 Indian Dance Ct  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571793140",
     "name": "Digital Space Marketing",
     "description": "Advertising Agencies",
     "phone": "(855) 611-0577",
-    "address": "street: 240 Lookout Pl location: Maitland, FL 32751"
+    "address": " 240 Lookout Pl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451058538",
     "name": "Costa DeVault a wordwise company",
     "description": "Advertising Agencies",
     "phone": "(407) 657-4818",
-    "address": "street: 7719 Fox Knoll Pl location: Winter Park, FL 32792"
+    "address": " 7719 Fox Knoll Pl  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "576081525",
     "name": "R.T.P Marketing - Rock The Pavement Marketing",
     "description": "Advertising Agencies",
     "phone": "(386) 400-3986",
-    "address": "street: 3072 Courtland Blvd location: Deltona, FL 32738"
+    "address": " 3072 Courtland Blvd  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3485915",
     "name": "Truth About Yellow Pages",
     "description": "Advertising Agencies",
     "phone": "(407) 647-3990",
-    "address": "street: 101 Mariner Way location: Maitland, FL 32751"
+    "address": " 101 Mariner Way  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "569921740",
     "name": "All In One Branding",
     "description": "Advertising Agencies",
     "phone": "(407) 903-6005",
-    "address": "street: 2789 Wrights Rd Ste 1025 location: Oviedo, FL 32765"
+    "address": " 2789 Wrights Rd Ste 1025  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504946580",
     "name": "No Limit Marketing and Advertising",
     "description": "Advertising Agencies",
     "phone": "(321) 400-6116",
-    "address": "street: 2789 Wrights Rd Ste 1009 location: Oviedo, FL 32765"
+    "address": " 2789 Wrights Rd Ste 1009  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "1999120",
     "name": "TCreative, Inc.",
     "description": "Advertising Agencies",
     "phone": "(407) 628-1772",
-    "address": "street: 2789 Wrights Rd STE 1021 location: Oviedo, FL 32765"
+    "address": " 2789 Wrights Rd STE 1021  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548300743",
     "name": "Salem Surround Orlando",
     "description": "Advertising Agencies",
     "phone": "(407) 618-1821",
-    "address": "street: 1188 Lake View Dr location: Altamonte Springs, FL 32714"
+    "address": " 1188 Lake View Dr  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6897150",
     "name": "Bbdo South Orlando",
     "description": "Advertising Agencies",
     "phone": "(407) 865-9393",
-    "address": "street: 557 N Wymore Rd location: Maitland, FL 32751"
+    "address": " 557 N Wymore Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451040946",
     "name": "Patterson Bach Communications",
     "description": "Advertising Agencies",
     "phone": "(407) 645-1880",
-    "address": "street: 2600 Maitland Center Pkwy Ste 360 location: Maitland, FL 32751"
+    "address": " 2600 Maitland Center Pkwy Ste 360  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "468645939",
     "name": "Winning Formula Marketing LLC",
     "description": "Advertising Agencies",
     "phone": "(407) 928-9173",
-    "address": "street: 555 Winderley Pl location: Maitland, FL 32751"
+    "address": " 555 Winderley Pl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "503132932",
     "name": "YP Marketing Solutions",
     "description": "Advertising Agencies",
     "phone": "(407) 896-7325",
-    "address": "street: 258 Southhall Ln Ste 106 location: Maitland, FL 32751"
+    "address": " 258 Southhall Ln Ste 106  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "7290332",
-    "name": "Beech Outdoor",
-    "description": "Advertising Agencies",
-    "phone": "(407) 645-2210",
-    "address": "street: 291 Circle Dr location: Maitland, FL 32751"
-  },
-  {
-    "dataYpid": "468129025",
     "name": "Mmgy Global",
     "description": "Advertising Agencies",
     "phone": "(407) 875-1111",
-    "address": "street: 423 S Keller Rd Ste 100 location: Orlando, FL 32810"
+    "address": " 423 S Keller Rd Ste 100  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "497865203",
     "name": "On Wax Dup Signs & Print",
     "description": "Advertising Agencies",
     "phone": "(386) 873-2919",
-    "address": "street: 1540 S Spring Garden Ave location: Deland, FL 32720"
+    "address": " 1540 S Spring Garden Ave  Deland, FL 32720",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "543923905",
-    "name": "Patterson Bach Communications",
-    "description": "Advertising Agencies",
-    "phone": "(407) 645-1880",
-    "address": "street: 450 Faye St location: Apopka, FL 32712"
-  },
-  {
-    "dataYpid": "497510291",
     "name": "Ph3 Agency + Brewery",
     "description": "Advertising Agencies",
     "phone": "(321) 206-8771",
-    "address": "street: 6140 Edgewater Dr Ste C location: Orlando, FL 32810"
+    "address": " 6140 Edgewater Dr Ste C  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "483290458",
     "name": "Appreciation Promotion Services, LLC",
     "description": "Advertising Agencies",
     "phone": "(407) 900-6823",
-    "address": "street: 5764 N Orange Blossom Trl # 18 location: Orlando, FL 32810"
+    "address": " 5764 N Orange Blossom Trl # 18  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3839070",
     "name": "Creative Printing & Publishing",
     "description": "Marketing Programs & Services",
     "phone": "(407) 302-9147",
-    "address": "street: 2300 Old Lake Mary Rd location: Sanford, FL 32771"
+    "address": " 2300 Old Lake Mary Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2660114",
     "name": "Logogram Inc",
     "description": "Marketing Consultants",
     "phone": "(407) 320-1117",
-    "address": "street: 123 Commerce Way location: Sanford, FL 32771"
+    "address": " 123 Commerce Way  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21796939",
-    "name": "Aarons Lighting",
-    "description": "Building Contractors",
-    "phone": "(407) 617-2141",
-    "address": "street: N/A location: Sanford, FL 32771"
-  },
-  {
-    "dataYpid": "475341730",
     "name": "Velocity Signs",
     "description": "Signs",
     "phone": "(407) 732-6877",
-    "address": "street: 2200 S French Ave location: Sanford, FL 32771"
+    "address": " 2200 S French Ave  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "537773224",
     "name": "Diamonds Electric Sign & Repair",
     "description": "Signs",
     "phone": "(407) 657-6220",
-    "address": "street: 324 Gordon St location: Sanford, FL 32771"
+    "address": " 324 Gordon St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "292727",
     "name": "Todd's Graphics To Go",
     "description": "Graphic Designers",
     "phone": "(407) 322-2923",
-    "address": "street: 505 S French Ave location: Sanford, FL 32771"
+    "address": " 505 S French Ave  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "560938192",
     "name": "Sanitizersubscription.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 943-4909",
-    "address": "street: 201 N Maple Ave location: Sanford, FL 32771"
+    "address": " 201 N Maple Ave  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "567586322",
     "name": "Image360 Sanford Graphics, Signs and Displays",
     "description": "Signs",
     "phone": "(407) 732-4608",
-    "address": "street: 1169 W Airport Blvd location: Sanford, FL 32773"
+    "address": " 1169 W Airport Blvd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571891538",
     "name": "Signarama Lake Mary, FL",
     "description": "Signs",
     "phone": "(407) 462-3500",
-    "address": "street: 3875 Saint Johns Pkwy location: Sanford, FL 32771"
+    "address": " 3875 Saint Johns Pkwy  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "506530582",
     "name": "Pinnacle Sign Works",
     "description": "Signs",
     "phone": "(407) 322-7733",
-    "address": "street: 1169 W Airport Blvd location: Sanford, FL 32773"
+    "address": " 1169 W Airport Blvd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451067749",
-    "name": "Pinnacle Sign Works",
-    "description": "Signs",
-    "phone": "(407) 322-7733",
-    "address": "street: 3977 Saint Johns Pkwy location: Sanford, FL 32771"
-  },
-  {
-    "dataYpid": "467129696",
     "name": "Onsight Inc",
     "description": "Paging & Signaling Equipment",
     "phone": "(407) 830-8861",
-    "address": "street: 900 Central Park Dr location: Sanford, FL 32771"
+    "address": " 900 Central Park Dr  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "547269978",
     "name": "Onsite",
     "description": "Signs",
     "phone": "(904) 551-0504",
-    "address": "street: 900 Central Park Dr location: Sanford, FL 32771"
+    "address": " 900 Central Park Dr  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "551743684",
     "name": "Dealzkingzdepot.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 244-9500",
-    "address": "street: 401 E 1st St location: Sanford, FL 32771"
+    "address": " 401 E 1st St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "19120572",
     "name": "A Complete Sign Service",
     "description": "Signs",
     "phone": "(407) 328-7714",
-    "address": "street: 2530 Sanford Ave location: Sanford, FL 32773"
+    "address": " 2530 Sanford Ave  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "543034467",
     "name": "Devsyntech, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 444-7737",
-    "address": "street: 1405 S Locust Ave location: Sanford, FL 32771"
+    "address": " 1405 S Locust Ave  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "483278012",
     "name": "Sentry Sign Installers",
     "description": "Signs",
     "phone": "(407) 324-9386",
-    "address": "street: 261 Specialty Pt location: Sanford, FL 32771"
+    "address": " 261 Specialty Pt  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "545798937",
     "name": "Signs Just for You",
     "description": "Advertising Specialties",
     "phone": "(407) 878-4211",
-    "address": "street: 4009 W State Road 46 location: Sanford, FL 32771"
+    "address": " 4009 W State Road 46  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "456282336",
     "name": "FASTSIGNS",
     "description": "Signs",
     "phone": "(407) 324-8338",
-    "address": "street: 1265 Upsala Rd location: Sanford, FL 32771"
+    "address": " 1265 Upsala Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "569358518",
     "name": "Mychildwins.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 628-0295",
-    "address": "street: 1264 Upsala Rd location: Sanford, FL 32771"
+    "address": " 1264 Upsala Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467082157",
-    "name": "Netzuri Inc. PHP Web Development",
-    "description": "Internet Consultants",
-    "phone": "(855) 638-9874",
-    "address": "street: N/A location: Sanford, FL 32771"
-  },
-  {
-    "dataYpid": "500172729",
-    "name": "SwcHost",
-    "description": "Web Site Hosting",
-    "phone": "(407) 324-0000",
-    "address": "street: N/A location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "483148915",
     "name": "P5 Systems",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 362-1933",
-    "address": "street: 223 Brightview Dr location: Lake Mary, FL 32746"
+    "address": " 223 Brightview Dr  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "469264644",
     "name": "Webolistic",
     "description": "Web Site Hosting",
     "phone": "(321) 285-6224",
-    "address": "street: 7025 County Road 46A location: Lake Mary, FL 32746"
+    "address": " 7025 County Road 46A  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472763729",
-    "name": "Hi-Class Limousine",
-    "description": "Airport Transportation",
-    "phone": "(407) 255-4355",
-    "address": "street: N/A location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "457139712",
-    "name": "VS Studios",
-    "description": "Business Cards",
-    "phone": "(407) 687-7477",
-    "address": "street: N/A location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "468006963",
-    "name": "Pearl Marketing Group",
-    "description": "Public Relations Counselors",
-    "phone": "(312) 772-7085",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "11382820",
-    "name": "Elliott Permitting & Signs",
-    "description": "Signs",
-    "phone": "(407) 324-5807",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "18541239",
-    "name": "Bockstall Design Associates",
-    "description": "Graphic Designers",
-    "phone": "(407) 810-3442",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "18795838",
-    "name": "Southern Custom Creations",
-    "description": "Signs",
-    "phone": "(407) 323-1755",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "481966954",
-    "name": "Wgm Signs",
-    "description": "Signs",
-    "phone": "(321) 363-3763",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452287908",
     "name": "BCXPromotional.com",
     "description": "Business Cards",
     "phone": "(407) 688-8902",
-    "address": "street: 1744 Rinehart Rd location: Sanford, FL 32771"
+    "address": " 1744 Rinehart Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "12244561",
     "name": "Dynamic Aspects Inc",
     "description": "Signs",
     "phone": "(407) 322-1923",
-    "address": "street: 1490 Kastner Pl location: Sanford, FL 32771"
+    "address": " 1490 Kastner Pl  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "11228807",
     "name": "Affordable Discount Signs Inc.",
     "description": "Signs-Erectors & Hangers",
     "phone": "(407) 463-9334",
-    "address": "street: 200 Woodmere Blvd location: Sanford, FL 32773"
+    "address": " 200 Woodmere Blvd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550280349",
     "name": "Absolute Pro Solutions",
     "description": "Signs",
     "phone": "(407) 732-4973",
-    "address": "street: 1119 E 25th St location: Sanford, FL 32771"
+    "address": " 1119 E 25th St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464575558",
     "name": "Country Wide Enterprises",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 302-1777",
-    "address": "street: 707 E Airport Blvd location: Sanford, FL 32773"
+    "address": " 707 E Airport Blvd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467137330",
     "name": "Divine Imaging",
     "description": "Web Site Hosting",
     "phone": "(407) 314-4469",
-    "address": "street: 126 Lake Ada Cir location: Sanford, FL 32773"
+    "address": " 126 Lake Ada Cir  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "502812470",
     "name": "FedEx Office Print & Ship Center",
     "description": "Copying & Duplicating Service",
     "phone": "(407) 323-6964",
-    "address": "street: 1637 Rinehart Rd location: Sanford, FL 32771"
+    "address": " 1637 Rinehart Rd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "484458804",
     "name": "Traffic Signs Distribution",
     "description": "Signs",
     "phone": "(321) 332-1336",
-    "address": "street: 3501 Sanford Ave location: Sanford, FL 32773"
+    "address": " 3501 Sanford Ave  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "556815374",
     "name": "Media 1",
     "description": "Signs",
     "phone": "(407) 331-6161",
-    "address": "street: 501 Cornwall Rd location: Sanford, FL 32773"
+    "address": " 501 Cornwall Rd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "523798727",
     "name": "Universal Signs And Graphics",
     "description": "Graphic Designers",
     "phone": "(407) 496-2034",
-    "address": "street: 115 Exeter Ct location: Sanford, FL 32773"
+    "address": " 115 Exeter Ct  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "837607",
     "name": "Graphic Solutions",
     "description": "Computer Graphics",
     "phone": "(407) 323-5523",
-    "address": "street: 370 Mohave Ter location: Lake Mary, FL 32746"
+    "address": " 370 Mohave Ter  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "572983340",
     "name": "One Source Branding & Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 441-3160",
-    "address": "street: 187 E Crystal Lake Ave Unit 1005 location: Lake Mary, FL 32746"
+    "address": " 187 E Crystal Lake Ave Unit 1005  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2373702",
     "name": "Magic Sign",
     "description": "Signs",
     "phone": "(407) 324-4059",
-    "address": "street: 4757 Orange Blvd location: Sanford, FL 32771"
+    "address": " 4757 Orange Blvd  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "526827616",
     "name": "Apache Commander",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 262-6891",
-    "address": "street: 2341 Church St location: Sanford, FL 32771"
+    "address": " 2341 Church St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "507239462",
-    "name": "Sentry Sign Installers",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(407) 324-9386",
-    "address": "street: 905 Pine Way location: Sanford, FL 32773"
-  },
-  {
-    "dataYpid": "469676323",
-    "name": "Proforma Nextgen Printing Plus",
-    "description": "Copying & Duplicating Service",
-    "phone": "(407) 804-9444",
-    "address": "street: 1550 Thornapple Ln location: Sanford, FL 32771"
-  },
-  {
-    "dataYpid": "547777670",
     "name": "Jayco Signs and Lighting",
     "description": "Signs",
     "phone": "(407) 915-7526",
-    "address": "street: 3665 Naseem Ln location: Sanford, FL 32771"
+    "address": " 3665 Naseem Ln  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "541938094",
     "name": "Cornerstone Publishing & Multi-Media",
     "description": "Advertising Specialties",
     "phone": "(704) 284-3103",
-    "address": "street: 5386 Glenlake Pl location: Sanford, FL 32771"
+    "address": " 5386 Glenlake Pl  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "526532514",
     "name": "Save the Children Group",
     "description": "Advertising Specialties",
     "phone": "(321) 363-3755",
-    "address": "street: 109 E Crystal Lake Ave location: Lake Mary, FL 32746"
+    "address": " 109 E Crystal Lake Ave  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559622877",
     "name": "Signarama",
     "description": "Signs",
     "phone": "(407) 462-3500",
-    "address": "street: 101 N Country Club Rd location: Lake Mary, FL 32746"
+    "address": " 101 N Country Club Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464209892",
     "name": "Casa Creacion",
     "description": "Direct Mail Advertising",
     "phone": "(407) 333-7117",
-    "address": "street: 600 Rinehart Rd location: Lake Mary, FL 32746"
+    "address": " 600 Rinehart Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "558018584",
     "name": "Axel & Associates",
     "description": "Internet Marketing & Advertising",
     "phone": "(866) 328-4329",
-    "address": "street: 175 Middle St Unit 1201 location: Lake Mary, FL 32746"
+    "address": " 175 Middle St Unit 1201  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "460617248",
     "name": "Radio Health LLC",
     "description": "Tile-Contractors & Dealers",
     "phone": "(407) 219-9494",
-    "address": "street: 1035 Primera Blvd Ste 1041 location: Lake Mary, FL 32746"
+    "address": " 1035 Primera Blvd Ste 1041  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6774547",
     "name": "Everybody's Business Etc",
     "description": "Direct Mail Advertising",
     "phone": "(407) 323-2655",
-    "address": "street: 205 Waymont Ct location: Lake Mary, FL 32746"
+    "address": " 205 Waymont Ct  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458594523",
     "name": "Marketleverage Interactive Advertising",
     "description": "Advertising Specialties",
     "phone": "(407) 268-7648",
-    "address": "street: 1515 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 1515 International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "556542166",
     "name": "Tonic Enterprises",
     "description": "Web Site Design & Services",
     "phone": "(407) 917-7211",
-    "address": "street: 1540 International Pkwy Ste 2000 location: Lake Mary, FL 32746"
+    "address": " 1540 International Pkwy Ste 2000  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "564250486",
     "name": "Promoted to Succeed",
     "description": "Advertising Specialties",
     "phone": "(407) 430-6044",
-    "address": "street: 1540 International Pkwy location: Lake Mary, FL 32746"
+    "address": " 1540 International Pkwy  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "538404043",
     "name": "Collect-Us.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 328-7669",
-    "address": "street: 559 S Country Club Rd location: Lake Mary, FL 32746"
+    "address": " 559 S Country Club Rd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "532133995",
     "name": "White Sign Company, LLC",
     "description": "Signs",
     "phone": "(407) 878-3981",
-    "address": "street: 909 S. Charles Richard Beall Blvd location: Debary, FL 32713"
+    "address": " 909 S. Charles Richard Beall Blvd  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459166945",
     "name": "Graphic Source of Central Florida",
     "description": "Digital Printing & Imaging",
     "phone": "(386) 668-0288",
-    "address": "street: 637 S Charles Richard Beall Blvd Ste 3 location: Debary, FL 32713"
+    "address": " 637 S Charles Richard Beall Blvd Ste 3  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22814897",
     "name": "International Signs & Lighting",
     "description": "Signs",
     "phone": "(407) 332-9663",
-    "address": "street: 714 Commerce Cir location: Longwood, FL 32750"
+    "address": " 714 Commerce Cir  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "450968791",
     "name": "Universal Awning and Sign",
     "description": "Signs",
     "phone": "(407) 328-7781",
-    "address": "street: 5890 Nolan Rd location: Sanford, FL 32773"
+    "address": " 5890 Nolan Rd  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "545389361",
     "name": "Signage Plus",
     "description": "Signs",
     "phone": "(407) 549-2531",
-    "address": "street: 5473 Benchmark Ln location: Sanford, FL 32773"
+    "address": " 5473 Benchmark Ln  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "5031891",
     "name": "CBS Outdoor",
     "description": "Signs",
     "phone": "(407) 330-0339",
-    "address": "street: 2687 S Design Ct location: Sanford, FL 32773"
+    "address": " 2687 S Design Ct  Sanford, FL 32773",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "506336095",
     "name": "W G M Signs",
     "description": "Advertising Specialties",
     "phone": "(321) 363-3763",
-    "address": "street: 2360 Northumbria Dr location: Sanford, FL 32771"
+    "address": " 2360 Northumbria Dr  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "450998683",
     "name": "Orlando SEO Consultant",
     "description": "Internet Products & Services",
     "phone": "(407) 314-6357",
-    "address": "street: 365 Crest St location: Sanford, FL 32771"
+    "address": " 365 Crest St  Sanford, FL 32771",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "462424603",
     "name": "AlphaGraphics",
     "description": "Printing Services",
     "phone": "(407) 330-0245",
-    "address": "street: 1061 S Sun Dr Ste 1033 location: Lake Mary, FL 32746"
+    "address": " 1061 S Sun Dr Ste 1033  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "497736636",
     "name": "Virtual Stacks Systems",
     "description": "Web Site Design & Services",
     "phone": "(407) 544-3201",
-    "address": "street: 650 Technology Park location: Lake Mary, FL 32746"
+    "address": " 650 Technology Park  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "455563804",
-    "name": "Signarama",
-    "description": "Signs",
-    "phone": "(407) 330-7050",
-    "address": "street: 3801 W Lake Mary Blvd Unit 111 location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "497697295",
     "name": "Essential Edge Marketing",
     "description": "Advertising Specialties",
     "phone": "(407) 252-9555",
-    "address": "street: 4044 W Lake Mary Blvd location: Lake Mary, FL 32746"
+    "address": " 4044 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "552136279",
     "name": "Certnutri.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 781-8069",
-    "address": "street: 255 Primera Blvd location: Lake Mary, FL 32746"
+    "address": " 255 Primera Blvd  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457510262",
     "name": "Ratchet Guys Signs LLC",
     "description": "Signs-Maintenance & Repair",
     "phone": "(407) 285-3223",
-    "address": "street: 786 Keeneland Pike location: Lake Mary, FL 32746"
+    "address": " 786 Keeneland Pike  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "564767031",
     "name": "Here To Help Marketing",
     "description": "Marketing Consultants",
     "phone": "(407) 391-5422",
-    "address": "street: 255 Primera Blvd Suite 160 location: Lake Mary, FL 32746"
+    "address": " 255 Primera Blvd Suite 160  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533114664",
     "name": "Wide Fusion",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 536-0142",
-    "address": "street: 255 Primera Blvd Ste 160 location: Lake Mary, FL 32746"
+    "address": " 255 Primera Blvd Ste 160  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467929876",
     "name": "Advertising Networks of Florida",
     "description": "Advertising-Shoppers Publications",
     "phone": "(866) 742-1373",
-    "address": "street: 610 Crescent Executive Ct Ste 112 location: Lake Mary, FL 32746"
+    "address": " 610 Crescent Executive Ct Ste 112  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "501372889",
-    "name": "Intersect Media Solutions",
-    "description": "Advertising Specialties",
-    "phone": "(321) 283-5255",
-    "address": "street: 610 Crescent Executive Ct Ste 112 location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "540683038",
     "name": "Blue Skies Advertising Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 687-2961",
-    "address": "street: 204 Teakwood Ct location: Lake Mary, FL 32746"
+    "address": " 204 Teakwood Ct  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533042077",
     "name": "Design Studio Vega",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 578-9277",
-    "address": "street: 1275 Glencrest Dr location: Lake MAry, FL 32746"
+    "address": " 1275 Glencrest Dr  Lake MAry, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "502813034",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(407) 804-1818",
-    "address": "street: 1210 S International Pkwy location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "454891042",
-    "name": "Wgm Signs",
-    "description": "Signs",
-    "phone": "(407) 549-3988",
-    "address": "street: 108 Commerce St Ste 103 location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "510695051",
     "name": "Bbjcloud.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 574-6986",
-    "address": "street: 111 Commerce St location: Lake Mary, FL 32746"
+    "address": " 111 Commerce St  Lake Mary, FL 32746",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "532702464",
     "name": "Rider Now Magazine",
     "description": "Advertising Specialties",
     "phone": "(352) 598-6222",
-    "address": "street: 324 Old Mill Rd location: Deltona, FL 32725"
+    "address": " 324 Old Mill Rd  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "14722689",
     "name": "Fausnight Signs",
     "description": "Signs",
     "phone": "(407) 331-4422",
-    "address": "street: 869 Waterway Pl location: Longwood, FL 32750"
+    "address": " 869 Waterway Pl  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "546075337",
     "name": "Electronic Sign Systems",
     "description": "Signs",
     "phone": "(321) 231-2015",
-    "address": "street: 845 Waterway Pl location: Longwood, FL 32750"
+    "address": " 845 Waterway Pl  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464280150",
     "name": "Advantage Signs & Advertising",
     "description": "Signs",
     "phone": "(407) 339-7446",
-    "address": "street: 1983 Corporate Sq location: Longwood, FL 32750"
+    "address": " 1983 Corporate Sq  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "561701521",
-    "name": "Signage Plus",
-    "description": "Signs",
-    "phone": "(321) 972-6672",
-    "address": "street: 1987 Corporate Sq location: Longwood, FL 32750"
-  },
-  {
-    "dataYpid": "3116944",
     "name": "Marselle Sign and Graphics",
     "description": "Signs",
     "phone": "(407) 327-7878",
-    "address": "street: 110 State Road 419 location: Winter Springs, FL 32708"
+    "address": " 110 State Road 419  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "531044654",
     "name": "SEO Marketing Engine",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 282-2306",
-    "address": "street: 2290 N Ronald Reagan Blvd Ste 120 location: Longwood, FL 32750"
+    "address": " 2290 N Ronald Reagan Blvd Ste 120  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571104798",
     "name": "Orlando Laser Shop",
     "description": "Advertising Specialties",
     "phone": "(407) 960-5989",
-    "address": "street: 2290 N Ronald Reagan Blvd location: Longwood, FL 32750"
+    "address": " 2290 N Ronald Reagan Blvd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "500687865",
     "name": "JJC Marketing Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(321) 765-7710",
-    "address": "street: 639 Marni Dr location: Winter Springs, FL 32708"
+    "address": " 639 Marni Dr  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "466300873",
     "name": "Technigrafix Signs",
     "description": "Decals",
     "phone": "(407) 257-6502",
-    "address": "street: 783 E Fairbairn Dr location: Deltona, FL 32725"
+    "address": " 783 E Fairbairn Dr  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472828193",
-    "name": "ALLENFRANCE&Assoc.com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(386) 668-0440",
-    "address": "street: N/A location: Debary, FL 32713"
-  },
-  {
-    "dataYpid": "2884166",
     "name": "Action Printers Of DeBary",
     "description": "Printers-Equipment & Supplies",
     "phone": "(386) 668-0404",
-    "address": "street: 41 S Charles Richard Beall Blvd location: Debary, FL 32713"
+    "address": " 41 S Charles Richard Beall Blvd  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8381379",
     "name": "Wholesale Sign Builders Inc",
     "description": "Signs",
     "phone": "(407) 831-3344",
-    "address": "street: 490 Bay Meadow Rd location: Longwood, FL 32750"
+    "address": " 490 Bay Meadow Rd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559229590",
     "name": "Gotcha Graphics Inc",
     "description": "Signs",
     "phone": "(407) 839-8800",
-    "address": "street: 1636 N Ronald Reagan Blvd location: Longwood, FL 32750"
+    "address": " 1636 N Ronald Reagan Blvd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "564773891",
     "name": "Sir Speedy",
     "description": "Printing Services-Commercial",
     "phone": "(407) 260-1199",
-    "address": "street: 131 Applewood Dr Ste 140 location: Longwood, FL 32750"
+    "address": " 131 Applewood Dr Ste 140  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9054583",
     "name": "The Sign King Inc",
     "description": "Signs",
     "phone": "(407) 830-7443",
-    "address": "street: 726 N Us Highway 17 92 location: Longwood, FL 32750"
+    "address": " 726 N Us Highway 17 92  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "492899946",
     "name": "Greyson Corp",
     "description": "Signs",
     "phone": "(407) 830-9433",
-    "address": "street: 726 N Us Highway 17 92 location: Longwood, FL 32750"
+    "address": " 726 N Us Highway 17 92  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "535053441",
-    "name": "Onsight Inc",
-    "description": "Signs",
-    "phone": "(407) 260-0557",
-    "address": "street: 723 Commerce Cir location: Longwood, FL 32750"
-  },
-  {
-    "dataYpid": "455989749",
     "name": "Kw Signs & Graphics",
     "description": "Signs",
     "phone": "(407) 332-6528",
-    "address": "street: 710 Commerce Cir location: Longwood, FL 32750"
+    "address": " 710 Commerce Cir  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "452151228",
     "name": "Harmony Business Services",
     "description": "Business Cards",
     "phone": "(407) 967-6738",
-    "address": "street: 314 Kirkcaldy Dr location: Winter Springs, FL 32708"
+    "address": " 314 Kirkcaldy Dr  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451079935",
     "name": "Advision Signs",
     "description": "Signs",
     "phone": "(407) 339-7446",
-    "address": "street: 232 Michael Dr location: Longwood, FL 32779"
+    "address": " 232 Michael Dr  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "538334519",
-    "name": "Fast Lane Promotions",
-    "description": "Direct Mail Advertising",
-    "phone": "(407) 328-7653",
-    "address": "street: 1828 Bridgewater Dr location: Lake Mary, FL 32746"
-  },
-  {
-    "dataYpid": "533209835",
     "name": "Decal Accents",
     "description": "Signs",
     "phone": "(407) 451-0287",
-    "address": "street: 1743 Rutledge Rd location: Longwood, FL 32779"
+    "address": " 1743 Rutledge Rd  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465211011",
     "name": "BizCard Xpress",
     "description": "Business Cards",
     "phone": "(386) 218-5940",
-    "address": "street: 1209 Saxon Blvd location: Orange City, FL 32763"
+    "address": " 1209 Saxon Blvd  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "527777967",
     "name": "AGIL Enterprises",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 233-5083",
-    "address": "street: 745 W State Road 434 location: Longwood, FL 32750"
+    "address": " 745 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "10291132",
     "name": "Ezyield.Com Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 629-0900",
-    "address": "street: 209 N Moss Rd location: Winter Springs, FL 32708"
+    "address": " 209 N Moss Rd  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3846964",
     "name": "Innovative Signs Inc",
     "description": "Signs",
     "phone": "(407) 830-5155",
-    "address": "street: 130 Bomar Ct location: Longwood, FL 32750"
+    "address": " 130 Bomar Ct  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "544225162",
-    "name": "Wide Fusion",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(386) 259-9645",
-    "address": "street: 1200 Deltona Blvd location: Deltona, FL 32725"
-  },
-  {
-    "dataYpid": "481492258",
     "name": "Am",
     "description": "Advertising Specialties",
     "phone": "(386) 574-9132",
-    "address": "street: 1357 coronet dr location: deltona, FL 32725"
+    "address": " 1357 coronet dr  deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "515710475",
     "name": "Cutting Edge Signs and Visuals",
     "description": "Signs",
     "phone": "(407) 541-0800",
-    "address": "street: 1055 Nursery Rd Unit 105 location: Winter Springs, FL 32708"
+    "address": " 1055 Nursery Rd Unit 105  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9434434",
     "name": "Tuten Graphics",
     "description": "Signs",
     "phone": "(407) 830-8817",
-    "address": "street: 1051 Vista Rd location: Longwood, FL 32750"
+    "address": " 1051 Vista Rd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "506285380",
     "name": "Do It Right Entertainment",
     "description": "Disc Jockeys",
     "phone": "(386) 320-3872",
-    "address": "street: 144 Ancona ave location: Debary, FL 32713"
+    "address": " 144 Ancona ave  Debary, FL 32713",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "473148262",
     "name": "Big Cypress Golf Club",
     "description": "Signs",
     "phone": "(407) 695-4830",
-    "address": "street: 900 W State Road 434 location: Winter Springs, FL 32708"
+    "address": " 900 W State Road 434  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549776311",
-    "name": "Clarity Creative Group",
-    "description": "Web Site Design & Services",
-    "phone": "(407) 233-4464",
-    "address": "street: 925 W State Road 434 Ste 102 location: Winter Springs, FL 32708"
-  },
-  {
-    "dataYpid": "8055426",
     "name": "Community Fare",
     "description": "Direct Mail Advertising",
     "phone": "(407) 332-5373",
-    "address": "street: 898 E Church Ave location: Longwood, FL 32750"
+    "address": " 898 E Church Ave  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "552093013",
     "name": "Your Brand Designs",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 749-2167",
-    "address": "street: 237 N Us Highway 17 92 location: Longwood, FL 32750"
+    "address": " 237 N Us Highway 17 92  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "18687002",
     "name": "Iguana Signs",
     "description": "Signs",
     "phone": "(386) 574-1211",
-    "address": "street: 954 Saxon Blvd location: Deltona, FL 32725"
+    "address": " 954 Saxon Blvd  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9667208",
     "name": "Seminole Work Opportunity Program",
     "description": "Mail & Shipping Services",
     "phone": "(407) 699-4419",
-    "address": "street: 1095 Belle Ave location: Winter Springs, FL 32708"
+    "address": " 1095 Belle Ave  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548530067",
     "name": "Affordable Signs",
     "description": "Signs",
     "phone": "(407) 299-1288",
-    "address": "street: 870 E State Road 434 location: Longwood, FL 32750"
+    "address": " 870 E State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457378099",
     "name": "Orlando Sentinel Advertising",
     "description": "Advertising Specialties",
     "phone": "(386) 851-7900",
-    "address": "street: 2730 Enterprise Rd location: Orange City, FL 32763"
+    "address": " 2730 Enterprise Rd  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467537478",
     "name": "Twi Services Inc",
     "description": "Printing Services",
     "phone": "(407) 260-0565",
-    "address": "street: 460 N Ronald Reagan Blvd Ste 142 location: Longwood, FL 32750"
+    "address": " 460 N Ronald Reagan Blvd Ste 142  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467915382",
     "name": "Affordable Discount Signs Inc",
     "description": "Signs",
     "phone": "(407) 463-9334",
-    "address": "street: PO Box 520652 location: Longwood, FL 32752"
+    "address": " PO Box 520652  Longwood, FL 32752",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467377522",
     "name": "The Pennysaver",
     "description": "Direct Mail Advertising",
     "phone": "(386) 736-3587",
-    "address": "street: 1109 Saxon Blvd location: Orange City, FL 32763"
+    "address": " 1109 Saxon Blvd  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "526608478",
     "name": "The Redwood Agency, LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 476-6136",
-    "address": "street: 100 Sandy Oaks PL location: Longwood, FL 32779"
+    "address": " 100 Sandy Oaks PL  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "456509670",
     "name": "Gameday Graphix",
     "description": "Signs",
     "phone": "(407) 831-7446",
-    "address": "street: 185 S Ronald Reagan Blvd location: Longwood, FL 32750"
+    "address": " 185 S Ronald Reagan Blvd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472621830",
     "name": "Barden Circulation",
     "description": "Advertising Specialties",
     "phone": "(321) 972-9974",
-    "address": "street: 250 S Ronald Reagan Blvd Ste 118 location: Longwood, FL 32750"
+    "address": " 250 S Ronald Reagan Blvd Ste 118  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15005699",
     "name": "Letra-Tek Inc",
     "description": "Signs",
     "phone": "(407) 331-3386",
-    "address": "street: 278 Park Ave location: Longwood, FL 32750"
+    "address": " 278 Park Ave  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571694133",
     "name": "Ace Custom Signs Winter Park",
     "description": "Signs",
     "phone": "(321) 295-7453",
-    "address": "street: 466 W State Road 434 location: Longwood, FL 32750"
+    "address": " 466 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "521797279",
     "name": "ABX SIGNS",
     "description": "Digital Printing & Imaging",
     "phone": "(407) 960-2510",
-    "address": "street: 745 W State Road 434 Ste K location: Longwood, FL 32750"
+    "address": " 745 W State Road 434 Ste K  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22784548",
     "name": "1 Stop Print Shop",
     "description": "Clothing Stores",
     "phone": "(407) 331-3211",
-    "address": "street: 530 S Ronald Reagan Blvd location: Longwood, FL 32750"
+    "address": " 530 S Ronald Reagan Blvd  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "14642471",
     "name": "Gallagher Promotional Products",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 788-0818",
-    "address": "street: 655 Florida Central Pkwy location: Longwood, FL 32750"
+    "address": " 655 Florida Central Pkwy  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "6609354",
     "name": "Gallagher Promotional PRO",
     "description": "Advertising Specialties",
     "phone": "(407) 332-6826",
-    "address": "street: 659 Florida Central Pkwy location: Longwood, FL 32750"
+    "address": " 659 Florida Central Pkwy  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "466394668",
     "name": "DG Productions",
     "description": "Advertising Specialties",
     "phone": "(407) 331-1066",
-    "address": "street: 160 Hope St location: Longwood, FL 32750"
+    "address": " 160 Hope St  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2824279",
     "name": "Rogers Signs",
     "description": "Signs",
     "phone": "(407) 331-1038",
-    "address": "street: 230 W Marvin Ave Ste 100 location: Longwood, FL 32750"
+    "address": " 230 W Marvin Ave Ste 100  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "16937901",
     "name": "Acculetters",
     "description": "Signs",
     "phone": "(407) 660-2228",
-    "address": "street: 722 Savage Ct location: Longwood, FL 32750"
+    "address": " 722 Savage Ct  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "560843121",
     "name": "Signs Xpress",
     "description": "Advertising Specialties",
     "phone": "(407) 767-6355",
-    "address": "street: 1018 W State Road 434 location: Longwood, FL 32750"
+    "address": " 1018 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "461786619",
     "name": "Advance Signs & Printing LLC",
     "description": "Print Advertising",
     "phone": "(407) 442-3033",
-    "address": "street: 1155 W State Road 434 Ste 159 location: Longwood, FL 32750"
+    "address": " 1155 W State Road 434 Ste 159  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "211776",
     "name": "Signature Data 1",
     "description": "Direct Mail Advertising",
     "phone": "(321) 696-1152",
-    "address": "street: 412 Courtney Springs Cir location: Winter Springs, FL 32708"
+    "address": " 412 Courtney Springs Cir  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465540473",
     "name": "Summit Marketing - Timeshare Rental & Sales",
     "description": "Internet Marketing & Advertising",
     "phone": "(855) 602-7991",
-    "address": "street: 416 Commerce Way Ste 140 location: Longwood, FL 32750"
+    "address": " 416 Commerce Way Ste 140  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "13115942",
     "name": "Creative Sign Designs",
     "description": "Signs",
     "phone": "(800) 804-4809",
-    "address": "street: 285 National Pl location: Longwood, FL 32750"
+    "address": " 285 National Pl  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2862861",
     "name": "Horizon Signs",
     "description": "Signs",
     "phone": "(407) 341-8118",
-    "address": "street: 208 Williams Rd location: Winter Springs, FL 32708"
+    "address": " 208 Williams Rd  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "510681703",
     "name": "Match-Up Promotions",
     "description": "Advertising-Promotional Products",
     "phone": "(800) 815-3093",
-    "address": "street: 975 Florida Central Pkwy Ste 1900 location: Longwood, FL 32750"
+    "address": " 975 Florida Central Pkwy Ste 1900  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465082781",
     "name": "Signs-O-Sourus",
     "description": "Signs",
     "phone": "(407) 677-8965",
-    "address": "street: 3008 S US Highway 17/92 location: Casselberry, FL 32707"
+    "address": " 3008 S US Highway 17/92  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550029275",
     "name": "Sign-o-saurus, Inc",
     "description": "Signs",
     "phone": "(407) 413-2033",
-    "address": "street: 3008 S Us Highway 17/92 location: Casselberry, FL 32707"
+    "address": " 3008 S Us Highway 17/92  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "481091259",
     "name": "Empower Network",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 620-5585",
-    "address": "street: Po Box 390874 location: Deltona, FL 32739"
+    "address": " Po Box 390874  Deltona, FL 32739",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "563183527",
     "name": "Florida Sign Source",
     "description": "Signs",
     "phone": "(407) 316-9992",
-    "address": "street: 1355 Bennett Dr location: Longwood, FL 32750"
+    "address": " 1355 Bennett Dr  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "550196280",
-    "name": "Signarama",
-    "description": "Signs",
-    "phone": "(407) 696-8667",
-    "address": "street: 1510 Lake Dr location: Casselberry, FL 32707"
-  },
-  {
-    "dataYpid": "531308942",
     "name": "Andytolbert.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 328-0970",
-    "address": "street: 1499 W State Road 434 location: Longwood, FL 32750"
+    "address": " 1499 W State Road 434  Longwood, FL 32750",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457308491",
     "name": "Safety ER",
     "description": "Safety Equipment & Clothing",
     "phone": "(407) 339-8600",
-    "address": "street: 1320 E Altamonte Dr location: Altamonte Springs, FL 32701"
+    "address": " 1320 E Altamonte Dr  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "483635928",
-    "name": "W G M Signs",
-    "description": "Signs",
-    "phone": "(321) 444-6511",
-    "address": "street: 974 Explorer Cv Ste 144 location: Altamonte Springs, FL 32701"
-  },
-  {
-    "dataYpid": "475023534",
     "name": "Direct Sales Marketing of Florida, Inc.",
     "description": "Direct Mail Advertising",
     "phone": "(386) 228-0458",
-    "address": "street: 1477 S Leavitt Ave location: Orange City, FL 32763"
+    "address": " 1477 S Leavitt Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "21695767",
     "name": "Babcock Business Systems",
     "description": "Copy Machines Service & Repair",
     "phone": "(386) 775-7516",
-    "address": "street: 105 Cedar Ave location: Orange City, FL 32763"
+    "address": " 105 Cedar Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "17965777",
     "name": "Community Values Coupon Magazine",
     "description": "Direct Mail Advertising",
     "phone": "(407) 695-5813",
-    "address": "street: 4905 Petra Ct location: Winter Springs, FL 32708"
+    "address": " 4905 Petra Ct  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "469091516",
     "name": "Slick Signs",
     "description": "Signs",
     "phone": "(407) 331-4334",
-    "address": "street: 331 Oleander Way location: Casselberry, FL 32707"
+    "address": " 331 Oleander Way  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482007881",
     "name": "Stellar Sign & Design",
     "description": "Signs",
     "phone": "(407) 660-3174",
-    "address": "street: 331 Oleander Way location: Casselberry, FL 32707"
+    "address": " 331 Oleander Way  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "481257595",
     "name": "Lighthouse Mailing Service Inc",
     "description": "Mail & Shipping Services",
     "phone": "(386) 456-0369",
-    "address": "street: 726 N Firwood Dr location: Deltona, FL 32725"
+    "address": " 726 N Firwood Dr  Deltona, FL 32725",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "8383171",
     "name": "Platinum Signs And Design",
     "description": "Signs",
     "phone": "(407) 971-3640",
-    "address": "street: 352 W Melody Ln location: Casselberry, FL 32707"
+    "address": " 352 W Melody Ln  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28727958",
     "name": "Ips International Products SRCNG",
     "description": "Advertising Specialties",
     "phone": "(407) 365-8083",
-    "address": "street: 354 Terrace Dr location: Oviedo, FL 32765"
+    "address": " 354 Terrace Dr  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533063491",
     "name": "Florida Transcor, Inc.",
     "description": "Traffic Signs & Signals",
     "phone": "(321) 304-2447",
-    "address": "street: 325 Commercial St location: Casselberry, FL 32707"
+    "address": " 325 Commercial St  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504808114",
     "name": "Signal Out Door Advertising",
     "description": "Advertising Specialties",
     "phone": "(407) 856-7079",
-    "address": "street: 101 Sunnytown Rd Ste 312 location: Casselberry, FL 32707"
+    "address": " 101 Sunnytown Rd Ste 312  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464293445",
     "name": "Pin Depot",
     "description": "Advertising Specialties",
     "phone": "(800) 803-2879",
-    "address": "street: 2200 Winter Springs Blvd Ste 106-322 location: Oviedo, FL 32765"
+    "address": " 2200 Winter Springs Blvd Ste 106-322  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "531030217",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 542-1234",
-    "address": "street: 2200 Winter Springs Blvd Ste 118 location: Oviedo, FL 32765"
-  },
-  {
-    "dataYpid": "3390356",
     "name": "American Sign & Printing",
     "description": "Signs",
     "phone": "(407) 260-0034",
-    "address": "street: 5580 S Us Highway 17/92 location: Casselberry, FL 32707"
+    "address": " 5580 S Us Highway 17/92  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "574927408",
     "name": "Sowers Web Technologies",
     "description": "Web Site Design & Services",
     "phone": "(407) 900-5069",
-    "address": "street: 450 Ridgewood St location: Altamonte Springs, FL 32701"
+    "address": " 450 Ridgewood St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "535470089",
     "name": "Webstuff LLC",
     "description": "Web Site Design & Services",
     "phone": "(716) 759-4636",
-    "address": "street: 519 Sabal Trail Cir location: Longwood, FL 32779"
+    "address": " 519 Sabal Trail Cir  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "10622146",
     "name": "Futura Design Inc",
     "description": "Signs",
     "phone": "(407) 699-3031",
-    "address": "street: 327 Goosecreek Dr location: Winter Springs, FL 32708"
+    "address": " 327 Goosecreek Dr  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "507235845",
     "name": "Three Sixteen Digital Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 490-4106",
-    "address": "street: 301 Cypress Landing Dr location: Longwood, FL 32779"
+    "address": " 301 Cypress Landing Dr  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "573276957",
     "name": "Great Impressions Signs & Printing",
     "description": "Signs",
     "phone": "(407) 647-5151",
-    "address": "street: 205 Valencia Landing Dr location: Orange City, FL 32763"
+    "address": " 205 Valencia Landing Dr  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "475757113",
     "name": "community business directory inc",
     "description": "Advertising Specialties",
     "phone": "(407) 439-4495",
-    "address": "street: 344 Ringwood Cir location: winter springs, FL 32708"
+    "address": " 344 Ringwood Cir  winter springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "534915410",
     "name": "Thehomethatyouwant.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 314-8919",
-    "address": "street: 1150 Douglas Ave location: Altamonte Springs, FL 32714"
+    "address": " 1150 Douglas Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "588075",
     "name": "C & S Signs",
     "description": "Signs-Maintenance & Repair",
     "phone": "(407) 331-5299",
-    "address": "street: 970 Shallowford St location: Altamonte Springs, FL 32701"
+    "address": " 970 Shallowford St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "507502666",
     "name": "Zoomania1",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 451-2880",
-    "address": "street: 433 E Highland St location: Altamonte Springs, FL 32701"
+    "address": " 433 E Highland St  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "663287",
     "name": "7 Media One Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 682-0000",
-    "address": "street: 1180 Spring Centre South Blvd location: Altamonte Springs, FL 32714"
+    "address": " 1180 Spring Centre South Blvd  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "506005412",
     "name": "Imagine Signs and Graphics",
     "description": "Graphic Designers",
     "phone": "(407) 205-7544",
-    "address": "street: 1140 E Altamonte Dr Unit 150353 location: Altamonte Springs, FL 32715"
+    "address": " 1140 E Altamonte Dr Unit 150353  Altamonte Springs, FL 32715",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "441642",
     "name": "United Trophy",
     "description": "Trophies, Plaques & Medals",
     "phone": "(407) 834-9812",
-    "address": "street: 345 State Road 436 location: Fern Park, FL 32730"
+    "address": " 345 State Road 436  Fern Park, FL 32730",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548464029",
     "name": "Xtract Design",
     "description": "Computer Graphics",
     "phone": "(407) 718-8030",
-    "address": "street: 1205 La Mesa Ave location: Winter Springs, FL 32708"
+    "address": " 1205 La Mesa Ave  Winter Springs, FL 32708",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "11722464",
     "name": "Lighthouse Mailing Services Inc",
     "description": "Mail & Shipping Services",
     "phone": "(386) 456-0369",
-    "address": "street: 200 E Graves Ave location: Orange City, FL 32763"
+    "address": " 200 E Graves Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "538963527",
     "name": "Visual",
     "description": "Signs",
     "phone": "(407) 278-3600",
-    "address": "street: 451 Aulin Ave Ste B location: Oviedo, FL 32765"
+    "address": " 451 Aulin Ave Ste B  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "454939570",
     "name": "The Sign Man",
     "description": "Signs",
     "phone": "(407) 365-3722",
-    "address": "street: 160 E Broadway St location: Oviedo, FL 32765"
+    "address": " 160 E Broadway St  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "526187005",
     "name": "Drmohasaoji.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 432-1056",
-    "address": "street: 290 Hibiscus Rd location: Casselberry, FL 32707"
+    "address": " 290 Hibiscus Rd  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "15183981",
-    "name": "Gillman Advertising Specialties",
-    "description": "Advertising Specialties",
-    "phone": "(407) 331-5111",
-    "address": "street: 498 Palm Springs Dr Ste 350 location: Altamonte Springs, FL 32701"
-  },
-  {
-    "dataYpid": "6186819",
     "name": "Sales & Marketing Technologies",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 682-2222",
-    "address": "street: 920 Wekiva Springs Rd # 916130 location: Longwood, FL 32791"
+    "address": " 920 Wekiva Springs Rd # 916130  Longwood, FL 32791",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "502955808",
     "name": "Signworks Graphik & Design Inc",
     "description": "Signs",
     "phone": "(407) 359-7100",
-    "address": "street: 550 Kane Ct Ste 200 location: Oviedo, FL 32765"
+    "address": " 550 Kane Ct Ste 200  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "460299762",
     "name": "A M Pro Lighting & Signs Inc",
     "description": "Signs",
     "phone": "(407) 706-0312",
-    "address": "street: 1115 Vidina Pl location: Oviedo, FL 32765"
+    "address": " 1115 Vidina Pl  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472991207",
     "name": "Imageworks",
     "description": "Signs",
     "phone": "(386) 775-0165",
-    "address": "street: 306 N Volusia Ave location: Orange City, FL 32763"
+    "address": " 306 N Volusia Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "502812433",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(407) 695-2496",
-    "address": "street: 5264 Red Bug Lake Rd Ste 7 location: Winter Springs, FL 32708"
-  },
-  {
-    "dataYpid": "524782491",
     "name": "Maplestreetinc.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 214-1776",
-    "address": "street: 280 Wekiva Springs Rd location: Longwood, FL 32779"
+    "address": " 280 Wekiva Springs Rd  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "514595441",
     "name": "Copy Cat Copy Centers",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 218-6878",
-    "address": "street: 475 N Volusia Ave location: Orange City, FL 32763"
+    "address": " 475 N Volusia Ave  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549373396",
     "name": "Adsrate Marketing Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 960-5953",
-    "address": "street: 1070 Montgomery Rd #2021 location: Altamonte Springs, FL 32714"
+    "address": " 1070 Montgomery Rd #2021  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "573377946",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 831-6334",
-    "address": "street: 885 State Road 436 location: Casselberry, FL 32707"
-  },
-  {
-    "dataYpid": "465675446",
     "name": "Total Image Signs & Graphics, Inc.",
     "description": "Signs",
     "phone": "(407) 688-4321",
-    "address": "street: 1400 San Carlos Ave location: Deltona, FL 32738"
+    "address": " 1400 San Carlos Ave  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464385111",
     "name": "Big C's Signs",
     "description": "Signs",
     "phone": "(407) 497-8981",
-    "address": "street: 815 Eyrie Dr location: Oviedo, FL 32765"
+    "address": " 815 Eyrie Dr  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "462372704",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 537-6593",
-    "address": "street: 915 State Road 436 location: Casselberry, FL 32707"
-  },
-  {
-    "dataYpid": "10764746",
     "name": "Content and Concepts",
     "description": "Internet Marketing & Advertising",
     "phone": "(954) 471-8432",
-    "address": "street: 6 Winding Ridge Rd location: Casselberry, FL 32707"
+    "address": " 6 Winding Ridge Rd  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2224216",
-    "name": "Yuppify",
-    "description": "Web Site Hosting",
-    "phone": "(407) 761-6952",
-    "address": "street: 814 Agnes Dr location: Altamonte Springs, FL 32701"
-  },
-  {
-    "dataYpid": "460668789",
     "name": "Premier Sign Design",
     "description": "Advertising Specialties",
     "phone": "(321) 295-7865",
-    "address": "street: 658 Douglas Ave location: Altamonte Springs, FL 32714"
+    "address": " 658 Douglas Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571654110",
     "name": "CDO Global",
     "description": "Advertising Specialties",
     "phone": "(321) 444-6865",
-    "address": "street: 282 Wilshire Blvd location: Casselberry, FL 32707"
+    "address": " 282 Wilshire Blvd  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "522962333",
     "name": "Hit Or Click Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 326-8188",
-    "address": "street: 3190 Howard Ave location: Oviedo, FL 32765"
+    "address": " 3190 Howard Ave  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533754418",
     "name": "Nationwide Small Business Resources",
     "description": "Web Site Design & Services",
     "phone": "(386) 516-3550",
-    "address": "street: 2048 Howland Blvd location: Deltona, FL 32738"
+    "address": " 2048 Howland Blvd  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "524609206",
     "name": "Rolcc.net",
     "description": "Internet Marketing & Advertising",
     "phone": "(408) 260-0257",
-    "address": "street: 1498 Palomino Way location: Oviedo, FL 32765"
+    "address": " 1498 Palomino Way  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "4571504",
     "name": "Memory Lanes",
     "description": "Advertising Specialties",
     "phone": "(407) 339-7771",
-    "address": "street: Alt Spg location: Altamonte Springs, FL 32701"
+    "address": " Alt Spg  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504943611",
     "name": "The Razzi Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 636-0069",
-    "address": "street: 203 Briar Cliff Dr location: Longwood, FL 32779"
+    "address": " 203 Briar Cliff Dr  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "495229926",
     "name": "Treefrog Cinegraphix",
     "description": "Signs",
     "phone": "(407) 637-2079",
-    "address": "street: 478 E Altamonte Dr Ste 108 PMB 150 location: Altamonte Springs, FL 32701"
+    "address": " 478 E Altamonte Dr Ste 108 PMB 150  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "534804881",
     "name": "Allegra Marketing Print Mail",
     "description": "Direct Mail Advertising",
     "phone": "(407) 869-9955",
-    "address": "street: 620 Douglas Ave Ste 1308 location: Altamonte Springs, FL 32714"
+    "address": " 620 Douglas Ave Ste 1308  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "5011045",
     "name": "Best of Orlando",
     "description": "Direct Mail Advertising",
     "phone": "(407) 571-2980",
-    "address": "street: 260 Maitland Ave location: Altamonte Springs, FL 32701"
+    "address": " 260 Maitland Ave  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505422685",
     "name": "Jigwiz Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 961-8330",
-    "address": "street: 260 Maitland Ave Ste 2500 location: Altamonte Springs, FL 32701"
+    "address": " 260 Maitland Ave Ste 2500  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "7605225",
-    "name": "C & S Signs",
-    "description": "Signs",
-    "phone": "(407) 331-5548",
-    "address": "street: 401 Centerpointe Cir location: Altamonte Springs, FL 32701"
-  },
-  {
-    "dataYpid": "524867831",
     "name": "KOBALT MEDIA",
     "description": "Internet Directories",
     "phone": "(407) 579-5095",
-    "address": "street: 285 Uptown Blvd location: Altamonte Springs, FL 32701"
+    "address": " 285 Uptown Blvd  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505356686",
     "name": "Signman Sez Inc",
     "description": "Computer Graphics",
     "phone": "(407) 620-9368",
-    "address": "street: 8351 S Us Highway 17/92 location: Fern Park, FL 32730"
+    "address": " 8351 S Us Highway 17/92  Fern Park, FL 32730",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "2205976",
     "name": "Stockton Turner & Moreau",
     "description": "Signs",
     "phone": "(407) 389-0870",
-    "address": "street: 375 Douglas Ave location: Altamonte Springs, FL 32714"
+    "address": " 375 Douglas Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "473339739",
     "name": "Richard Holland/southern Distr",
     "description": "Advertising Specialties",
     "phone": "(407) 331-9667",
-    "address": "street: 2318 Castlewood Rd location: Maitland, FL 32751"
+    "address": " 2318 Castlewood Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "455725159",
     "name": "Web Resource Management",
     "description": "Web Site Design & Services",
     "phone": "(407) 389-4300",
-    "address": "street: 2957 W State Road 434 Ste 100 location: Longwood, FL 32779"
+    "address": " 2957 W State Road 434 Ste 100  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533694726",
     "name": "Orlando Sign Guy",
     "description": "Signs",
     "phone": "(407) 620-4189",
-    "address": "street: 130 Obrien Rd location: Fern Park, FL 32730"
+    "address": " 130 Obrien Rd  Fern Park, FL 32730",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "453167901",
     "name": "Sunny Signs",
     "description": "Signs",
     "phone": "(407) 831-2888",
-    "address": "street: 2345 Markingham Rd location: Maitland, FL 32751"
+    "address": " 2345 Markingham Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "549673028",
     "name": "Mobile Designs Inc",
     "description": "T-Shirts",
     "phone": "(386) 327-2159",
-    "address": "street: 1607 S. State Road 15 A Suite 6 location: Deland, FL 32720"
+    "address": " 1607 S. State Road 15 A Suite 6  Deland, FL 32720",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "9027857",
     "name": "Crown Trophy",
     "description": "Awards",
     "phone": "(407) 786-0430",
-    "address": "street: 851 W State Road 436 location: Altamonte Springs, FL 32714"
+    "address": " 851 W State Road 436  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "454917533",
     "name": "Madcat Marketing and Consultants",
     "description": "Embroidery",
     "phone": "(407) 695-4600",
-    "address": "street: 1800 Pembrook Dr location: Orlando, FL 32810"
+    "address": " 1800 Pembrook Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465174240",
     "name": "groovydude creations LLC",
     "description": "Buttons-Advertising",
     "phone": "(407) 312-7877",
-    "address": "street: PO Box 560715 location: Orlando, FL 32856"
+    "address": " PO Box 560715  Orlando, FL 32856",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "461902122",
     "name": "Flagnations",
     "description": "Signs",
     "phone": "(407) 349-5990",
-    "address": "street: PO Box 1453 location: Geneva, FL 32732"
+    "address": " PO Box 1453  Geneva, FL 32732",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "28990695",
     "name": "PRO Image Signs and Graph",
     "description": "Signs",
     "phone": "(407) 519-4065",
-    "address": "street: 180 E State Road 46 location: Geneva, FL 32732"
+    "address": " 180 E State Road 46  Geneva, FL 32732",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "482636772",
     "name": "Diversified Signs",
     "description": "Signs",
     "phone": "(407) 760-0484",
-    "address": "street: 381 N Jungle Rd location: Geneva, FL 32732"
+    "address": " 381 N Jungle Rd  Geneva, FL 32732",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3245871",
     "name": "Technosigns",
     "description": "Computer Graphics",
     "phone": "(407) 384-9300",
-    "address": "street: 2781 Wrights Rd Ste 1261 location: Oviedo, FL 32765"
+    "address": " 2781 Wrights Rd Ste 1261  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504994480",
     "name": "Magnet Minds, LLC",
     "description": "Internet Consultants",
     "phone": "(407) 583-6463",
-    "address": "street: 5200 Lazy Oaks Dr location: Winter Park, FL 32792"
+    "address": " 5200 Lazy Oaks Dr  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3741822",
     "name": "Print Station",
     "description": "Printing Services-Commercial",
     "phone": "(407) 682-5899",
-    "address": "street: 491 N. Highway 434 Suite 137 location: Altamonte Springs, FL 32714"
+    "address": " 491 N. Highway 434 Suite 137  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467233753",
     "name": "Yellow Pages of Central Florida",
     "description": "Publishers-Directory & Guide",
     "phone": "(407) 667-4745",
-    "address": "street: 101 Southhall Ln location: Maitland, FL 32751"
+    "address": " 101 Southhall Ln  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "455257108",
     "name": "Jayco Signs",
     "description": "Signs",
     "phone": "(407) 339-5252",
-    "address": "street: 149-151 Atlantic Dr location: Maitland, FL 32751"
+    "address": " 149-151 Atlantic Dr  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "527112392",
-    "name": "Signage Plus",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(407) 668-3567",
-    "address": "street: 484 Abba St location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "569367321",
     "name": "Brands That Last",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 353-0632",
-    "address": "street: 524 Springcreek Dr location: Longwood, FL 32779"
+    "address": " 524 Springcreek Dr  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "530249477",
     "name": "Cannon Virtual Assistants",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 463-0700",
-    "address": "street: 1452 9th ST location: Orange City, FL 32763"
+    "address": " 1452 9th ST  Orange City, FL 32763",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "470403764",
     "name": "Sign and Drive",
     "description": "Advertising Specialties",
     "phone": "(407) 834-5637",
-    "address": "street: 137 Candace Dr location: Maitland, FL 32751"
+    "address": " 137 Candace Dr  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504755701",
     "name": "Rc Addiction Products",
     "description": "Signs",
     "phone": "(407) 960-4165",
-    "address": "street: 110 Candace Dr Unit 4 location: Maitland, FL 32751"
+    "address": " 110 Candace Dr Unit 4  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "512221081",
     "name": "Pro Signs and Graphics",
     "description": "Signs",
     "phone": "(407) 960-4165",
-    "address": "street: 100 Candace Dr Unit 104 location: Maitland, FL 32751"
+    "address": " 100 Candace Dr Unit 104  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "538934863",
     "name": "Ali Rand Websites",
     "description": "Web Site Design & Services",
     "phone": "(786) 294-2633",
-    "address": "street: 410 Augustine Ct location: Oviedo, FL 32765"
+    "address": " 410 Augustine Ct  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "469599939",
     "name": "Tc Commercial Advertising Sales",
     "description": "Advertising Specialties",
     "phone": "(888) 224-4836",
-    "address": "street: 911 N State Road 434 location: Altamonte Springs, FL 32714"
+    "address": " 911 N State Road 434  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "458023057",
     "name": "Great Impressions Signs Printing & Promotional Items",
     "description": "Signs",
     "phone": "(407) 647-5151",
-    "address": "street: 633 Woodland St location: Altamonte Springs, FL 32714"
+    "address": " 633 Woodland St  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "523857409",
     "name": "Orlando SEO Expert | Washeen, FL",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 205-9083",
-    "address": "street: 2441 Lake Vista Ct location: Casselberry, FL 32707"
+    "address": " 2441 Lake Vista Ct  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451673745",
     "name": "Corporate Branding Solutions Inc.",
     "description": "Advertising Specialties",
     "phone": "(407) 682-6184",
-    "address": "street: PO Box 161527 location: Altamonte Springs, FL 32716"
+    "address": " PO Box 161527  Altamonte Springs, FL 32716",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "546081959",
     "name": "Clickable Impact, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 399-9811",
-    "address": "street: 250 Lake Seminary Cir location: Maitland, FL 32751"
+    "address": " 250 Lake Seminary Cir  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "544528297",
     "name": "Pinnacle Services",
     "description": "Signs",
     "phone": "(386) 748-2420",
-    "address": "street: 1645 State Road 472 location: Deland, FL 32724"
+    "address": " 1645 State Road 472  Deland, FL 32724",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459709814",
     "name": "Cuspro, Inc.",
     "description": "Specialty Bags",
     "phone": "(407) 278-8980",
-    "address": "street: PO Box 621239 location: Oviedo, FL 32762"
+    "address": " PO Box 621239  Oviedo, FL 32762",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "467726679",
     "name": "T J M Communications Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 977-5004",
-    "address": "street: 2441 W State Road 426 location: Oviedo, FL 32765"
+    "address": " 2441 W State Road 426  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "183125",
     "name": "Oakley Signs & Graphics Inc",
     "description": "Signs",
     "phone": "(407) 262-8200",
-    "address": "street: 550 Northlake Blvd location: Altamonte Springs, FL 32701"
+    "address": " 550 Northlake Blvd  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "475882182",
     "name": "Marker Infocomm Inc",
     "description": "Direct Mail Advertising",
     "phone": "(407) 754-9000",
-    "address": "street: 550 Northlake Blvd Ste 1004 location: Altamonte Springs, FL 32701"
+    "address": " 550 Northlake Blvd Ste 1004  Altamonte Springs, FL 32701",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "525995376",
     "name": "P3D Creations",
     "description": "Prototypes",
     "phone": "(407) 785-4119",
-    "address": "street: Altamonte Springs FL 32714 location: Altamonte Springs, FL 32714"
+    "address": " Altamonte Springs FL 32714  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "22460471",
     "name": "Bill Blackwelder Signs",
     "description": "Signs",
     "phone": "(321) 972-6147",
-    "address": "street: 540 N State Road 434 location: Altamonte Springs, FL 32714"
+    "address": " 540 N State Road 434  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "4768407",
     "name": "Instant Banners & Signs Inc",
     "description": "Signs",
     "phone": "(407) 869-0662",
-    "address": "street: 540 N State Road 434 location: Altamonte Springs, FL 32714"
+    "address": " 540 N State Road 434  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "565097755",
     "name": "Heritage Financial Service",
     "description": "Advertising Specialties",
     "phone": "(407) 702-6655",
-    "address": "street: 166 Lookout Pl location: Maitland, FL 32751"
+    "address": " 166 Lookout Pl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504770946",
     "name": "RipCurrent Content Marketing Services",
     "description": "Copy Writers",
     "phone": "(321) 312-0161",
-    "address": "street: 414 Majorca Ave location: Altamonte Springs, FL 32714"
+    "address": " 414 Majorca Ave  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457045327",
     "name": "Timeshares By Owner Of Orlando",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 671-9001",
-    "address": "street: 1454 State Road 436 location: Casselberry, FL 32707"
+    "address": " 1454 State Road 436  Casselberry, FL 32707",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "489386872",
     "name": "Www.appsmartinc.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 617-8090",
-    "address": "street: 407 Lake Howell Rd location: Maitland, FL 32751"
+    "address": " 407 Lake Howell Rd  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "551970623",
     "name": "Nostressbuyersforyourhouse.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(386) 855-8740",
-    "address": "street: 3150 Tiburon Ln location: Deltona, FL 32738"
+    "address": " 3150 Tiburon Ln  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "12011132",
     "name": "Stevens Associates",
     "description": "Advertising Specialties",
     "phone": "(407) 774-9991",
-    "address": "street: 400 Beech Tree Ln location: Longwood, FL 32779"
+    "address": " 400 Beech Tree Ln  Longwood, FL 32779",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "472151042",
-    "name": "Great Impressions Signs Printing & Promotional Items",
-    "description": "Signs",
-    "phone": "(407) 647-5151",
-    "address": "street: 5429 Lake Howell Rd location: Winter Park, FL 32792"
-  },
-  {
-    "dataYpid": "481079288",
     "name": "Johnson Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 209-5183",
-    "address": "street: 3095 Tioga Ter location: Deltona, FL 32738"
+    "address": " 3095 Tioga Ter  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "496282524",
     "name": "Sticky Style Designs",
     "description": "Decals",
     "phone": "(386) 320-6423",
-    "address": "street: 2074 Old Train Rd location: Deltona, FL 32738"
+    "address": " 2074 Old Train Rd  Deltona, FL 32738",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "523475857",
     "name": "Ads Pay Pro",
     "description": "Sales Promotion Service",
     "phone": "(407) 718-4487",
-    "address": "street: 1004 Covington St location: Oviedo, FL 32765"
+    "address": " 1004 Covington St  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "502803890",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(407) 682-4440",
-    "address": "street: 150 S State Road 434 Ste 1091 location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "568362120",
     "name": "Signarama Orlando (North), FL",
     "description": "Signs",
     "phone": "(407) 960-4700",
-    "address": "street: 1740 State Road 436 Ste 104 location: Winter Park, FL 32792"
+    "address": " 1740 State Road 436 Ste 104  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3027107",
     "name": "Hendershot Anne",
     "description": "Advertising Specialties",
     "phone": "(407) 884-5665",
-    "address": "street: 1641 Majestic Oak Dr location: Apopka, FL 32712"
+    "address": " 1641 Majestic Oak Dr  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505416686",
     "name": "Sid Paterson Advertising",
     "description": "Advertising Specialties",
     "phone": "(407) 542-6008",
-    "address": "street: 2937 Ashford Park Pl location: Oviedo, FL 32765"
+    "address": " 2937 Ashford Park Pl  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3090842",
     "name": "The Sunshine Group",
     "description": "Advertising Specialties",
     "phone": "(407) 623-3333",
-    "address": "street: 125 S Swoope Ave Ste 101 location: Maitland, FL 32751"
+    "address": " 125 S Swoope Ave Ste 101  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "503906131",
     "name": "LaBeau Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(561) 440-3839",
-    "address": "street: PO Box 947762 location: Maitland, FL 32794"
+    "address": " PO Box 947762  Maitland, FL 32794",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "451989912",
     "name": "4D Interactive Inc",
     "description": "Production Companies-Film, TV, Radio, Etc",
     "phone": "(407) 622-7536",
-    "address": "street: 111 S Maitland Ave location: Maitland, FL 32751"
+    "address": " 111 S Maitland Ave  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "17346373",
     "name": "International Promotional",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 786-4233",
-    "address": "street: 925 Sunshine Ln location: Altamonte Springs, FL 32714"
+    "address": " 925 Sunshine Ln  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "483882796",
     "name": "Anchor Promotional Merchandise",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 831-4233",
-    "address": "street: 925 Sunshine Ln Ste 1040 location: Altamonte Springs, FL 32714"
+    "address": " 925 Sunshine Ln Ste 1040  Altamonte Springs, FL 32714",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "526173200",
     "name": "Innovate Writing",
     "description": "Copy Writers",
     "phone": "(407) 268-1269",
-    "address": "street: PO Box 1702 location: Goldenrod, FL 32733"
+    "address": " PO Box 1702  Goldenrod, FL 32733",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "571462937",
-    "name": "All In One Branding",
-    "description": "Web Site Design & Services",
-    "phone": "(407) 903-6005",
-    "address": "street: 1020 Sunshine Ln location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "22023990",
     "name": "Pro-Image Signs & Graphics Inc",
     "description": "Advertising Specialties",
     "phone": "(407) 657-6866",
-    "address": "street: 7601 Citrus Ave location: Winter Park, FL 32792"
+    "address": " 7601 Citrus Ave  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "11545551",
-    "name": "Signarama",
-    "description": "Signs",
-    "phone": "(407) 678-7704",
-    "address": "street: 2050 State Road 436 location: Winter Park, FL 32792"
-  },
-  {
-    "dataYpid": "536709443",
     "name": "Apartment Postcards, Inc.",
     "description": "Direct Mail Advertising",
     "phone": "(800) 973-3317",
-    "address": "street: 1942 W County Road 419 Ste 1010 location: Chuluota, FL 32766"
+    "address": " 1942 W County Road 419 Ste 1010  Chuluota, FL 32766",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "465232130",
     "name": "X Studios Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 281-1708",
-    "address": "street: 2700 Westhall Ln Ste 225 location: Maitland, FL 32751"
+    "address": " 2700 Westhall Ln Ste 225  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "470576559",
     "name": "Bacon Digital",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 226-8396",
-    "address": "street: 924 Bishop Park Ct location: Winter Park, FL 32792"
+    "address": " 924 Bishop Park Ct  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "7419542",
-    "name": "Fat Free Media",
-    "description": "Advertising Specialties",
-    "phone": "(407) 786-8669",
-    "address": "street: 1162 Brantley Estates Dr location: Altamonte Springs, FL 32714"
-  },
-  {
-    "dataYpid": "2283087",
     "name": "A Fox Promotions",
     "description": "Advertising-Promotional Products",
     "phone": "(407) 539-1969",
-    "address": "street: 1131 Willa Vista Trl location: Maitland, FL 32751"
+    "address": " 1131 Willa Vista Trl  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "544901541",
     "name": "Southern Cross Media LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 356-5350",
-    "address": "street: 903 lake Lily Dr. A 322 location: Maitland, FL 32751"
+    "address": " 903 lake Lily Dr. A 322  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "468680873",
     "name": "ActivEngage, Inc.",
     "description": "Computer Software Publishers & Developers",
     "phone": "(321) 441-7722",
-    "address": "street: 2701 Maitland Center Pkwy location: Maitland, FL 32751"
+    "address": " 2701 Maitland Center Pkwy  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "516670383",
     "name": "All Out Digital Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 267-9463",
-    "address": "street: ********************** location: Winter Park, FL 32792"
+    "address": " **********************  Winter Park, FL 32792",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "534202433",
     "name": "Web Design Deland",
     "description": "Web Site Design & Services",
     "phone": "(386) 690-5581",
-    "address": "street: 2170 Deerfoot Trl location: Deland, FL 32720"
+    "address": " 2170 Deerfoot Trl  Deland, FL 32720",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "462397687",
     "name": "Adelphia Business Solutions",
     "description": "Signs",
     "phone": "(407) 659-9116",
-    "address": "street: 1800 Pembrook Dr location: Orlando, FL 32810"
+    "address": " 1800 Pembrook Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504700793",
     "name": "Plante Marketing",
     "description": "Coupon Advertising",
     "phone": "(386) 456-8225",
-    "address": "street: 667 Jennings Ave location: Lake Helen, FL 32744"
+    "address": " 667 Jennings Ave  Lake Helen, FL 32744",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "561706946",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 774-9933",
-    "address": "street: 3141 E Semoran Blvd location: Apopka, FL 32703"
-  },
-  {
-    "dataYpid": "22672350",
     "name": "Royalty SEO Orlando",
     "description": "Internet Marketing & Advertising",
     "phone": "(954) 290-8285",
-    "address": "street: 3675 Oakdale Cir location: Oviedo, FL 32765"
+    "address": " 3675 Oakdale Cir  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "456282364",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 934-0482",
-    "address": "street: 3030 E Semoran Blvd location: Apopka, FL 32703"
-  },
-  {
-    "dataYpid": "514332882",
     "name": "Quick Advertising, Inc.",
     "description": "Signs",
     "phone": "(407) 774-0003",
-    "address": "street: 3030 E Semoran Blvd Ste 156 location: Apopka, FL 32703"
+    "address": " 3030 E Semoran Blvd Ste 156  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "14542413",
     "name": "Jobing.Com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 367-4039",
-    "address": "street: 2290 Lucien Way location: Maitland, FL 32751"
+    "address": " 2290 Lucien Way  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "573131846",
     "name": "Brwncald.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 661-9500",
-    "address": "street: 2301 Lucien Way location: Maitland, FL 32751"
+    "address": " 2301 Lucien Way  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "7519813",
     "name": "Designage",
     "description": "Signs",
     "phone": "(407) 647-2950",
-    "address": "street: 311 Circle Dr location: Maitland, FL 32751"
+    "address": " 311 Circle Dr  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "13862781",
     "name": "Magic Brush Sign & Design",
     "description": "Advertising Specialties",
     "phone": "(386) 736-1142",
-    "address": "street: 1190 Jackson Ranch Rd location: Deland, FL 32724"
+    "address": " 1190 Jackson Ranch Rd  Deland, FL 32724",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "3163143",
     "name": "Afforfdable Signs Of Central Florida",
     "description": "Signs",
     "phone": "(407) 299-1288",
-    "address": "street: 8601 Forest City Rd location: Orlando, FL 32810"
+    "address": " 8601 Forest City Rd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "545973120",
     "name": "Sydgan",
     "description": "Advertising Specialties",
     "phone": "(407) 644-3151",
-    "address": "street: 120 Gem Lake Dr location: Maitland, FL 32751"
+    "address": " 120 Gem Lake Dr  Maitland, FL 32751",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "575867241",
     "name": "Riza Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 420-0366",
-    "address": "street: 8007 Plunkett Ave location: Orlando, FL 32810"
+    "address": " 8007 Plunkett Ave  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "486422304",
     "name": "Sign of Times",
     "description": "Signs",
     "phone": "(407) 365-6953",
-    "address": "street: 300 Lake Eva Dr location: Chuluota, FL 32766"
+    "address": " 300 Lake Eva Dr  Chuluota, FL 32766",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "548103377",
     "name": "Success Landscape Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 571-9508",
-    "address": "street: 1133 Louisiana Ave Ste 100 location: Winter Park, FL 32789"
+    "address": " 1133 Louisiana Ave Ste 100  Winter Park, FL 32789",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "556418500",
     "name": "Envision Orlando",
     "description": "Signs",
     "phone": "(407) 951-5532",
-    "address": "street: 1150 Solana Ave location: Winter Park, FL 32789"
+    "address": " 1150 Solana Ave  Winter Park, FL 32789",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "459710516",
     "name": "Image Proz",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 547-8005",
-    "address": "street: 1545 Hunters Stand Run location: Oviedo, FL 32765"
+    "address": " 1545 Hunters Stand Run  Oviedo, FL 32765",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "552391932",
     "name": "Tttyrt.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(662) 350-0579",
-    "address": "street: 3655 Lomond Ct location: Apopka, FL 32712"
+    "address": " 3655 Lomond Ct  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "547816224",
     "name": "Capital Sign An D Design",
     "description": "Signs",
     "phone": "(407) 293-2145",
-    "address": "street: 2682 Dr Love Rd location: Orlando, FL 32810"
+    "address": " 2682 Dr Love Rd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "464514818",
     "name": "Guy Wingo Signs",
     "description": "Signs",
     "phone": "(407) 293-2145",
-    "address": "street: 2682 Pemberton Dr location: Apopka, FL 32703"
+    "address": " 2682 Pemberton Dr  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "462423031",
     "name": "Vital Signs Of Orlando Inc",
     "description": "Signs",
     "phone": "(407) 297-0680",
-    "address": "street: 2674 Pemberton Dr location: Apopka, FL 32703"
+    "address": " 2674 Pemberton Dr  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "545930943",
     "name": "Diana's Graphics & Signs Inc",
     "description": "Graphic Designers",
     "phone": "(352) 383-6970",
-    "address": "street: 31601 Colby Pl location: Sorrento, FL 32776"
+    "address": " 31601 Colby Pl  Sorrento, FL 32776",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "481359505",
     "name": "Bro N Mar Inc",
     "description": "Copying & Duplicating Service",
     "phone": "(407) 814-8770",
-    "address": "street: 1631 Rock Springs Rd location: Apopka, FL 32712"
+    "address": " 1631 Rock Springs Rd  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559146148",
     "name": "Signco Architectural Corp",
     "description": "Signs",
     "phone": "(386) 740-8344",
-    "address": "street: 1631 Rock Springs Rd location: Apopka, FL 32712"
+    "address": " 1631 Rock Springs Rd  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "559608750",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(407) 250-9762",
-    "address": "street: 6192 Edgewater Dr location: Orlando, FL 32810"
-  },
-  {
-    "dataYpid": "544397518",
     "name": "The Sign Guys Orlando",
     "description": "Signs",
     "phone": "(407) 776-8256",
-    "address": "street: 6192 Edgewater Dr location: Orlando, FL 32810"
+    "address": " 6192 Edgewater Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "460151019",
     "name": "Capital Signs",
     "description": "Advertising Specialties",
     "phone": "(407) 293-2145",
-    "address": "street: 6110 Edgewater Dr location: Orlando, FL 32810"
+    "address": " 6110 Edgewater Dr  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "457883331",
     "name": "CSCF Group",
     "description": "Business Plans Development",
     "phone": "(407) 234-4191",
-    "address": "street: PO Box 568443 location: Orlando, FL 32856"
+    "address": " PO Box 568443  Orlando, FL 32856",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "564421127",
     "name": "AnalyticsBox",
     "description": "Internet Marketing & Advertising",
     "phone": "(514) 918-9472",
-    "address": "street: PO box 547324 location: Orlando, FL 32854"
+    "address": " PO box 547324  Orlando, FL 32854",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "5656685",
     "name": "Sunbelt Signs",
     "description": "Signs",
     "phone": "(407) 532-5455",
-    "address": "street: 3497 All American Blvd location: Orlando, FL 32810"
+    "address": " 3497 All American Blvd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "505124589",
     "name": "Vital Signs of Orlando Inc",
     "description": "Signs",
     "phone": "(407) 297-0680",
-    "address": "street: 7806 N Orange Blossom Trl location: Orlando, FL 32810"
+    "address": " 7806 N Orange Blossom Trl  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "527445115",
     "name": "Creative Sign Inc",
     "description": "Signs",
     "phone": "(407) 293-9393",
-    "address": "street: 5817 Beggs Rd location: Orlando, FL 32810"
+    "address": " 5817 Beggs Rd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "503886348",
     "name": "Signal Outdoor Advertisin",
     "description": "Outdoor Advertising",
     "phone": "(407) 856-7079",
-    "address": "street: 3740 All American Blvd location: Orlando, FL 32810"
+    "address": " 3740 All American Blvd  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "454854720",
     "name": "Apopka Ink",
     "description": "Advertising Specialties",
     "phone": "(407) 299-0246",
-    "address": "street: 2864 Clark St location: Apopka, FL 32703"
+    "address": " 2864 Clark St  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "12894688",
     "name": "Mail & More",
     "description": "Mail & Shipping Services",
     "phone": "(407) 299-7328",
-    "address": "street: 5764 N Orange Blossom Trl location: Orlando, FL 32810"
+    "address": " 5764 N Orange Blossom Trl  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "561004986",
     "name": "RTP Medical Solution",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 901-7588",
-    "address": "street: 7037 Rose Ave location: Orlando, FL 32810"
+    "address": " 7037 Rose Ave  Orlando, FL 32810",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "16689545",
     "name": "Creative Signs Inc",
     "description": "Signs",
     "phone": "(407) 293-9393",
-    "address": "street: 2301 N Hiawassee Rd location: Apopka, FL 32703"
+    "address": " 2301 N Hiawassee Rd  Apopka, FL 32703",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "504968047",
     "name": "FLCustom Design & Marketing",
     "description": "Trade Shows, Expositions & Fairs",
     "phone": "(352) 383-5556",
-    "address": "street: 31615 Long Acres Dr location: Sorrento, FL 32776"
+    "address": " 31615 Long Acres Dr  Sorrento, FL 32776",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "533694364",
     "name": "GC Signs and Supply",
     "description": "Signs",
     "phone": "(352) 735-8445",
-    "address": "street: 31713 Long Acres Dr location: Sorrento, FL 32776"
+    "address": " 31713 Long Acres Dr  Sorrento, FL 32776",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "514580535",
     "name": "A2Z Global Promotions",
     "description": "Embroidery",
     "phone": "(407) 790-5540",
-    "address": "street: 1240 Sharptank Ct location: Apopka, FL 32712"
+    "address": " 1240 Sharptank Ct  Apopka, FL 32712",
+    "location": "Dixie"
   },
   {
-    "dataYpid": "536347028",
     "name": "Charles Wingo Signs Inc",
     "description": "Signs",
     "phone": "(407) 886-8131",
-    "address": "street: 2912 Plymouth Sorrento Rd location: Apopka, FL 32712"
+    "address": " 2912 Plymouth Sorrento Rd  Apopka, FL 32712",
+    "location": "Dixie"
   }
 ]

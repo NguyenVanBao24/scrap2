@@ -1,4363 +1,3593 @@
 [
   {
-    "dataYpid": "474060240",
     "name": "Jnbk",
     "description": "Advertising Agencies",
     "phone": "(904) 374-3399",
-    "address": "street: 605 New Berlin Rd location: Jacksonville, FL 32218"
+    "address": " 605 New Berlin Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "452229374",
     "name": "Comergent Acquisition Group",
     "description": "Advertising Agencies",
     "phone": "(904) 329-4003",
-    "address": "street: 13453 N Main St location: Jacksonville, FL 32218"
+    "address": " 13453 N Main St  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "540877435",
-    "name": "Webamity",
-    "description": "Advertising Agencies",
-    "phone": "(904) 463-5138",
-    "address": "street: N/A location: Jacksonville, FL 32210"
-  },
-  {
-    "dataYpid": "465692857",
-    "name": "Connelly, Stephen A",
-    "description": "Advertising Agencies",
-    "phone": "(904) 731-8900",
-    "address": "street: N/A location: Jacksonville, FL 32217"
-  },
-  {
-    "dataYpid": "528910267",
-    "name": "AntonWest Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 701-4140",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "548192327",
-    "name": "Running Suit Guy Promotions Inc",
-    "description": "Advertising Agencies",
-    "phone": "(516) 650-5600",
-    "address": "street: N/A location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "12193992",
-    "name": "Robin Shepherd Public Relation",
-    "description": "Advertising Agencies",
-    "phone": "(904) 359-0981",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465252554",
-    "name": "Skylifepromo",
-    "description": "Advertising Agencies",
-    "phone": "(904) 642-6671",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "483344900",
-    "name": "Jax Media Team",
-    "description": "Advertising Agencies",
-    "phone": "(904) 253-3205",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "503141054",
-    "name": "GoSocial Media",
-    "description": "Advertising Agencies",
-    "phone": "(888) 980-9043",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "536566171",
-    "name": "RevLocal",
-    "description": "Advertising Agencies",
-    "phone": "(904) 406-3901",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575718595",
-    "name": "Timber Wolf Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 440-1911",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "15435396",
-    "name": "Powers Creative Inc",
-    "description": "Advertising Agencies",
-    "phone": "(904) 387-9990",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "473454186",
-    "name": "A-Kool Distribution Company",
-    "description": "Advertising Agencies",
-    "phone": "(904) 783-3633",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "479999012",
-    "name": "River City Distribution, Inc.",
-    "description": "Advertising Agencies",
-    "phone": "(904) 370-3723",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "480919510",
-    "name": "Atlantic Advertising Group",
-    "description": "Advertising Agencies",
-    "phone": "(904) 223-8774",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575050909",
-    "name": "MainStreet BOOST",
-    "description": "Advertising Agencies",
-    "phone": "(904) 606-6030",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "450950525",
     "name": "Productions",
     "description": "Advertising Agencies",
     "phone": "(904) 619-4379",
-    "address": "street: 13751 Devan Lee Dr E location: Jacksonville, FL 32226"
+    "address": " 13751 Devan Lee Dr E  Jacksonville, FL 32226",
+    "location": "Duval"
   },
   {
-    "dataYpid": "571712790",
     "name": "Brandon Clark",
     "description": "Advertising Agencies",
     "phone": "(904) 305-9189",
-    "address": "street: 459 Auburn Oaks Rd E location: Jacksonville, FL 32218"
+    "address": " 459 Auburn Oaks Rd E  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "28771425",
     "name": "Antmo Enterprises Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 735-8627",
-    "address": "street: 1038 Dunn Ave Ste 1038 location: Jacksonville, FL 32218"
+    "address": " 1038 Dunn Ave Ste 1038  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "475204705",
     "name": "Uncle Henry's",
     "description": "Advertising Agencies",
     "phone": "(904) 379-7382",
-    "address": "street: 4800 Cedar Point Rd location: Jacksonville, FL 32226"
+    "address": " 4800 Cedar Point Rd  Jacksonville, FL 32226",
+    "location": "Duval"
   },
   {
-    "dataYpid": "507133287",
     "name": "Sun City",
     "description": "Advertising Agencies",
     "phone": "(904) 924-7444",
-    "address": "street: 6901 N Main St location: Jacksonville, FL 32208"
+    "address": " 6901 N Main St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "554765716",
     "name": "Finial Max",
     "description": "Advertising Agencies",
     "phone": "(904) 742-9211",
-    "address": "street: PO Box 9541 location: Jacksonville, FL 32208"
+    "address": " PO Box 9541  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "519830963",
     "name": "Set On Success",
     "description": "Advertising Agencies",
     "phone": "(904) 374-2458",
-    "address": "street: 455 W 58th St location: Jacksonville, FL 32208"
+    "address": " 455 W 58th St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505759920",
     "name": "Renea's Touch",
     "description": "Advertising Agencies",
     "phone": "(904) 374-2458",
-    "address": "street: 1646 W 45th St location: Jacksonville, FL 32208"
+    "address": " 1646 W 45th St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464312613",
     "name": "George G Sares Accounting",
     "description": "Advertising Agencies",
     "phone": "(904) 744-2274",
-    "address": "street: 8031 Fort Caroline Rd location: Jacksonville, FL 32277"
+    "address": " 8031 Fort Caroline Rd  Jacksonville, FL 32277",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2559200",
     "name": "Kreinest & Associates Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 355-7808",
-    "address": "street: 207 N Laura St location: Jacksonville, FL 32202"
+    "address": " 207 N Laura St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "28626260",
     "name": "Hoffman Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 398-9663",
-    "address": "street: 1056 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1056 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458181806",
     "name": "The Cross Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 642-8902",
-    "address": "street: 701 San Marco Blvd Ste 1603 location: Jacksonville, FL 32207"
+    "address": " 701 San Marco Blvd Ste 1603  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464228386",
     "name": "Jax Production Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 513-9206",
-    "address": "street: 1239 Rogero Rd location: Jacksonville, FL 32211"
+    "address": " 1239 Rogero Rd  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21161446",
     "name": "Sea Jam Enterprises",
     "description": "Advertising Agencies",
     "phone": "(904) 265-4761",
-    "address": "street: 1225 W Beaver St location: Jacksonville, FL 32204"
+    "address": " 1225 W Beaver St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467760139",
     "name": "Jtl Assocs Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 724-3003",
-    "address": "street: 6057 Arlington Expy location: Jacksonville, FL 32211"
+    "address": " 6057 Arlington Expy  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22145989",
     "name": "National A-1 Advertising, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 724-8255",
-    "address": "street: 6501 Arlington Expy location: Jacksonville, FL 32211"
+    "address": " 6501 Arlington Expy  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505367917",
     "name": "GLOBAL ADVERTISING LLC",
     "description": "Advertising Agencies",
     "phone": "(904) 800-6332",
-    "address": "street: 6720 Arlington Expy location: Jacksonville, FL 32211"
+    "address": " 6720 Arlington Expy  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "512753548",
     "name": "Lacayo Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 636-5085",
-    "address": "street: 131 E Bay St location: Jacksonville, FL 32202"
+    "address": " 131 E Bay St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "523795740",
     "name": "Advertising Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 353-2900",
-    "address": "street: 131 E Bay St location: Jacksonville, FL 32202"
+    "address": " 131 E Bay St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "563844101",
     "name": "Fuel Media Holdings",
     "description": "Advertising Agencies",
     "phone": "(855) 552-3624",
-    "address": "street: 25 N Market St location: Jacksonville, FL 32202"
+    "address": " 25 N Market St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "537834126",
     "name": "5Ive Canons",
     "description": "Advertising Agencies",
     "phone": "(904) 372-4603",
-    "address": "street: 10 S Newnan St location: Jacksonville, FL 32202"
+    "address": " 10 S Newnan St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "522866850",
     "name": "Health Source Magazine",
     "description": "Advertising Agencies",
     "phone": "(904) 359-4139",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "522779626",
     "name": "First Coast Magazine",
     "description": "Advertising Agencies",
     "phone": "(904) 359-4139",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "475494471",
     "name": "Wingard Creative",
     "description": "Advertising Agencies",
     "phone": "(904) 387-2570",
-    "address": "street: 100 Magnolia St location: Jacksonville, FL 32204"
+    "address": " 100 Magnolia St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458761389",
     "name": "BroadBased Communications, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 398-7279",
-    "address": "street: 1301 Riverplace Blvd Ste 1830 location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd Ste 1830  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "532986520",
     "name": "St John-Partners Advg-Pubc",
     "description": "Advertising Agencies",
     "phone": "(904) 281-2500",
-    "address": "street: 1301 Riverplace Blvd location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "562432750",
     "name": "Supercharged Offers",
     "description": "Advertising Agencies",
     "phone": "(888) 368-5478",
-    "address": "street: 1301 Riverplace Blvd location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2544593",
     "name": "The Empire",
     "description": "Advertising Agencies",
     "phone": "(904) 739-0000",
-    "address": "street: 1301 Riverplace Blvd location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "569608803",
     "name": "Comrade Digital Marketing Agency Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(904) 650-3693",
-    "address": "street: 1301 Riverplace Blvd location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6708411",
     "name": "Swisher Burgos",
     "description": "Advertising Agencies",
     "phone": "(904) 396-3865",
-    "address": "street: 1001 Kings Ave location: Jacksonville, FL 32207"
+    "address": " 1001 Kings Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "14423808",
     "name": "Burdette Ketchum",
     "description": "Advertising Agencies",
     "phone": "(904) 645-6200",
-    "address": "street: 1023 Kings Ave location: Jacksonville, FL 32207"
+    "address": " 1023 Kings Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2867402",
     "name": "M4 Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 399-1800",
-    "address": "street: 4 Broadcast Pl location: Jacksonville, FL 32207"
+    "address": " 4 Broadcast Pl  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464948128",
     "name": "Sapphire Moon",
     "description": "Advertising Agencies",
     "phone": "(904) 399-8200",
-    "address": "street: 4 Broadcast Pl location: Jacksonville, FL 32207"
+    "address": " 4 Broadcast Pl  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544040777",
     "name": "Launchpost Media",
     "description": "Advertising Agencies",
     "phone": "(904) 389-0331",
-    "address": "street: 6815 Atlantic Blvd Ste 6 location: Jacksonville, FL 32211"
+    "address": " 6815 Atlantic Blvd Ste 6  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465692007",
     "name": "Sisisky, Richard L",
     "description": "Advertising Agencies",
     "phone": "(904) 396-7716",
-    "address": "street: 1301 Live Oak Dr location: Jacksonville, FL 32246"
+    "address": " 1301 Live Oak Dr  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "495855110",
     "name": "Red Beard Strategies",
     "description": "Advertising Agencies",
     "phone": "(904) 432-7591",
-    "address": "street: 95150 Starling Ct location: Fernandina Beach, FL 32034"
+    "address": " 95150 Starling Ct  Fernandina Beach, FL 32034",
+    "location": "Duval"
   },
   {
-    "dataYpid": "478422931",
     "name": "Atkins North American Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 432-7630",
-    "address": "street: 86395 Gene Lassere Blvd location: Yulee, FL 32097"
+    "address": " 86395 Gene Lassere Blvd  Yulee, FL 32097",
+    "location": "Duval"
   },
   {
-    "dataYpid": "453947877",
     "name": "On Ideas Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 354-2600",
-    "address": "street: 6 E Bay St Ste 100 location: Jacksonville, FL 32202"
+    "address": " 6 E Bay St Ste 100  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "16693653",
     "name": "Keymer Group Strategic Comm",
     "description": "Advertising Agencies",
     "phone": "(904) 483-3824",
-    "address": "street: 3955 Riverside Ave location: Jacksonville, FL 32205"
+    "address": " 3955 Riverside Ave  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7837633",
     "name": "The Marko Group",
     "description": "Advertising Agencies",
     "phone": "(904) 399-3288",
-    "address": "street: 13245 Atlantic Blvd Ste 4316 location: Jacksonville, FL 32225"
+    "address": " 13245 Atlantic Blvd Ste 4316  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1626376",
     "name": "William G Schmidt Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 384-7000",
-    "address": "street: 4814 Algonquin Ave location: Jacksonville, FL 32210"
+    "address": " 4814 Algonquin Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "451136692",
     "name": "Stuck in My Head Media",
     "description": "Advertising Agencies",
     "phone": "(904) 248-0294",
-    "address": "street: 3119 Spring Glen Rd Ste 105 location: Jacksonville, FL 32207"
+    "address": " 3119 Spring Glen Rd Ste 105  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465418910",
     "name": "Second Floor Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 551-1459",
-    "address": "street: 2002 San Marco Blvd location: Jacksonville, FL 32207"
+    "address": " 2002 San Marco Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10845237",
     "name": "Ruckus",
     "description": "Advertising Agencies",
     "phone": "(904) 399-0005",
-    "address": "street: 1450 Flagler Ave location: Jacksonville, FL 32207"
+    "address": " 1450 Flagler Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467124758",
     "name": "Wingard",
     "description": "Advertising Agencies",
     "phone": "(904) 387-2570",
-    "address": "street: 1022 Park St location: Jacksonville, FL 32204"
+    "address": " 1022 Park St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1460217",
     "name": "Zip Line",
     "description": "Advertising Agencies",
     "phone": "(904) 858-5311",
-    "address": "street: 2727 Atlantic Blvd location: Jacksonville, FL 32207"
+    "address": " 2727 Atlantic Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "562111417",
     "name": "Hester Group",
     "description": "Advertising Agencies",
     "phone": "(904) 739-2338",
-    "address": "street: 2727 Atlantic Blvd location: Jacksonville, FL 32207"
+    "address": " 2727 Atlantic Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "495460357",
     "name": "Client Focused Media",
     "description": "Advertising Agencies",
     "phone": "(904) 232-3001",
-    "address": "street: 1611 San Marco Blvd location: Jacksonville, FL 32207"
+    "address": " 1611 San Marco Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "541923119",
     "name": "Jaxbars.com",
     "description": "Advertising Agencies",
     "phone": "(904) 232-3001",
-    "address": "street: 1611 San Marco Blvd location: Jacksonville, FL 32207"
+    "address": " 1611 San Marco Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "15313771",
     "name": "Brunet-Garcia Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 346-1977",
-    "address": "street: 1534 Oak St location: Jacksonville, FL 32204"
+    "address": " 1534 Oak St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "531442712",
     "name": "Nuera Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 513-8350",
-    "address": "street: 1807 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1807 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "451675390",
     "name": "EIG Productions",
     "description": "Advertising Agencies",
     "phone": "(904) 607-8738",
-    "address": "street: 1047 Osceola St location: Jacksonville, FL 32204"
+    "address": " 1047 Osceola St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464169314",
     "name": "William Potter & Assoc Inc",
     "description": "Advertising Agencies",
     "phone": "(407) 464-0718",
-    "address": "street: 1739 Moro Ave location: Jacksonville, FL 32207"
+    "address": " 1739 Moro Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496275234",
     "name": "Elva Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 379-1723",
-    "address": "street: 4040 Woodcock Dr Ste 201 location: Jacksonville, FL 32207"
+    "address": " 4040 Woodcock Dr Ste 201  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13347651",
     "name": "Davis Group",
     "description": "Advertising Agencies",
     "phone": "(904) 398-1704",
-    "address": "street: 4631 Brown Ave location: Jacksonville, FL 32207"
+    "address": " 4631 Brown Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10480761",
     "name": "Robin Shepherd Group",
     "description": "Advertising Agencies",
     "phone": "(904) 398-0830",
-    "address": "street: 4160 Boulevard Center Dr location: Jacksonville, FL 32207"
+    "address": " 4160 Boulevard Center Dr  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497130928",
     "name": "Eagle Financial Consulting",
     "description": "Advertising Agencies",
     "phone": "(904) 387-5787",
-    "address": "street: 2358 Riverside Ave location: Jacksonville, FL 32204"
+    "address": " 2358 Riverside Ave  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "455422645",
     "name": "The Marshall Group",
     "description": "Advertising Agencies",
     "phone": "(904) 725-6898",
-    "address": "street: 2121 Corporate Square Blvd Ste 236 location: Jacksonville, FL 32216"
+    "address": " 2121 Corporate Square Blvd Ste 236  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "11005184",
     "name": "William H Coleman Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 398-6777",
-    "address": "street: 1613 King St location: Jacksonville, FL 32204"
+    "address": " 1613 King St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "457929690",
     "name": "Fl Reo Co",
     "description": "Advertising Agencies",
     "phone": "(904) 551-6762",
-    "address": "street: 1605 King St location: Jacksonville, FL 32204"
+    "address": " 1605 King St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "527265675",
     "name": "First Coast Advertising Service",
     "description": "Advertising Agencies",
     "phone": "(904) 554-7535",
-    "address": "street: 840 Edgewood Ave S location: Jacksonville, FL 32205"
+    "address": " 840 Edgewood Ave S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544959036",
     "name": "Stephens Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 354-1777",
-    "address": "street: 7029 Commonwealth Ave location: Jacksonville, FL 32220"
+    "address": " 7029 Commonwealth Ave  Jacksonville, FL 32220",
+    "location": "Duval"
   },
   {
-    "dataYpid": "525203079",
     "name": "Socially Bold",
     "description": "Advertising Agencies",
     "phone": "(904) 574-9775",
-    "address": "street: 3200 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 3200 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480046517",
     "name": "Soledesign",
     "description": "Advertising Agencies",
     "phone": "(904) 673-6331",
-    "address": "street: 1922 Felch Ave location: Jacksonville, FL 32207"
+    "address": " 1922 Felch Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "558553724",
     "name": "Aziel Digital",
     "description": "Advertising Agencies",
     "phone": "(904) 643-7553",
-    "address": "street: 204 Lane Ave South Suite #4 location: Jacksonville, FL 32254"
+    "address": " 204 Lane Ave South Suite #4  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "457146085",
     "name": "Infoco Multimidia Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 294-3330",
-    "address": "street: 3679 Saint Augustine Rd location: Jacksonville, FL 32207"
+    "address": " 3679 Saint Augustine Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576280872",
     "name": "Krystal Media Innovations",
     "description": "Advertising Agencies",
     "phone": "(904) 222-4038",
-    "address": "street: 12220 Atlantic Blvd Ste 130 location: Jacksonville, FL 32225"
+    "address": " 12220 Atlantic Blvd Ste 130  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "561786130",
     "name": "Image360 Jacksonville-St. Johns Bluff",
     "description": "Advertising Agencies",
     "phone": "(904) 996-7773",
-    "address": "street: 2683 Saint Johns Bluff Rd S location: Jacksonville, FL 32246"
+    "address": " 2683 Saint Johns Bluff Rd S  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464231661",
     "name": "Barquilla Consulting Corp",
     "description": "Advertising Agencies",
     "phone": "(904) 379-8819",
-    "address": "street: 850 Shipwatch Dr E location: Jacksonville, FL 32225"
+    "address": " 850 Shipwatch Dr E  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4350424",
     "name": "Jentzen Associates Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 221-5284",
-    "address": "street: 13715 Little Harbor Ct location: Jacksonville, FL 32225"
+    "address": " 13715 Little Harbor Ct  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467770301",
     "name": "Security Consultants",
     "description": "Advertising Agencies",
     "phone": "(904) 727-7162",
-    "address": "street: 1185 Lane Ave S location: Jacksonville, FL 32205"
+    "address": " 1185 Lane Ave S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "528726766",
     "name": "Howetek Creative",
     "description": "Advertising Agencies",
     "phone": "(904) 580-7773",
-    "address": "street: 7964 Devoe St location: Jacksonville, FL 32220"
+    "address": " 7964 Devoe St  Jacksonville, FL 32220",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503446437",
     "name": "Crisp and Harrison Agency, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 724-2612",
-    "address": "street: 11555 Central Pkwy Ste 604 location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy Ste 604  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5052004",
     "name": "Hardball Sports Marketing, Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 998-8778",
-    "address": "street: 11555 Central Pkwy Ste 1002 location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy Ste 1002  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "531439972",
     "name": "The Baer Edge",
     "description": "Advertising Agencies",
     "phone": "(904) 982-1734",
-    "address": "street: 4320 Deerwood Lake Pkwy location: Jacksonville, FL 32216"
+    "address": " 4320 Deerwood Lake Pkwy  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "479995614",
     "name": "I N F M S",
     "description": "Advertising Agencies",
     "phone": "(904) 527-3576",
-    "address": "street: 4375 Southside Blvd location: Jacksonville, FL 32216"
+    "address": " 4375 Southside Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "561609462",
     "name": "All Forms Laminating",
     "description": "Advertising Agencies",
     "phone": "(615) 383-0900",
-    "address": "street: 6440 Southpoint Pkwy location: Jacksonville, FL 32216"
+    "address": " 6440 Southpoint Pkwy  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "572102877",
     "name": "Fisher Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 398-3699",
-    "address": "street: 4540 Southside Blvd Ste 902 location: Jacksonville, FL 32216"
+    "address": " 4540 Southside Blvd Ste 902  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "572561629",
     "name": "Savvy Partner - Franchise Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 372-8891",
-    "address": "street: 4540 Southside Blvd Ste 902 location: Jacksonville, FL 32216"
+    "address": " 4540 Southside Blvd Ste 902  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "470784329",
     "name": "Integrated Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 296-2585",
-    "address": "street: 6817 Southpoint Pkwy Ste 804 location: Jacksonville, FL 32216"
+    "address": " 6817 Southpoint Pkwy Ste 804  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "9048157",
-    "name": "Hester Group",
-    "description": "Advertising Agencies",
-    "phone": "(904) 739-2338",
-    "address": "street: 6320 Saint Augustine Rd location: Jacksonville, FL 32217"
-  },
-  {
-    "dataYpid": "537035968",
     "name": "Jax Media",
     "description": "Advertising Agencies",
     "phone": "(904) 683-6182",
-    "address": "street: 2317 Blanding Blvd Ste 101 location: Jacksonville, FL 32210"
+    "address": " 2317 Blanding Blvd Ste 101  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573843984",
     "name": "Vizergy",
     "description": "Advertising Agencies",
     "phone": "(904) 389-1130",
-    "address": "street: 4601 Touchton Rd E Bldg 300 location: Jacksonville, FL 32246"
+    "address": " 4601 Touchton Rd E Bldg 300  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "23304135",
     "name": "TSR Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 279-1671",
-    "address": "street: 4121 Southpoint Blvd location: Jacksonville, FL 32216"
+    "address": " 4121 Southpoint Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6135857",
     "name": "The Capital Company",
     "description": "Advertising Agencies",
     "phone": "(904) 338-9408",
-    "address": "street: 6653 Powers Ave location: Jacksonville, FL 32217"
+    "address": " 6653 Powers Ave  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21228854",
     "name": "Cca Strategies",
     "description": "Advertising Agencies",
     "phone": "(904) 620-6590",
-    "address": "street: 6821 Southpoint Dr N location: Jacksonville, FL 32216"
+    "address": " 6821 Southpoint Dr N  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "535430219",
     "name": "Adtheorent",
     "description": "Advertising Agencies",
     "phone": "(904) 683-6463",
-    "address": "street: 4237 Salisbury Rd Ste 111 location: Jacksonville, FL 32216"
+    "address": " 4237 Salisbury Rd Ste 111  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "512783338",
     "name": "Media Mix",
     "description": "Advertising Agencies",
     "phone": "(904) 294-6962",
-    "address": "street: 9822 Tapestry Park Cir location: Jacksonville, FL 32246"
+    "address": " 9822 Tapestry Park Cir  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464806014",
     "name": "Gartner, Herb",
     "description": "Advertising Agencies",
     "phone": "(904) 733-2457",
-    "address": "street: 6944 Saint Augustine Rd location: Jacksonville, FL 32217"
+    "address": " 6944 Saint Augustine Rd  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473449",
     "name": "Focus on Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(904) 733-2457",
-    "address": "street: 6944 Saint Augustine Rd location: Jacksonville, FL 32217"
+    "address": " 6944 Saint Augustine Rd  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "562553412",
     "name": "Meclabs",
     "description": "Advertising Agencies",
     "phone": "(904) 813-7000",
-    "address": "street: 4651 Salisbury Rd location: Jacksonville, FL 32256"
+    "address": " 4651 Salisbury Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "9957187",
     "name": "Caraway Grammel Goldman",
     "description": "Advertising Agencies",
     "phone": "(904) 247-3294",
-    "address": "street: 4899 Belfort Rd location: Jacksonville, FL 32256"
+    "address": " 4899 Belfort Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "20200957",
     "name": "Venture Management",
     "description": "Advertising Agencies",
     "phone": "(904) 270-8800",
-    "address": "street: 7035 Philips Hwy location: Jacksonville, FL 32216"
+    "address": " 7035 Philips Hwy  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480247962",
     "name": "Pcr Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 923-2062",
-    "address": "street: 7235 Bentley Rd location: Jacksonville, FL 32256"
+    "address": " 7235 Bentley Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "548504138",
     "name": "iHeartMedia",
     "description": "Advertising Agencies",
     "phone": "(904) 636-0507",
-    "address": "street: 8000 Belfort Pkwy location: Jacksonville, FL 32256"
+    "address": " 8000 Belfort Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "541069431",
     "name": "Smith & Surrency Digital Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 982-4915",
-    "address": "street: 10161 Centurion Pkwy N location: Jacksonville, FL 32256"
+    "address": " 10161 Centurion Pkwy N  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551767329",
     "name": "Monopolists Lawyer Seo",
     "description": "Advertising Agencies",
     "phone": "(904) 238-4086",
-    "address": "street: 5011 Gate Pkwy location: Jacksonville, FL 32256"
+    "address": " 5011 Gate Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "555859290",
     "name": "CTRL+ALT Digital",
     "description": "Advertising Agencies",
     "phone": "(904) 878-2875",
-    "address": "street: 5011 Gate Pkwy Bldg 100 location: Jacksonville, FL 32256"
+    "address": " 5011 Gate Pkwy Bldg 100  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "553050440",
     "name": "Pm2 Digital",
     "description": "Advertising Agencies",
     "phone": "(904) 385-9124",
-    "address": "street: 5011 Gate Pkwy location: Jacksonville, FL 32256"
+    "address": " 5011 Gate Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573179861",
     "name": "Effectv",
     "description": "Advertising Agencies",
     "phone": "(888) 877-9799",
-    "address": "street: 10751 Deerwood Park Blvd Ste 301 location: Jacksonville, FL 32256"
+    "address": " 10751 Deerwood Park Blvd Ste 301  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "557177613",
     "name": "Tenacity Blue Media",
     "description": "Advertising Agencies",
     "phone": "(904) 490-9028",
-    "address": "street: 10752 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10752 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "482906437",
     "name": "North Highland Co",
     "description": "Advertising Agencies",
     "phone": "(904) 646-1585",
-    "address": "street: 10752 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10752 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551663522",
-    "name": "Launchpost Media",
-    "description": "Advertising Agencies",
-    "phone": "(904) 389-0331",
-    "address": "street: 10752 Deerwood Park Blvd location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "561646528",
     "name": "C7 Creative",
     "description": "Advertising Agencies",
     "phone": "(904) 253-3779",
-    "address": "street: 10752 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10752 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "571803565",
     "name": "Cheetah Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 544-6020",
-    "address": "street: 10151 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1193981",
     "name": "Florida Consumer Services",
     "description": "Advertising Agencies",
     "phone": "(904) 371-0906",
-    "address": "street: 10151 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "456632224",
     "name": "Brookslacayo Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 470-2300",
-    "address": "street: 7563 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 7563 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469846993",
     "name": "Betty Jean Reed",
     "description": "Advertising Agencies",
     "phone": "(904) 374-0673",
-    "address": "street: 7052 Biddy Ln location: Jacksonville, FL 32210"
+    "address": " 7052 Biddy Ln  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "536652748",
     "name": "Redee Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 463-3159",
-    "address": "street: 13810 Sutton Park Dr N location: Jacksonville, FL 32224"
+    "address": " 13810 Sutton Park Dr N  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29096938",
     "name": "Bradford Consulting Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 928-3218",
-    "address": "street: 7740 Sawtooth Ct location: Jacksonville, FL 32256"
+    "address": " 7740 Sawtooth Ct  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7760427",
     "name": "Steven & Stephen Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 737-8171",
-    "address": "street: 7899 Baymeadows Way location: Jacksonville, FL 32256"
+    "address": " 7899 Baymeadows Way  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461578143",
     "name": "Appmarcom Appmardotcom Appmardotcom",
     "description": "Advertising Agencies",
     "phone": "(904) 551-5337",
-    "address": "street: 7960 Baymeadows Way location: Jacksonville, FL 32256"
+    "address": " 7960 Baymeadows Way  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7205985",
     "name": "ZAG Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 733-2998",
-    "address": "street: 8547 San Jose Blvd location: Jacksonville, FL 32217"
+    "address": " 8547 San Jose Blvd  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "564279520",
     "name": "The Morgan Company",
     "description": "Advertising Agencies",
     "phone": "(904) 242-0472",
-    "address": "street: 13500 Sutton Park Dr S location: Jacksonville, FL 32224"
+    "address": " 13500 Sutton Park Dr S  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469246776",
-    "name": "Media Mix",
-    "description": "Advertising Agencies",
-    "phone": "(904) 294-6962",
-    "address": "street: 13901 Sutton Park Dr S location: Jacksonville, FL 32224"
-  },
-  {
-    "dataYpid": "458018368",
     "name": "Affiliated Media",
     "description": "Advertising Agencies",
     "phone": "(904) 642-8902",
-    "address": "street: 8133 Baymeadows Way location: Jacksonville, FL 32256"
+    "address": " 8133 Baymeadows Way  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497509757",
     "name": "Accountable Healthcare Stffng",
     "description": "Advertising Agencies",
     "phone": "(904) 372-9084",
-    "address": "street: 6983 103rd St Ste 4 location: Jacksonville, FL 32210"
+    "address": " 6983 103rd St Ste 4  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464243795",
     "name": "Xcl Consulting",
     "description": "Advertising Agencies",
     "phone": "(904) 419-2478",
-    "address": "street: 8813 Nature View Ln W location: Jacksonville, FL 32217"
+    "address": " 8813 Nature View Ln W  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "17134595",
     "name": "Cmts Florida",
     "description": "Advertising Agencies",
     "phone": "(904) 739-9804",
-    "address": "street: 9250 Cypress Green Dr Ste 201 location: Jacksonville, FL 32256"
+    "address": " 9250 Cypress Green Dr Ste 201  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505531166",
     "name": "Adventures in Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 737-7344",
-    "address": "street: 8130 Baymeadows Cir W location: Jacksonville, FL 32256"
+    "address": " 8130 Baymeadows Cir W  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544421535",
     "name": "RLS Group",
     "description": "Advertising Agencies",
     "phone": "(904) 342-6479",
-    "address": "street: 9424 Baymeadows Rd. Suite 250 location: Jacksonville, FL 32256"
+    "address": " 9424 Baymeadows Rd. Suite 250  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524741834",
     "name": "First Element",
     "description": "Advertising Agencies",
     "phone": "(904) 860-8245",
-    "address": "street: 9770 Old Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 9770 Old Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "459502915",
     "name": "Captiview Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 880-6418",
-    "address": "street: 9802 Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 9802 Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "542983829",
     "name": "Money Pages of Florida, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 306-0086",
-    "address": "street: 8375 Dix Ellis Trl Ste 201 location: Jacksonville, FL 32256"
+    "address": " 8375 Dix Ellis Trl Ste 201  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1736645",
     "name": "Southern Hospitality Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 292-1571",
-    "address": "street: 9315 San Jose Blvd location: Jacksonville, FL 32257"
+    "address": " 9315 San Jose Blvd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "452261272",
     "name": "Rosberg Fozman Rolandelli",
     "description": "Advertising Agencies",
     "phone": "(904) 329-3797",
-    "address": "street: 4745 Sutton Park Ct location: Jacksonville, FL 32224"
+    "address": " 4745 Sutton Park Ct  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "560670455",
     "name": "Bolster Bolster",
     "description": "Advertising Agencies",
     "phone": "(612) 200-8163",
-    "address": "street: 23 4th St location: Jacksonville, FL 32233"
+    "address": " 23 4th St  Jacksonville, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29004114",
     "name": "Jensco Management Service",
     "description": "Advertising Agencies",
     "phone": "(904) 241-7886",
-    "address": "street: 1962 Colina Ct location: Atlantic Beach, FL 32233"
+    "address": " 1962 Colina Ct  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1842231",
     "name": "Alutiiq",
     "description": "Advertising Agencies",
     "phone": "(904) 246-4777",
-    "address": "street: 1447 Mayport Rd location: Atlantic Beach, FL 32233"
+    "address": " 1447 Mayport Rd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503852054",
     "name": "Atlantic Imaging",
     "description": "Advertising Agencies",
     "phone": "(904) 247-7764",
-    "address": "street: 260 Mayport Rd location: Atlantic Beach, FL 32233"
+    "address": " 260 Mayport Rd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573298797",
     "name": "Thrive",
     "description": "Advertising Agencies",
     "phone": "(904) 422-9244",
-    "address": "street: 1071 Atlantic Blvd location: Atlantic Beach, FL 32233"
+    "address": " 1071 Atlantic Blvd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "575010122",
     "name": "Perfect Placement Advising",
     "description": "Advertising Agencies",
     "phone": "(954) 317-6543",
-    "address": "street: 1015 Atlantic Blvd Unit 66 location: Atlantic Beach, FL 32233"
+    "address": " 1015 Atlantic Blvd Unit 66  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "28687609",
     "name": "Siteworks Of Jacksonville Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 759-9508",
-    "address": "street: 1360 E Coast Dr location: Atlantic Beach, FL 32233"
+    "address": " 1360 E Coast Dr  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "28689618",
     "name": "Peterson Enterprises",
     "description": "Advertising Agencies",
     "phone": "(904) 241-2624",
-    "address": "street: 460 Ocean Blvd location: Atlantic Beach, FL 32233"
+    "address": " 460 Ocean Blvd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "470452145",
     "name": "Thomas Marketing Consulting",
     "description": "Advertising Agencies",
     "phone": "(904) 651-7976",
-    "address": "street: 9250 Baymeadows Rd Ste 450 location: Jacksonville, FL 32256"
+    "address": " 9250 Baymeadows Rd Ste 450  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29042724",
     "name": "First Coast Environmental Svc",
     "description": "Advertising Agencies",
     "phone": "(904) 384-3379",
-    "address": "street: 3898 Valencia Rd location: Jacksonville, FL 32205"
+    "address": " 3898 Valencia Rd  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "478403850",
     "name": "I Rep Direct",
     "description": "Advertising Agencies",
     "phone": "(904) 683-3869",
-    "address": "street: 2002 San Marco Blvd location: Jacksonville, FL 32207"
+    "address": " 2002 San Marco Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464236446",
     "name": "Ford Dealers Advertising Fund",
     "description": "Advertising Agencies",
     "phone": "(904) 737-0449",
-    "address": "street: 6198 Deepwood Dr W location: Jacksonville, FL 32244"
+    "address": " 6198 Deepwood Dr W  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "560351089",
     "name": "High Line Leads",
     "description": "Advertising Agencies",
     "phone": "(904) 236-6160",
-    "address": "street: 5724 Gasparilla Park Ct location: Jacksonville, FL 32244"
+    "address": " 5724 Gasparilla Park Ct  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5549141",
-    "name": "Integrated Advertising Inc",
-    "description": "Advertising Agencies",
-    "phone": "(904) 296-2585",
-    "address": "street: 8677 Southern Glen Dr location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "503574696",
     "name": "William Sasser & Associates Advertising Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 363-2006",
-    "address": "street: 9127 Phillips Hwy location: Jacksonville, FL 32207"
+    "address": " 9127 Phillips Hwy  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "534764718",
-    "name": "William Sasser & Associates Advertising Agency",
-    "description": "Advertising Agencies",
-    "phone": "(904) 363-2006",
-    "address": "street: 9127 Philips Hwy location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "535788089",
     "name": "ADS Advertising Data Scan",
     "description": "Advertising Agencies",
     "phone": "(904) 363-0016",
-    "address": "street: 9127 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 9127 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2744926",
     "name": "Principle Creative",
     "description": "Advertising Agencies",
     "phone": "(904) 880-9595",
-    "address": "street: 9957 Moorings Dr location: Jacksonville, FL 32257"
+    "address": " 9957 Moorings Dr  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496569331",
     "name": "Daigle Idea Development Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 880-9595",
-    "address": "street: 9957 Moorings Dr location: Jacksonville, FL 32257"
+    "address": " 9957 Moorings Dr  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458654420",
     "name": "Southern Hospitality",
     "description": "Advertising Agencies",
     "phone": "(904) 260-0101",
-    "address": "street: 5220 Shad Rd location: Jacksonville, FL 32257"
+    "address": " 5220 Shad Rd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "559278527",
     "name": "The Data Council",
     "description": "Advertising Agencies",
     "phone": "(904) 512-3200",
-    "address": "street: 7411 Fullerton St location: Jacksonville, FL 32256"
+    "address": " 7411 Fullerton St  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465735504",
     "name": "Com South Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 448-0400",
-    "address": "street: 10175 Fortune Pkwy location: Jacksonville, FL 32256"
+    "address": " 10175 Fortune Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "475173533",
     "name": "Shop Ameriprodcom",
     "description": "Advertising Agencies",
     "phone": "(904) 262-9004",
-    "address": "street: 2950 Halcyon Ln Ste 503 location: Jacksonville, FL 32223"
+    "address": " 2950 Halcyon Ln Ste 503  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "572822835",
     "name": "Andersen Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 859-8165",
-    "address": "street: 3355 Claire Ln location: Jacksonville, FL 32223"
+    "address": " 3355 Claire Ln  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "522381311",
     "name": "Spark Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 732-4391",
-    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+    "address": " 11111 San Jose Blvd  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464189686",
     "name": "Oscar Hinojosa Studios Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 260-4348",
-    "address": "street: 11352 Shady Brook Ln location: Jacksonville, FL 32223"
+    "address": " 11352 Shady Brook Ln  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "16999312",
     "name": "Clinical Research Conslnts",
     "description": "Advertising Agencies",
     "phone": "(904) 778-2284",
-    "address": "street: 7855 Argyle Forest Blvd Ste 906 location: Jacksonville, FL 32244"
+    "address": " 7855 Argyle Forest Blvd Ste 906  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "528611488",
     "name": "Sumner Digital",
     "description": "Advertising Agencies",
     "phone": "(904) 239-8401",
-    "address": "street: 11562 Derby Forest Dr location: Jacksonville, FL 32258"
+    "address": " 11562 Derby Forest Dr  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467220937",
     "name": "T N One",
     "description": "Advertising Agencies",
     "phone": "(904) 619-9427",
-    "address": "street: 9367 Prosperity Lake Dr location: Jacksonville, FL 32244"
+    "address": " 9367 Prosperity Lake Dr  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29178533",
     "name": "Dm Mincey Marketing Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 880-2720",
-    "address": "street: 12422 Mesa Verde Trl location: Jacksonville, FL 32223"
+    "address": " 12422 Mesa Verde Trl  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464340246",
     "name": "Pfc Church Consultants",
     "description": "Advertising Agencies",
     "phone": "(904) 268-8196",
-    "address": "street: 5157 Breezeway Ct location: Jacksonville, FL 32258"
+    "address": " 5157 Breezeway Ct  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "575928934",
     "name": "Success Marketing Services",
     "description": "Advertising Agencies",
     "phone": "(704) 452-7650",
-    "address": "street: 12724 Gran Bay Pkwy W location: Jacksonville, FL 32258"
+    "address": " 12724 Gran Bay Pkwy W  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "560388774",
     "name": "Kesarlong.Com",
     "description": "Advertising Agencies",
     "phone": "(904) 600-3004",
-    "address": "street: 12574 Flagler Center Blvd Ste 101 location: Jacksonville, FL 32258"
+    "address": " 12574 Flagler Center Blvd Ste 101  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "453960034",
     "name": "Red Balloon Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 374-2366",
-    "address": "street: 13241 Bartram Park Blvd location: Jacksonville, FL 32258"
+    "address": " 13241 Bartram Park Blvd  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460710095",
     "name": "Hartmark Advertising Solutions",
     "description": "Advertising Agencies",
     "phone": "(904) 400-4223",
-    "address": "street: 11933 Gran Crique Ct S location: Jacksonville, FL 32223"
+    "address": " 11933 Gran Crique Ct S  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "462394996",
     "name": "The Montello Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 737-0012",
-    "address": "street: 9310 Old Kings Rd S location: Jacksonville, FL 32257"
+    "address": " 9310 Old Kings Rd S  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467856732",
-    "name": "Spark Inc",
-    "description": "Advertising Agencies",
-    "phone": "(904) 732-4391",
-    "address": "street: 9310 Old Kings Rd S Ste 901 location: Jacksonville, FL 32257"
-  },
-  {
-    "dataYpid": "454897105",
     "name": "SD3 Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 437-6944",
-    "address": "street: 731 Duval Station Rd location: Jacksonville, FL 32218"
+    "address": " 731 Duval Station Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "457883271",
-    "name": "Twidget Media Marketing service",
-    "description": "Advertising Agencies",
-    "phone": "(904) 803-9640",
-    "address": "street: N/A location: Jacksonville, FL 32216"
-  },
-  {
-    "dataYpid": "481242546",
-    "name": "LogoMaid",
-    "description": "Advertising Agencies",
-    "phone": "(904) 399-8846",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "462509523",
-    "name": "A Leopard Spots Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(904) 536-2800",
-    "address": "street: N/A location: Jacksonville, FL 32211"
-  },
-  {
-    "dataYpid": "545003517",
-    "name": "North Florida Design",
-    "description": "Advertising Agencies",
-    "phone": "(904) 673-0864",
-    "address": "street: N/A location: Jacksonville, FL 32202"
-  },
-  {
-    "dataYpid": "548581145",
-    "name": "Winston and Murphy Consulting",
-    "description": "Advertising Agencies",
-    "phone": "(302) 448-5564",
-    "address": "street: N/A location: Jacksonville, FL 32258"
-  },
-  {
-    "dataYpid": "575839040",
-    "name": "J2911 Digital Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(904) 664-1210",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "457971916",
-    "name": "Trios Creative",
-    "description": "Advertising Agencies",
-    "phone": "(904) 396-9533",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "558673064",
-    "name": "Grindstone Design",
-    "description": "Advertising Agencies",
-    "phone": "(904) 608-8534",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "561184827",
     "name": "LocalEdge",
     "description": "Advertising Agencies",
     "phone": "(716) 875-9100",
-    "address": "street: 10418 New Berlin Rd location: Jacksonville, FL 32226"
+    "address": " 10418 New Berlin Rd  Jacksonville, FL 32226",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496512323",
     "name": "Cross Media Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 735-4789",
-    "address": "street: 1915 Silver St location: Jacksonville, FL 32206"
+    "address": " 1915 Silver St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461556689",
     "name": "Internet Mad Men",
     "description": "Advertising Agencies",
     "phone": "(954) 643-6998",
-    "address": "street: 4634 Monument Point Cir location: Jacksonville, FL 32225"
+    "address": " 4634 Monument Point Cir  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "535844533",
     "name": "Hart SEO",
     "description": "Advertising Agencies",
     "phone": "(904) 234-0158",
-    "address": "street: 1225 Beaver St. #103 location: Jacksonville, FL 32204"
+    "address": " 1225 Beaver St. #103  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "17461463",
     "name": "Compound Graphics",
     "description": "Advertising Agencies",
     "phone": "(904) 798-8600",
-    "address": "street: 2039 Dellwood Ave location: Jacksonville, FL 32204"
+    "address": " 2039 Dellwood Ave  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "499301903",
     "name": "Point Taken Communications",
     "description": "Advertising Agencies",
     "phone": "(904) 419-9216",
-    "address": "street: 1616 N Market St location: Jacksonville, FL 32206"
+    "address": " 1616 N Market St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480622125",
     "name": "EXPAND YOUR BRAND GOSPEL LLC",
     "description": "Advertising Agencies",
     "phone": "(858) 914-4814",
-    "address": "street: 1616 Almira St Apt 9 location: Jacksonville, FL 32211"
+    "address": " 1616 Almira St Apt 9  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480058911",
     "name": "Station Four",
     "description": "Advertising Agencies",
     "phone": "(904) 399-3219",
-    "address": "street: 100 N Laura St Ste 602 location: Jacksonville, FL 32202"
+    "address": " 100 N Laura St Ste 602  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "557394819",
     "name": "Kairos Digital",
     "description": "Advertising Agencies",
     "phone": "(904) 267-1969",
-    "address": "street: 220 E Forsyth St Ste E location: Jacksonville, FL 32202"
+    "address": " 220 E Forsyth St Ste E  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458696251",
     "name": "B & B Outdoor Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 281-0000",
-    "address": "street: 215 Osceola St location: Jacksonville, FL 32204"
+    "address": " 215 Osceola St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "539697893",
     "name": "Marlin Consulting Solutions",
     "description": "Advertising Agencies",
     "phone": "(904) 853-0364",
-    "address": "street: 1301 Riverplace Blvd Suite 800 location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd Suite 800  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497746703",
     "name": "Robin Shepherd Group Ths",
     "description": "Advertising Agencies",
     "phone": "(904) 359-0981",
-    "address": "street: 1301 Riverplace Blvd location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "547765262",
     "name": "Holland People+Brands",
     "description": "Advertising Agencies",
     "phone": "(904) 732-4932",
-    "address": "street: 1301 Riverplace Blvd Ste 800 location: Jacksonville, FL 32207"
+    "address": " 1301 Riverplace Blvd Ste 800  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505018820",
     "name": "Mohaned Kawar",
     "description": "Advertising Agencies",
     "phone": "(904) 524-8178",
-    "address": "street: 7430 Atlantic Blvd location: Jacksonville, FL 32211"
+    "address": " 7430 Atlantic Blvd  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "513270822",
     "name": "Kopupon Social",
     "description": "Advertising Agencies",
     "phone": "(904) 415-6600",
-    "address": "street: 9951 Atlantic Blvd Ste 316 location: Jacksonville, FL 32225"
+    "address": " 9951 Atlantic Blvd Ste 316  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503811955",
     "name": "JRoc Productions",
     "description": "Advertising Agencies",
     "phone": "(904) 290-9228",
-    "address": "street: 86099 Britt Lynn Ln location: Yulee, FL 32097"
+    "address": " 86099 Britt Lynn Ln  Yulee, FL 32097",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2565633",
     "name": "St John & Partners Advertising & Public Relations",
     "description": "Advertising Agencies",
     "phone": "(904) 281-2500",
-    "address": "street: 5220 Belfort Rd Ste 400 location: Jacksonville, FL 32256"
+    "address": " 5220 Belfort Rd Ste 400  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22202920",
     "name": "Don Flynn Pictures",
     "description": "Advertising Agencies",
     "phone": "(904) 274-0548",
-    "address": "street: 6611 Southpoint Pkwy location: Jacksonville, FL 32216"
+    "address": " 6611 Southpoint Pkwy  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10768781",
     "name": "Black Pages USA",
     "description": "Advertising Agencies",
     "phone": "(904) 727-7451",
-    "address": "street: 101 Century 21 Dr location: Jacksonville, FL 32216"
+    "address": " 101 Century 21 Dr  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "552236744",
     "name": "Remora Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 770-4395",
-    "address": "street: 3236 Beach Blvd location: Jacksonville, FL 32207"
+    "address": " 3236 Beach Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "455748841",
     "name": "Proforma Print Media",
     "description": "Advertising Agencies",
     "phone": "(904) 398-4000",
-    "address": "street: 4631 Brown Ave location: Jacksonville, FL 32207"
+    "address": " 4631 Brown Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "12813453",
     "name": "Owens & Minor",
     "description": "Advertising Agencies",
     "phone": "(904) 596-4600",
-    "address": "street: 8489 Westside Industrial Dr location: Jacksonville, FL 32219"
+    "address": " 8489 Westside Industrial Dr  Jacksonville, FL 32219",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502810577",
     "name": "Ingenuity Orthodontic Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 572-4462",
-    "address": "street: 2720 Park St Ste 218 location: Jacksonville, FL 32205"
+    "address": " 2720 Park St Ste 218  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "575991121",
     "name": "Mad Men Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 355-1766",
-    "address": "street: 2190 Saint Johns Bluff Rd S location: Jacksonville, FL 32246"
+    "address": " 2190 Saint Johns Bluff Rd S  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "530826660",
     "name": "C B Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 619-8031",
-    "address": "street: 5525 Beach Blvd location: Jacksonville, FL 32207"
+    "address": " 5525 Beach Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505002577",
     "name": "Shinwa Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 634-7981",
-    "address": "street: 840 Edgewood Ave S location: Jacksonville, FL 32205"
+    "address": " 840 Edgewood Ave S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22748946",
     "name": "Alexander Cubed Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 389-7622",
-    "address": "street: 1415 Belvedere Ave location: Jacksonville, FL 32205"
+    "address": " 1415 Belvedere Ave  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503563642",
     "name": "Stash Saver LLC",
     "description": "Advertising Agencies",
     "phone": "(904) 405-7795",
-    "address": "street: 5455 Verna Blvd Unit 6311 location: jacksonville, FL 32236"
+    "address": " 5455 Verna Blvd Unit 6311  jacksonville, FL 32236",
+    "location": "Duval"
   },
   {
-    "dataYpid": "451302572",
     "name": "Johannes Signs",
     "description": "Advertising Agencies",
     "phone": "(904) 364-8869",
-    "address": "street: 4549 Saint Augustine Rd Ste 4549 location: Jacksonville, FL 32207"
+    "address": " 4549 Saint Augustine Rd Ste 4549  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "15691279",
     "name": "Cfi Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 387-0069",
-    "address": "street: 4554 Saint Johns Ave location: Jacksonville, FL 32210"
+    "address": " 4554 Saint Johns Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "528421467",
     "name": "Champion Trophy And Awards",
     "description": "Advertising Agencies",
     "phone": "(904) 997-6166",
-    "address": "street: 11645 Beach Blvd location: Jacksonville, FL 32246"
+    "address": " 11645 Beach Blvd  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573006913",
     "name": "Doohickey",
     "description": "Advertising Agencies",
     "phone": "(904) 853-5477",
-    "address": "street: 13475 Atlantic Blvd Ste 8-M820 location: Jacksonville, FL 32225"
+    "address": " 13475 Atlantic Blvd Ste 8-M820  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "471065042",
     "name": "Boost Rank SEO",
     "description": "Advertising Agencies",
     "phone": "(904) 537-9940",
-    "address": "street: 4503 Irvington Ave Ste 11 location: Jacksonville, FL 32210"
+    "address": " 4503 Irvington Ave Ste 11  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "507695555",
     "name": "Pot O Gold Productions, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 744-7478",
-    "address": "street: 11555 Central Pkwy location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "564056049",
     "name": "Valpak of Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(904) 395-4230",
-    "address": "street: 11555 Central Pkwy location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "481115878",
     "name": "Media Design Jax",
     "description": "Advertising Agencies",
     "phone": "(904) 636-5131",
-    "address": "street: 5569 Bowden Rd Ste 5569 location: Jacksonville, FL 32216"
+    "address": " 5569 Bowden Rd Ste 5569  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "8274629",
     "name": "The Baer Edge Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 982-1734",
-    "address": "street: 4320 Deerwood Lake Pkwy Ste 101-222 location: Jacksonville, FL 32216"
+    "address": " 4320 Deerwood Lake Pkwy Ste 101-222  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503122720",
     "name": "The Victory Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 274-0732",
-    "address": "street: 6034 Chester Ave Ste 107a location: Jacksonville, FL 32217"
+    "address": " 6034 Chester Ave Ste 107a  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13896555",
     "name": "The Blue Book",
     "description": "Advertising Agencies",
     "phone": "(904) 854-8050",
-    "address": "street: 2902 Corinthian Ave location: Jacksonville, FL 32210"
+    "address": " 2902 Corinthian Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497660879",
     "name": "Web Design Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(904) 802-1211",
-    "address": "street: 4540 Southside Blvd location: Jacksonville, FL 32216"
+    "address": " 4540 Southside Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496122652",
     "name": "Jax Beach Websites",
     "description": "Advertising Agencies",
     "phone": "(904) 802-1211",
-    "address": "street: 4540 Southside Blvd location: Jacksonville, FL 32216"
+    "address": " 4540 Southside Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505805575",
     "name": "Blue Cat Media Group",
     "description": "Advertising Agencies",
     "phone": "(904) 666-5930",
-    "address": "street: 2337 Foxhaven Dr E location: Jacksonville, FL 32224"
+    "address": " 2337 Foxhaven Dr E  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "538410184",
     "name": "Bill Gates Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 635-6200",
-    "address": "street: 4150 Belfort Rd location: Jacksonville, FL 32255"
+    "address": " 4150 Belfort Rd  Jacksonville, FL 32255",
+    "location": "Duval"
   },
   {
-    "dataYpid": "506445454",
-    "name": "Second Floor Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(904) 551-1459",
-    "address": "street: 6736 La Loma Dr location: Jacksonville, FL 32217"
-  },
-  {
-    "dataYpid": "499234251",
     "name": "Rebel Distribution Corp",
     "description": "Advertising Agencies",
     "phone": "(805) 214-0900",
-    "address": "street: 4345 Southpoint Blvd location: Jacksonville, FL 32216"
+    "address": " 4345 Southpoint Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "508840484",
     "name": "Harrington Design",
     "description": "Advertising Agencies",
     "phone": "(904) 398-5700",
-    "address": "street: 6620 Southpoint Dr S location: Jacksonville, FL 32216"
+    "address": " 6620 Southpoint Dr S  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524752912",
     "name": "Lisa Cotter Marketing Communications",
     "description": "Advertising Agencies",
     "phone": "(904) 446-8739",
-    "address": "street: 10000 Gate Pkwy N Apt 1613 location: Jacksonville, FL 32246"
+    "address": " 10000 Gate Pkwy N Apt 1613  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503077861",
     "name": "YP Marketing Solutions",
     "description": "Advertising Agencies",
     "phone": "(904) 288-2957",
-    "address": "street: 4651 Salisbury Rd Ste 300 location: Jacksonville, FL 32256"
+    "address": " 4651 Salisbury Rd Ste 300  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "511230435",
     "name": "Business Network Designs - Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(904) 236-5878",
-    "address": "street: 4651 Salisbury Rd Ste 400 location: Jacksonville, FL 32256"
+    "address": " 4651 Salisbury Rd Ste 400  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480655366",
     "name": "DiscoverTec",
     "description": "Advertising Agencies",
     "phone": "(904) 680-3000",
-    "address": "street: 4887 Belfort Rd Ste 400 location: Jacksonville, FL 32256"
+    "address": " 4887 Belfort Rd Ste 400  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "492697025",
     "name": "Digital Edge Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 982-4915",
-    "address": "street: 10161 Centurion Pkwy N #170 location: Jacksonville, FL 32256"
+    "address": " 10161 Centurion Pkwy N #170  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573210180",
     "name": "The Legal Marketing Company",
     "description": "Advertising Agencies",
     "phone": "(904) 385-9124",
-    "address": "street: 5011 Gate Pkwy location: Jacksonville, FL 32256"
+    "address": " 5011 Gate Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461926386",
     "name": "My Optimization Experts",
     "description": "Advertising Agencies",
     "phone": "(904) 955-1807",
-    "address": "street: 10151 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "548187710",
     "name": "Money Pages",
     "description": "Advertising Agencies",
     "phone": "(904) 306-0086",
-    "address": "street: 7892 Baymeadows Way location: Jacksonville, FL 32256"
+    "address": " 7892 Baymeadows Way  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467648139",
     "name": "Beson4",
     "description": "Advertising Agencies",
     "phone": "(904) 992-9945",
-    "address": "street: 13500 Sutton Park Dr S Ste 104 location: Jacksonville, FL 32224"
+    "address": " 13500 Sutton Park Dr S Ste 104  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573223741",
     "name": "Exigo Sales and Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 479-6080",
-    "address": "street: 8777 San Jose Blvd location: Jacksonville, FL 32217"
+    "address": " 8777 San Jose Blvd  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "906912",
     "name": "Telehammers",
     "description": "Advertising Agencies",
     "phone": "(904) 236-5332",
-    "address": "street: 9140 Golfside Dr location: Jacksonville, FL 32256"
+    "address": " 9140 Golfside Dr  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505165808",
     "name": "Red House Advertising and Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 270-9390",
-    "address": "street: 2027 Mayport Rd location: Jacksonville, FL 32233"
+    "address": " 2027 Mayport Rd  Jacksonville, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "566858734",
     "name": "WayUP Marketing Agency & Business Solutions",
     "description": "Advertising Agencies",
     "phone": "(800) 290-7271",
-    "address": "street: 14286-19 Beach Blvd Ste 210 location: Jacksonville, FL 32250"
+    "address": " 14286-19 Beach Blvd Ste 210  Jacksonville, FL 32250",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496122008",
     "name": "Golfside North",
     "description": "Advertising Agencies",
     "phone": "(904) 432-7918",
-    "address": "street: 95021 Captains Way location: Fernandina Beach, FL 32034"
+    "address": " 95021 Captains Way  Fernandina Beach, FL 32034",
+    "location": "Duval"
   },
   {
-    "dataYpid": "518890416",
     "name": "Artex Creative",
     "description": "Advertising Agencies",
     "phone": "(904) 330-4932",
-    "address": "street: 331 Seminole Rd location: Atlantic Beach, FL 32233"
+    "address": " 331 Seminole Rd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467304916",
     "name": "Image PRO Ad Specialties Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 287-0377",
-    "address": "street: 10920 Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 10920 Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503241877",
     "name": "SumitSEO",
     "description": "Advertising Agencies",
     "phone": "(904) 345-0944",
-    "address": "street: 10503 San Jose Blvd Ste 4 location: Jacksonville, FL 32257"
+    "address": " 10503 San Jose Blvd Ste 4  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "15316662",
     "name": "Corporate Concepts",
     "description": "Advertising Agencies",
     "phone": "(904) 880-8212",
-    "address": "street: 3826 Olympic Ln location: Jacksonville, FL 32223"
+    "address": " 3826 Olympic Ln  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "470422796",
     "name": "Search Seek Destroy",
     "description": "Advertising Agencies",
     "phone": "(904) 469-7335",
-    "address": "street: 11979 Colby Creek Dr location: Jacksonville, FL 32258"
+    "address": " 11979 Colby Creek Dr  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505440445",
     "name": "T. Mak's International",
     "description": "Advertising Agencies",
     "phone": "(866) 308-8368",
-    "address": "street: 7076 Davis Creek Rd location: Jacksonville, FL 32256"
+    "address": " 7076 Davis Creek Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "504954093",
     "name": "Review Branding TV",
     "description": "Advertising Agencies",
     "phone": "(904) 222-8925",
-    "address": "street: 6684 Columbia Park Dr S Ste 7 location: Jacksonville, FL 32258"
+    "address": " 6684 Columbia Park Dr S Ste 7  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "450799598",
     "name": "3-D Courier Services, LLC",
     "description": "Advertising Agencies",
     "phone": "(904) 217-4572",
-    "address": "street: 12443 San Jose Blvd Ste 802-e location: Jacksonville, FL 32223"
+    "address": " 12443 San Jose Blvd Ste 802-e  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465708378",
     "name": "Rt Publishing",
     "description": "Advertising Agencies",
     "phone": "(904) 886-4919",
-    "address": "street: 12443 San Jose Blvd Ste 403 location: Jacksonville, FL 32223"
+    "address": " 12443 San Jose Blvd Ste 403  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464640756",
     "name": "Sign Talk Graphix",
     "description": "Advertising Agencies",
     "phone": "(904) 737-9119",
-    "address": "street: 12610 Cachet Dr location: Jacksonville, FL 32223"
+    "address": " 12610 Cachet Dr  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "575287026",
     "name": "Consult PR, Inc.",
     "description": "Advertising Agencies",
     "phone": "(561) 444-7265",
-    "address": "street: 12724 Gran Bay Pkwy W location: Jacksonville, FL 32258"
+    "address": " 12724 Gran Bay Pkwy W  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "567890886",
     "name": "Dagmar Marketing",
     "description": "Advertising Agencies",
     "phone": "(904) 270-9778",
-    "address": "street: 12574 Flagler Center Blvd Ste 101 location: Jacksonville, FL 32258"
+    "address": " 12574 Flagler Center Blvd Ste 101  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "571580219",
     "name": "Liquid Creative - Marketing Agency Jacksonville",
     "description": "Advertising Agencies",
     "phone": "(352) 600-5050",
-    "address": "street: 12574 Flagler Center Blvd Ste 101 location: Jacksonville, FL 32258"
+    "address": " 12574 Flagler Center Blvd Ste 101  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473497106",
     "name": "Web.com",
     "description": "Advertising Agencies",
     "phone": "(904) 371-6845",
-    "address": "street: 12808 Gran Bay Pkwy W location: Jacksonville, FL 32258"
+    "address": " 12808 Gran Bay Pkwy W  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "526688032",
     "name": "Majority Strategies",
     "description": "Advertising Agencies",
     "phone": "(904) 567-2008",
-    "address": "street: 12854 Kenan Dr location: Jacksonville, FL 32258"
+    "address": " 12854 Kenan Dr  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "547429209",
     "name": "PFJ Service",
     "description": "Advertising Agencies",
     "phone": "(904) 204-4442",
-    "address": "street: 7021 Berrybrook Dr location: Jacksonville, FL 32258"
+    "address": " 7021 Berrybrook Dr  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458147139",
     "name": "A 2 Z Signs",
     "description": "Signs",
     "phone": "(904) 713-5531",
-    "address": "street: 12721 N Main St location: Jacksonville, FL 32218"
+    "address": " 12721 N Main St  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "525981558",
-    "name": "Beach Banners",
-    "description": "Aerial Photographers",
-    "phone": "(904) 642-0721",
-    "address": "street: N/A location: Jacksonville, FL 32225"
-  },
-  {
-    "dataYpid": "461853468",
     "name": "Custom Design",
     "description": "Signs",
     "phone": "(904) 733-5646",
-    "address": "street: 2023 New Berlin Rd location: Jacksonville, FL 32218"
+    "address": " 2023 New Berlin Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473634531",
     "name": "Precision Printing & Graphics",
     "description": "T-Shirts",
     "phone": "(904) 545-0226",
-    "address": "street: 14476 Duval Pl W location: Jacksonville, FL 32218"
+    "address": " 14476 Duval Pl W  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "532008703",
     "name": "Trophykits.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 693-6789",
-    "address": "street: 1314 Eastport Rd location: Jacksonville, FL 32218"
+    "address": " 1314 Eastport Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "561598206",
     "name": "Minuteman Press North Jax",
     "description": "Printing Services",
     "phone": "(904) 337-0160",
-    "address": "street: 11565 N Main St Ste 107 location: Jacksonville, FL 32218"
+    "address": " 11565 N Main St Ste 107  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10631648",
-    "name": "Tri-C Promotions",
-    "description": "Computer Graphics",
-    "phone": "(904) 262-6280",
-    "address": "street: N/A location: Jacksonville, FL 32223"
-  },
-  {
-    "dataYpid": "19279053",
-    "name": "Millennium Technology Resources",
-    "description": "Internet Consultants",
-    "phone": "(904) 733-1447",
-    "address": "street: N/A location: Jacksonville, FL 32257"
-  },
-  {
-    "dataYpid": "460683816",
-    "name": "CTR Impressions",
-    "description": "Gift Baskets",
-    "phone": "(904) 371-2036",
-    "address": "street: N/A location: Jacksonville, FL 32246"
-  },
-  {
-    "dataYpid": "467911211",
-    "name": "a Jax Small Biz",
-    "description": "Internet Consultants",
-    "phone": "(904) 437-0888",
-    "address": "street: N/A location: Jacksonville, FL 32210"
-  },
-  {
-    "dataYpid": "496120702",
-    "name": "DesignLoad",
-    "description": "Web Site Design & Services",
-    "phone": "(904) 399-8846",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "19572183",
-    "name": "G. Wooden Printing",
-    "description": "Business Cards",
-    "phone": "(904) 705-8090",
-    "address": "street: N/A location: Jacksonville, FL 32218"
-  },
-  {
-    "dataYpid": "457885817",
-    "name": "Original Car Decals",
-    "description": "Automobile Accessories",
-    "phone": "(904) 469-7151",
-    "address": "street: N/A location: Jacksonville, FL 32225"
-  },
-  {
-    "dataYpid": "461582109",
-    "name": "SignMeUp Graphics Inc.",
-    "description": "Business Cards",
-    "phone": "(904) 322-3228",
-    "address": "street: N/A location: Jacksonville, FL 32277"
-  },
-  {
-    "dataYpid": "464586012",
-    "name": "MR. Graphics",
-    "description": "Advertising-Promotional Products",
-    "phone": "(904) 200-5001",
-    "address": "street: N/A location: Jacksonville, FL 32244"
-  },
-  {
-    "dataYpid": "469724686",
-    "name": "HexKeyIT",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 638-1070",
-    "address": "street: N/A location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "470127228",
-    "name": "Work from Home DBG",
-    "description": "Home Centers",
-    "phone": "(904) 654-1740",
-    "address": "street: N/A location: Jacksonville, FL 32246"
-  },
-  {
-    "dataYpid": "575289836",
-    "name": "ACM Digital Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(904) 274-1135",
-    "address": "street: N/A location: Jacksonville, FL 32225"
-  },
-  {
-    "dataYpid": "457411841",
-    "name": "Red Zephyr Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(704) 918-5733",
-    "address": "street: N/A location: Jacksonville, FL 32224"
-  },
-  {
-    "dataYpid": "465490305",
-    "name": "Graphic by Anthony",
-    "description": "Graphic Designers",
-    "phone": "(904) 257-3621",
-    "address": "street: N/A location: Jacksonville, FL 32220"
-  },
-  {
-    "dataYpid": "468112384",
-    "name": "OptiSite.co LLC",
-    "description": "Internet Consultants",
-    "phone": "(904) 404-7484",
-    "address": "street: N/A location: Jacksonville, FL 32225"
-  },
-  {
-    "dataYpid": "468451291",
-    "name": "Synapsis Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 900-8959",
-    "address": "street: N/A location: Jacksonville, FL 32224"
-  },
-  {
-    "dataYpid": "473980060",
-    "name": "Extreme Tint & Graphics",
-    "description": "Signs",
-    "phone": "(904) 813-1770",
-    "address": "street: N/A location: Jacksonville, FL 32218"
-  },
-  {
-    "dataYpid": "482194362",
-    "name": "Full Ambit Media, LLC",
-    "description": "Internet Consultants",
-    "phone": "(800) 604-0625",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "533500064",
-    "name": "Optimization Nation",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 834-4814",
-    "address": "street: N/A location: Jacksonville, FL 32216"
-  },
-  {
-    "dataYpid": "549165162",
-    "name": "Bright Green Path Web Solutions",
-    "description": "Web Site Design & Services",
-    "phone": "(904) 502-4627",
-    "address": "street: N/A location: Jacksonville, FL 32254"
-  },
-  {
-    "dataYpid": "454038950",
-    "name": "NDA Solutions",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 469-8558",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "15383712",
-    "name": "Signs Of All Kinds",
-    "description": "Signs",
-    "phone": "(904) 300-3665",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "16565223",
-    "name": "SIGN-A-RAMA",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(904) 292-1104",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "462489158",
-    "name": "Performance Internet Group",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 469-0444",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "4294558",
-    "name": "M M Grinnan",
-    "description": "T-Shirts",
-    "phone": "(904) 260-2686",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "168007",
-    "name": "Mr Anderson's EBookStore",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 743-7205",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22037774",
-    "name": "Visual Cove",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 468-7770",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22842649",
-    "name": "1 Americas Promotions Custom Promotional Products and Promo Items",
-    "description": "T-Shirts",
-    "phone": "(904) 520-4496",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22842652",
-    "name": "1 Custom Embroidery Factory Jacksonville",
-    "description": "T-Shirts",
-    "phone": "(904) 520-4498",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "252820",
-    "name": "J. Lacey Designs",
-    "description": "Animation Services",
-    "phone": "(904) 860-3309",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "2642672",
-    "name": "Signs Plus",
-    "description": "Signs",
-    "phone": "(904) 854-1414",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465215978",
-    "name": "free cash daily investment",
-    "description": "Marketing Programs & Services",
-    "phone": "(904) 325-6437",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468326441",
-    "name": "WebMotion",
-    "description": "Internet Consultants",
-    "phone": "(904) 477-2237",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "16960101",
-    "name": "Signshark Sign Service",
-    "description": "Signs",
-    "phone": "(904) 766-9588",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "18072776",
-    "name": "Twomey Advertising Specialties",
-    "description": "Advertising Specialties",
-    "phone": "(904) 641-1766",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22351004",
-    "name": "Mygani Design Studio",
-    "description": "Graphic Designers",
-    "phone": "(904) 860-8440",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "456841200",
-    "name": "Clear View Signs Inc",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(904) 879-0752",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "467176727",
-    "name": "Urban Websites",
-    "description": "Internet Consultants",
-    "phone": "(800) 718-8020",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "474188018",
-    "name": "Twomey Associates",
-    "description": "Advertising Specialties",
-    "phone": "(904) 641-1766",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "479824224",
-    "name": "Surf Core",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 729-2207",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "513693489",
-    "name": "Graphics Garage",
-    "description": "Graphic Designers",
-    "phone": "(904) 910-7924",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "526367115",
-    "name": "Jacksonville Direct Mail Marketing",
-    "description": "Direct Mail Advertising",
-    "phone": "(904) 330-4082",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "562525860",
-    "name": "Web Scholars",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(215) 808-0641",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573812926",
-    "name": "Southwick Specialty Advertising Inc",
-    "description": "Advertising Specialties",
-    "phone": "(800) 858-8090",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "5881387",
-    "name": "The Sign Shop",
-    "description": "Signs",
-    "phone": "(904) 993-4324",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "544293959",
     "name": "Jax Florida Internet Marketing & Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 419-7214",
-    "address": "street: 11325 N Main St Lot 25 location: Jacksonville, FL 32218"
+    "address": " 11325 N Main St Lot 25  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "514805715",
     "name": "Rojas Consulting",
     "description": "Management Consultants",
     "phone": "(904) 772-4709",
-    "address": "street: 13706 Fish Eagle Dr W location: Jacksonville, FL 32226"
+    "address": " 13706 Fish Eagle Dr W  Jacksonville, FL 32226",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461232759",
     "name": "National Parcel Logistics",
     "description": "Mail & Shipping Services",
     "phone": "(904) 741-0027",
-    "address": "street: 14200 Pecan Park Rd location: Jacksonville, FL 32218"
+    "address": " 14200 Pecan Park Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "546593306",
-    "name": "Clear View Signs Inc",
-    "description": "Signs-Erectors & Hangers",
-    "phone": "(904) 626-6546",
-    "address": "street: 550 Balmoral Cir N location: Jacksonville, FL 32218"
-  },
-  {
-    "dataYpid": "575763819",
     "name": "Evans Marketing Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 586-2896",
-    "address": "street: 1250 Imeson Park Blvd location: Jacksonville, FL 32218"
+    "address": " 1250 Imeson Park Blvd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "483317097",
     "name": "Power Team Money Makers",
     "description": "Internet Marketing & Advertising",
     "phone": "(315) 463-5981",
-    "address": "street: 12041 Alexandra Dr location: Jacksonville, FL 32218"
+    "address": " 12041 Alexandra Dr  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7098628",
     "name": "Trophy Magic",
     "description": "Advertising Specialties",
     "phone": "(904) 765-4503",
-    "address": "street: 7308 N Pearl St location: Jacksonville, FL 32208"
+    "address": " 7308 N Pearl St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4837238",
     "name": "Tiki Graphics",
     "description": "Signs",
     "phone": "(904) 768-0044",
-    "address": "street: 2831 Dunn Ave location: Jacksonville, FL 32218"
+    "address": " 2831 Dunn Ave  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "519160624",
     "name": "Jobs4Living.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 333-2776",
-    "address": "street: 1057 Broward Rd location: Jacksonville, FL 32218"
+    "address": " 1057 Broward Rd  Jacksonville, FL 32218",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4187676",
     "name": "Prestige Monument & Vault Co",
     "description": "Monuments",
     "phone": "(904) 764-2544",
-    "address": "street: 2220 Soutel Dr location: Jacksonville, FL 32208"
+    "address": " 2220 Soutel Dr  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "470261269",
     "name": "Shark Signs of NE FL, Inc.",
     "description": "Signs",
     "phone": "(904) 338-9488",
-    "address": "street: 7030 N Main St location: Jacksonville, FL 32208"
+    "address": " 7030 N Main St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "532955129",
     "name": "Signsharks Sign Service",
     "description": "Signs-Maintenance & Repair",
     "phone": "(904) 766-6222",
-    "address": "street: 7030 N Main St location: Jacksonville, FL 32208"
+    "address": " 7030 N Main St  Jacksonville, FL 32208",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505142721",
     "name": "minimarket.com, Inc.",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 651-0405",
-    "address": "street: 7707 Merrill Rd Unit 11841 location: jacksonville, FL 32239"
+    "address": " 7707 Merrill Rd Unit 11841  jacksonville, FL 32239",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496511816",
     "name": "Southern Monument Co Inc",
     "description": "Monuments",
     "phone": "(904) 356-4714",
-    "address": "street: 4500 N Main St location: Jacksonville, FL 32206"
+    "address": " 4500 N Main St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "20343665",
     "name": "The Gift Gallery Promo",
     "description": "Advertising-Promotional Products",
     "phone": "(888) 834-0333",
-    "address": "street: 2030 Benedict Rd location: Jacksonville, FL 32209"
+    "address": " 2030 Benedict Rd  Jacksonville, FL 32209",
+    "location": "Duval"
   },
   {
-    "dataYpid": "529773433",
     "name": "8 Letter City Radio",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 733-2570",
-    "address": "street: 5371 Tubman Dr S location: Jacksonville, FL 32219"
+    "address": " 5371 Tubman Dr S  Jacksonville, FL 32219",
+    "location": "Duval"
   },
   {
-    "dataYpid": "475355482",
     "name": "MCA= MOTOR CLUB OF AMERICA",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 517-4793",
-    "address": "street: 3140 Franklin St location: Jacksonville, FL 32206"
+    "address": " 3140 Franklin St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497735121",
     "name": "Ace Printing & Copy Center",
     "description": "Printing Services",
     "phone": "(904) 355-0342",
-    "address": "street: 3302 N Main St location: Jacksonville, FL 32206"
+    "address": " 3302 N Main St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "540126917",
     "name": "hustlemotivator.inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 434-0419",
-    "address": "street: 7221 dostie drive east jacksonville florida location: jacksonville, FL 32209"
+    "address": " 7221 dostie drive east jacksonville florida  jacksonville, FL 32209",
+    "location": "Duval"
   },
   {
-    "dataYpid": "563035107",
     "name": "Advantage Printing Laminating & Signs",
     "description": "Signs",
     "phone": "(904) 737-1613",
-    "address": "street: 2050 Walnut St location: Jacksonville, FL 32206"
+    "address": " 2050 Walnut St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "468654265",
     "name": "General Sign Service",
     "description": "Signs-Erectors & Hangers",
     "phone": "(904) 355-5630",
-    "address": "street: 1940 Spearing St location: Jacksonville, FL 32206"
+    "address": " 1940 Spearing St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "478310779",
     "name": "Eagle Signs Jax",
     "description": "Signs",
     "phone": "(904) 503-7378",
-    "address": "street: 515 E 9th St location: Jacksonville, FL 32206"
+    "address": " 515 E 9th St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464324117",
     "name": "Creative Innovations",
     "description": "Advertising Specialties",
     "phone": "(904) 683-2985",
-    "address": "street: 4619 Morris Rd location: Jacksonville, FL 32225"
+    "address": " 4619 Morris Rd  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "559582740",
     "name": "Florida Custom Signs & Services",
     "description": "Signs",
     "phone": "(904) 731-8840",
-    "address": "street: 2213 Broad Water Dr location: Jacksonville, FL 32225"
+    "address": " 2213 Broad Water Dr  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4563965",
     "name": "Ritter Signs Graphics & Truck Accessories",
     "description": "Signs",
     "phone": "(904) 468-0047",
-    "address": "street: 539 S Us Highway 17 location: Yulee, FL 32097"
+    "address": " 539 S Us Highway 17  Yulee, FL 32097",
+    "location": "Duval"
   },
   {
-    "dataYpid": "12253634",
     "name": "East Coast Motorsports",
     "description": "Window Tinting",
     "phone": "(904) 225-8877",
-    "address": "street: 850508 Us Highway 17 location: Yulee, FL 32097"
+    "address": " 850508 Us Highway 17  Yulee, FL 32097",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460134755",
     "name": "Minuteman Press of San Marco",
     "description": "Copying & Duplicating Service",
     "phone": "(904) 858-1000",
-    "address": "street: 1478 Riverplace Blvd Ste 104 location: Jacksonville, FL 32207"
+    "address": " 1478 Riverplace Blvd Ste 104  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "474063330",
     "name": "Florida Times-Union",
     "description": "Print Advertising",
     "phone": "(904) 359-4255",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "548436599",
     "name": "First Coast Sign Language Interpreting",
     "description": "Advertising Specialties",
     "phone": "(888) 886-5246",
-    "address": "street: PO Box 11807 location: Jacksonville, FL 32239"
+    "address": " PO Box 11807  Jacksonville, FL 32239",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4766911",
     "name": "Vital Sign Service Inc",
     "description": "Signs",
     "phone": "(904) 860-6686",
-    "address": "street: 1214 Romney St location: Jacksonville, FL 32211"
+    "address": " 1214 Romney St  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "484778342",
     "name": "Phillips Signs and Design",
     "description": "Graphic Designers",
     "phone": "(904) 743-7619",
-    "address": "street: 1214 Romney St location: Jacksonville, FL 32211"
+    "address": " 1214 Romney St  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "513116758",
     "name": "Beach Neon and Sign Co",
     "description": "Signs-Maintenance & Repair",
     "phone": "(904) 246-1106",
-    "address": "street: 1214 Romney St location: Jacksonville, FL 32211"
+    "address": " 1214 Romney St  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5209920",
     "name": "Bentley Sign Co",
     "description": "Signs",
     "phone": "(904) 743-7619",
-    "address": "street: 1214 Romney St location: Jacksonville, FL 32211"
+    "address": " 1214 Romney St  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "480198854",
     "name": "We Make The Shirt",
     "description": "Business Cards",
     "phone": "(904) 527-1920",
-    "address": "street: 822 A Philip Randolph Blvd location: jacksonville, FL 32206"
+    "address": " 822 A Philip Randolph Blvd  jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "486295896",
     "name": "Crystalcase.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 743-8684",
-    "address": "street: 1030 University Blvd N location: Jacksonville, FL 32211"
+    "address": " 1030 University Blvd N  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465215833",
     "name": "Sign Guys",
     "description": "Signs",
     "phone": "(904) 290-1401",
-    "address": "street: 700 E Union St location: Jacksonville, FL 32206"
+    "address": " 700 E Union St  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464647248",
     "name": "Sign PRO America",
     "description": "Signs",
     "phone": "(904) 527-8248",
-    "address": "street: 700 E Union St Ste 18 location: Jacksonville, FL 32206"
+    "address": " 700 E Union St Ste 18  Jacksonville, FL 32206",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21688628",
     "name": "Advanced Screens",
     "description": "Aluminum Products",
     "phone": "(904) 422-9099",
-    "address": "street: 7849 Alderman Rd location: Jacksonville, FL 32211"
+    "address": " 7849 Alderman Rd  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497701721",
     "name": "Town Planner Community Calendar",
     "description": "Directory & Guide Advertising",
     "phone": "(904) 999-4160",
-    "address": "street: 2771-29 Monument Road location: Jacksonville, FL 32225"
+    "address": " 2771-29 Monument Road  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29251527",
     "name": "Experienced Mail Transport",
     "description": "Mail & Shipping Services",
     "phone": "(904) 354-0203",
-    "address": "street: 1516 Morgan St location: Jacksonville, FL 32209"
+    "address": " 1516 Morgan St  Jacksonville, FL 32209",
+    "location": "Duval"
   },
   {
-    "dataYpid": "542556836",
     "name": "Jaxtown Planner",
     "description": "Direct Mail Advertising",
     "phone": "(904) 999-4160",
-    "address": "street: 2771 Monument Rd location: Jacksonville, FL 32225"
+    "address": " 2771 Monument Rd  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "545518230",
     "name": "Lind Outdoor Advertising Co",
     "description": "Transit Advertising",
     "phone": "(800) 444-5463",
-    "address": "street: 409 N Main St location: Jacksonville, FL 32202"
+    "address": " 409 N Main St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "474060505",
     "name": "JK Design Arts",
     "description": "Copy Writers",
     "phone": "(904) 638-6068",
-    "address": "street: PO Box 61651 location: Jacksonville, FL 32236"
+    "address": " PO Box 61651  Jacksonville, FL 32236",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524180350",
     "name": "Merkley Marketing Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 217-3430",
-    "address": "street: Po Box 600906 location: Jacksonville, FL 32260"
+    "address": " Po Box 600906  Jacksonville, FL 32260",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469731381",
     "name": "Wind Mill",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 900-3623",
-    "address": "street: 7902 Wildwood Rd location: Jacksonville, FL 32211"
+    "address": " 7902 Wildwood Rd  Jacksonville, FL 32211",
+    "location": "Duval"
   },
   {
-    "dataYpid": "527894147",
-    "name": "Shinwa Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 634-7981",
-    "address": "street: 840 Edgewood Ave location: Jacksonville, FL 32202"
-  },
-  {
-    "dataYpid": "505815460",
     "name": "Perspective Edge",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 479-5932",
-    "address": "street: 118 W Adams St Ste 245 location: Jacksonville, FL 32202"
+    "address": " 118 W Adams St Ste 245  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502816750",
     "name": "FedEx Office Print & Ship Center",
     "description": "Copying & Duplicating Service",
     "phone": "(904) 353-1100",
-    "address": "street: 221 W Forsyth St location: Jacksonville, FL 32202"
+    "address": " 221 W Forsyth St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505609551",
     "name": "DAGMAR Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 270-9778",
-    "address": "street: 5 W Forsyth St location: Jacksonville, FL 32202"
+    "address": " 5 W Forsyth St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "526161720",
     "name": "Bizjournals.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 396-3502",
-    "address": "street: 200 W Forsyth St location: Jacksonville, FL 32202"
+    "address": " 200 W Forsyth St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "554946043",
     "name": "United Allied Marketing Services",
     "description": "Marketing Consultants",
     "phone": "(904) 780-0246",
-    "address": "street: 50 N. Laura St. Ste 2500 location: Jacksonville, FL 32202"
+    "address": " 50 N. Laura St. Ste 2500  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "556035411",
     "name": "SEO Digital Marketing Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(833) 736-3670",
-    "address": "street: 50 N Laura St Ste 2500 location: Jacksonville, FL 32202"
+    "address": " 50 N Laura St Ste 2500  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "514260934",
     "name": "Capitallawcenter.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(781) 239-3500",
-    "address": "street: 301 W Bay St location: Jacksonville, FL 32202"
+    "address": " 301 W Bay St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "546967721",
     "name": "Aiden Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 549-5039",
-    "address": "street: 24 Market St location: Jacksonville, FL 32202"
+    "address": " 24 Market St  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551790663",
     "name": "MarketChair",
     "description": "Internet Marketing & Advertising",
     "phone": "(302) 715-1002",
-    "address": "street: 25 N Market St # 121 location: Jacksonville, FL 32202"
+    "address": " 25 N Market St # 121  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "468406008",
     "name": "We Were Born to Shine",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 998-8673",
-    "address": "street: 12906 Oakland Hills Ct location: Jacksonville, FL 32225"
+    "address": " 12906 Oakland Hills Ct  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "483170309",
     "name": "Main Street Digital",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 239-1607",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5243585",
     "name": "Times-Union Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 359-4318",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464233563",
     "name": "Fermil & Assoc Inc",
     "description": "Direct Mail Advertising",
     "phone": "(904) 642-0380",
-    "address": "street: 12217 Panther Ridge Dr location: Jacksonville, FL 32225"
+    "address": " 12217 Panther Ridge Dr  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "18654056",
     "name": "Atlantic Signs",
     "description": "Signs-Maintenance & Repair",
     "phone": "(904) 226-1059",
-    "address": "street: 107 Mott St location: Jacksonville, FL 32254"
+    "address": " 107 Mott St  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "472642057",
     "name": "Boltuli Inc",
     "description": "Advertising Specialties",
     "phone": "(904) 900-3179",
-    "address": "street: 806 Rosselle St location: Jacksonville, FL 32204"
+    "address": " 806 Rosselle St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "18226926",
     "name": "ACE Web Service",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 501-9747",
-    "address": "street: 5201 Atlantic Blvd Unit 289 location: Jacksonville, FL 32207"
+    "address": " 5201 Atlantic Blvd Unit 289  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "525786918",
     "name": "Florida Custom Signs and Services",
     "description": "Signs",
     "phone": "(904) 731-8840",
-    "address": "street: 9951 Atlantic Blvd location: Jacksonville, FL 32225"
+    "address": " 9951 Atlantic Blvd  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21759787",
     "name": "Florida Sun Printing",
     "description": "Printing Services-Commercial",
     "phone": "(904) 879-2101",
-    "address": "street: 54024 Cravey Rd location: Callahan, FL 32011"
+    "address": " 54024 Cravey Rd  Callahan, FL 32011",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473316268",
     "name": "Cottle Communications Inc",
     "description": "Advertising Specialties",
     "phone": "(904) 261-0407",
-    "address": "street: 118 Sea Marsh Rd location: Fernandina Beach, FL 32034"
+    "address": " 118 Sea Marsh Rd  Fernandina Beach, FL 32034",
+    "location": "Duval"
   },
   {
-    "dataYpid": "550706049",
     "name": "Champion Printing",
     "description": "Printers-Screen Printing",
     "phone": "(904) 310-3555",
-    "address": "street: 474315 E. State Rd. 200 location: Fernandina Beach, FL 32034"
+    "address": " 474315 E. State Rd. 200  Fernandina Beach, FL 32034",
+    "location": "Duval"
   },
   {
-    "dataYpid": "2691818",
     "name": "Brunet-Garcia Advertising Inc",
     "description": "Advertising Specialties",
     "phone": "(904) 346-1977",
-    "address": "street: 1510 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1510 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4548313",
     "name": "Advanced Direct Marketing Services",
     "description": "Direct Mail Advertising",
     "phone": "(904) 396-3028",
-    "address": "street: 3733 Adirolf Rd location: Jacksonville, FL 32207"
+    "address": " 3733 Adirolf Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "542196789",
     "name": "Shark Signs of NE FL",
     "description": "Signs",
     "phone": "(904) 758-9171",
-    "address": "street: 5317 Shen Ave location: Jacksonville, FL 32205"
+    "address": " 5317 Shen Ave  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "19682462",
     "name": "Rapid Print",
     "description": "Printers-Equipment & Supplies",
     "phone": "(904) 389-4141",
-    "address": "street: 7029-4 Commonwealth Ave location: Jacksonville, FL 32220"
+    "address": " 7029-4 Commonwealth Ave  Jacksonville, FL 32220",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544397934",
     "name": "Amelia Plumbing",
     "description": "Internet Products & Services",
     "phone": "(904) 246-8330",
-    "address": "street: 2983 Brougham Ave location: Jacksonville, FL 32246"
+    "address": " 2983 Brougham Ave  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22695091",
     "name": "Creative One Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 394-2909",
-    "address": "street: 10752 Deerwood Park Blvd Ste 100 location: Jacksonville, FL 32256"
+    "address": " 10752 Deerwood Park Blvd Ste 100  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1331605",
     "name": "Jacksonville Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 398-7297",
-    "address": "street: 2727 Atlantic Blvd location: Jacksonville, FL 32207"
+    "address": " 2727 Atlantic Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "476089810",
     "name": "Ocean Air Graphics Inc",
     "description": "T-Shirts",
     "phone": "(904) 727-9222",
-    "address": "street: 10909 Atlantic Blvd Ste 10 location: Jacksonville, FL 32225"
+    "address": " 10909 Atlantic Blvd Ste 10  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "539713574",
     "name": "Royal Foam",
     "description": "Interior Designers & Decorators",
     "phone": "(904) 345-5400",
-    "address": "street: 3261 Phillips Hwy location: Jacksonville, FL 32207"
+    "address": " 3261 Phillips Hwy  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "545248554",
     "name": "XJOSE",
     "description": "Web Site Design & Services",
     "phone": "(877) 869-5673",
-    "address": "street: 10151 Deerwood Park Blvd #200 location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd #200  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "456508270",
-    "name": "Jax Florida Internet Marketing & Web Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 410-8044",
-    "address": "street: 642 Melson Ave location: Jacksonville, FL 32254"
-  },
-  {
-    "dataYpid": "490764452",
     "name": "Nova LUX Signs",
     "description": "Sign Lettering",
     "phone": "(904) 513-3687",
-    "address": "street: 3648 Warrington St location: Jacksonville, FL 32254"
+    "address": " 3648 Warrington St  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "145711",
     "name": "Stripeman Graphix Inc",
     "description": "Trade Shows, Expositions & Fairs",
     "phone": "(904) 783-1250",
-    "address": "street: 5355 Ramona Blvd Suite 8 location: Jacksonville, FL 32205"
+    "address": " 5355 Ramona Blvd Suite 8  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "11592310",
     "name": "Brite Lite Signs",
     "description": "Signs",
     "phone": "(904) 398-5305",
-    "address": "street: 3633 Saint Augustine Rd location: Jacksonville, FL 32207"
+    "address": " 3633 Saint Augustine Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "464567164",
     "name": "Florida Transcor, Inc.",
     "description": "Traffic Signs & Signals",
     "phone": "(800) 766-7604",
-    "address": "street: 6683 Stuart Ave location: Jacksonville, FL 32254"
+    "address": " 6683 Stuart Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "838142",
     "name": "The Local Artist",
     "description": "Clothing Stores",
     "phone": "(904) 389-7600",
-    "address": "street: 1046 Ellis Rd S location: Jacksonville, FL 32205"
+    "address": " 1046 Ellis Rd S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "29245024",
     "name": "Shorty's Place in Cyberspace",
     "description": "Advertising Specialties",
     "phone": "(904) 636-0824",
-    "address": "street: 5307 Rollins Ave location: Jacksonville, FL 32207"
+    "address": " 5307 Rollins Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "470377535",
     "name": "Citation Builder Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(323) 522-4672",
-    "address": "street: 4744 San Juan Ave # 457 location: Jacksonville, FL 32210"
+    "address": " 4744 San Juan Ave # 457  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7109502",
     "name": "The UPS Store 5635",
     "description": "Mailbox Rental",
     "phone": "(904) 693-3835",
-    "address": "street: 7749 Normandy Blvd Ste 145 location: Jacksonville, FL 32221"
+    "address": " 7749 Normandy Blvd Ste 145  Jacksonville, FL 32221",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502812782",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(904) 565-8919",
-    "address": "street: 4372 Southside Blvd Ste 204 location: Jacksonville, FL 32216"
-  },
-  {
-    "dataYpid": "9748275",
     "name": "Signline Inc",
     "description": "Signs",
     "phone": "(904) 388-9474",
-    "address": "street: 562 King St location: Jacksonville, FL 32204"
+    "address": " 562 King St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6098131",
     "name": "Awards Unlimited",
     "description": "Trophies, Plaques & Medals",
     "phone": "(904) 396-7653",
-    "address": "street: 1550 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1550 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573344588",
     "name": "CNS Signs Inc",
     "description": "Signs-Erectors & Hangers",
     "phone": "(904) 425-3363",
-    "address": "street: 3018 Lenox Ave location: Jacksonville, FL 32254"
+    "address": " 3018 Lenox Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "8226825",
     "name": "Sign It Quick Jacksonville",
     "description": "Signs",
     "phone": "(904) 724-4321",
-    "address": "street: 3338 Atlantic Blvd location: Jacksonville, FL 32207"
+    "address": " 3338 Atlantic Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "523900432",
     "name": "Jacksonville Specialty Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 398-7297",
-    "address": "street: 1801 Art Museum Dr location: Jacksonville, FL 32207"
+    "address": " 1801 Art Museum Dr  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "538376865",
     "name": "Tropical Marketing Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 600-1058",
-    "address": "street: 2624 Atlantic Blvd Suite: 1 location: Jacksonville, FL 32207"
+    "address": " 2624 Atlantic Blvd Suite: 1  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "20367610",
     "name": "Willman & Company",
     "description": "Advertising Specialties",
     "phone": "(904) 396-9344",
-    "address": "street: 1809 Art Museum Dr Ste 103 location: Jacksonville, FL 32207"
+    "address": " 1809 Art Museum Dr Ste 103  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "482249714",
     "name": "Rock Shop Tees",
     "description": "Vinyl Windows & Doors",
     "phone": "(904) 888-6413",
-    "address": "street: 1511 Goodwin St location: Jacksonville, FL 32204"
+    "address": " 1511 Goodwin St  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10823639",
     "name": "Aggressive Signs",
     "description": "Signs",
     "phone": "(904) 388-7823",
-    "address": "street: 3365 W Beaver St location: Jacksonville, FL 32254"
+    "address": " 3365 W Beaver St  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1410747",
     "name": "Signs-N-Motion",
     "description": "Signs",
     "phone": "(904) 646-4440",
-    "address": "street: 10909 Atlantic Blvd Ste 17 location: Jacksonville, FL 32225"
+    "address": " 10909 Atlantic Blvd Ste 17  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "543118692",
-    "name": "Awards Unlimited",
-    "description": "Trophies, Plaques & Medals",
-    "phone": "(904) 396-7653",
-    "address": "street: 3110 Beach Blvd location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "5649389",
     "name": "Rsvp",
     "description": "Direct Mail Advertising",
     "phone": "(904) 854-9993",
-    "address": "street: 1617 Atlantic Blvd Ste 102 location: Jacksonville, FL 32207"
+    "address": " 1617 Atlantic Blvd Ste 102  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496724821",
     "name": "Kuumba LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(877) 452-0953",
-    "address": "street: 1650 Margaret St Ste 356 location: Jacksonville, FL 32204"
+    "address": " 1650 Margaret St Ste 356  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "456841448",
     "name": "Giglio Signs",
     "description": "Signs-Maintenance & Repair",
     "phone": "(904) 396-9046",
-    "address": "street: 1961 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1961 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "8421525",
     "name": "Signs & Graphics",
     "description": "Signs",
     "phone": "(904) 388-5899",
-    "address": "street: 3650 Lenox Ave location: Jacksonville, FL 32254"
+    "address": " 3650 Lenox Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "17949022",
     "name": "Prestige Signs",
     "description": "Signs",
     "phone": "(904) 388-7991",
-    "address": "street: 3660 Lenox Ave location: Jacksonville, FL 32254"
+    "address": " 3660 Lenox Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "477945275",
     "name": "Advance Sign Co",
     "description": "Advertising Specialties",
     "phone": "(904) 388-7991",
-    "address": "street: 3660 Lenox Ave location: Jacksonville, FL 32254"
+    "address": " 3660 Lenox Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "247562",
     "name": "Digital Signs & Graphics",
     "description": "Signs",
     "phone": "(904) 327-7807",
-    "address": "street: 2029 Brookview Dr S location: Jacksonville, FL 32246"
+    "address": " 2029 Brookview Dr S  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4787655",
     "name": "Brown Enterprises",
     "description": "Signs",
     "phone": "(904) 724-2262",
-    "address": "street: 8841 Corporate Square Ct location: Jacksonville, FL 32216"
+    "address": " 8841 Corporate Square Ct  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "525252305",
     "name": "Graphix Mafia",
     "description": "Signs",
     "phone": "(904) 566-0402",
-    "address": "street: 8802 Corporate Square Ct location: Jacksonville, FL 32216"
+    "address": " 8802 Corporate Square Ct  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544556060",
     "name": "Local Clicks",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 712-9546",
-    "address": "street: 8802 Corporate Square Ct location: Jacksonville, FL 32216"
+    "address": " 8802 Corporate Square Ct  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10057673",
     "name": "Integrity Signs & Design",
     "description": "Signs",
     "phone": "(904) 725-0606",
-    "address": "street: 8802 Corporate Square Ct Ste 404 location: Jacksonville, FL 32216"
+    "address": " 8802 Corporate Square Ct Ste 404  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "482881816",
     "name": "Kustura Technologies",
     "description": "Computer Network Design & Systems",
     "phone": "(904) 855-8885",
-    "address": "street: 2120 Corporate Square Blvd Ste 23 location: Jacksonville, FL 32216"
+    "address": " 2120 Corporate Square Blvd Ste 23  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "479774428",
     "name": "A B Signs",
     "description": "Signs",
     "phone": "(904) 346-3342",
-    "address": "street: 2210 Corporate Square Blvd Ste 2 location: Jacksonville, FL 32216"
+    "address": " 2210 Corporate Square Blvd Ste 2  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461139073",
     "name": "Website Solutions",
     "description": "Web Site Design & Services",
     "phone": "(904) 721-8973",
-    "address": "street: 866 Wren Rd location: Jacksonville, FL 32216"
+    "address": " 866 Wren Rd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460286502",
     "name": "CNS Signs, Inc.",
     "description": "Signs",
     "phone": "(904) 425-3363",
-    "address": "street: 263 Edgewood Ave S location: Jacksonville, FL 32254"
+    "address": " 263 Edgewood Ave S  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "573684061",
     "name": "Nefeda.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 384-2240",
-    "address": "street: 3 Shircliff Way location: Jacksonville, FL 32204"
+    "address": " 3 Shircliff Way  Jacksonville, FL 32204",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505108974",
     "name": "ThinkTop Media Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 265-0765",
-    "address": "street: 4811 Beach Blvd Ste 105 location: Jacksonville, FL 32207"
+    "address": " 4811 Beach Blvd Ste 105  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "481112588",
     "name": "Open Source Sales and Marketing",
     "description": "Credit & Debt Counseling",
     "phone": "(954) 806-6087",
-    "address": "street: 484 Candlebark Dr location: Jacksonville, FL 32225"
+    "address": " 484 Candlebark Dr  Jacksonville, FL 32225",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22123871",
-    "name": "Rsvp",
-    "description": "Direct Mail Advertising",
-    "phone": "(904) 384-3323",
-    "address": "street: 4838 Highway Ave location: Jacksonville, FL 32254"
-  },
-  {
-    "dataYpid": "5112937",
     "name": "Futch Printing & Mailing Inc",
     "description": "Copying & Duplicating Service",
     "phone": "(904) 388-3995",
-    "address": "street: 400 Edgewood Ave S location: Jacksonville, FL 32254"
+    "address": " 400 Edgewood Ave S  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473973018",
     "name": "Holmes Stamp Company",
     "description": "Rubber & Plastic Stamps",
     "phone": "(904) 647-6493",
-    "address": "street: 2021 Saint Augustine Rd E location: Jacksonville, FL 32207"
+    "address": " 2021 Saint Augustine Rd E  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "509480425",
     "name": "Custom Signs",
     "description": "Signs",
     "phone": "(877) 251-9444",
-    "address": "street: 2021 Saint Augustine Rd E Ste 2 location: Jacksonville, FL 32207"
+    "address": " 2021 Saint Augustine Rd E Ste 2  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "459118373",
-    "name": "A B Signs",
-    "description": "Signs",
-    "phone": "(904) 346-3342",
-    "address": "street: 5161 Beach Blvd location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "492360518",
     "name": "Level Signs Inc",
     "description": "Signs",
     "phone": "(904) 858-9888",
-    "address": "street: 5252 Beach Blvd location: Jacksonville, FL 32207"
+    "address": " 5252 Beach Blvd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "17389478",
     "name": "FASTSIGNS",
     "description": "Signs",
     "phone": "(904) 724-7446",
-    "address": "street: 2141 Saint Johns Bluff Rd S location: Jacksonville, FL 32246"
+    "address": " 2141 Saint Johns Bluff Rd S  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "376302",
     "name": "Thunder Road FX Inc",
     "description": "Signs",
     "phone": "(904) 389-5656",
-    "address": "street: 597 Edgewood Ave S location: Jacksonville, FL 32205"
+    "address": " 597 Edgewood Ave S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "574375714",
     "name": "New View Signs",
     "description": "Signs",
     "phone": "(904) 444-4530",
-    "address": "street: 2958 Olga Pl location: Jacksonville, FL 32205"
+    "address": " 2958 Olga Pl  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473695927",
-    "name": "New View Signs",
-    "description": "Advertising Specialties",
-    "phone": "(904) 619-9180",
-    "address": "street: 1262 Mcduff Ave S location: Jacksonville, FL 32205"
-  },
-  {
-    "dataYpid": "575380414",
     "name": "Pospaper.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 737-9989",
-    "address": "street: 6740 Broadway Ave location: Jacksonville, FL 32254"
+    "address": " 6740 Broadway Ave  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "20650814",
     "name": "Signs Now",
     "description": "Signs",
     "phone": "(904) 651-0994",
-    "address": "street: 1188 Edgewood Ave S location: Jacksonville, FL 32205"
+    "address": " 1188 Edgewood Ave S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "510041028",
     "name": "Rock My Image",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 428-8764",
-    "address": "street: 1922 Felch Ave location: Jacksonville, FL 32207"
+    "address": " 1922 Felch Ave  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "531022810",
     "name": "Marketing24x7 - Jacksonville Seo",
     "description": "Internet Consultants",
     "phone": "(904) 204-0245",
-    "address": "street: 2020 Inwood Ter location: Jacksonville, FL 32207"
+    "address": " 2020 Inwood Ter  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1860864",
     "name": "Buchanan Sign & Flag",
     "description": "Signs",
     "phone": "(904) 725-5500",
-    "address": "street: 6755 Beach Blvd location: Jacksonville, FL 32216"
+    "address": " 6755 Beach Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21768232",
     "name": "APS Promotional Solutions, Inc.",
     "description": "Embroidery",
     "phone": "(904) 721-4977",
-    "address": "street: 7121 Beach Blvd location: Jacksonville, FL 32216"
+    "address": " 7121 Beach Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "481984714",
     "name": "PixelCooks LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(305) 209-3207",
-    "address": "street: 7161 Beach Blvd location: Jacksonville, FL 32216"
+    "address": " 7161 Beach Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6457698",
     "name": "Cusic Signs",
     "description": "Truck Painting & Lettering",
     "phone": "(904) 399-1911",
-    "address": "street: 3565 Saint Augustine Rd #2 location: Jacksonville, FL 32207"
+    "address": " 3565 Saint Augustine Rd #2  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "542567944",
-    "name": "Signsharks Sign Service",
-    "description": "Signs-Maintenance & Repair",
-    "phone": "(904) 766-6222",
-    "address": "street: 5317 Shen Ave location: Jacksonville, FL 32205"
-  },
-  {
-    "dataYpid": "551213005",
     "name": "First Coast Signs Inc",
     "description": "Signs",
     "phone": "(904) 398-3993",
-    "address": "street: 3728 Philips Hwy location: Jacksonville, FL 32207"
+    "address": " 3728 Philips Hwy  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "14894144",
-    "name": "Stephens Advertising Inc",
-    "description": "Advertising Specialties",
-    "phone": "(904) 354-7004",
-    "address": "street: 6635 Highway Ave location: Jacksonville, FL 32254"
-  },
-  {
-    "dataYpid": "496510381",
-    "name": "Signs Now",
-    "description": "Signs",
-    "phone": "(904) 996-7773",
-    "address": "street: 2683 Saint Johns Bluff Rd S Unit NULL location: Jacksonville, FL 32246"
-  },
-  {
-    "dataYpid": "529995222",
     "name": "Signs By Tomorrow",
     "description": "Signs",
     "phone": "(904) 996-7773",
-    "address": "street: 2683 Saint Johns Bluff Rd S location: Jacksonville, FL 32246"
+    "address": " 2683 Saint Johns Bluff Rd S  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "472753010",
     "name": "Promotional Signs & Graphics",
     "description": "Graphic Designers",
     "phone": "(904) 783-9285",
-    "address": "street: 6731 Stuart Ave Ste 9 location: Jacksonville, FL 32254"
+    "address": " 6731 Stuart Ave Ste 9  Jacksonville, FL 32254",
+    "location": "Duval"
   },
   {
-    "dataYpid": "3412397",
     "name": "Great American Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 693-4344",
-    "address": "street: 1046 Ellis Rd S location: Jacksonville, FL 32205"
+    "address": " 1046 Ellis Rd S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "495789709",
     "name": "General Freight",
     "description": "Direct Mail Advertising",
     "phone": "(904) 733-2102",
-    "address": "street: 4344 Phillips Hwy location: Jacksonville, FL 32207"
+    "address": " 4344 Phillips Hwy  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524070649",
     "name": "Millennials Mail, LLC",
     "description": "Mailbox Rental",
     "phone": "(904) 321-9662",
-    "address": "street: We are an online company location: Jacksonville, FL 32216"
+    "address": " We are an online company  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "21762889",
     "name": "Taylor Sign & Design Inc.",
     "description": "Signs",
     "phone": "(904) 396-4652",
-    "address": "street: 4162 Saint Augustine Rd location: Jacksonville, FL 32207"
+    "address": " 4162 Saint Augustine Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "468334071",
     "name": "Signarama Jacksonville (Southside Blvd)",
     "description": "Signs",
     "phone": "(904) 998-8880",
-    "address": "street: 3633 Southside Blvd location: Jacksonville, FL 32216"
+    "address": " 3633 Southside Blvd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465419081",
     "name": "Sign Maine Up",
     "description": "Advertising Specialties",
     "phone": "(904) 551-0175",
-    "address": "street: 11041 Beach Blvd location: Jacksonville, FL 32246"
+    "address": " 11041 Beach Blvd  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "545750524",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(904) 530-5642",
-    "address": "street: 1389 Cassat Ave location: Jacksonville, FL 32205"
-  },
-  {
-    "dataYpid": "5576395",
     "name": "Broadus Matthew Advertising",
     "description": "Signs",
     "phone": "(904) 396-6950",
-    "address": "street: 2139 Nickerson Ln location: Jacksonville, FL 32207"
+    "address": " 2139 Nickerson Ln  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5495723",
     "name": "Independent Signs",
     "description": "Signs",
     "phone": "(904) 731-8870",
-    "address": "street: 4549 Saint Augustine Rd Ste 5 location: Jacksonville, FL 32207"
+    "address": " 4549 Saint Augustine Rd Ste 5  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "523648018",
     "name": "Tactive Digital - Jacksonville",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 536-1868",
-    "address": "street: 9117 Hogan Rd location: Jacksonville, FL 32216"
+    "address": " 9117 Hogan Rd  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "552015876",
     "name": "Tokejd.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(631) 533-5328",
-    "address": "street: 1339 Ellis Rd S location: Jacksonville, FL 32205"
+    "address": " 1339 Ellis Rd S  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "1031199",
     "name": "Combined Forms Inc",
     "description": "Signs",
     "phone": "(904) 387-4225",
-    "address": "street: 4554 Saint Johns Ave location: Jacksonville, FL 32210"
+    "address": " 4554 Saint Johns Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460754427",
     "name": "Agility Press Inc",
     "description": "Printing Services-Commercial",
     "phone": "(904) 731-8989",
-    "address": "street: 3060 Mercury Rd location: Jacksonville, FL 32207"
+    "address": " 3060 Mercury Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "8169128",
     "name": "Great Images",
     "description": "Advertising Specialties",
     "phone": "(904) 636-7526",
-    "address": "street: 4910 Victor St location: Jacksonville, FL 32207"
+    "address": " 4910 Victor St  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "553643972",
     "name": "HF Golf & Promo",
     "description": "Advertising Specialties",
     "phone": "(904) 645-9790",
-    "address": "street: 3027 Dawn Rd location: Jacksonville, FL 32207"
+    "address": " 3027 Dawn Rd  Jacksonville, FL 32207",
+    "location": "Duval"
   },
   {
-    "dataYpid": "549970654",
-    "name": "Corporate Concepts",
-    "description": "Advertising Specialties",
-    "phone": "(904) 503-1083",
-    "address": "street: 2950 Powers Ave location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "464237432",
     "name": "Postal Express",
     "description": "Mail & Shipping Services",
     "phone": "(904) 738-8691",
-    "address": "street: 11315 Saint Johns Industrial Pkwy N location: Jacksonville, FL 32246"
+    "address": " 11315 Saint Johns Industrial Pkwy N  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13577547",
     "name": "Pro Marketing Inc",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 208-4900",
-    "address": "street: 11762 Marco Beach Dr location: Jacksonville, FL 32224"
+    "address": " 11762 Marco Beach Dr  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "510110417",
     "name": "FJS Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 543-0808",
-    "address": "street: 1700 San Pablo Rd S Apt 404 location: Jacksonville, FL 32224"
+    "address": " 1700 San Pablo Rd S Apt 404  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10806414",
     "name": "The Monster Pack",
     "description": "Direct Mail Advertising",
     "phone": "(904) 807-9098",
-    "address": "street: 11555 Central Pkwy location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "459690474",
     "name": "Money Mailer",
     "description": "Direct Mail Advertising",
     "phone": "(904) 642-6123",
-    "address": "street: 11555 Central Pkwy location: Jacksonville, FL 32224"
+    "address": " 11555 Central Pkwy  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "482308217",
     "name": "Multiverse Media Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 701-3016",
-    "address": "street: 11655 Central Pkwy Ste 302 location: Jacksonville, FL 32224"
+    "address": " 11655 Central Pkwy Ste 302  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6006361",
     "name": "Norris Neon Inc",
     "description": "Signs",
     "phone": "(904) 384-0801",
-    "address": "street: 1957 Blanding Blvd location: Jacksonville, FL 32210"
+    "address": " 1957 Blanding Blvd  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467641991",
     "name": "Signage Inc",
     "description": "Signs",
     "phone": "(904) 388-3727",
-    "address": "street: 1855 Cassat Ave Ste 10 location: Jacksonville, FL 32210"
+    "address": " 1855 Cassat Ave Ste 10  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10881669",
     "name": "Donahoo Plastic Sign Shop",
     "description": "Signs",
     "phone": "(904) 384-3210",
-    "address": "street: 4641 San Juan Ave location: Jacksonville, FL 32210"
+    "address": " 4641 San Juan Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "9673089",
     "name": "T C Specialties",
     "description": "Mail & Shipping Services",
     "phone": "(904) 281-2604",
-    "address": "street: 5911 Philips Hwy location: Jacksonville, FL 32216"
+    "address": " 5911 Philips Hwy  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551957989",
     "name": "Sign Pro America",
     "description": "Signs",
     "phone": "(904) 527-8248",
-    "address": "street: 3811 University Blvd W location: Jacksonville, FL 32217"
+    "address": " 3811 University Blvd W  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "549307501",
     "name": "ThriftyHires",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 469-7935",
-    "address": "street: 12171 Beach Blvd location: Jacksonville, FL 32246"
+    "address": " 12171 Beach Blvd  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "9689044",
     "name": "Auto Trim Design By Randy",
     "description": "Automobile Accessories",
     "phone": "(904) 389-8585",
-    "address": "street: 5021 San Juan Ave location: Jacksonville, FL 32210"
+    "address": " 5021 San Juan Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "465023588",
     "name": "Custom Designs Signs & Printing, Inc.",
     "description": "Signs",
     "phone": "(904) 733-5646",
-    "address": "street: 6000 Philips Hwy Ste 1 location: Jacksonville, FL 32216"
+    "address": " 6000 Philips Hwy Ste 1  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "12365823",
     "name": "Mail Of Jacksonville",
     "description": "Mail & Shipping Services",
     "phone": "(904) 737-9199",
-    "address": "street: 6002 Bowdendale Ave location: Jacksonville, FL 32216"
+    "address": " 6002 Bowdendale Ave  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496800831",
     "name": "ExtraCashTrain",
     "description": "Internet Marketing & Advertising",
     "phone": "(785) 289-1924",
-    "address": "street: 7322 Normandy Blvd location: Jacksonville, FL 32205"
+    "address": " 7322 Normandy Blvd  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "18372426",
     "name": "Southern Woods Inc",
     "description": "Signs",
     "phone": "(904) 733-1828",
-    "address": "street: 6141 Chester Ave location: Jacksonville, FL 32217"
+    "address": " 6141 Chester Ave  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7038098",
     "name": "Lamar Long, Inc.",
     "description": "Signs",
     "phone": "(904) 733-5122",
-    "address": "street: 6141 Chester Ave location: Jacksonville, FL 32217"
+    "address": " 6141 Chester Ave  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "16256002",
     "name": "River City Advertising",
     "description": "Engraving",
     "phone": "(904) 731-3452",
-    "address": "street: 3514 Morton St location: Jacksonville, FL 32217"
+    "address": " 3514 Morton St  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "513923874",
-    "name": "Donahoo Plastic Sign Shop",
-    "description": "Signs",
-    "phone": "(904) 384-3210",
-    "address": "street: 3514 Morton St location: Jacksonville, FL 32217"
-  },
-  {
-    "dataYpid": "456149654",
     "name": "Top Gun Web Marketing",
     "description": "Directory & Guide Advertising",
     "phone": "(904) 333-5870",
-    "address": "street: 930 Frost St E location: Jacksonville, FL 32221"
+    "address": " 930 Frost St E  Jacksonville, FL 32221",
+    "location": "Duval"
   },
   {
-    "dataYpid": "557112961",
-    "name": "Socially Bold",
-    "description": "Web Site Design & Services",
-    "phone": "(904) 574-9775",
-    "address": "street: 12620 Beach Blvd Ste 3 location: Jacksonville, FL 32246"
-  },
-  {
-    "dataYpid": "520040162",
-    "name": "Andersen Advertising",
-    "description": "Advertising Specialties",
-    "phone": "(904) 733-7240",
-    "address": "street: 1752 Clemson Rd location: Jacksonville, FL 32217"
-  },
-  {
-    "dataYpid": "8442249",
     "name": "Signs By Dillon",
     "description": "Signs",
     "phone": "(904) 389-0804",
-    "address": "street: 3420 Lake Shore Blvd location: Jacksonville, FL 32210"
+    "address": " 3420 Lake Shore Blvd  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544555140",
     "name": "NRW Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 204-4640",
-    "address": "street: 6260-D2 Dupont Station Ct location: Jacksonville, FL 32217"
+    "address": " 6260-D2 Dupont Station Ct  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "466358739",
     "name": "SEO Factor",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 993-7796",
-    "address": "street: 5327 Colonial Ave location: Jacksonville, FL 32210"
+    "address": " 5327 Colonial Ave  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576244667",
     "name": "Ego Digital Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 544-6276",
-    "address": "street: 6271 St. Augustine Road location: Jacksonville, FL 32217"
+    "address": " 6271 St. Augustine Road  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "572780934",
     "name": "Mortgageflex Systems Inc",
     "description": "Computer Software & Services",
     "phone": "(904) 356-2490",
-    "address": "street: 4600 Touchton Rd E location: Jacksonville, FL 32246"
+    "address": " 4600 Touchton Rd E  Jacksonville, FL 32246",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467201110",
-    "name": "Tiki Graphics",
-    "description": "Signs",
-    "phone": "(904) 329-1270",
-    "address": "street: 2415 Blanding Blvd location: Jacksonville, FL 32210"
-  },
-  {
-    "dataYpid": "523552457",
     "name": "All American Decals Signs and Graphics",
     "description": "Signs",
     "phone": "(904) 329-3831",
-    "address": "street: 7029 - 3 Commonwealth Avenue location: Jacksonville, FL 32220"
+    "address": " 7029 - 3 Commonwealth Avenue  Jacksonville, FL 32220",
+    "location": "Duval"
   },
   {
-    "dataYpid": "533417888",
     "name": "Simple Signman",
     "description": "Signs",
     "phone": "(904) 641-8822",
-    "address": "street: 6602 Executive Park Ct N Ste 206 location: Jacksonville, FL 32216"
+    "address": " 6602 Executive Park Ct N Ste 206  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "459754880",
     "name": "Alphagraphics",
     "description": "Printing Services",
     "phone": "(904) 739-2611",
-    "address": "street: 6828 Saint Augustine Rd location: Jacksonville, FL 32217"
+    "address": " 6828 Saint Augustine Rd  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496958757",
     "name": "EverLogic",
     "description": "Computer Software Publishers & Developers",
     "phone": "(904) 998-4066",
-    "address": "street: 6620 Southpoint Dr S Ste 505 location: Jacksonville, FL 32216"
+    "address": " 6620 Southpoint Dr S Ste 505  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "526021362",
     "name": "SearchLites",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 395-2539",
-    "address": "street: 6620 Southpoint Dr S location: Jacksonville, FL 32216"
+    "address": " 6620 Southpoint Dr S  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "481029882",
     "name": "SeoServices4SmallBusiness",
     "description": "Internet Marketing & Advertising",
     "phone": "(855) 684-9999",
-    "address": "street: 4651 Salisbury Rd Ste 4010 location: Jacksonville, FL 32256"
+    "address": " 4651 Salisbury Rd Ste 4010  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576097652",
     "name": "Revlocal",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 900-7510",
-    "address": "street: 4651 Salisbury Rd location: Jacksonville, FL 32256"
+    "address": " 4651 Salisbury Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4802465",
     "name": "Mint Magazine",
     "description": "Direct Mail Advertising",
     "phone": "(904) 281-8800",
-    "address": "street: 6960 Bonneval Rd Ste 102 location: Jacksonville, FL 32216"
+    "address": " 6960 Bonneval Rd Ste 102  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7691622",
     "name": "B & B Advertising Inc",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 381-1214",
-    "address": "street: 4749 Ortega Forest Dr location: Jacksonville, FL 32210"
+    "address": " 4749 Ortega Forest Dr  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576270975",
     "name": "Hatchuri Marketing",
     "description": "Web Site Design & Services",
     "phone": "(904) 420-7904",
-    "address": "street: 8380 Country Creek Blvd location: Jacksonville, FL 32221"
+    "address": " 8380 Country Creek Blvd  Jacksonville, FL 32221",
+    "location": "Duval"
   },
   {
-    "dataYpid": "526699223",
     "name": "HomeASAP",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 549-7600",
-    "address": "street: 4887 Belfort Rd Ste 400 location: Jacksonville, FL 32256"
+    "address": " 4887 Belfort Rd Ste 400  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "560151907",
     "name": "Spectrum Signs and Graphics",
     "description": "Signs",
     "phone": "(904) 281-9999",
-    "address": "street: 6950 Philips Hwy Ste 7 location: Jacksonville, FL 32216"
+    "address": " 6950 Philips Hwy Ste 7  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "466204447",
     "name": "Internet Marketing Ventures Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 385-8126",
-    "address": "street: 3963 Confederate Point Rd Ste 4 location: Jacksonville, FL 32210"
+    "address": " 3963 Confederate Point Rd Ste 4  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551709403",
     "name": "Teeone Net Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 425-0183",
-    "address": "street: 4905 Belfort Rd location: Jacksonville, FL 32256"
+    "address": " 4905 Belfort Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "472729187",
     "name": "Embellished, an Embroidery Shop",
     "description": "Embroidery",
     "phone": "(904) 266-2260",
-    "address": "street: 4581 Crystal Brook Way location: Jacksonville, FL 32224"
+    "address": " 4581 Crystal Brook Way  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503848466",
-    "name": "Prestige Signs",
-    "description": "Advertising Specialties",
-    "phone": "(904) 388-7991",
-    "address": "street: 3660 Lane Ave S location: Jacksonville, FL 32210"
-  },
-  {
-    "dataYpid": "461797128",
     "name": "Dxm Marketing Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 332-6489",
-    "address": "street: 7900 Belfort Pkwy location: Jacksonville, FL 32256"
+    "address": " 7900 Belfort Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "504756087",
     "name": "Brainiac Web Solutions LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 510-6665",
-    "address": "street: 5513 Roosevelt Blvd # 133 location: Jacksonville, FL 32244"
+    "address": " 5513 Roosevelt Blvd # 133  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "458749371",
-    "name": "Signage Inc",
-    "description": "Signs",
-    "phone": "(904) 908-3787",
-    "address": "street: 2611 Old Middleburg Rd N Ste 409 location: Jacksonville, FL 32210"
-  },
-  {
-    "dataYpid": "525294657",
     "name": "Signshop Jax",
     "description": "Signs",
     "phone": "(904) 908-3787",
-    "address": "street: 2611 Old Middleburg Rd N location: Jacksonville, FL 32210"
+    "address": " 2611 Old Middleburg Rd N  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "496584409",
     "name": "Guardian Signs & Lighting",
     "description": "Advertising Specialties",
     "phone": "(904) 680-0860",
-    "address": "street: 7380 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 7380 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "507279048",
     "name": "Signs By Tomorrow - Jacksonville, FL",
     "description": "Signs",
     "phone": "(904) 332-0778",
-    "address": "street: 8110 Cypress Plaza Dr location: Jacksonville, FL 32256"
+    "address": " 8110 Cypress Plaza Dr  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460689021",
     "name": "Signs N Motion",
     "description": "Signs",
     "phone": "(904) 646-4440",
-    "address": "street: 8110 Cypress Plaza Dr Ste 305 location: Jacksonville, FL 32256"
+    "address": " 8110 Cypress Plaza Dr Ste 305  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "574120242",
-    "name": "Giglio Signs",
-    "description": "Signs",
-    "phone": "(904) 396-9046",
-    "address": "street: 8200 Cypress Plaza Dr location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "505070525",
     "name": "Citywide Advantage",
     "description": "Advertising-Shoppers Publications",
     "phone": "(904) 404-8628",
-    "address": "street: 10752 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10752 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "549580410",
-    "name": "Web.com",
-    "description": "Web Site Design & Services",
-    "phone": "(866) 655-7679",
-    "address": "street: 5335 Gate Pkwy location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "575973806",
     "name": "Bluehost.com",
     "description": "Web Site Hosting",
     "phone": "(801) 765-9400",
-    "address": "street: 5335 Gate Pkwy location: Jacksonville, FL 32256"
+    "address": " 5335 Gate Pkwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "482657955",
     "name": "Powels Gators Signs",
     "description": "Advertising Specialties",
     "phone": "(904) 771-1499",
-    "address": "street: 5102 Timuquana Rd location: Jacksonville, FL 32210"
+    "address": " 5102 Timuquana Rd  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "532284997",
     "name": "904SEO",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 514-6457",
-    "address": "street: 10151 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576241908",
     "name": "Sir Speedy",
     "description": "Printing Services-Commercial",
     "phone": "(904) 353-5259",
-    "address": "street: 10151 Deerwood Park Blvd Bldg 200 location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd Bldg 200  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "461491611",
     "name": "A Kool Distribution Company",
     "description": "Distributing Service-Circular, Sample, Etc",
     "phone": "(904) 371-3070",
-    "address": "street: 10151 Deerwood Park Blvd location: Jacksonville, FL 32256"
+    "address": " 10151 Deerwood Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "11494318",
     "name": "Ids",
     "description": "Advertising Specialties",
     "phone": "(904) 645-8496",
-    "address": "street: 10275 Centurion Ct location: Jacksonville, FL 32256"
+    "address": " 10275 Centurion Ct  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6128531",
     "name": "Fellers Inc",
     "description": "Signs",
     "phone": "(904) 739-1057",
-    "address": "street: 7855 Bayberry Rd location: Jacksonville, FL 32256"
+    "address": " 7855 Bayberry Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "534197017",
     "name": "Wăvvo",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 862-2250",
-    "address": "street: 8505 Baycenter Rd location: Jacksonville, FL 32256"
+    "address": " 8505 Baycenter Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "534452482",
     "name": "Promo Depot",
     "description": "Screen Printing",
     "phone": "(904) 470-4196",
-    "address": "street: 8500 Baycenter Rd. Suite 2 location: Jacksonville, FL 32256"
+    "address": " 8500 Baycenter Rd. Suite 2  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "538078817",
     "name": "Signsand More",
     "description": "Advertising Specialties",
     "phone": "(904) 518-5909",
-    "address": "street: 6300 Yukon Rd location: Jacksonville, FL 32244"
+    "address": " 6300 Yukon Rd  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "503569484",
     "name": "Signworks Instant Signs & Banners",
     "description": "Signs",
     "phone": "(904) 730-3401",
-    "address": "street: 8036 Philips Hwy Ste 3 location: Jacksonville, FL 32256"
+    "address": " 8036 Philips Hwy Ste 3  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "460129205",
     "name": "Brackett & Associates Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 493-0701",
-    "address": "street: 13400 Sutton Park Dr S Ste 1503 location: Jacksonville, FL 32224"
+    "address": " 13400 Sutton Park Dr S Ste 1503  Jacksonville, FL 32224",
+    "location": "Duval"
   },
   {
-    "dataYpid": "576143195",
     "name": "NightWish Media LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 605-5011",
-    "address": "street: 7900 Baymeadows Circle East location: Jacksonville, FL 32256"
+    "address": " 7900 Baymeadows Circle East  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505615433",
     "name": "Discovery Custom Signs And Graphics",
     "description": "Signs",
     "phone": "(904) 551-4300",
-    "address": "street: 8081 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 8081 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "451136875",
     "name": "Tway, B G",
     "description": "Advertising Specialties",
     "phone": "(904) 641-1766",
-    "address": "street: 7845 Hollyridge Rd location: Jacksonville, FL 32256"
+    "address": " 7845 Hollyridge Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "529553033",
     "name": "Speedpro Imaging Jacksonville West",
     "description": "Digital Printing & Imaging",
     "phone": "(904) 673-9735",
-    "address": "street: 7060 103rd St Ste 127 location: Jacksonville, FL 32210"
+    "address": " 7060 103rd St Ste 127  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "473760719",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(904) 443-7446",
-    "address": "street: 8535 Baymeadows Rd Ste 7 location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "464207339",
     "name": "Print Express",
     "description": "Copying & Duplicating Service",
     "phone": "(904) 737-6641",
-    "address": "street: 8380 Baymeadows Rd Ste 1 location: Jacksonville, FL 32256"
+    "address": " 8380 Baymeadows Rd Ste 1  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "472130421",
     "name": "American Database Marketing Inc",
     "description": "Direct Mail Advertising",
     "phone": "(904) 828-0060",
-    "address": "street: 8857 Shining Oak Ct location: Jacksonville, FL 32217"
+    "address": " 8857 Shining Oak Ct  Jacksonville, FL 32217",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469968812",
     "name": "North Florida Sign Co",
     "description": "Signs-Maintenance & Repair",
     "phone": "(904) 619-1557",
-    "address": "street: 6202 Wesconnett Blvd location: Jacksonville, FL 32244"
+    "address": " 6202 Wesconnett Blvd  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "31221224",
     "name": "First Coast Signs",
     "description": "Advertising Specialties",
     "phone": "(904) 398-3993",
-    "address": "street: 6900 Phillips Hwy Suite 17 location: Jacksonville, FL 32216"
+    "address": " 6900 Phillips Hwy Suite 17  Jacksonville, FL 32216",
+    "location": "Duval"
   },
   {
-    "dataYpid": "546109631",
     "name": "Qinaos Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 337-1248",
-    "address": "street: 9645 Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 9645 Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "547552339",
     "name": "OnSight Industries",
     "description": "Printing Services-Commercial",
     "phone": "(904) 551-0504",
-    "address": "street: 4640 Sub Chaser Ct Unit 108 location: Jacksonville, FL 32244"
+    "address": " 4640 Sub Chaser Ct Unit 108  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "22267438",
     "name": "Onsite",
     "description": "Signs",
     "phone": "(904) 379-3543",
-    "address": "street: 4640 Sub Chaser Ct Unit 108 location: Jacksonville, FL 32244"
+    "address": " 4640 Sub Chaser Ct Unit 108  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502816673",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(904) 642-3085",
-    "address": "street: 9802 Baymeadows Rd Ste 16 location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "461588789",
     "name": "River City Web Solutions",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 413-1186",
-    "address": "street: 1523 Chaffee Rd S Unit 1523 location: Jacksonville, FL 32221"
+    "address": " 1523 Chaffee Rd S Unit 1523  Jacksonville, FL 32221",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524090677",
     "name": "Crosseyed Graphics Design",
     "description": "Graphic Designers",
     "phone": "(904) 586-0799",
-    "address": "street: Parrish Cemetery RD location: Jacksonville, FL 32221"
+    "address": " Parrish Cemetery RD  Jacksonville, FL 32221",
+    "location": "Duval"
   },
   {
-    "dataYpid": "524686396",
     "name": "Pageoneplease",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 701-3096",
-    "address": "street: 9536 Princeton Square Blvd S location: Jacksonville, FL 32256"
+    "address": " 9536 Princeton Square Blvd S  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "507132282",
     "name": "Digital Industries",
     "description": "Signs",
     "phone": "(904) 819-9100",
-    "address": "street: 8475 Western Way Ste 100 location: Jacksonville, FL 32256"
+    "address": " 8475 Western Way Ste 100  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544102922",
     "name": "Florida Custom Sign and Graphics",
     "description": "Signs",
     "phone": "(904) 731-8834",
-    "address": "street: 8640 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 8640 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7260465",
     "name": "Expert Ts of Jacksonville",
     "description": "Clothing Stores",
     "phone": "(904) 387-2500",
-    "address": "street: 711 Cassat Ave location: Jacksonville, FL 32205"
+    "address": " 711 Cassat Ave  Jacksonville, FL 32205",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13475660",
     "name": "Vec Graphics",
     "description": "Graphic Designers",
     "phone": "(904) 372-0430",
-    "address": "street: 2294 Mayport Rd Ste 5 location: Jacksonville, FL 32233"
+    "address": " 2294 Mayport Rd Ste 5  Jacksonville, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "504605091",
     "name": "Horton Graphics Inc",
     "description": "Graphic Designers",
     "phone": "(904) 879-4547",
-    "address": "street: 542028 Us Highway 1 location: Callahan, FL 32011"
+    "address": " 542028 Us Highway 1  Callahan, FL 32011",
+    "location": "Duval"
   },
   {
-    "dataYpid": "452263581",
-    "name": "Clear View Signs Inc",
-    "description": "Signs",
-    "phone": "(904) 879-0752",
-    "address": "street: 45211 Petree Rd location: Callahan, FL 32011"
-  },
-  {
-    "dataYpid": "510820556",
     "name": "Design It Wraps & Graphics",
     "description": "Graphic Designers",
     "phone": "(904) 310-6032",
-    "address": "street: 2873 Jamestown Rd location: Fernandina Beach, FL 32034"
+    "address": " 2873 Jamestown Rd  Fernandina Beach, FL 32034",
+    "location": "Duval"
   },
   {
-    "dataYpid": "476050988",
     "name": "Advantage Signs",
     "description": "Signs",
     "phone": "(904) 247-1228",
-    "address": "street: 31 Lewis St location: Atlantic Beach, FL 32233"
+    "address": " 31 Lewis St  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469402215",
     "name": "Localized Co Inc",
     "description": "Screen Printing",
     "phone": "(904) 207-3485",
-    "address": "street: 101 Levy Rd location: Atlantic Beach, FL 32233"
+    "address": " 101 Levy Rd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "536832390",
     "name": "SNAP-MFS.IN",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 236-2210",
-    "address": "street: 97 Levy Rd location: Atlantic Beach, FL 32233"
+    "address": " 97 Levy Rd  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "535936169",
     "name": "Arsenal Racing",
     "description": "Signs",
     "phone": "(904) 241-1170",
-    "address": "street: 2207 Florida Blvd location: Neptune Beach, FL 32266"
+    "address": " 2207 Florida Blvd  Neptune Beach, FL 32266",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469851899",
-    "name": "Advantage Signs",
-    "description": "Signs",
-    "phone": "(904) 247-1228",
-    "address": "street: 1089 Atlantic Blvd Ste 9 location: Atlantic Beach, FL 32233"
-  },
-  {
-    "dataYpid": "530172980",
     "name": "On Ten Design",
     "description": "Internet Consultants",
     "phone": "(904) 999-6968",
-    "address": "street: 1015 Atlantic Blvd # 109 location: Atlantic Beach, FL 32233"
+    "address": " 1015 Atlantic Blvd # 109  Atlantic Beach, FL 32233",
+    "location": "Duval"
   },
   {
-    "dataYpid": "10697531",
     "name": "Lists",
     "description": "Mailing Lists",
     "phone": "(904) 733-6106",
-    "address": "street: 2950 Halcyon Ln location: Jacksonville, FL 32223"
+    "address": " 2950 Halcyon Ln  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13328663",
     "name": "Crown Trophy",
     "description": "Trophies, Plaques & Medals",
     "phone": "(904) 260-4871",
-    "address": "street: 11792 San Jose Blvd location: Jacksonville, FL 32223"
+    "address": " 11792 San Jose Blvd  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "453758670",
     "name": "Early Bird Solutions, LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 527-3224",
-    "address": "street: 13820 Old Saint Augustine Rd location: Jacksonville, FL 32258"
+    "address": " 13820 Old Saint Augustine Rd  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "15756910",
     "name": "Adventures In Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 737-7344",
-    "address": "street: 9310 Old Kings Rd S Ste 302 location: Jacksonville, FL 32257"
+    "address": " 9310 Old Kings Rd S Ste 302  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "14263514",
     "name": "M M Signs & Graphics",
     "description": "Signs",
     "phone": "(904) 779-1125",
-    "address": "street: 8552 103rd St location: Jacksonville, FL 32210"
+    "address": " 8552 103rd St  Jacksonville, FL 32210",
+    "location": "Duval"
   },
   {
-    "dataYpid": "527515706",
     "name": "Crissien Online",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 214-1100",
-    "address": "street: 3956 Sunbeam Rd Ste 1 location: Jacksonville, FL 32257"
+    "address": " 3956 Sunbeam Rd Ste 1  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "552091326",
     "name": "Ledpetsaccessories.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 982-6062",
-    "address": "street: 5623 Ortega Park Blvd location: Jacksonville, FL 32244"
+    "address": " 5623 Ortega Park Blvd  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467002148",
-    "name": "Advantage Printing Laminating & Signs",
-    "description": "Signs",
-    "phone": "(904) 737-1613",
-    "address": "street: 4618 Sunbeam Rd location: Jacksonville, FL 32257"
-  },
-  {
-    "dataYpid": "461864978",
     "name": "Identity Design",
     "description": "Signs",
     "phone": "(904) 730-4668",
-    "address": "street: 4949 Sunbeam Rd Ste 1 location: Jacksonville, FL 32257"
+    "address": " 4949 Sunbeam Rd Ste 1  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "479810522",
     "name": "Image Media & Marketing Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 367-0803",
-    "address": "street: 3390 Kori Rd location: Jacksonville, FL 32257"
+    "address": " 3390 Kori Rd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "4636",
     "name": "Metro Promotions & Printing",
     "description": "Specialty Bags",
     "phone": "(862) 216-0064",
-    "address": "street: 8539 Little Swift Cir location: Jacksonville, FL 32256"
+    "address": " 8539 Little Swift Cir  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "559270608",
     "name": "Jacksonville Signs & Graphics",
     "description": "Signs",
     "phone": "(904) 746-4676",
-    "address": "street: 9556 Historic Kings Rd S Ste 304 location: Jacksonville, FL 32257"
+    "address": " 9556 Historic Kings Rd S Ste 304  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "531168160",
     "name": "Wealthinary Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 990-3331",
-    "address": "street: 3390 Kori Rd Ste 4b location: Jacksonville, FL 32257"
+    "address": " 3390 Kori Rd Ste 4b  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "546136624",
     "name": "Grimco Inc",
     "description": "Signs",
     "phone": "(800) 542-9941",
-    "address": "street: 8930 Western Way location: Jacksonville, FL 32256"
+    "address": " 8930 Western Way  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "475539740",
     "name": "Local Insite Media & Publications",
     "description": "Advertising-Shoppers Publications",
     "phone": "(904) 900-7718",
-    "address": "street: Po Box 32471 location: Jacksonville, FL 32237"
+    "address": " Po Box 32471  Jacksonville, FL 32237",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7326647",
     "name": "C N P Solutions Inc",
     "description": "Mail & Shipping Services",
     "phone": "(904) 363-0009",
-    "address": "street: 8948 Western Way Ste 10 location: Jacksonville, FL 32256"
+    "address": " 8948 Western Way Ste 10  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "545485030",
     "name": "Simple Signman Inc",
     "description": "Signs",
     "phone": "(904) 641-9444",
-    "address": "street: 8948 Western Way Ste 20 location: Jacksonville, FL 32256"
+    "address": " 8948 Western Way Ste 20  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "569929429",
     "name": "Signarama Jacksonville (San Jose Blvd.), FL",
     "description": "Signs",
     "phone": "(904) 292-1104",
-    "address": "street: 9825 San Jose Blvd Ste 26 location: Jacksonville, FL 32257"
+    "address": " 9825 San Jose Blvd Ste 26  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "558188551",
     "name": "AlphaGraphics",
     "description": "Printing Services",
     "phone": "(904) 551-6625",
-    "address": "street: 9143 Philips Hwy Ste 170 location: Jacksonville, FL 32256"
+    "address": " 9143 Philips Hwy Ste 170  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "481531972",
     "name": "SFI",
     "description": "Internet Consultants",
     "phone": "(912) 464-9679",
-    "address": "street: 8787 Southside Blvd location: Jacksonville, FL 32256"
+    "address": " 8787 Southside Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497118104",
     "name": "Design Right 4 U",
     "description": "Web Site Design & Services",
     "phone": "(904) 314-4057",
-    "address": "street: 3712 Buffalo Landing Ct location: Jacksonville, FL 32257"
+    "address": " 3712 Buffalo Landing Ct  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "453728112",
     "name": "Harbinger Sign",
     "description": "Signs-Erectors & Hangers",
     "phone": "(904) 268-4681",
-    "address": "street: 5300 Shad Rd location: Jacksonville, FL 32257"
+    "address": " 5300 Shad Rd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "538966312",
     "name": "Harbinger Innovation Group",
     "description": "Signs",
     "phone": "(904) 268-4681",
-    "address": "street: 5300 Shad Rd location: Jacksonville, FL 32257"
+    "address": " 5300 Shad Rd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502812800",
-    "name": "FedEx Office Print & Ship Center",
-    "description": "Copying & Duplicating Service",
-    "phone": "(904) 288-8380",
-    "address": "street: 10400 San Jose Blvd Ste 7 location: Jacksonville, FL 32257"
-  },
-  {
-    "dataYpid": "453206852",
     "name": "Kwik Kopy",
     "description": "Copying & Duplicating Service",
     "phone": "(904) 880-0309",
-    "address": "street: 9446 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 9446 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505117042",
     "name": "Signarama",
     "description": "Signs",
     "phone": "(904) 292-1104",
-    "address": "street: 10601 San Jose Blvd location: Jacksonville, FL 32257"
+    "address": " 10601 San Jose Blvd  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "5832256",
-    "name": "FASTSIGNS",
-    "description": "Signs",
-    "phone": "(904) 771-7446",
-    "address": "street: 8102 Blanding Blvd Ste 14 location: Jacksonville, FL 32244"
-  },
-  {
-    "dataYpid": "576480378",
     "name": "Maxclix",
     "description": "Internet Marketing & Advertising",
     "phone": "(844) 629-2549",
-    "address": "street: 4656 Collins Rd location: Jacksonville, FL 32244"
+    "address": " 4656 Collins Rd  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "502574959",
     "name": "LLF Incorporated",
     "description": "Advertising Specialties",
     "phone": "(904) 854-1415",
-    "address": "street: 5570 Florida Mining Blvd S location: Jacksonville, FL 32257"
+    "address": " 5570 Florida Mining Blvd S  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "539443859",
     "name": "Chromatix Creative",
     "description": "Graphic Designers",
     "phone": "(904) 683-7938",
-    "address": "street: 5771 Mining Ter Ste 201 location: Jacksonville, FL 32257"
+    "address": " 5771 Mining Ter Ste 201  Jacksonville, FL 32257",
+    "location": "Duval"
   },
   {
-    "dataYpid": "467256789",
     "name": "Herff Jones",
     "description": "Product Design, Development & Marketing",
     "phone": "(904) 363-1905",
-    "address": "street: 10175 Fortune Pkwy Unit 506 location: Jacksonville, FL 32256"
+    "address": " 10175 Fortune Pkwy Unit 506  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "483172333",
     "name": "Signs N Stuff",
     "description": "Signs",
     "phone": "(904) 619-6152",
-    "address": "street: 8250 Weybridge Dr location: Jacksonville, FL 32244"
+    "address": " 8250 Weybridge Dr  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "497696918",
     "name": "Daily Net Pay",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 887-8478",
-    "address": "street: 3355 Claire Ln location: Jacksonville, FL 32223"
+    "address": " 3355 Claire Ln  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "468397629",
     "name": "Miller Creative Group",
     "description": "Printers-Screen Printing",
     "phone": "(904) 771-5855",
-    "address": "street: 8725 Youngerman Ct Ste 101 location: Jacksonville, FL 32244"
+    "address": " 8725 Youngerman Ct Ste 101  Jacksonville, FL 32244",
+    "location": "Duval"
   },
   {
-    "dataYpid": "519791246",
     "name": "Marketing Edge LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 363-9895",
-    "address": "street: 11223 Chester Lake Rd W location: Jacksonville, FL 32256"
+    "address": " 11223 Chester Lake Rd W  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "551514459",
     "name": "Fragcatering.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 888-2982",
-    "address": "street: 11459 Earline Cir W location: Jacksonville, FL 32258"
+    "address": " 11459 Earline Cir W  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "469863213",
     "name": "Sundancer Sign Graphics",
     "description": "Signs",
     "phone": "(904) 619-0785",
-    "address": "street: 11259 Business Park Blvd location: Jacksonville, FL 32256"
+    "address": " 11259 Business Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "7229899",
     "name": "Creative Environs",
     "description": "Signs",
     "phone": "(904) 616-6516",
-    "address": "street: 11328 Business Park Blvd location: Jacksonville, FL 32256"
+    "address": " 11328 Business Park Blvd  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "6131964",
     "name": "Shimp Sign & Design Inc",
     "description": "Signs",
     "phone": "(904) 268-3335",
-    "address": "street: 11501 Columbia Park Dr W location: Jacksonville, FL 32258"
+    "address": " 11501 Columbia Park Dr W  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "13031240",
     "name": "River City Sign Company",
     "description": "Signs",
     "phone": "(904) 309-6410",
-    "address": "street: 12025 San Jose Blvd Ste 3 location: Jacksonville, FL 32223"
+    "address": " 12025 San Jose Blvd Ste 3  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "543753034",
     "name": "Evolution Signs and Print",
     "description": "Signs",
     "phone": "(904) 634-5666",
-    "address": "street: 11672 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 11672 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Duval"
   },
   {
-    "dataYpid": "544196497",
     "name": "RNR Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 541-6675",
-    "address": "street: 11995 Marldon Ln location: Jacksonville, FL 32258"
+    "address": " 11995 Marldon Ln  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "560990394",
     "name": "1stOpresidentialcleaning.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 738-7260",
-    "address": "street: 9526 Argyle Forest Blvd location: Jacksonville, FL 32222"
+    "address": " 9526 Argyle Forest Blvd  Jacksonville, FL 32222",
+    "location": "Duval"
   },
   {
-    "dataYpid": "518275349",
     "name": "DarttSpark Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 567-7977",
-    "address": "street: 12330 Valpariso Trl location: Jacksonville, FL 32223"
+    "address": " 12330 Valpariso Trl  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "474364419",
     "name": "Vizzitopia",
     "description": "Internet Marketing & Advertising",
     "phone": "(907) 217-3749",
-    "address": "street: 12421 San Jose Blvd Ste 200g location: Jacksonville, FL 32223"
+    "address": " 12421 San Jose Blvd Ste 200g  Jacksonville, FL 32223",
+    "location": "Duval"
   },
   {
-    "dataYpid": "451699843",
-    "name": "American Database Marketing Inc",
-    "description": "Mailing Lists",
-    "phone": "(888) 565-7724",
-    "address": "street: 12627 San Jose Blvd Ste 603 location: Jacksonville, FL 32223"
-  },
-  {
-    "dataYpid": "478359572",
     "name": "HFI Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 699-3429",
-    "address": "street: 4514 Julington Creek Rd location: Jacksonville, FL 32258"
+    "address": " 4514 Julington Creek Rd  Jacksonville, FL 32258",
+    "location": "Duval"
   },
   {
-    "dataYpid": "519085822",
     "name": "Florida Safety Contractors Inc",
     "description": "Signs",
     "phone": "(904) 748-0144",
-    "address": "street: 14770 Normandy Blvd location: Jacksonville, FL 32234"
+    "address": " 14770 Normandy Blvd  Jacksonville, FL 32234",
+    "location": "Duval"
   },
   {
-    "dataYpid": "574725243",
     "name": "Paypercallus",
     "description": "Advertising Specialties",
     "phone": "(630) 936-7112",
-    "address": "street: 185 Celtic Wedding Dr location: Jacksonville, FL 32259"
+    "address": " 185 Celtic Wedding Dr  Jacksonville, FL 32259",
+    "location": "Duval"
   },
   {
-    "dataYpid": "505149290",
     "name": "enCode",
     "description": "Incentive Programs",
     "phone": "(904) 501-3042",
-    "address": "street: Po Box 600534 location: Jacksonville, FL 32260"
+    "address": " Po Box 600534  Jacksonville, FL 32260",
+    "location": "Duval"
   },
   {
-    "dataYpid": "466808",
-    "name": "B & S Signs",
-    "description": "Crane Service",
-    "phone": "(904) 587-1073",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "549322555",
     "name": "First Coast Graphics Inc",
     "description": "Embroidery",
     "phone": "(904) 940-9803",
-    "address": "street: 6655 County Road 218 location: Jacksonville, FL 32234"
-  },
-  {
-    "dataYpid": "17083867",
-    "name": "Sunshine Trophies & Awards Inc",
-    "description": "Trophies, Plaques & Medals",
-    "phone": "(386) 328-4989",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21846196",
-    "name": "Daves Tops and Trim",
-    "description": "Truck Equipment & Parts",
-    "phone": "(386) 325-3313",
-    "address": "street: N/A location: N/A"
+    "address": " 6655 County Road 218  Jacksonville, FL 32234",
+    "location": "Duval"
   }
 ]

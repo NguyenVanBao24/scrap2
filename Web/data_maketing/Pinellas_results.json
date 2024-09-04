@@ -1,4356 +1,3719 @@
 [
   {
-    "dataYpid": "481553963",
     "name": "Urban Exposure, Inc.",
     "description": "Marketing Consultants",
     "phone": "(727) 515-5024",
-    "address": "street: 1982 55th Ave S location: Saint Petersburg, FL 33712"
+    "address": "1982 55th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "496095352",
-    "name": "Premierlifeonline.com",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 687-5734",
-    "address": "street: N/A location: Saint Petersburg, FL 33702"
-  },
-  {
-    "dataYpid": "261488",
-    "name": "Deutsch Photographics",
-    "description": "Marketing Programs & Services",
-    "phone": "(516) 236-8074",
-    "address": "street: N/A location: Palm Harbor, FL 34685"
-  },
-  {
-    "dataYpid": "461916875",
-    "name": "AXG Designs",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 224-2670",
-    "address": "street: N/A location: Tarpon Springs, FL 34689"
-  },
-  {
-    "dataYpid": "466867581",
-    "name": "AZ Tees",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 657-8681",
-    "address": "street: N/A location: Palm Harbor, FL 34684"
-  },
-  {
-    "dataYpid": "549031597",
-    "name": "Digital Reality Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 222-7273",
-    "address": "street: N/A location: Largo, FL 33774"
-  },
-  {
-    "dataYpid": "22155622",
-    "name": "Analytics Marketing Group, LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 366-0042",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "534303645",
-    "name": "Ark Marketing Products",
-    "description": "Marketing Programs & Services",
-    "phone": "(585) 755-1239",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "545329749",
-    "name": "Bloom Intelligence Restaurant Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 877-8181",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573414538",
-    "name": "Thompson Marketing Partners",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 710-6387",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "192878",
-    "name": "Health by DNA",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 565-0238",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22059675",
-    "name": "Financial Services Group, LLC",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 804-5283",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "503986763",
-    "name": "Vision 1 Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(866) 866-4053",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573385122",
-    "name": "Get Clicked First",
-    "description": "Marketing Programs & Services",
-    "phone": "(813) 293-7135",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575754972",
     "name": "Skyway Media",
     "description": "Marketing Programs & Services",
     "phone": "(727) 317-6826",
-    "address": "street: 1029 Central Ave Ste 200 St. Petersburg Fl 33705 Usa location: St. Petersburg, FL 33705"
+    "address": "1029 Central Ave Ste 200 St. Petersburg Fl 33705 Usa  St. Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "534322626",
     "name": "The Agile Marketing Academy",
     "description": "Marketing Programs & Services",
     "phone": "(773) 941-0972",
-    "address": "street: 2732 6th Ave S location: Saint Petersburg, FL 33712"
+    "address": "2732 6th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559225717",
     "name": "Strops Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 462-0019",
-    "address": "street: 2521 Emerson Ave S location: Saint Petersburg, FL 33712"
+    "address": "2521 Emerson Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573353133",
     "name": "O'Neill Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(813) 489-4156",
-    "address": "street: 2260 1st Ave S location: Saint Petersburg, FL 33712"
+    "address": "2260 1st Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "542197475",
     "name": "Gozone Wifi",
     "description": "Marketing Programs & Services",
     "phone": "(727) 314-6910",
-    "address": "street: 1211 1st Ave N location: Saint Petersburg, FL 33705"
+    "address": "1211 1st Ave N  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546211033",
     "name": "T2 Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 351-1976",
-    "address": "street: 200 2nd Ave S location: Saint Petersburg, FL 33701"
+    "address": "200 2nd Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "566327474",
     "name": "Reache Eblast Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 798-6861",
-    "address": "street: 3135 1st Ave N location: Saint Petersburg, FL 33730"
+    "address": "3135 1st Ave N  Saint Petersburg, FL 33730",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571216775",
     "name": "Get on Social",
     "description": "Marketing Programs & Services",
     "phone": "(877) 504-3385",
-    "address": "street: 696 1st Ave N location: Saint Petersburg, FL 33701"
+    "address": "696 1st Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505180755",
     "name": "Diamond Star Media",
     "description": "Marketing Programs & Services",
     "phone": "(727) 822-4674",
-    "address": "street: 100 2nd Ave S location: Saint Petersburg, FL 33701"
+    "address": "100 2nd Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "540827954",
     "name": "Evolve & Co",
     "description": "Marketing Programs & Services",
     "phone": "(727) 914-8780",
-    "address": "street: 475 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "475 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "544815283",
     "name": "Peer360-Horizon Marketing Group Company",
     "description": "Marketing Programs & Services",
     "phone": "(727) 420-9883",
-    "address": "street: 475 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "475 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481939248",
     "name": "Marxent Labs",
     "description": "Marketing Programs & Services",
     "phone": "(727) 851-9522",
-    "address": "street: 433 Central Ave Ste 204 location: Saint Petersburg, FL 33701"
+    "address": "433 Central Ave Ste 204  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "453261489",
     "name": "Florida Progress Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(727) 824-6400",
-    "address": "street: 1 Progress Plz location: Saint Petersburg, FL 33701"
+    "address": "1 Progress Plz  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464846731",
     "name": "Family & Friends Financial",
     "description": "Marketing Programs & Services",
     "phone": "(727) 895-6551",
-    "address": "street: 1 Progress Plz location: Saint Petersburg, FL 33701"
+    "address": "1 Progress Plz  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "528929304",
     "name": "Communications Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 892-9280",
-    "address": "street: 360 Central Ave Ste 420 location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave Ste 420  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546370549",
     "name": "Cyclespoke",
     "description": "Marketing Programs & Services",
     "phone": "(800) 476-3340",
-    "address": "street: 360 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "507135439",
     "name": "Phoenix 3 Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 592-1916",
-    "address": "street: 76 4th St N location: Saint Petersburg, FL 33701"
+    "address": "76 4th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "22780617",
     "name": "Litchfield C/A Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 322-1220",
-    "address": "street: 4215 Central Ave location: Saint Petersburg, FL 33713"
+    "address": "4215 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "471174469",
     "name": "Empower Network, LLC.",
     "description": "Marketing Programs & Services",
     "phone": "(727) 328-4104",
-    "address": "street: 146 2nd St N Ste 201 location: Saint Petersburg, FL 33701"
+    "address": "146 2nd St N Ste 201  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4958300",
     "name": "Paradise Advertising & Marketing, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(727) 821-5155",
-    "address": "street: 150 2nd Ave N Ste 800 location: Saint Petersburg, FL 33701"
+    "address": "150 2nd Ave N Ste 800  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "556633264",
     "name": "Calusa Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(800) 946-0997",
-    "address": "street: 111 2nd Ave NE Ste 802 location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE Ste 802  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480244888",
     "name": "Natda",
     "description": "Marketing Programs & Services",
     "phone": "(727) 538-4167",
-    "address": "street: 111 2nd Ave NE Ste 900 location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE Ste 900  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "569530071",
     "name": "Sail Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 324-7461",
-    "address": "street: 5325 Gulfport Blvd S location: Gulfport, FL 33707"
+    "address": "5325 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "569293238",
     "name": "Marketing Mate",
     "description": "Marketing Programs & Services",
     "phone": "(610) 246-5911",
-    "address": "street: 430 3rd Ave S location: St Petersburg, FL 33701"
+    "address": "430 3rd Ave S  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547547562",
     "name": "Five Mile Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 220-5923",
-    "address": "street: 200 2nd Ave S location: St Petersburg, FL 33701"
+    "address": "200 2nd Ave S  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29015270",
     "name": "St Petersburg Saturday Morning Market",
     "description": "Marketing Programs & Services",
     "phone": "(727) 455-4921",
-    "address": "street: Al Lang Stadium Parking Lot 101 1st St Se location: St. Petersburg, FL 33701"
+    "address": "Al Lang Stadium Parking Lot 101 1st St Se  St. Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "521855911",
     "name": "Music Promo BHT",
     "description": "Marketing Programs & Services",
     "phone": "(727) 403-1046",
-    "address": "street: 431 11th Ave N location: Saint Petersburg, FL 33701"
+    "address": "431 11th Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482848399",
     "name": "Global Service Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 827-2824",
-    "address": "street: 1411 16th St N location: Saint Petersburg, FL 33704"
+    "address": "1411 16th St N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "485642590",
     "name": "Tsunami Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 895-6264",
-    "address": "street: 726 25th Ave N location: Saint Petersburg, FL 33704"
+    "address": "726 25th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547171643",
     "name": "Webtivity Marketing & Design",
     "description": "Marketing Programs & Services",
     "phone": "(941) 753-7574",
-    "address": "street: 138 Pinellas Way N location: Saint Petersburg, FL 33710"
+    "address": "138 Pinellas Way N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "460539419",
     "name": "Agency Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 384-6600",
-    "address": "street: 7024 Central Ave location: Saint Petersburg, FL 33707"
+    "address": "7024 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7219724",
     "name": "Fidelity Printing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 526-9156",
-    "address": "street: 3662 Morris St N location: Saint Petersburg, FL 33713"
+    "address": "3662 Morris St N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "13596995",
     "name": "First National Merchant Serv",
     "description": "Marketing Programs & Services",
     "phone": "(727) 344-1275",
-    "address": "street: 1700 66th St N location: Saint Petersburg, FL 33710"
+    "address": "1700 66th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546256874",
     "name": "Merchant Choice Payment Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 344-1275",
-    "address": "street: 1700 66th St N Ste 400 location: Saint Petersburg, FL 33710"
+    "address": "1700 66th St N Ste 400  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "524687294",
     "name": "J2 Web Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 410-2288",
-    "address": "street: 204 37th Ave N location: Saint Petersburg, FL 33704"
+    "address": "204 37th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472331682",
     "name": "Proforma The One Source",
     "description": "Marketing Programs & Services",
     "phone": "(727) 460-3308",
-    "address": "street: 7419 10th Ave N location: Saint Petersburg, FL 33710"
+    "address": "7419 10th Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482063507",
     "name": "Fastpath Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 398-1855",
-    "address": "street: 6822 22nd Ave N location: Saint Petersburg, FL 33710"
+    "address": "6822 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "518390343",
     "name": "MR Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 471-8262",
-    "address": "street: 4435 1st st ne unit 105 location: Saint Petersburg, FL 33703"
+    "address": "4435 1st st ne unit 105  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560504168",
     "name": "R Pick Marketing G",
     "description": "Marketing Programs & Services",
     "phone": "(727) 289-6791",
-    "address": "street: 3210 48th Ave N location: Saint Petersburg, FL 33714"
+    "address": "3210 48th Ave N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "9088559",
     "name": "Horizon Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 525-0034",
-    "address": "street: 3900 14th St NE location: Saint Petersburg, FL 33703"
+    "address": "3900 14th St NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "552192513",
     "name": "Paul Bleigners Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 440-6084",
-    "address": "street: 3200 64th St N location: Saint Petersburg, FL 33710"
+    "address": "3200 64th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480249327",
     "name": "Rdo Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 526-3030",
-    "address": "street: 3948 14th Way NE location: Saint Petersburg, FL 33703"
+    "address": "3948 14th Way NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "562590330",
     "name": "Sandi Brown Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 824-8889",
-    "address": "street: 623 Segovia Ct NE location: Saint Petersburg, FL 33703"
+    "address": "623 Segovia Ct NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "506567281",
     "name": "1 Smart Puppy",
     "description": "Marketing Programs & Services",
     "phone": "(727) 235-2841",
-    "address": "street: 4920 Locust St NE location: Saint Petersburg, FL 33703"
+    "address": "4920 Locust St NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "564247303",
     "name": "Painter Marketing Pros",
     "description": "Marketing Programs & Services",
     "phone": "(800) 813-4385",
-    "address": "street: 4047 Overlook Dr NE location: Saint Petersburg, FL 33703"
+    "address": "4047 Overlook Dr NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475557334",
     "name": "PSP Sign",
     "description": "Marketing Programs & Services",
     "phone": "(813) 244-8148",
-    "address": "street: 3345 57th Ave N location: Saint Petersburg, FL 33714"
+    "address": "3345 57th Ave N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482624777",
     "name": "Your Seo Marketing Pro",
     "description": "Marketing Programs & Services",
     "phone": "(727) 542-6707",
-    "address": "street: 5943 Calais Blvd N Apt 6 location: Saint Petersburg, FL 33714"
+    "address": "5943 Calais Blvd N Apt 6  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503029588",
     "name": "Business Xposure",
     "description": "Marketing Programs & Services",
     "phone": "(727) 642-8924",
-    "address": "street: 2404 Boca Ciega Dr N location: Saint Petersburg, FL 33710"
+    "address": "2404 Boca Ciega Dr N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572804872",
     "name": "AM Digital Productions LLC",
     "description": "Marketing Programs & Services",
     "phone": "(813) 668-2706",
-    "address": "street: 7901 4th St N location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "557756053",
     "name": "The Pog Group",
     "description": "Marketing Programs & Services",
     "phone": "(866) 875-8956",
-    "address": "street: 7901 4th St N Ste 4532 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 4532  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "566460500",
     "name": "Harrington Multi Media Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 230-1036",
-    "address": "street: 7400 14th St NE location: Saint Petersburg, FL 33702"
+    "address": "7400 14th St NE  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "545477195",
     "name": "Christian Marketing Experts",
     "description": "Marketing Programs & Services",
     "phone": "(727) 256-4427",
-    "address": "street: 1640 83rd Ave N location: Saint Petersburg, FL 33702"
+    "address": "1640 83rd Ave N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29094016",
     "name": "Sticky Multimedia",
     "description": "Marketing Programs & Services",
     "phone": "(727) 403-7803",
-    "address": "street: 300 82nd Ave N location: Saint Petersburg, FL 33702"
+    "address": "300 82nd Ave N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "15316348",
     "name": "Native Sun Sportswear",
     "description": "Marketing Programs & Services",
     "phone": "(727) 528-2111",
-    "address": "street: 4590 62nd Ave N location: Pinellas Park, FL 33781"
+    "address": "4590 62nd Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "528765720",
     "name": "Horizon Loyalty",
     "description": "Marketing Programs & Services",
     "phone": "(727) 289-7412",
-    "address": "street: 4531 68th Ave N location: Pinellas Park, FL 33781"
+    "address": "4531 68th Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "553684486",
     "name": "Marketopia",
     "description": "Marketing Programs & Services",
     "phone": "(844) 482-4769",
-    "address": "street: 3600 75th Ter N location: Pinellas Park, FL 33781"
+    "address": "3600 75th Ter N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575035354",
     "name": "The Growth Machine",
     "description": "Marketing Programs & Services",
     "phone": "(727) 788-4077",
-    "address": "street: 3600 75th Ter N location: Pinellas Park, FL 33781"
+    "address": "3600 75th Ter N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561620732",
     "name": "Ziggi Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 216-3859",
-    "address": "street: 3575 Gandy Blvd N location: Pinellas Park, FL 33781"
+    "address": "3575 Gandy Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "536221740",
     "name": "Teamworks Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(888) 801-8168",
-    "address": "street: 9701 International Ct N location: Saint Petersburg, FL 33716"
+    "address": "9701 International Ct N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "486746",
     "name": "Acquirgy",
     "description": "Marketing Programs & Services",
     "phone": "(727) 576-6630",
-    "address": "street: 877 Executive Center Dr W Ste 300 location: Saint Petersburg, FL 33702"
+    "address": "877 Executive Center Dr W Ste 300  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546625890",
     "name": "Chain Drug Marketing Association Inc",
     "description": "Marketing Programs & Services",
     "phone": "(248) 449-9300",
-    "address": "street: 9620 Executive Center Dr N location: Saint Petersburg, FL 33702"
+    "address": "9620 Executive Center Dr N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "683482",
     "name": "Agency Marketing Services",
     "description": "Marketing Programs & Services",
     "phone": "(727) 384-1036",
-    "address": "street: 9800 4th St N location: Saint Petersburg, FL 33702"
+    "address": "9800 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469140977",
     "name": "Aqua Marketing & Communication",
     "description": "Marketing Programs & Services",
     "phone": "(727) 687-4670",
-    "address": "street: 6055 Long Bayou Way N location: Saint Petersburg, FL 33708"
+    "address": "6055 Long Bayou Way N  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "523463664",
     "name": "Cherry & Co",
     "description": "Marketing Programs & Services",
     "phone": "(727) 393-7737",
-    "address": "street: 11000 49th Ave N location: Saint Petersburg, FL 33708"
+    "address": "11000 49th Ave N  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "523941203",
     "name": "SUNsational Showhomes",
     "description": "Marketing Programs & Services",
     "phone": "(678) 457-7792",
-    "address": "street: 4525 Cove Cir Apt 106 location: Saint Petersburg, FL 33708"
+    "address": "4525 Cove Cir Apt 106  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "477691077",
     "name": "Team Inc Corporate Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 577-8051",
-    "address": "street: 115 112th Ave NE location: Saint Petersburg, FL 33716"
+    "address": "115 112th Ave NE  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "554492339",
     "name": "Advantage Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 350-1030",
-    "address": "street: 2830 Scherer Dr N location: Saint Petersburg, FL 33716"
+    "address": "2830 Scherer Dr N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "483483897",
     "name": "Beach 2 Bay Ads",
     "description": "Marketing Programs & Services",
     "phone": "(727) 233-0246",
-    "address": "street: PO Box 245 location: Bay Pines, FL 33744"
+    "address": "PO Box 245  Bay Pines, FL 33744",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "524042279",
     "name": "Superior Marketing Company",
     "description": "Marketing Programs & Services",
     "phone": "(727) 304-8469",
-    "address": "street: 8800 49th St N Ste 111 location: Pinellas Park, FL 33782"
+    "address": "8800 49th St N Ste 111  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464476189",
     "name": "RWB Digital Imaging",
     "description": "Marketing Programs & Services",
     "phone": "(727) 385-1687",
-    "address": "street: 10461 Cirimoya Ln location: Seminole, FL 33772"
+    "address": "10461 Cirimoya Ln  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548530387",
     "name": "Media Simplified",
     "description": "Marketing Programs & Services",
     "phone": "(321) 890-6243",
-    "address": "street: 6187 101st Ave N location: Pinellas Park, FL 33782"
+    "address": "6187 101st Ave N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "10772019",
     "name": "Sign Language of Tampa Bay",
     "description": "Marketing Programs & Services",
     "phone": "(727) 572-8831",
-    "address": "street: 10880 49th St N location: Clearwater, FL 33762"
+    "address": "10880 49th St N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "562603757",
     "name": "Eaton Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 531-0899",
-    "address": "street: 5325 115th Ave N location: Clearwater, FL 33760"
+    "address": "5325 115th Ave N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561421178",
     "name": "Wholesome Goods, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(844) 719-1093",
-    "address": "street: 5355 115th Ave N location: Clearwater, FL 33760"
+    "address": "5355 115th Ave N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "451676949",
     "name": "Military Savings Book",
     "description": "Marketing Programs & Services",
     "phone": "(727) 329-8990",
-    "address": "street: 6177 Cedarbrook Dr N location: Pinellas Park, FL 33782"
+    "address": "6177 Cedarbrook Dr N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "9436750",
     "name": "Travel Hotline",
     "description": "Marketing Programs & Services",
     "phone": "(727) 392-2499",
-    "address": "street: 10863 Park Blvd location: Seminole, FL 33772"
+    "address": "10863 Park Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481586644",
     "name": "Marketing Masters Associates",
     "description": "Marketing Programs & Services",
     "phone": "(727) 547-7074",
-    "address": "street: 11350 66th St location: Largo, FL 33773"
+    "address": "11350 66th St  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "494354868",
     "name": "My Marketing Department Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 230-9679",
-    "address": "street: 11125 Park Blvd location: Seminole, FL 33772"
+    "address": "11125 Park Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561557509",
     "name": "The Jingle Writer",
     "description": "Marketing Programs & Services",
     "phone": "(727) 224-1791",
-    "address": "street: 11125 Park Blvd location: Seminole, FL 33772"
+    "address": "11125 Park Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559653036",
     "name": "DZS Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 530-2545",
-    "address": "street: 7340 Bryan Dairy Rd location: Seminole, FL 33777"
+    "address": "7340 Bryan Dairy Rd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4874383",
     "name": "Invincible Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 545-1800",
-    "address": "street: 10931 75th St location: Seminole, FL 33777"
+    "address": "10931 75th St  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "453245575",
     "name": "Concepts Marketing Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 228-2994",
-    "address": "street: 13100 56th Ct, Ste 703 location: Clearwater, FL 33760"
+    "address": "13100 56th Ct, Ste 703  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "517474093",
     "name": "Sliverbox Studios",
     "description": "Marketing Programs & Services",
     "phone": "(727) 418-3282",
-    "address": "street: 970 Lake Carillon Dr location: Saint Petersburg, FL 33716"
+    "address": "970 Lake Carillon Dr  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "527107618",
     "name": "Citywide Source",
     "description": "Marketing Programs & Services",
     "phone": "(727) 202-9043",
-    "address": "street: 970 Lake Carillon Dr location: Saint Petersburg, FL 33716"
+    "address": "970 Lake Carillon Dr  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "9772592",
     "name": "Wilson Printing USA",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-4173",
-    "address": "street: 14451 60th St N location: Clearwater, FL 33760"
+    "address": "14451 60th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "524862685",
     "name": "Seo Consulting Experts",
     "description": "Marketing Programs & Services",
     "phone": "(727) 276-4458",
-    "address": "street: 2100 E Bay Dr suite 233, location: Largo, FL 33771"
+    "address": "2100 E Bay Dr suite 233,  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "466678344",
     "name": "Thinkdirect Marketing Group",
     "description": "Marketing Programs & Services",
     "phone": "(727) 369-2700",
-    "address": "street: 8285 Bryan Dairy Rd Ste 33777 location: Seminole, FL 33777"
+    "address": "8285 Bryan Dairy Rd Ste 33777  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "461603959",
     "name": "BizBlueprint",
     "description": "Marketing Programs & Services",
     "phone": "(877) 632-1888",
-    "address": "street: 8998 Seminole Blvd location: Seminole, FL 33772"
+    "address": "8998 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "460856665",
     "name": "National Event Publications",
     "description": "Marketing Programs & Services",
     "phone": "(727) 254-5400",
-    "address": "street: 4908 Creekside Dr Ste A location: Clearwater, FL 33760"
+    "address": "4908 Creekside Dr Ste A  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "538274971",
     "name": "Nu View Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 754-9743",
-    "address": "street: 11701 Belcher Rd S location: Largo, FL 33773"
+    "address": "11701 Belcher Rd S  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "496505518",
     "name": "A2B Motion",
     "description": "Marketing Programs & Services",
     "phone": "(727) 497-1823",
-    "address": "street: 4911 Creekside Dr Ste A location: Clearwater, FL 33760"
+    "address": "4911 Creekside Dr Ste A  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "508769601",
     "name": "Uci",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-2777",
-    "address": "street: 4911 Creekside Dr location: Clearwater, FL 33760"
+    "address": "4911 Creekside Dr  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504045893",
     "name": "DigitalJ2",
     "description": "Marketing Programs & Services",
     "phone": "(813) 205-3745",
-    "address": "street: 12360 66th St Suite H2 location: Largo, FL 33773"
+    "address": "12360 66th St Suite H2  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559064975",
     "name": "MyEchelon Inc",
     "description": "Marketing Programs & Services",
     "phone": "(240) 216-5566",
-    "address": "street: 3001 Executive Dr Ste 140 location: Clearwater, FL 33762"
+    "address": "3001 Executive Dr Ste 140  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "532899178",
     "name": "Marketingmoves PLC",
     "description": "Marketing Programs & Services",
     "phone": "(408) 703-5811",
-    "address": "street: 4500 140th Ave N location: Clearwater, FL 33762"
+    "address": "4500 140th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "545401716",
     "name": "Everybody Media",
     "description": "Marketing Programs & Services",
     "phone": "(800) 727-8643",
-    "address": "street: 10055 Seminole Blvd location: Seminole, FL 33772"
+    "address": "10055 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "566319944",
     "name": "Dupont Registry",
     "description": "Marketing Programs & Services",
     "phone": "(727) 573-9339",
-    "address": "street: 4600 140th Ave N location: Clearwater, FL 33762"
+    "address": "4600 140th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "465714938",
     "name": "Inc Stemnion Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 216-6911",
-    "address": "street: 4600 140th Ave N location: Clearwater, FL 33762"
+    "address": "4600 140th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "13732839",
     "name": "Galaxy Marketing Solutions LLC",
     "description": "Marketing Programs & Services",
     "phone": "(727) 531-7171",
-    "address": "street: 14055 46th St N Ste 1102 location: Clearwater, FL 33762"
+    "address": "14055 46th St N Ste 1102  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "541931255",
     "name": "Our Town America",
     "description": "Marketing Programs & Services",
     "phone": "(727) 345-0811",
-    "address": "street: 13900 Us Highway 19 N location: Clearwater, FL 33764"
+    "address": "13900 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548068910",
     "name": "Scribe Opco, Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-7895",
-    "address": "street: 14421 Myerlake Cir location: Clearwater, FL 33760"
+    "address": "14421 Myerlake Cir  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560928486",
     "name": "Majesty Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 373-6085",
-    "address": "street: 14330 58th St N location: Clearwater, FL 33760"
+    "address": "14330 58th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6689858",
     "name": "Direct Check Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-3399",
-    "address": "street: 6399 142nd Ave N location: Clearwater, FL 33760"
+    "address": "6399 142nd Ave N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "531978773",
     "name": "Mad Dog Armory",
     "description": "Marketing Programs & Services",
     "phone": "(727) 304-4443",
-    "address": "street: 11606 Seminole Blvd location: Largo, FL 33778"
+    "address": "11606 Seminole Blvd  Largo, FL 33778",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546236733",
-    "name": "Teamworks Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 801-8168",
-    "address": "street: 8550 Ulmerton Rd location: Largo, FL 33771"
-  },
-  {
-    "dataYpid": "2334252",
     "name": "M K J Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 524-8100",
-    "address": "street: 1501 Belcher Rd S location: Largo, FL 33771"
+    "address": "1501 Belcher Rd S  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "499062288",
     "name": "Braman Group",
     "description": "Marketing Programs & Services",
     "phone": "(813) 868-1782",
-    "address": "street: 9225 Ulmerton Rd Ste P location: Largo, FL 33771"
+    "address": "9225 Ulmerton Rd Ste P  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "499807392",
     "name": "Quantum Marketing International Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 791-7879",
-    "address": "street: 5680 Roosevelt Blvd location: Clearwater, FL 33760"
+    "address": "5680 Roosevelt Blvd  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "564724625",
     "name": "Progressive Dental Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 286-6211",
-    "address": "street: 15950 Bay Vista Dr Ste 301 location: Clearwater, FL 33760"
+    "address": "15950 Bay Vista Dr Ste 301  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "22780967",
     "name": "Universal Survey Advertising Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 517-0800",
-    "address": "street: 12597 Walsingham Rd location: Largo, FL 33774"
+    "address": "12597 Walsingham Rd  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572075525",
     "name": "Power Moves Digital Marketing & Websites",
     "description": "Marketing Programs & Services",
     "phone": "(727) 219-3721",
-    "address": "street: 1958 Promenade Way location: Clearwater, FL 33760"
+    "address": "1958 Promenade Way  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "493808310",
     "name": "Gcp",
     "description": "Marketing Programs & Services",
     "phone": "(252) 441-9401",
-    "address": "street: 13103 Cimarron Cir S location: Largo, FL 33774"
+    "address": "13103 Cimarron Cir S  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "21312692",
     "name": "Global Enterprises W. W. Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(727) 286-8605",
-    "address": "street: 3665 E Bay Dr Ste 204 location: Largo, FL 33771"
+    "address": "3665 E Bay Dr Ste 204  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "476037169",
     "name": "Enrollment Catalyst",
     "description": "Marketing Programs & Services",
     "phone": "(727) 647-0378",
-    "address": "street: 9770 Indian Key Trl location: Seminole, FL 33776"
+    "address": "9770 Indian Key Trl  Seminole, FL 33776",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504709639",
     "name": "Wealth Health and Stealth",
     "description": "Marketing Programs & Services",
     "phone": "(727) 692-9487",
-    "address": "street: Po Box 873 location: largo, FL 33779"
+    "address": "Po Box 873  largo, FL 33779",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "563095419",
     "name": "Vector Marketing Corp",
     "description": "Marketing Programs & Services",
     "phone": "(716) 372-3111",
-    "address": "street: 1301 Seminole Blvd location: Largo, FL 33770"
+    "address": "1301 Seminole Blvd  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "470771608",
     "name": "Media Pro Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 330-7564",
-    "address": "street: 152 8th Ave SW location: Largo, FL 33770"
+    "address": "152 8th Ave SW  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "454913777",
     "name": "Doyle Marketing Group Cnstr",
     "description": "Marketing Programs & Services",
     "phone": "(727) 410-8887",
-    "address": "street: 1717 Doncaster Rd location: Clearwater, FL 33764"
+    "address": "1717 Doncaster Rd  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481146984",
     "name": "Munce Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 596-7625",
-    "address": "street: 200 W Bay Dr location: Largo, FL 33770"
+    "address": "200 W Bay Dr  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "498884593",
     "name": "MTL Media Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 596-7625",
-    "address": "street: 200 W Bay Dr location: Largo, FL 33770"
+    "address": "200 W Bay Dr  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "2951838",
     "name": "Strategic Media Worldwide",
     "description": "Marketing Programs & Services",
     "phone": "(727) 588-0015",
-    "address": "street: 311 Missouri Ave N location: Largo, FL 33770"
+    "address": "311 Missouri Ave N  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "531435160",
     "name": "RJG Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-8668",
-    "address": "street: 2557 Nursery Rd location: Clearwater, FL 33764"
+    "address": "2557 Nursery Rd  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "552014944",
     "name": "Level 6 Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 210-6600",
-    "address": "street: 19321 Us Highway 19 N location: Clearwater, FL 33764"
+    "address": "19321 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "513015372",
     "name": "Khampton Ventures",
     "description": "Marketing Programs & Services",
     "phone": "(727) 831-9102",
-    "address": "street: 1421 Temple St location: Clearwater, FL 33756"
+    "address": "1421 Temple St  Clearwater, FL 33756",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559248608",
     "name": "JRR Marketing Brokers",
     "description": "Marketing Programs & Services",
     "phone": "(941) 779-8149",
-    "address": "street: 1930 24th Ave W location: Palmetto, FL 34221"
+    "address": "1930 24th Ave W  Palmetto, FL 34221",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "567122935",
     "name": "Home Care Marketing Pros",
     "description": "Marketing Programs & Services",
     "phone": "(888) 861-2337",
-    "address": "street: 230 Sapphire Lake Dr Unit 201 location: Bradenton, FL 34209"
+    "address": "230 Sapphire Lake Dr Unit 201  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481017862",
     "name": "Image Suite PR/Marketing/Media",
     "description": "Marketing Programs & Services",
     "phone": "(813) 419-2494",
-    "address": "street: Po Box 5572 location: Sun City Center, FL 33571"
+    "address": "Po Box 5572  Sun City Center, FL 33571",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "574939920",
     "name": "TruReach Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(888) 315-4769",
-    "address": "street: 7322 Manatee Ave W location: Bradenton, FL 34209"
+    "address": "7322 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "510682454",
     "name": "American Marine",
     "description": "Marketing Programs & Services",
     "phone": "(941) 356-4522",
-    "address": "street: 7322 Manatee Ave W location: Bradenton, FL 34209"
+    "address": "7322 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576068663",
     "name": "Bright Edge Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(608) 931-3160",
-    "address": "street: 1032 Royal Empress Dr location: Ruskin, FL 33570"
+    "address": "1032 Royal Empress Dr  Ruskin, FL 33570",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5695770",
-    "name": "JPL Marketing Inc",
-    "description": "Marketing Programs & Services",
-    "phone": "(941) 761-8639",
-    "address": "street: N/A location: Bradenton, FL 34209"
-  },
-  {
-    "dataYpid": "567242990",
     "name": "6th FSS",
     "description": "Marketing Programs & Services",
     "phone": "(813) 828-3055",
-    "address": "street: 8801 Tampa Point Blvd location: Tampa, FL 33621"
+    "address": "8801 Tampa Point Blvd  Tampa, FL 33621",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503175643",
     "name": "Marketing With Mel",
     "description": "Marketing Programs & Services",
     "phone": "(813) 835-0597",
-    "address": "street: 4933 S West Shore Blvd location: Tampa, FL 33611"
+    "address": "4933 S West Shore Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575564218",
     "name": "Master Marketing Firm",
     "description": "Marketing Programs & Services",
     "phone": "(813) 493-8000",
-    "address": "street: 122 Star Shell Dr location: Apollo Beach, FL 33572"
+    "address": "122 Star Shell Dr  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "522925041",
     "name": "899WebDesign.com",
     "description": "Marketing Programs & Services",
     "phone": "(800) 859-6588",
-    "address": "street: 4644 W Gandy Blvd Ste 4112 location: Tampa, FL 33611"
+    "address": "4644 W Gandy Blvd Ste 4112  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572984811",
     "name": "Marketing.com",
     "description": "Marketing Programs & Services",
     "phone": "(813) 576-2098",
-    "address": "street: 5210 S Lois Ave location: Tampa, FL 33611"
+    "address": "5210 S Lois Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "468281105",
     "name": "Barracuda Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(813) 486-4810",
-    "address": "street: 4525 S Renellie Dr location: Tampa, FL 33611"
+    "address": "4525 S Renellie Dr  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "554020085",
     "name": "Foundation Marketing Group Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 372-4670",
-    "address": "street: 8955 Us Highway 301 N location: Parrish, FL 34219"
+    "address": "8955 Us Highway 301 N  Parrish, FL 34219",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "565125303",
     "name": "Real Authority",
     "description": "Marketing Programs & Services",
     "phone": "(941) 870-2778",
-    "address": "street: 1133 Riverscape St location: Bradenton, FL 34208"
+    "address": "1133 Riverscape St  Bradenton, FL 34208",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "524846626",
     "name": "Base 26",
     "description": "Marketing Programs & Services",
     "phone": "(813) 426-3600",
-    "address": "street: 5315 Bayshore Blvd location: Tampa, FL 33611"
+    "address": "5315 Bayshore Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464533994",
     "name": "Total Marketing Concepts",
     "description": "Marketing Programs & Services",
     "phone": "(813) 641-8601",
-    "address": "street: 100 Frandorson Cir location: Apollo Beach, FL 33572"
+    "address": "100 Frandorson Cir  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "563908582",
     "name": "Sociali",
     "description": "Marketing Programs & Services",
     "phone": "(813) 586-0149",
-    "address": "street: 5401 W Kennedy Blvd location: Tampa, FL 33609"
+    "address": "5401 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573513242",
     "name": "Gentech Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(850) 788-2740",
-    "address": "street: 5401 W Kennedy Blvd location: Tampa, FL 33609"
+    "address": "5401 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482067240",
     "name": "Family First",
     "description": "Marketing Programs & Services",
     "phone": "(813) 222-8300",
-    "address": "street: 5509 W Gray St location: Tampa, FL 33609"
+    "address": "5509 W Gray St  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573262742",
     "name": "KSB Sales & Marketing Agency",
     "description": "Marketing Programs & Services",
     "phone": "(239) 826-7991",
-    "address": "street: 6610 Parkshore Drive location: Apollo Beach, FL 33572"
+    "address": "6610 Parkshore Drive  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503572354",
-    "name": "OneStop Print & Copy Centers of FL",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 442-6566",
-    "address": "street: N/A location: Clearwater, FL 33765"
-  },
-  {
-    "dataYpid": "457411878",
-    "name": "TrueFire's Mail Dog",
-    "description": "Marketing Programs & Services",
-    "phone": "(800) 444-5588",
-    "address": "street: N/A location: Saint Petersburg, FL 33705"
-  },
-  {
-    "dataYpid": "453319410",
     "name": "Security First Planning Group",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-2777",
-    "address": "street: 19321 US Highway 19 N location: Clearwater, FL 33764"
+    "address": "19321 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482089951",
-    "name": "Cartography Marketing",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 386-8792",
-    "address": "street: N/A location: Clearwater, FL 33759"
-  },
-  {
-    "dataYpid": "465241516",
-    "name": "Peacock Production Studios",
-    "description": "Marketing Programs & Services",
-    "phone": "(866) 933-5020",
-    "address": "street: N/A location: Palm Harbor, FL 34684"
-  },
-  {
-    "dataYpid": "465387741",
-    "name": "Optnads, Inc.",
-    "description": "Marketing Programs & Services",
-    "phone": "(877) 938-9848",
-    "address": "street: N/A location: Dunedin, FL 34697"
-  },
-  {
-    "dataYpid": "502840877",
-    "name": "Steiger Marketing and Sales",
-    "description": "Marketing Programs & Services",
-    "phone": "(757) 506-4194",
-    "address": "street: N/A location: Gulfport, FL 33707"
-  },
-  {
-    "dataYpid": "573858426",
-    "name": "World Class Websites Clearwater Web Design",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 520-6925",
-    "address": "street: N/A location: Clearwater, FL 33756"
-  },
-  {
-    "dataYpid": "460736159",
-    "name": "myPROlifestyle",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 207-2119",
-    "address": "street: N/A location: Tarpon Springs, FL 34689"
-  },
-  {
-    "dataYpid": "452261092",
-    "name": "My Mobile Signs",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 564-1304",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "561326115",
-    "name": "Your Ad Market",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 584-8697",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "482765829",
     "name": "Design by M2",
     "description": "Marketing Programs & Services",
     "phone": "(727) 323-6945",
-    "address": "street: 2811 Miriam St S location: Gulfport, FL 33711"
+    "address": "2811 Miriam St S  Gulfport, FL 33711",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "529582455",
     "name": "MH Consulting",
     "description": "Marketing Programs & Services",
     "phone": "(727) 470-5543",
-    "address": "street: 2601 47th St S location: Gulfport, FL 33711"
+    "address": "2601 47th St S  Gulfport, FL 33711",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4711485",
     "name": "Capitol Marketing Concepts Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 895-8151",
-    "address": "street: 696 1st Ave N Ste 400 location: Saint Petersburg, FL 33701"
+    "address": "696 1st Ave N Ste 400  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "502947287",
     "name": "LocalMediaInsider",
     "description": "Marketing Programs & Services",
     "phone": "(408) 892-9815",
-    "address": "street: 2544 2nd Ave N location: Saint Petersburg, FL 33713"
+    "address": "2544 2nd Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505883557",
     "name": "Intent Local",
     "description": "Marketing Programs & Services",
     "phone": "(727) 278-3926",
-    "address": "street: 33 6th St S Ste 501 location: Saint Petersburg, FL 33701"
+    "address": "33 6th St S Ste 501  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504208572",
     "name": "Forthfox",
     "description": "Marketing Programs & Services",
     "phone": "(727) 998-1849",
-    "address": "street: PO Box 13946 location: Saint Petersburg, FL 33733"
+    "address": "PO Box 13946  Saint Petersburg, FL 33733",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "465713910",
     "name": "E Push",
     "description": "Marketing Programs & Services",
     "phone": "(727) 362-3679",
-    "address": "street: 433 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "433 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "466313634",
     "name": "QR Consulting, LLC",
     "description": "Marketing Programs & Services",
     "phone": "(800) 555-2785",
-    "address": "street: PO Box 1902 location: Saint Petersburg, FL 33731"
+    "address": "PO Box 1902  Saint Petersburg, FL 33731",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482225288",
     "name": "Kobie Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 822-5353",
-    "address": "street: 111 2nd Ave NE location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "551412365",
     "name": "Castnet Media",
     "description": "Marketing Programs & Services",
     "phone": "(727) 892-2391",
-    "address": "street: 490 1st Ave S location: St Petersburg, FL 33701"
+    "address": "490 1st Ave S  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559618236",
     "name": "Blubird Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 637-7021",
-    "address": "street: 740 4th St N # 198 location: Saint Petersburg, FL 33701"
+    "address": "740 4th St N # 198  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472761178",
     "name": "Delphi Integration",
     "description": "Marketing Programs & Services",
     "phone": "(727) 515-5779",
-    "address": "street: 1820 11th St N location: Saint Petersburg, FL 33704"
+    "address": "1820 11th St N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29053004",
     "name": "Odyssey Promotions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 388-3629",
-    "address": "street: 3125 30th Ave N location: Saint Petersburg, FL 33713"
+    "address": "3125 30th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "496390265",
     "name": "Kwik Kopy",
     "description": "Marketing Programs & Services",
     "phone": "(813) 286-1690",
-    "address": "street: 3225 Bennett St N Ste A location: Saint Petersburg, FL 33713"
+    "address": "3225 Bennett St N Ste A  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548432440",
     "name": "Excel Network",
     "description": "Marketing Programs & Services",
     "phone": "(800) 933-6919",
-    "address": "street: 3900 31st St N location: Saint Petersburg, FL 33714"
+    "address": "3900 31st St N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "530063176",
     "name": "Sales Up Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 755-3614",
-    "address": "street: 204 37th Ave N location: Saint Petersburg, FL 33704"
+    "address": "204 37th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "553188457",
     "name": "Dragon Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 308-0030",
-    "address": "street: 7901 4th St N Ste 4040 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 4040  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573842012",
     "name": "ProTech Web Solutions LLC",
     "description": "Marketing Programs & Services",
     "phone": "(352) 355-9028",
-    "address": "street: 7901 4th Street Ste 300 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th Street Ste 300  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "567981570",
     "name": "eileenmorenoconsulting LLC",
     "description": "Marketing Programs & Services",
     "phone": "(800) 782-2144",
-    "address": "street: 7901 4th St STE 300 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St STE 300  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572007578",
     "name": "Adzado",
     "description": "Marketing Programs & Services",
     "phone": "(833) 401-5587",
-    "address": "street: 7904 4th St N location: Saint Petersburg, FL 33702"
+    "address": "7904 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560804021",
     "name": "Belt Creative",
     "description": "Marketing Programs & Services",
     "phone": "(585) 204-0292",
-    "address": "street: 8100 6th St N location: Saint Petersburg, FL 33702"
+    "address": "8100 6th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5125817",
     "name": "Professional Systems Printing and Promotions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 572-0768",
-    "address": "street: 12180 28th St N location: Saint Petersburg, FL 33716"
+    "address": "12180 28th St N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "534713291",
     "name": "Big Nerd Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(844) 637-3439",
-    "address": "street: 11300 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33716"
+    "address": "11300 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29243423",
     "name": "Hsn",
     "description": "Marketing Programs & Services",
     "phone": "(727) 872-1000",
-    "address": "street: 1 Hsn Dr location: Saint Petersburg, FL 33716"
+    "address": "1 Hsn Dr  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "473594349",
     "name": "The Essential Admin",
     "description": "Marketing Programs & Services",
     "phone": "(513) 858-5533",
-    "address": "street: Park Blvd location: Seminole, FL 33777"
+    "address": "Park Blvd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "540788217",
     "name": "Minuteman Press",
     "description": "Marketing Programs & Services",
     "phone": "(727) 954-0519",
-    "address": "street: 9600 66th St N Ste A location: Pinellas Park, FL 33782"
+    "address": "9600 66th St N Ste A  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "519879412",
     "name": "Marketsurge",
     "description": "Marketing Programs & Services",
     "phone": "(727) 573-1763",
-    "address": "street: 4250 118th Ave N location: Clearwater, FL 33762"
+    "address": "4250 118th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "16795209",
     "name": "Turnkey Merchandising Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 213-1260",
-    "address": "street: 10810 72nd St location: Seminole, FL 33777"
+    "address": "10810 72nd St  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "2264519",
     "name": "Catalina Marketing Corporation",
     "description": "Marketing Programs & Services",
     "phone": "(727) 579-5000",
-    "address": "street: 200 Carillon Pkwy location: Saint Petersburg, FL 33716"
+    "address": "200 Carillon Pkwy  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "451693659",
     "name": "Stahl Robert L",
     "description": "Marketing Programs & Services",
     "phone": "(727) 391-9791",
-    "address": "street: 110 Carillon Pkwy location: Saint Petersburg, FL 33716"
+    "address": "110 Carillon Pkwy  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "468615675",
     "name": "OrangeTheory",
     "description": "Marketing Programs & Services",
     "phone": "(727) 378-9020",
-    "address": "street: 7600 Bryan Dairy Rd Suite B. location: Seminole, FL 33777"
+    "address": "7600 Bryan Dairy Rd Suite B.  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "515300352",
     "name": "Wilde Ideas Web Design & Development",
     "description": "Marketing Programs & Services",
     "phone": "(727) 888-3801",
-    "address": "street: 8990 Seminole Blvd location: Seminole, FL 33772"
+    "address": "8990 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573350961",
     "name": "GO Agency Digital Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(813) 790-5909",
-    "address": "street: 2655 Ulmerton Rd Ste 219 location: Clearwater, FL 33762"
+    "address": "2655 Ulmerton Rd Ste 219  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "473503996",
     "name": "Strategic Media Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 531-7622",
-    "address": "street: 2857 Executive Dr Ste 120 location: Clearwater, FL 33762"
+    "address": "2857 Executive Dr Ste 120  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "525180678",
     "name": "Xanjero Media",
     "description": "Marketing Programs & Services",
     "phone": "(727) 421-8770",
-    "address": "street: 9209 Seminole Blvd location: Seminole, FL 33772"
+    "address": "9209 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575411185",
     "name": "Ads and Funnels",
     "description": "Marketing Programs & Services",
     "phone": "(727) 280-5912",
-    "address": "street: 12700 66th St Apt 2325 location: Largo, FL 33773"
+    "address": "12700 66th St Apt 2325  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503930685",
     "name": "Olavare Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 560-7168",
-    "address": "street: 13575 58th St N location: Clearwater, FL 33760"
+    "address": "13575 58th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475548984",
     "name": "Red Palm Marketing",
     "description": "Marketing Programs & Services",
     "phone": "(727) 230-8880",
-    "address": "street: 13575 58th St N Ste 146 location: Clearwater, FL 33760"
+    "address": "13575 58th St N Ste 146  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "526509985",
     "name": "Kensjin, Inc.",
     "description": "Marketing Programs & Services",
     "phone": "(727) 906-0699",
-    "address": "street: 4500 140th Ave N Ste 101 location: Clearwater, FL 33762"
+    "address": "4500 140th Ave N Ste 101  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547659458",
     "name": "My Marketing Department, Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 888-1200",
-    "address": "street: 7777 131st St Ste 9 location: Seminole, FL 33776"
+    "address": "7777 131st St Ste 9  Seminole, FL 33776",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "537968387",
     "name": "Modern Mail & Print Solutions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 572-6245",
-    "address": "street: 14201 58th St N location: Clearwater, FL 33760"
+    "address": "14201 58th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "451202696",
     "name": "Pro Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 595-1269",
-    "address": "street: 18395 Gulf Blvd location: Indian Shores, FL 33785"
+    "address": "18395 Gulf Blvd  Indian Shores, FL 33785",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559490219",
     "name": "Dream Giveaway",
     "description": "Marketing Programs & Services",
     "phone": "(727) 536-2777",
-    "address": "street: 12955 Starkey Rd Ste 3900 location: Largo, FL 33773"
+    "address": "12955 Starkey Rd Ste 3900  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546988828",
     "name": "AGR Group",
     "description": "Marketing Programs & Services",
     "phone": "(727) 572-0600",
-    "address": "street: 8550 Ulmerton Rd location: Largo, FL 33771"
+    "address": "8550 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5169616",
-    "name": "Minuteman Press",
-    "description": "Marketing Programs & Services",
-    "phone": "(727) 535-3800",
-    "address": "street: 2475 E Bay Dr location: Largo, FL 33771"
-  },
-  {
-    "dataYpid": "21677690",
     "name": "Full Throttle Marketing Inc",
     "description": "Marketing Programs & Services",
     "phone": "(727) 210-0835",
-    "address": "street: 2480 E Bay Dr Ste 13 location: Largo, FL 33771"
+    "address": "2480 E Bay Dr Ste 13  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480750071",
     "name": "Kicker Creative Productions",
     "description": "Marketing Programs & Services",
     "phone": "(727) 641-3007",
-    "address": "street: 3339 21st Pl SW location: Largo, FL 33774"
+    "address": "3339 21st Pl SW  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "502931668",
     "name": "AdAbler, LLC",
     "description": "Marketing Programs & Services",
     "phone": "(813) 420-0852",
-    "address": "street: 312 6th Ave location: Indian Rocks Beach, FL 33785"
+    "address": "312 6th Ave  Indian Rocks Beach, FL 33785",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "550454541",
     "name": "Relativity SEO",
     "description": "Marketing Programs & Services",
     "phone": "(941) 251-5267",
-    "address": "street: 517 72nd St location: Holmes Beach, FL 34217"
+    "address": "517 72nd St  Holmes Beach, FL 34217",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "525580628",
     "name": "Virtual Mobile",
     "description": "Marketing Programs & Services",
     "phone": "(610) 513-2933",
-    "address": "street: 6401 S West Shore Blvd location: Tampa, FL 33616"
+    "address": "6401 S West Shore Blvd  Tampa, FL 33616",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "476163556",
     "name": "AMI Creative Studio",
     "description": "Marketing Programs & Services",
     "phone": "(941) 773-9665",
-    "address": "street: 3101 Avenue F location: Holmes Beach, FL 34217"
+    "address": "3101 Avenue F  Holmes Beach, FL 34217",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "531728481",
     "name": "Deckard & Company",
     "description": "Marketing Programs & Services",
     "phone": "(941) 462-4546",
-    "address": "street: 1201 6th Ave W Ste 100 location: Bradenton, FL 34205"
+    "address": "1201 6th Ave W Ste 100  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572984581",
     "name": "Net Sphere",
     "description": "Marketing Programs & Services",
     "phone": "(941) 300-0531",
-    "address": "street: 1201 6th Ave W location: Bradenton, FL 34205"
+    "address": "1201 6th Ave W  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3083245",
     "name": "Confluent Creative",
     "description": "Marketing Programs & Services",
     "phone": "(941) 722-0317",
-    "address": "street: 717 Manatee Ave W Ste 100 location: Bradenton, FL 34205"
+    "address": "717 Manatee Ave W Ste 100  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "474383265",
     "name": "CRE8 Group",
     "description": "Marketing Programs & Services",
     "phone": "(813) 649-8504",
-    "address": "street: 4708 W Knights Ave location: Tampa, FL 33611"
+    "address": "4708 W Knights Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497081144",
     "name": "Quad/Graphics Inc",
     "description": "Marketing Programs & Services",
     "phone": "(813) 837-3436",
-    "address": "street: 4646 S Grady Ave location: Tampa, FL 33611"
+    "address": "4646 S Grady Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504399420",
     "name": "Indivo",
     "description": "Marketing Programs & Services",
     "phone": "(877) 446-3486",
-    "address": "street: 235 Apollo Beach Blvd Ste 256 location: Apollo Beach, FL 33572"
+    "address": "235 Apollo Beach Blvd Ste 256  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "452129426",
-    "name": "Kwik Kopy",
-    "description": "Marketing Programs & Services",
-    "phone": "(813) 286-1690",
-    "address": "street: 5401 W Kennedy Blvd location: Tampa, FL 33609"
-  },
-  {
-    "dataYpid": "565025163",
     "name": "MileMark Media",
     "description": "Marketing Programs & Services",
     "phone": "(813) 200-5844",
-    "address": "street: 5100 W Kennedy Blvd Ste 152 location: Tampa, FL 33609"
+    "address": "5100 W Kennedy Blvd Ste 152  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576742921",
     "name": "Wolf Bot Ai",
     "description": "Marketing Programs & Services",
     "phone": "(855) 965-3268",
-    "address": "street: Kings Crossing location: Sun City Center, FL 33573"
+    "address": "Kings Crossing  Sun City Center, FL 33573",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "495497314",
     "name": "ConsultEugene, Inc",
     "description": "Employment Training",
     "phone": "(727) 873-3914",
-    "address": "street: 5801 16th St S location: Saint Petersburg, FL 33705"
+    "address": "5801 16th St S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "530037648",
     "name": "Monumental SEO",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 857-7383",
-    "address": "street: 2822 54th Ave S Suite 119 location: Saint Petersburg, FL 33712"
+    "address": "2822 54th Ave S Suite 119  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469392457",
     "name": "AIM Above",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 258-8844",
-    "address": "street: 7310 Sunshine Skyway Ln S Apt 220 location: Saint Petersburg, FL 33711"
+    "address": "7310 Sunshine Skyway Ln S Apt 220  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464614563",
-    "name": "Bay Area Tech - Tampa Bay Computer Support",
-    "description": "Internet Consultants",
-    "phone": "(727) 642-4846",
-    "address": "street: N/A location: Saint Petersburg, FL 33709"
-  },
-  {
-    "dataYpid": "469386657",
     "name": "Rainbow411",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 644-2836",
-    "address": "street: 4601 34th St S location: Saint Petersburg, FL 33711"
+    "address": "4601 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480297543",
     "name": "SJ Creative Designs",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 377-7784",
-    "address": "street: 3801 6th st s Suite B location: Saint Petersburg, FL 33705"
+    "address": "3801 6th st s Suite B  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "20092335",
-    "name": "LocalShops1.com",
-    "description": "Directory & Guide Advertising",
-    "phone": "(727) 637-5586",
-    "address": "street: N/A location: Saint Petersburg, FL 33701"
-  },
-  {
-    "dataYpid": "460596256",
-    "name": "American Owners Incorporated",
-    "description": "Interactive Media",
-    "phone": "(727) 906-5584",
-    "address": "street: N/A location: Saint Petersburg, FL 33713"
-  },
-  {
-    "dataYpid": "461855122",
-    "name": "Klinger Consulting",
-    "description": "Business Coaches & Consultants",
-    "phone": "(727) 520-6176",
-    "address": "street: N/A location: Saint Petersburg, FL 33713"
-  },
-  {
-    "dataYpid": "462474747",
-    "name": "Wired Web Designer",
-    "description": "Internet Consultants",
-    "phone": "(727) 564-8093",
-    "address": "street: N/A location: Saint Petersburg, FL 33705"
-  },
-  {
-    "dataYpid": "465427805",
-    "name": "Splatter Concepts, Inc.",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 688-5947",
-    "address": "street: N/A location: Saint Petersburg, FL 33716"
-  },
-  {
-    "dataYpid": "468708751",
-    "name": "Foxxr Digital Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 379-2207",
-    "address": "street: N/A location: Saint Petersburg, FL 33710"
-  },
-  {
-    "dataYpid": "554945887",
-    "name": "Ocean State Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 285-3765",
-    "address": "street: N/A location: Saint Petersburg, FL 33714"
-  },
-  {
-    "dataYpid": "23012120",
-    "name": "Wareham Online Inc.",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 498-4736",
-    "address": "street: N/A location: Indian Rocks Beach, FL 33785"
-  },
-  {
-    "dataYpid": "461409918",
     "name": "Omega Marketing Solutions",
     "description": "Marketing Consultants",
     "phone": "(727) 230-1810",
-    "address": "street: 28870 US Highway 19 N location: Clearwater, FL 33761"
+    "address": "28870 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7997615",
     "name": "Spatial Networks",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 538-0545",
-    "address": "street: 18167 US Highway 19 N location: Clearwater, FL 33764"
+    "address": "18167 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "465411625",
-    "name": "Uncharted Video Productions",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 731-7265",
-    "address": "street: N/A location: Largo, FL 33773"
-  },
-  {
-    "dataYpid": "483921585",
-    "name": "ELITE Marketing & Consulting",
-    "description": "Marketing Consultants",
-    "phone": "(727) 452-1300",
-    "address": "street: N/A location: Seminole, FL 33776"
-  },
-  {
-    "dataYpid": "547493905",
-    "name": "Underground SEO Solutions",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 536-5777",
-    "address": "street: N/A location: Largo, FL 33773"
-  },
-  {
-    "dataYpid": "574927226",
-    "name": "ROI Amplified",
-    "description": "Directory & Guide Advertising",
-    "phone": "(727) 888-2215",
-    "address": "street: N/A location: St. Petersburg, FL 33701"
-  },
-  {
-    "dataYpid": "465215297",
-    "name": "Stylenewbie MYK, LLC",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(813) 810-0929",
-    "address": "street: N/A location: Clearwater, FL 33764"
-  },
-  {
-    "dataYpid": "465492328",
-    "name": "Thiessen&Associates",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 455-5299",
-    "address": "street: N/A location: Bay Pines, FL 33744"
-  },
-  {
-    "dataYpid": "512485695",
-    "name": "Elite Marketing Events",
-    "description": "Marketing Consultants",
-    "phone": "(727) 452-1300",
-    "address": "street: N/A location: Seminole, FL 33775"
-  },
-  {
-    "dataYpid": "573210758",
-    "name": "Limitless Enterprises",
-    "description": "Web Site Hosting",
-    "phone": "(727) 902-5367",
-    "address": "street: N/A location: Clearwater, FL 33759"
-  },
-  {
-    "dataYpid": "576081061",
-    "name": "Pretty Creative Media",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(614) 813-1676",
-    "address": "street: N/A location: Clearwater, FL 33759"
-  },
-  {
-    "dataYpid": "576141577",
-    "name": "Mental Wellness Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 203-2017",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22173451",
-    "name": "Marketing Magic",
-    "description": "Marketing Consultants",
-    "phone": "(727) 678-9742",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22647829",
-    "name": "Blu Sol Creative Marketing",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 230-4750",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "22662235",
-    "name": "Exploring Tampa Bay",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 420-2399",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23315484",
-    "name": "Total IT",
-    "description": "Computer Network Design & Systems",
-    "phone": "(727) 483-5352",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "245772",
-    "name": "Trig Web Design",
-    "description": "Internet Consultants",
-    "phone": "(727) 235-8128",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "450771706",
-    "name": "Your-eHome",
-    "description": "Credit Cards & Plans-Equipment & Supplies",
-    "phone": "(214) 594-1394",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452134238",
-    "name": "Websites For Every Budget",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 437-2138",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "466059720",
-    "name": "The Self-Employment Coach",
-    "description": "Business & Personal Coaches",
-    "phone": "(760) 696-2923",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "481488408",
-    "name": "BiotechPickList",
-    "description": "Investments",
-    "phone": "(727) 488-3600",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "483851463",
-    "name": "Next Stage Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(810) 620-7590",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "495873178",
-    "name": "Guirdham",
-    "description": "Market Research & Analysis",
-    "phone": "(239) 465-4962",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "538624050",
-    "name": "Creative Crane, LLC",
-    "description": "Marketing Consultants",
-    "phone": "(727) 480-6407",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "541706765",
-    "name": "Full Scale SEO",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 350-7635",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "558031759",
-    "name": "Crosshair",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(802) 363-6906",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "567592918",
-    "name": "Harvest Social Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(954) 317-8377",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "570428600",
-    "name": "Fast Digital Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(855) 279-3278",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575778136",
-    "name": "IPTV Wire",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(515) 612-6394",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "23227483",
-    "name": "Anderson CreatV",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 490-2322",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "450778980",
-    "name": "Bay Area PC Solutions",
-    "description": "Computer Network Design & Systems",
-    "phone": "(727) 324-3397",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452232975",
-    "name": "Mavik Web Design",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 859-5890",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468205329",
-    "name": "IDEAS4, Inc",
-    "description": "Advertising Agencies",
-    "phone": "(813) 230-3018",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "503131291",
-    "name": "www.WealthyAffiliateUniversity.Info",
-    "description": "Internet Consultants",
-    "phone": "(727) 287-8548",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "505165737",
-    "name": "RFZ & Associates",
-    "description": "International Trade Consultants",
-    "phone": "(727) 999-4715",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "534153236",
-    "name": "Rage Graphics & Printing",
-    "description": "Print Advertising",
-    "phone": "(727) 280-3338",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "560345607",
-    "name": "FloridaCorp123",
-    "description": "Marketing Consultants",
-    "phone": "(855) 585-7180",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "567891897",
-    "name": "LeadMiningPros.com",
-    "description": "Advertising Agencies",
-    "phone": "(727) 877-8772",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "570380338",
-    "name": "Light Touch Media Group",
-    "description": "Advertising Agencies",
-    "phone": "(855) 715-4448",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "571018872",
-    "name": "FoodBrewsBoozeMarketing.com",
-    "description": "Marketing Consultants",
-    "phone": "(727) 382-6843",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573387283",
-    "name": "Champion Leads",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(888) 392-2089",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "576477302",
-    "name": "Dream Release Consulting",
-    "description": "Business Coaches & Consultants",
-    "phone": "(904) 203-5931",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "468573091",
     "name": "Best Edge SEO",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 290-9527",
-    "address": "street: 6171 Bahia Del Mar Blvd Apt 215 location: Saint Petersburg, FL 33715"
+    "address": "6171 Bahia Del Mar Blvd Apt 215  Saint Petersburg, FL 33715",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503459224",
     "name": "T N T Design and Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 363-8081",
-    "address": "street: 105 21st Ave SE location: Saint Petersburg, FL 33705"
+    "address": "105 21st Ave SE  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "22244518",
     "name": "Macintire Marketing Enterprises",
     "description": "Marketing Consultants",
     "phone": "(727) 564-9009",
-    "address": "street: 864 11th Ave S location: Saint Petersburg, FL 33701"
+    "address": "864 11th Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "479383745",
     "name": "Mr Technique",
     "description": "Web Site Design & Services",
     "phone": "(727) 209-7995",
-    "address": "street: 136 4th St N Ste 204 location: Saint Petersburg, FL 33701"
+    "address": "136 4th St N Ste 204  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "572776507",
     "name": "Pinstripe Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 214-1555",
-    "address": "street: 263 13th Ave S location: Saint Petersburg, FL 33701"
+    "address": "263 13th Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "562606425",
     "name": "Big Sea Inc",
     "description": "Advertising Agencies",
     "phone": "(727) 386-8031",
-    "address": "street: 2622 Fairfield Ave S location: Saint Petersburg, FL 33712"
+    "address": "2622 Fairfield Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561115748",
     "name": "dbaPlatform",
     "description": "Computer Software & Services",
     "phone": "(727) 240-2720",
-    "address": "street: 113 5th St E location: Saint Petersburg, FL 33715"
+    "address": "113 5th St E  Saint Petersburg, FL 33715",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548159979",
     "name": "Bovsi Studios",
     "description": "Marketing Consultants",
     "phone": "(813) 704-7953",
-    "address": "street: 2732 6th Ave S location: Saint Petersburg, FL 33712"
+    "address": "2732 6th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "557651412",
     "name": "The POG Group LLC",
     "description": "Marketing Consultants",
     "phone": "(866) 875-8956",
-    "address": "street: 709 4th St N Ste 4532 location: Saint Petersburg, FL 33702"
+    "address": "709 4th St N Ste 4532  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "569822805",
     "name": "Black Connect Network",
     "description": "Marketing Consultants",
     "phone": "(813) 532-9870",
-    "address": "street: 2727 5th Ave S location: Saint Petersburg, FL 33712"
+    "address": "2727 5th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "453338125",
     "name": "Major League Alumni Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 898-8900",
-    "address": "street: 1 Tropicana Dr location: Saint Petersburg, FL 33705"
+    "address": "1 Tropicana Dr  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "525994160",
     "name": "Big Sea, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 386-8031",
-    "address": "street: 646 2nd Ave S location: Saint Petersburg, FL 33701"
+    "address": "646 2nd Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "519800736",
-    "name": "Skyway Media",
-    "description": "Internet Consultants",
-    "phone": "(727) 317-6826",
-    "address": "street: 430 3rd Ave S Apt 369 location: Saint Petersburg, FL 33701"
-  },
-  {
-    "dataYpid": "547637909",
     "name": "Mosaic Development",
     "description": "Advertising Agencies",
     "phone": "(239) 603-8596",
-    "address": "street: 1763 1st Ave N location: Saint Petersburg, FL 33713"
+    "address": "1763 1st Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "495681754",
     "name": "Makta LLC",
     "description": "Market Research & Analysis",
     "phone": "(727) 643-4416",
-    "address": "street: 2435 1st Ave N location: Saint Petersburg, FL 33713"
+    "address": "2435 1st Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5178365",
     "name": "Foundation Research",
     "description": "Market Research & Analysis",
     "phone": "(727) 898-6237",
-    "address": "street: 900 Central Ave location: Saint Petersburg, FL 33705"
+    "address": "900 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "2663117",
     "name": "Lta International",
     "description": "Marketing Consultants",
     "phone": "(727) 896-7555",
-    "address": "street: 1120 1st Ave N location: Saint Petersburg, FL 33705"
+    "address": "1120 1st Ave N  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464473090",
     "name": "Norcon Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 822-5000",
-    "address": "street: 2901 1st Ave N Ste 102 location: Saint Petersburg, FL 33713"
+    "address": "2901 1st Ave N Ste 102  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472818348",
     "name": "Roma Direct Marketing",
     "description": "Advertising Agencies",
     "phone": "(727) 498-8999",
-    "address": "street: 33 6th St S location: Saint Petersburg, FL 33701"
+    "address": "33 6th St S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6733380",
     "name": "Clear PH Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 851-9596",
-    "address": "street: 689 Central Ave Ste 105 location: Saint Petersburg, FL 33701"
+    "address": "689 Central Ave Ste 105  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "478425993",
     "name": "The Louvre Group, LLC",
     "description": "Civil Engineers",
     "phone": "(727) 495-6035",
-    "address": "street: 200 2nd Ave. South Suite 326 location: Saint Petersburg, FL 33701"
+    "address": "200 2nd Ave. South Suite 326  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547547524",
     "name": "Cliktree",
     "description": "Advertising Agencies",
     "phone": "(727) 220-5923",
-    "address": "street: 200 2nd Ave S location: Saint Petersburg, FL 33701"
+    "address": "200 2nd Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3420730",
     "name": "Computermail South",
     "description": "Mailing Lists",
     "phone": "(727) 579-1000",
-    "address": "street: 200 2nd Ave S location: Saint Petersburg, FL 33701"
+    "address": "200 2nd Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547871090",
     "name": "Hunger & Thirst",
     "description": "Marketing Consultants",
     "phone": "(727) 698-5568",
-    "address": "street: 330 1st Ave S location: Saint Petersburg, FL 33701"
+    "address": "330 1st Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482073843",
     "name": "Lta International Global Services, Inc.",
     "description": "Marketing Consultants",
     "phone": "(727) 896-7555",
-    "address": "street: 100 3rd St S location: Saint Petersburg, FL 33701"
+    "address": "100 3rd St S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469281591",
     "name": "Carter Group",
     "description": "Marketing Consultants",
     "phone": "(727) 898-3008",
-    "address": "street: 270 1st Ave S Ste 200 location: Saint Petersburg, FL 33701"
+    "address": "270 1st Ave S Ste 200  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546217531",
     "name": "WebFX",
     "description": "Web Site Design & Services",
     "phone": "(727) 202-5387",
-    "address": "street: 260 1st Ave S Ste 114 location: Saint Petersburg, FL 33701"
+    "address": "260 1st Ave S Ste 114  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "11794026",
     "name": "Perk International",
     "description": "Marketing Consultants",
     "phone": "(727) 502-0646",
-    "address": "street: 475 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "475 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "470633126",
     "name": "Aces Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(727) 822-4202",
-    "address": "street: 475 Central Ave Ste M2 location: Saint Petersburg, FL 33701"
+    "address": "475 Central Ave Ste M2  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "18055235",
     "name": "PowerChord, Inc.",
     "description": "Computer Software Publishers & Developers",
     "phone": "(727) 823-1530",
-    "address": "street: 360 Central Ave Fifth Floor location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave Fifth Floor  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "467413087",
     "name": "Outsource Media Group Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 894-3644",
-    "address": "street: 1 Progress Plz location: Saint Petersburg, FL 33701"
+    "address": "1 Progress Plz  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "556542017",
     "name": "Advanced Digital Automotive Group",
     "description": "Web Site Design & Services",
     "phone": "(727) 201-5296",
-    "address": "street: 360 Central Ave Ste 800 location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave Ste 800  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "570317888",
     "name": "Advanced Digital Media Services",
     "description": "Web Site Design & Services",
     "phone": "(727) 201-5296",
-    "address": "street: 360 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "465703634",
     "name": "Hype Group",
     "description": "Advertising Agencies",
     "phone": "(727) 623-9085",
-    "address": "street: 360 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "565085007",
     "name": "Effectiveagents.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(855) 472-9275",
-    "address": "street: 360 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "360 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "465700255",
     "name": "Life Improvement Media Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(866) 930-9337",
-    "address": "street: 735 Arlington Ave N Ste 31 location: Saint Petersburg, FL 33701"
+    "address": "735 Arlington Ave N Ste 31  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "530433510",
     "name": "Cyberlicious®",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 820-1988",
-    "address": "street: 735 Arlington Ave N location: Saint Petersburg, FL 33701"
+    "address": "735 Arlington Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "2902938",
-    "name": "Norcon Marketing Inc",
-    "description": "Marketing Consultants",
-    "phone": "(727) 822-5000",
-    "address": "street: 735 Arlington Ave N location: Saint Petersburg, FL 33701"
-  },
-  {
-    "dataYpid": "576517774",
     "name": "The Ai Consulting Lab",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 472-3854",
-    "address": "street: 3026 Burlington Ave N location: Saint Petersburg, FL 33713"
+    "address": "3026 Burlington Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480948675",
     "name": "bucamedia",
     "description": "Audio-Visual Creative Services",
     "phone": "(772) 828-2822",
-    "address": "street: PO Box 886 location: Saint Petersburg, FL 33731"
+    "address": "PO Box 886  Saint Petersburg, FL 33731",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504912371",
     "name": "Fortress Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 723-7800",
-    "address": "street: 76 4th St N location: Saint Petersburg, FL 33701"
+    "address": "76 4th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "478435365",
     "name": "Think Tank, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 537-9279",
-    "address": "street: 200 Central Ave Ste 135 location: Saint Petersburg, FL 33701"
+    "address": "200 Central Ave Ste 135  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "494164943",
     "name": "Pyper Young, Inc",
     "description": "Advertising Agencies",
     "phone": "(727) 873-1210",
-    "address": "street: 235 Central Ave location: Saint Petersburg, FL 33701"
+    "address": "235 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469433753",
     "name": "A Creative Bureau",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 465-2819",
-    "address": "street: 51 2nd St N location: Saint Petersburg, FL 33701"
+    "address": "51 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "557473908",
     "name": "Bogdanov",
     "description": "Marketing Consultants",
     "phone": "(727) 317-7989",
-    "address": "street: 140 1st Ave N location: Saint Petersburg, FL 33701"
+    "address": "140 1st Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "563758741",
     "name": "Oyova",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 289-6549",
-    "address": "street: 290 Dr Martin Luther King Jr St N #201 location: Saint Petersburg, FL 33705"
+    "address": "290 Dr Martin Luther King Jr St N #201  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "14227833",
     "name": "Helinger Advertising",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 327-3333",
-    "address": "street: 4201 Central Ave location: Saint Petersburg, FL 33713"
+    "address": "4201 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "502488717",
     "name": "Zeraq",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 323-9819",
-    "address": "street: 4265 Central Ave location: Saint Petersburg, FL 33713"
+    "address": "4265 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "22901111",
     "name": "JCTWEB",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 328-7575",
-    "address": "street: 146 2nd St N Ste 204 location: Saint Petersburg, FL 33701"
+    "address": "146 2nd St N Ste 204  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475024192",
     "name": "RuleLocal",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 258-0132",
-    "address": "street: 146 2nd St N Ste 301 location: Saint Petersburg, FL 33701"
+    "address": "146 2nd St N Ste 301  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7068118",
     "name": "Aspen Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 821-4200",
-    "address": "street: 150 2nd Ave N Ste 810 location: Saint Petersburg, FL 33701"
+    "address": "150 2nd Ave N Ste 810  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6792997",
     "name": "Wildlife Trust",
     "description": "Market Research & Analysis",
     "phone": "(727) 895-7140",
-    "address": "street: 233 3rd St N location: Saint Petersburg, FL 33701"
+    "address": "233 3rd St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "574109134",
     "name": "Gpstpete.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 898-4639",
-    "address": "street: 100 2nd Ave N location: Saint Petersburg, FL 33701"
+    "address": "100 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7907417",
     "name": "Healthfocus International",
     "description": "Marketing Consultants",
     "phone": "(727) 821-7499",
-    "address": "street: 100 2nd Ave N location: Saint Petersburg, FL 33701"
+    "address": "100 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "516480863",
     "name": "Kapok Marketing",
     "description": "Internet Consultants",
     "phone": "(800) 640-8082",
-    "address": "street: 447 3rd Ave N Ste 300 location: Saint Petersburg, FL 33701"
+    "address": "447 3rd Ave N Ste 300  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "12937351",
     "name": "319 N Holding",
     "description": "Marketing Consultants",
     "phone": "(727) 823-7392",
-    "address": "street: 319 5th St N location: Saint Petersburg, FL 33701"
+    "address": "319 5th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "528840759",
     "name": "Clickfirst Marketing",
     "description": "Marketing Consultants",
     "phone": "(844) 879-3456",
-    "address": "street: 319 5th St N location: Saint Petersburg, FL 33701"
+    "address": "319 5th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481076434",
     "name": "Symphoni Group",
     "description": "Marketing Consultants",
     "phone": "(727) 343-3970",
-    "address": "street: 111 2nd Ave NE Ste 900 location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE Ste 900  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "495497450",
     "name": "Magentpro, Inc.",
     "description": "Marketing Consultants",
     "phone": "(727) 344-9540",
-    "address": "street: 111 2nd Ave NE Ste 304 location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE Ste 304  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "532611192",
     "name": "The Hoth",
     "description": "Internet Marketing & Advertising",
     "phone": "(877) 720-4684",
-    "address": "street: 111 2nd Ave NE location: Saint Petersburg, FL 33701"
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560818440",
-    "name": "Hype Group",
-    "description": "Marketing Consultants",
-    "phone": "(727) 623-9085",
-    "address": "street: 4563 Central Ave location: Saint Petersburg, FL 33713"
-  },
-  {
-    "dataYpid": "478301627",
     "name": "Global Ninja Alliance",
     "description": "Internet Marketing & Advertising",
     "phone": "(352) 507-5770",
-    "address": "street: 344 1/2 7th St N Apt 5 location: Saint Petersburg, FL 33701"
+    "address": "344 1/2 7th St N Apt 5  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497679512",
     "name": "Chico Screen",
     "description": "Computer Network Design & Systems",
     "phone": "(727) 851-6932",
-    "address": "street: 3125 5th Ave N location: Saint Petersburg, FL 33713"
+    "address": "3125 5th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "496810268",
     "name": "Your Ad Television Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 323-1390",
-    "address": "street: 3125 5th Ave N location: Saint Petersburg, FL 33713"
+    "address": "3125 5th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "452206538",
     "name": "Throttle Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 432-0976",
-    "address": "street: 1726 York St S location: Gulfport, FL 33707"
+    "address": "1726 York St S  Gulfport, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "8567909",
     "name": "Majestic Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 384-0500",
-    "address": "street: 5714 Gulfport Blvd S location: Gulfport, FL 33707"
+    "address": "5714 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "564395406",
     "name": "Titan Publishing",
     "description": "Product Design, Development & Marketing",
     "phone": "(727) 777-6748",
-    "address": "street: 828 3rd Ave S location: Tierra Verde, FL 33715"
+    "address": "828 3rd Ave S  Tierra Verde, FL 33715",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "507489777",
     "name": "Dolan Media and Design",
     "description": "Marketing Consultants",
     "phone": "(813) 563-2261",
-    "address": "street: 5927 Bayview Cir S location: Gulfport, FL 33707"
+    "address": "5927 Bayview Cir S  Gulfport, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560405345",
     "name": "Top Hat",
     "description": "Marketing Consultants",
     "phone": "(412) 695-3153",
-    "address": "street: 689 Central Ave Ste 200-A location: St Petersburg, FL 33701"
+    "address": "689 Central Ave Ste 200-A  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "539001377",
     "name": "Craft Brands",
     "description": "Advertising Agencies",
     "phone": "(239) 691-0561",
-    "address": "street: P.O. Box 12825 location: St. Petersburg, FL 33733"
+    "address": "P.O. Box 12825  St. Petersburg, FL 33733",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "514386524",
     "name": "Cypress Enterprises",
     "description": "Marketing Consultants",
     "phone": "(727) 367-9999",
-    "address": "street: 2 Alhambra St location: St Pete Beach, FL 33706"
+    "address": "2 Alhambra St  St Pete Beach, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "565054558",
     "name": "Lux Digital Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 855-8221",
-    "address": "street: 260 1st Ave S location: St Petersburg, FL 33701"
+    "address": "260 1st Ave S  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575358257",
     "name": "Empathy First Media",
     "description": "Advertising Agencies",
     "phone": "(727) 291-7384",
-    "address": "street: 260 1st Ave S Ste 166 location: St Petersburg, FL 33701"
+    "address": "260 1st Ave S Ste 166  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546589838",
     "name": "Beach Lion Studios",
     "description": "Advertising Agencies",
     "phone": "(727) 207-1108",
-    "address": "street: 433 Central Ave Suite 212 location: St Petersburg, FL 33701"
+    "address": "433 Central Ave Suite 212  St Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548687495",
     "name": "MOZA Digital LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 470-3355",
-    "address": "street: 2472 61st Lane N location: Saint Petersburg, FL 33710"
+    "address": "2472 61st Lane N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503117253",
     "name": "SMARTApproved Local Marketing",
     "description": "Marketing Consultants",
     "phone": "(877) 755-1150",
-    "address": "street: 4399 35th St N Ste 202 location: Saint Petersburg, FL 33714"
+    "address": "4399 35th St N Ste 202  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4876606",
     "name": "The Ims Group",
     "description": "Marketing Consultants",
     "phone": "(727) 550-0830",
-    "address": "street: 323 2nd St N location: Saint Petersburg, FL 33701"
+    "address": "323 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "555648420",
     "name": "Wreck Ignition Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 677-9483",
-    "address": "street: 2845 7th Ave N location: Saint Petersburg, FL 33713"
+    "address": "2845 7th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "555907655",
-    "name": "Cliktree",
-    "description": "Marketing Consultants",
-    "phone": "(727) 220-5923",
-    "address": "street: 2845 7th Ave N location: Saint Petersburg, FL 33713"
-  },
-  {
-    "dataYpid": "524639189",
-    "name": "Phoenix 3 Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(727) 592-1916",
-    "address": "street: 333 1st St NE Ste A location: Saint Petersburg, FL 33701"
-  },
-  {
-    "dataYpid": "467920045",
     "name": "Social Networkz - Social Media Marketing",
     "description": "Internet Consultants",
     "phone": "(813) 364-2214",
-    "address": "street: 524 Bay St NE Apt 3 location: Saint Petersburg, FL 33701"
+    "address": "524 Bay St NE Apt 3  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "461816414",
     "name": "Tampa Marketing Services",
     "description": "Internet Consultants",
     "phone": "(727) 394-4057",
-    "address": "street: 524 Bay St NE location: Saint Petersburg, FL 33701"
+    "address": "524 Bay St NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6457288",
     "name": "Palladium Media Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 897-9600",
-    "address": "street: 945 11th St N location: Saint Petersburg, FL 33705"
+    "address": "945 11th St N  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7564958",
     "name": "Southland Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 345-1030",
-    "address": "street: 5665 Central Ave location: Saint Petersburg, FL 33710"
+    "address": "5665 Central Ave  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "510622262",
     "name": "Ronguerin.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 510-3701",
-    "address": "street: 250 58th St N location: Saint Petersburg, FL 33710"
+    "address": "250 58th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "534342096",
     "name": "Nature Bay Web Design",
     "description": "Web Site Design & Services",
     "phone": "(727) 238-2216",
-    "address": "street: 6243 3rd Ave S location: Saint Petersburg, FL 33707"
+    "address": "6243 3rd Ave S  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "526451465",
     "name": "Makiby Promotions of Florida",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 398-1414",
-    "address": "street: 6100 Central Ave location: Saint Petersburg, FL 33707"
+    "address": "6100 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "523893994",
     "name": "World Media Technologies Inc",
     "description": "Computer Software & Services",
     "phone": "(727) 252-3373",
-    "address": "street: 2862 21st Ave N location: Saint Petersburg, FL 33713"
+    "address": "2862 21st Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "20513860",
     "name": "Drilling Down Project",
     "description": "Marketing Consultants",
     "phone": "(727) 895-5454",
-    "address": "street: 1224 24th Ave N location: Saint Petersburg, FL 33704"
+    "address": "1224 24th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "13612024",
     "name": "Tilly Berry 200",
     "description": "Marketing Consultants",
     "phone": "(727) 322-8945",
-    "address": "street: 2585 27th Ave N location: Saint Petersburg, FL 33713"
+    "address": "2585 27th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "528406591",
     "name": "Life Improvement Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(866) 930-9937",
-    "address": "street: PO Box 76335 location: Saint Petersburg, FL 33734"
+    "address": "PO Box 76335  Saint Petersburg, FL 33734",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "554098240",
     "name": "Liveconferences.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 341-1674",
-    "address": "street: 1184 79th St S location: Saint Petersburg, FL 33707"
+    "address": "1184 79th St S  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29389159",
     "name": "Devery Enterprises",
     "description": "Advertising Specialties",
     "phone": "(727) 821-6316",
-    "address": "street: 661 34th Ave NE location: Saint Petersburg, FL 33704"
+    "address": "661 34th Ave NE  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "502783308",
     "name": "Moirai Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(888) 242-6585",
-    "address": "street: 204 37th AVE N location: Saint Petersburg, FL 33704"
+    "address": "204 37th AVE N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "483624030",
-    "name": "Sandi Brown Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(727) 824-8889",
-    "address": "street: 331 Bayview Dr NE location: Saint Petersburg, FL 33704"
-  },
-  {
-    "dataYpid": "516485414",
     "name": "Marketing Matters",
     "description": "Advertising Agencies",
     "phone": "(954) 925-1511",
-    "address": "street: 204 37th Ave N location: Saint Petersburg, FL 33704"
+    "address": "204 37th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "454342650",
     "name": "HD Hudson Design & Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 564-2645",
-    "address": "street: 6803 16th Pl N location: Saint Petersburg, FL 33710"
+    "address": "6803 16th Pl N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "535052210",
     "name": "Action Gem",
     "description": "Marketing Consultants",
     "phone": "(800) 736-9942",
-    "address": "street: 5270 36th Ave N location: Saint Petersburg, FL 33710"
+    "address": "5270 36th Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475957196",
     "name": "Socially United Information Technologies",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 481-7267",
-    "address": "street: 4550 21st St N location: Saint Petersburg, FL 33714"
+    "address": "4550 21st St N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "509468206",
-    "name": "Pinstripe Marketing",
-    "description": "Marketing Consultants",
-    "phone": "(727) 214-1555",
-    "address": "street: 1728 46th Ave N location: Saint Petersburg, FL 33714"
-  },
-  {
-    "dataYpid": "481352362",
     "name": "Worker Insights",
     "description": "Marketing Consultants",
     "phone": "(727) 592-8234",
-    "address": "street: 6822 22nd Ave N location: Saint Petersburg, FL 33710"
+    "address": "6822 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4364705",
     "name": "Blue Dog Promotions",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 209-3400",
-    "address": "street: 4501 4th St N location: Saint Petersburg, FL 33703"
+    "address": "4501 4th St N  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "456057326",
     "name": "Florida Getaways",
     "description": "Real Estate Rental Service",
     "phone": "(727) 403-5677",
-    "address": "street: 110 3rd Ave location: St Pete Beach, FL 33706"
+    "address": "110 3rd Ave  St Pete Beach, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503027453",
     "name": "Alligator Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 422-2845",
-    "address": "street: 1120 63rd St S location: Gulfport, FL 33707"
+    "address": "1120 63rd St S  Gulfport, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559211970",
     "name": "Beachbumexcursion.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(800) 286-4887",
-    "address": "street: 5903 Bimini Way N location: St Pete Beach, FL 33706"
+    "address": "5903 Bimini Way N  St Pete Beach, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "521459560",
     "name": "T M-Techmark.com Corp",
     "description": "Internet Marketing & Advertising",
     "phone": "(203) 272-3559",
-    "address": "street: 6800 Gulfport Blvd S location: South Pasadena, FL 33707"
+    "address": "6800 Gulfport Blvd S  South Pasadena, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "455636166",
     "name": "Rapid Response Marketing & PR",
     "description": "Marketing Consultants",
     "phone": "(866) 983-3025",
-    "address": "street: 6860 Gulfport Blvd S location: South Pasadena, FL 33707"
+    "address": "6860 Gulfport Blvd S  South Pasadena, FL 33707",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "527495453",
     "name": "Gatorballs.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 510-8013",
-    "address": "street: 7407 Sunset Way location: St Pete Beach, FL 33706"
+    "address": "7407 Sunset Way  St Pete Beach, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472023674",
     "name": "Accurate Promotional Products",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 522-0104",
-    "address": "street: 3030 Morris St N location: St Petersburg, FL 33713"
+    "address": "3030 Morris St N  St Petersburg, FL 33713",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "466382562",
     "name": "Digital Eel Inc",
     "description": "Web Site Design & Services",
     "phone": "(727) 368-0270",
-    "address": "street: 9524 Blind Pass Rd Ste 14 location: St Pete Beach, FL 33706"
+    "address": "9524 Blind Pass Rd Ste 14  St Pete Beach, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "498022219",
     "name": "Mark My Words Media Inc",
     "description": "Advertising Agencies",
     "phone": "(800) 243-2077",
-    "address": "street: 10228 Paradise Blvd location: Treasure Island, FL 33706"
+    "address": "10228 Paradise Blvd  Treasure Island, FL 33706",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7389058",
     "name": "Custom Concepts",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 528-8222",
-    "address": "street: 3958 14th St NE location: Saint Petersburg, FL 33703"
+    "address": "3958 14th St NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "13185012",
     "name": "Eclipse Energy Systems",
     "description": "Market Research & Analysis",
     "phone": "(727) 344-7300",
-    "address": "street: 2345 Anvil St N location: Saint Petersburg, FL 33710"
+    "address": "2345 Anvil St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561008540",
     "name": "Tenevlaw-Bg.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 697-7173",
-    "address": "street: 4605 49th St N location: Saint Petersburg, FL 33709"
+    "address": "4605 49th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576247202",
     "name": "Edifying Voyages",
     "description": "Marketing Consultants",
     "phone": "(949) 484-0606",
-    "address": "street: 4604 49th Street N #1552 location: Saint Petersburg, FL 33709"
+    "address": "4604 49th Street N #1552  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "569367513",
     "name": "Manaflow Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 501-5754",
-    "address": "street: 4035 Huntington St NE location: Saint Petersburg, FL 33703"
+    "address": "4035 Huntington St NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "531310034",
     "name": "Capmri.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(734) 377-9629",
-    "address": "street: 624 Quintana Pl NE location: Saint Petersburg, FL 33703"
+    "address": "624 Quintana Pl NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575923680",
-    "name": "Ads and Funnels",
-    "description": "Advertising Agencies",
-    "phone": "(727) 280-5912",
-    "address": "street: 12700 66th St N location: Saint Petersburg, FL 33716"
-  },
-  {
-    "dataYpid": "504967306",
     "name": "Find New Customers",
     "description": "Marketing Consultants",
     "phone": "(516) 456-8218",
-    "address": "street: 8035 26th Ave N location: Saint Petersburg, FL 33710"
+    "address": "8035 26th Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548618149",
     "name": "Medartist.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 521-1143",
-    "address": "street: 175 59th Ave NE location: Saint Petersburg, FL 33703"
+    "address": "175 59th Ave NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "570399041",
     "name": "Isleepbetter.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 892-2928",
-    "address": "street: 5800 49th St N location: Saint Petersburg, FL 33709"
+    "address": "5800 49th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469307817",
     "name": "American Vacant Lot Services",
     "description": "Marketing Consultants",
     "phone": "(727) 623-4820",
-    "address": "street: 5560 56th Way N location: Saint Petersburg, FL 33709"
+    "address": "5560 56th Way N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "562812896",
     "name": "Ryse Seo",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 344-9311",
-    "address": "street: 321 NE Blvd N location: Saint Petersburg, FL 33702"
+    "address": "321 NE Blvd N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "16715144",
     "name": "Simple Site Designs",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 871-0754",
-    "address": "street: 6443 Pine St NE location: Saint Petersburg, FL 33702"
+    "address": "6443 Pine St NE  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547484387",
     "name": "Squires Global",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 541-5764",
-    "address": "street: 5009 68th St N location: Saint Petersburg, FL 33709"
+    "address": "5009 68th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559637679",
     "name": "VIZR Corp.",
     "description": "Marketing Consultants",
     "phone": "(727) 306-1896",
-    "address": "street: 7901 4th St N Ste 15783 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 15783  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561733070",
     "name": "Truevail",
     "description": "Marketing Consultants",
     "phone": "(505) 445-8147",
-    "address": "street: 7901 4th St N location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575313909",
     "name": "Prolific Marketing Enterprises",
     "description": "Marketing Consultants",
     "phone": "(800) 998-9041",
-    "address": "street: 7901 4th St N ste 300 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N ste 300  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576491488",
     "name": "Booker Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(800) 962-8207",
-    "address": "street: 7901 4th St N #21988 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N #21988  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576728014",
     "name": "Bonjo Tech - Digital Marketing Agency",
     "description": "Internet Marketing & Advertising",
     "phone": "(321) 396-7795",
-    "address": "street: 7910 4th St N location: Saint Petersburg, FL 33702"
+    "address": "7910 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576260517",
     "name": "Roonex Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 491-8943",
-    "address": "street: 7901 4th St N Ste No 19608 location: Saint Petersburg, FL 33702"
+    "address": "7901 4th St N Ste No 19608  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "21371059",
     "name": "Easywayit",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 563-9200",
-    "address": "street: 8401 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33702"
+    "address": "8401 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "22781182",
     "name": "Thru Sign",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 547-4020",
-    "address": "street: 5670 54th Ave N location: Kenneth City, FL 33709"
+    "address": "5670 54th Ave N  Kenneth City, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "495464520",
     "name": "Meridien Research",
     "description": "Market Research & Analysis",
     "phone": "(727) 347-8839",
-    "address": "street: 4751 66th St N location: Kenneth City, FL 33709"
+    "address": "4751 66th St N  Kenneth City, FL 33709",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472589543",
     "name": "Competitive Web",
     "description": "Graphic Designers",
     "phone": "(727) 687-0405",
-    "address": "street: 4491 62nd Ave N location: Pinellas Park, FL 33781"
+    "address": "4491 62nd Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5812881",
     "name": "Quik Companies Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 527-5000",
-    "address": "street: 6255 42nd St N location: Pinellas Park, FL 33781"
+    "address": "6255 42nd St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "554526151",
     "name": "Reliablewebsitehost.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 328-4794",
-    "address": "street: 4850 68th Ave N location: Pinellas Park, FL 33781"
+    "address": "4850 68th Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "580213",
     "name": "Florida City Net Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 527-8161",
-    "address": "street: 4850 72nd Ave N location: Pinellas Park, FL 33781"
+    "address": "4850 72nd Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505150778",
     "name": "TheWrapElement.com The Wrap Element",
     "description": "Advertising Agencies",
     "phone": "(727) 244-3118",
-    "address": "street: 3575 Gandy Blvd N location: Pinellas Park, FL 33781"
+    "address": "3575 Gandy Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "745613",
     "name": "Advent Medical Research Inc",
     "description": "Market Research & Analysis",
     "phone": "(727) 521-9200",
-    "address": "street: 4820 Park Blvd N location: Pinellas Park, FL 33781"
+    "address": "4820 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "551249648",
     "name": "Titan SEO Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 964-7459",
-    "address": "street: 7901 4th St N location: St. Petersburg, FL 33702"
+    "address": "7901 4th St N  St. Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571623809",
     "name": "Puzzles Consulting",
     "description": "Business Coaches & Consultants",
     "phone": "(561) 782-3440",
-    "address": "street: 7901 4th St N Ste 300 location: St Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 300  St Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575873477",
     "name": "Apexx.ai",
     "description": "Computer Software Publishers & Developers",
     "phone": "(727) 902-2265",
-    "address": "street: 7901 4th St N Ste 300 location: St Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 300  St Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576731683",
     "name": "The Buzz CRM",
     "description": "Internet Marketing & Advertising",
     "phone": "(888) 901-7530",
-    "address": "street: 7901 4th St N Ste 300 location: St Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 300  St Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575564854",
     "name": "Empire Pictures Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(229) 992-1005",
-    "address": "street: 7901 4th St N Ste 11404 location: St Petersburg, FL 33702"
+    "address": "7901 4th St N Ste 11404  St Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576650404",
     "name": "Luminary Leap Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(407) 279-3985",
-    "address": "street: 7901 4th St. N Ste 4000 location: Pinellas, FL 33702"
+    "address": "7901 4th St. N Ste 4000  Pinellas, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6379302",
     "name": "Radiant Research",
     "description": "Market Research & Analysis",
     "phone": "(727) 544-6367",
-    "address": "street: 6010 Park Blvd N location: Pinellas Park, FL 33781"
+    "address": "6010 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "506611014",
     "name": "Studiohof",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 303-7363",
-    "address": "street: 8501 Riverside Dr NE location: Saint Petersburg, FL 33702"
+    "address": "8501 Riverside Dr NE  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472826684",
     "name": "4th Street Web",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 537-9731",
-    "address": "street: 8501 Riverside Dr NE location: Saint Petersburg, FL 33702"
+    "address": "8501 Riverside Dr NE  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "459401856",
     "name": "Suncoast Marketing Dba",
     "description": "Direct Mail Advertising",
     "phone": "(727) 576-6000",
-    "address": "street: 8601 4th St N location: Saint Petersburg, FL 33702"
+    "address": "8601 4th St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561082058",
     "name": "Careerfranchises.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 515-5955",
-    "address": "street: 661 Riviera Bay Dr NE location: Saint Petersburg, FL 33702"
+    "address": "661 Riviera Bay Dr NE  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "575909205",
     "name": "Andzo CNSLTNG",
     "description": "Business Coaches & Consultants",
     "phone": "(772) 202-6914",
-    "address": "street: 7901 Fort St N location: Saint Petersburg, FL 33702"
+    "address": "7901 Fort St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "499114138",
     "name": "Itttnmpsc",
     "description": "Marketing Consultants",
     "phone": "(727) 289-7212",
-    "address": "street: 9100 Dr Martin Luther King Jr St N Apt 1008 location: Saint Petersburg, FL 33702"
+    "address": "9100 Dr Martin Luther King Jr St N Apt 1008  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504558327",
     "name": "Marcaden Consulting, Inc.",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 578-8496",
-    "address": "street: 9600 Koger Blvd N Ste 225 location: Saint Petersburg, FL 33702"
+    "address": "9600 Koger Blvd N Ste 225  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505194488",
     "name": "Badger Marketing",
     "description": "Marketing Consultants",
     "phone": "(813) 644-9588",
-    "address": "street: 1201 Gandy Blvd N Unit 21445 location: Saint Petersburg, FL 33742"
+    "address": "1201 Gandy Blvd N Unit 21445  Saint Petersburg, FL 33742",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3389862",
     "name": "Godfrey Design & Advertising",
     "description": "Advertising Specialties",
     "phone": "(727) 579-1899",
-    "address": "street: 275 96th Ave N Ste 7 location: Saint Petersburg, FL 33702"
+    "address": "275 96th Ave N Ste 7  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "456983511",
     "name": "Expert Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 239-4343",
-    "address": "street: 9721 Executive Center Dr N #140 location: Saint Petersburg, FL 33702"
+    "address": "9721 Executive Center Dr N #140  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "19126772",
     "name": "KDM Design & Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 344-2026",
-    "address": "street: 9855 59th AVE N location: Saint Petersburg, FL 33708"
+    "address": "9855 59th AVE N  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29136183",
     "name": "SuperMedia LLC",
     "description": "Internet Directories",
     "phone": "(727) 576-1300",
-    "address": "street: 10200 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33716"
+    "address": "10200 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "471261100",
     "name": "3Geeks Interactive, LLC SEO Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 537-6336",
-    "address": "street: 9952 Gandy Blvd N Ste C location: Saint Petersburg, FL 33702"
+    "address": "9952 Gandy Blvd N Ste C  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561038406",
     "name": "Thunder Road Digital",
     "description": "Marketing Consultants",
     "phone": "(813) 618-8458",
-    "address": "street: 720 N Village Dr N Apt 204 location: Saint Petersburg, FL 33716"
+    "address": "720 N Village Dr N Apt 204  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "474596268",
     "name": "Gsa Access Group",
     "description": "Marketing Consultants",
     "phone": "(727) 577-9419",
-    "address": "street: 10701 Danka Way N Ste 200 location: Saint Petersburg, FL 33716"
+    "address": "10701 Danka Way N Ste 200  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "545461553",
     "name": "Good Health Marketing Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 235-6756",
-    "address": "street: 11401 Dr M.L.K. Jr St N location: Saint Petersburg, FL 33716"
+    "address": "11401 Dr M.L.K. Jr St N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "17777915",
     "name": "The Customer Dr",
     "description": "Market Research & Analysis",
     "phone": "(727) 577-2883",
-    "address": "street: 879 Addison Dr NE location: Saint Petersburg, FL 33716"
+    "address": "879 Addison Dr NE  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "456800573",
     "name": "Galaxy Marketing Solutions",
     "description": "Marketing Consultants",
     "phone": "(727) 540-0100",
-    "address": "street: 11800 30th Ct N location: Saint Petersburg, FL 33716"
+    "address": "11800 30th Ct N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "473005602",
     "name": "Hit Promotional Products",
     "description": "Advertising-Promotional Products",
     "phone": "(727) 571-1681",
-    "address": "street: 3320 122nd Ave N location: Saint Petersburg, FL 33716"
+    "address": "3320 122nd Ave N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "487773067",
     "name": "Image Station",
     "description": "Marketing Consultants",
     "phone": "(727) 821-2424",
-    "address": "street: 8150 52nd St N location: Pinellas Park, FL 33781"
+    "address": "8150 52nd St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "14876674",
     "name": "National Marketing Associates Inc",
     "description": "Advertising Agencies",
     "phone": "(727) 320-2444",
-    "address": "street: 14503 Gulf Blvd location: Madeira Beach, FL 33708"
+    "address": "14503 Gulf Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "533624972",
     "name": "C3NERGY DIRECT, LLC",
     "description": "Telemarketing Services",
     "phone": "(727) 307-5996",
-    "address": "street: 6623 84th ave n location: Pinellas Park, FL 33781"
+    "address": "6623 84th ave n  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469408994",
     "name": "Corporation Liberty Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 231-6744",
-    "address": "street: 8501 66th St N location: Pinellas Park, FL 33781"
+    "address": "8501 66th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505570910",
     "name": "EMP",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 492-1240",
-    "address": "street: PO Box 2193 location: Pinellas Park, FL 33780"
+    "address": "PO Box 2193  Pinellas Park, FL 33780",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "553413570",
     "name": "Excellent-Supply.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 821-2020",
-    "address": "street: 8925 66th Ct N location: Pinellas Park, FL 33782"
+    "address": "8925 66th Ct N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "10368602",
     "name": "In Touch Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 393-3399",
-    "address": "street: 8950 Park Blvd location: Seminole, FL 33777"
+    "address": "8950 Park Blvd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "7645939",
     "name": "Enspire Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 916-7102",
-    "address": "street: 10300 49th St N Suite 410 location: Clearwater, FL 33762"
+    "address": "10300 49th St N Suite 410  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3334801",
     "name": "American Travel Partners",
     "description": "Marketing Consultants",
     "phone": "(727) 393-6000",
-    "address": "street: 9189 Park Blvd location: Seminole, FL 33777"
+    "address": "9189 Park Blvd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480087257",
     "name": "Jacarspa",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 422-0920",
-    "address": "street: 15507 Redington Dr location: Redington Beach, FL 33708"
+    "address": "15507 Redington Dr  Redington Beach, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472592965",
     "name": "Core Vision Group",
     "description": "Marketing Consultants",
     "phone": "(877) 472-1629",
-    "address": "street: 10341 66th St N Ste 382 location: Pinellas Park, FL 33782"
+    "address": "10341 66th St N Ste 382  Pinellas Park, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "549902554",
     "name": "Dre Ennis",
     "description": "Marketing Consultants",
     "phone": "(727) 482-9268",
-    "address": "street: 501 116th Avenue North, Apt 201 location: St. Petersburg, FL 33716"
+    "address": "501 116th Avenue North, Apt 201  St. Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547285226",
     "name": "Best of Tampa Bay",
     "description": "Marketing Consultants",
     "phone": "(727) 822-9000",
-    "address": "street: 10550 72nd St location: Largo, FL 33777"
+    "address": "10550 72nd St  Largo, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6928677",
     "name": "New Wave Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 319-3358",
-    "address": "street: 10795 Park Blvd location: Seminole, FL 33772"
+    "address": "10795 Park Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "526214176",
     "name": "The Home Marketing Team",
     "description": "Marketing Consultants",
     "phone": "(727) 399-8500",
-    "address": "street: 10992 Park Blvd location: Seminole, FL 33772"
+    "address": "10992 Park Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "549356432",
     "name": "R.P. Digital Consulting",
     "description": "Marketing Consultants",
     "phone": "(727) 626-5230",
-    "address": "street: 8800 Bardmoor Blvd location: Seminole, FL 33777"
+    "address": "8800 Bardmoor Blvd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "1334842",
     "name": "Tampa Bay Analytical Research",
     "description": "Market Research & Analysis",
     "phone": "(727) 540-0900",
-    "address": "street: 10810 72nd St location: Seminole, FL 33777"
+    "address": "10810 72nd St  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "483869399",
-    "name": "Hit Promotional Products",
-    "description": "Advertising-Promotional Products",
-    "phone": "(727) 546-4800",
-    "address": "street: 10810 72nd St location: Seminole, FL 33777"
-  },
-  {
-    "dataYpid": "5373694",
     "name": "Sales & Marketing Specialist",
     "description": "Marketing Consultants",
     "phone": "(727) 548-4250",
-    "address": "street: 10810 72nd St location: Seminole, FL 33777"
+    "address": "10810 72nd St  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559237273",
     "name": "Knowinnovation, Inc",
     "description": "Marketing Consultants",
     "phone": "(813) 814-1902",
-    "address": "street: 7903 Seminole Blvd location: Seminole, FL 33772"
+    "address": "7903 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "514632981",
     "name": "Consumer Sales Solutions",
     "description": "Marketing Consultants",
     "phone": "(727) 733-8700",
-    "address": "street: 10601 Belcher Rd S location: Seminole, FL 33777"
+    "address": "10601 Belcher Rd S  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "507892266",
     "name": "GP&M Advisory Services, Inc.",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 545-5093",
-    "address": "street: 11350 66th St location: Largo, FL 33773"
+    "address": "11350 66th St  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "473953139",
     "name": "Phos Design Studio",
     "description": "Architectural Designers",
     "phone": "(727) 485-8301",
-    "address": "street: 11380 66th St Ste 137 location: Largo, FL 33773"
+    "address": "11380 66th St Ste 137  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "474408396",
     "name": "Xanjero",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 421-8770",
-    "address": "street: 11125 Park Blvd Ste 104-327 location: Seminole, FL 33772"
+    "address": "11125 Park Blvd Ste 104-327  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "550314491",
     "name": "Select GCR Circuit",
     "description": "Marketing Consultants",
     "phone": "(727) 623-0680",
-    "address": "street: 7249 Bryan Dairy Rd location: Largo, FL 33777"
+    "address": "7249 Bryan Dairy Rd  Largo, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469813762",
     "name": "Primenet Direct Marketing Solutions",
     "description": "Direct Mail Advertising",
     "phone": "(727) 447-6245",
-    "address": "street: 7320 Bryan Dairy Rd location: Seminole, FL 33777"
+    "address": "7320 Bryan Dairy Rd  Seminole, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "541933645",
     "name": "Full Stack Marketing Consultants",
     "description": "Marketing Consultants",
     "phone": "(813) 773-7030",
-    "address": "street: PO Box 7827 location: Sun City, FL 33586"
+    "address": "PO Box 7827  Sun City, FL 33586",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560715067",
     "name": "Printavizion",
     "description": "Advertising Agencies",
     "phone": "(813) 803-5200",
-    "address": "street: 4524 Marlin Ln location: Palmetto, FL 34221"
+    "address": "4524 Marlin Ln  Palmetto, FL 34221",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "541083142",
     "name": "Dynamic Marketing Consultants",
     "description": "Marketing Consultants",
     "phone": "(813) 579-9540",
-    "address": "street: 4524 Marlin Ln location: Palmetto, FL 34221"
+    "address": "4524 Marlin Ln  Palmetto, FL 34221",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4996716",
     "name": "Landers & Partners",
     "description": "Advertising Specialties",
     "phone": "(727) 572-5228",
-    "address": "street: 13555 Automobile Blvd, Ste 610 location: Clearwater, FL 33762"
+    "address": "13555 Automobile Blvd, Ste 610  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "468034098",
     "name": "D Boi Designs",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 565-0624",
-    "address": "street: 2208 19th St W location: Bradenton, FL 34205"
+    "address": "2208 19th St W  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464368117",
     "name": "Tampa Bay Interconnect",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 578-2662",
-    "address": "street: 700 Carillon Pkwy location: Saint Petersburg, FL 33716"
+    "address": "700 Carillon Pkwy  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "542712527",
     "name": "Women Who Rock With Success",
     "description": "Marketing Consultants",
     "phone": "(877) 476-6895",
-    "address": "street: 970 Lake Carillon Dr location: Saint Petersburg, FL 33716"
+    "address": "970 Lake Carillon Dr  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472299568",
     "name": "Gulf Coast Financial Solutions",
     "description": "Consultants Referral Service",
     "phone": "(727) 379-1740",
-    "address": "street: 970 Lake Carillon Dr Ste 300 location: Saint Petersburg, FL 33716"
+    "address": "970 Lake Carillon Dr Ste 300  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "547988340",
     "name": "Legendary Marketer",
     "description": "Marketing Consultants",
     "phone": "(727) 498-5138",
-    "address": "street: 970 Lake Carillon Dr location: Saint Petersburg, FL 33716"
+    "address": "970 Lake Carillon Dr  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "495834255",
     "name": "J&M Impact Management",
     "description": "Marketing Consultants",
     "phone": "(813) 482-5473",
-    "address": "street: 970 Carillon Pkwy location: Saint Petersburg, FL 33716"
+    "address": "970 Carillon Pkwy  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "460378752",
     "name": "Vici Marketing Group",
     "description": "Cellular Telephone Service",
     "phone": "(727) 533-8730",
-    "address": "street: 11515 66th St location: Largo, FL 33773"
+    "address": "11515 66th St  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "10602550",
     "name": "Direct Mail Systems",
     "description": "Direct Mail Advertising",
     "phone": "(727) 573-1985",
-    "address": "street: 12450 Automobile Blvd location: Clearwater, FL 33762"
+    "address": "12450 Automobile Blvd  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "5144107",
     "name": "Q A Worldwide",
     "description": "Marketing Consultants",
     "phone": "(727) 299-9190",
-    "address": "street: 4740 126th Ave N location: Clearwater, FL 33762"
+    "address": "4740 126th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571529342",
     "name": "Slwm",
     "description": "Advertising Agencies",
     "phone": "(727) 531-1112",
-    "address": "street: 12161 62nd St location: Largo, FL 33773"
+    "address": "12161 62nd St  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560499794",
     "name": "Hit 8155 DC",
     "description": "Advertising Specialties",
     "phone": "(727) 329-8860",
-    "address": "street: 8155 Bryan Dairy Rd location: Largo, FL 33777"
+    "address": "8155 Bryan Dairy Rd  Largo, FL 33777",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "18642860",
     "name": "Mail Marketing Services",
     "description": "Mail & Shipping Services",
     "phone": "(727) 556-2500",
-    "address": "street: 3638 131st Ave N location: Clearwater, FL 33762"
+    "address": "3638 131st Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6454166",
     "name": "A -Direct Advertising Specialty Company",
     "description": "Advertising Agencies",
     "phone": "(727) 398-1000",
-    "address": "street: 8950 Seminole Blvd location: Seminole, FL 33772"
+    "address": "8950 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "464559761",
     "name": "Forey & Associates - Internet Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 897-5545",
-    "address": "street: 2655 Ulmerton Rd Suite 242 location: Clearwater, FL 33762"
+    "address": "2655 Ulmerton Rd Suite 242  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482229522",
     "name": "The Clarke Group Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 573-3610",
-    "address": "street: 2575 Ulmerton Rd location: Clearwater, FL 33762"
+    "address": "2575 Ulmerton Rd  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "567093155",
     "name": "Aspire Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 914-7019",
-    "address": "street: 4900 Creekside Dr location: Clearwater, FL 33760"
+    "address": "4900 Creekside Dr  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "510720516",
     "name": "Dreamgiveaway.Com",
     "description": "Marketing Consultants",
     "phone": "(727) 592-2364",
-    "address": "street: 4911 Creekside Dr location: Clearwater, FL 33760"
+    "address": "4911 Creekside Dr  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "460547947",
     "name": "Circosta Bob Communications",
     "description": "Marketing Consultants",
     "phone": "(727) 572-8855",
-    "address": "street: 3001 Executive Dr location: Clearwater, FL 33762"
+    "address": "3001 Executive Dr  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571808325",
     "name": "iHeartMedia",
     "description": "Advertising Agencies",
     "phone": "(813) 832-1000",
-    "address": "street: 13577 Feather Sound Dr location: Clearwater, FL 33762"
+    "address": "13577 Feather Sound Dr  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "467393036",
     "name": "Utilities Marketing Group",
     "description": "Telemarketing Services",
     "phone": "(727) 572-0601",
-    "address": "street: 13161 56th Ct location: Clearwater, FL 33760"
+    "address": "13161 56th Ct  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "8544292",
     "name": "Web Design Tampa - ProDeveloper",
     "description": "Interactive Media",
     "phone": "(727) 215-7172",
-    "address": "street: 12191 77th St location: Largo, FL 33782"
+    "address": "12191 77th St  Largo, FL 33782",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "561235804",
     "name": "Websults",
     "description": "Web Site Hosting",
     "phone": "(727) 597-7300",
-    "address": "street: 13555 Automobile Blvd Ste 370 location: Clearwater, FL 33762"
+    "address": "13555 Automobile Blvd Ste 370  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482918251",
     "name": "Mail Marketing",
     "description": "Advertising Agencies",
     "phone": "(727) 556-2500",
-    "address": "street: 12405 73rd Ct location: Largo, FL 33773"
+    "address": "12405 73rd Ct  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480681254",
     "name": "Prem Marketing Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 258-4825",
-    "address": "street: 10011 Seminole Blvd location: Seminole, FL 33772"
+    "address": "10011 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "467243340",
     "name": "Marketing Solutions",
     "description": "Marketing Consultants",
     "phone": "(727) 538-4167",
-    "address": "street: 13575 58th St N location: Clearwater, FL 33760"
+    "address": "13575 58th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "471927128",
     "name": "ZRP Video",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 538-4176",
-    "address": "street: 13575 58th St N Ste 200 location: Clearwater, FL 33760"
+    "address": "13575 58th St N Ste 200  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "521319243",
     "name": "Best in Class Seo Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(877) 225-5821",
-    "address": "street: 13575 58th St N Ste 171 location: Clearwater, FL 33760"
+    "address": "13575 58th St N Ste 171  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "526633132",
     "name": "King Media Ventures LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(888) 325-1068",
-    "address": "street: 13575 58th St N Ste 205 location: Clearwater, FL 33760"
+    "address": "13575 58th St N Ste 205  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469332804",
     "name": "Clarke's Group Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 573-3610",
-    "address": "street: 2771 Heron Pl location: Clearwater, FL 33762"
+    "address": "2771 Heron Pl  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "451213039",
     "name": "Springboard Consultants",
     "description": "Marketing Consultants",
     "phone": "(727) 524-9696",
-    "address": "street: 4500 140th Ave N location: Clearwater, FL 33762"
+    "address": "4500 140th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "459696110",
     "name": "Tidal Web",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 386-6201",
-    "address": "street: PO Box 17152 location: Clearwater, FL 33762"
+    "address": "PO Box 17152  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576454025",
-    "name": "Advanced Digital Automotive Group",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 201-0069",
-    "address": "street: 4600 140th Ave N Ste 180B location: Clearwater, FL 33762"
-  },
-  {
-    "dataYpid": "469408502",
     "name": "GSP Marketing Technologies, Inc",
     "description": "Business Coaches & Consultants",
     "phone": "(727) 532-0647",
-    "address": "street: 14055 46th St N location: Clearwater, FL 33762"
+    "address": "14055 46th St N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "508785508",
     "name": "The St Clair Group Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 530-5887",
-    "address": "street: 4707 140th Ave N location: Clearwater, FL 33762"
+    "address": "4707 140th Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "456559747",
     "name": "The Marketing Source",
     "description": "Marketing Consultants",
     "phone": "(727) 530-1720",
-    "address": "street: 12600 Belcher Rd S location: Largo, FL 33773"
+    "address": "12600 Belcher Rd S  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "483947477",
     "name": "ComputerGeekz LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 674-2378",
-    "address": "street: 8165 Perth Dr location: Largo, FL 33773"
+    "address": "8165 Perth Dr  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "459588000",
-    "name": "Concepts Marketing Solutions",
-    "description": "Marketing Consultants",
-    "phone": "(727) 531-1010",
-    "address": "street: 6565 Ulmerton Rd location: Largo, FL 33771"
-  },
-  {
-    "dataYpid": "540163114",
     "name": "TampaBaySocial.com",
     "description": "Marketing Consultants",
     "phone": "(813) 444-7580",
-    "address": "street: 2400 Feather Sound Drive #1233 location: Clearwater, FL 33762"
+    "address": "2400 Feather Sound Drive #1233  Clearwater, FL 33762",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "20419998",
     "name": "Mandalay Solutions Inc",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 374-7060",
-    "address": "street: 675 182nd Ave E location: Redington Shores, FL 33708"
+    "address": "675 182nd Ave E  Redington Shores, FL 33708",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4221162",
     "name": "Asset Recovery & Conversion",
     "description": "Marketing Consultants",
     "phone": "(727) 524-2400",
-    "address": "street: 13749 65th St location: Largo, FL 33771"
+    "address": "13749 65th St  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29253795",
     "name": "Bluewater Media",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 944-2926",
-    "address": "street: 14375 Myerlake Cir location: Clearwater, FL 33760"
+    "address": "14375 Myerlake Cir  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "19148409",
     "name": "Primary Marketing System",
     "description": "Marketing Consultants",
     "phone": "(727) 531-0555",
-    "address": "street: 13900 US Highway 19 N location: Clearwater, FL 33764"
+    "address": "13900 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481148938",
     "name": "Direct Advertising",
     "description": "Advertising Agencies",
     "phone": "(727) 524-7600",
-    "address": "street: 12530 Enterprise Blvd location: Largo, FL 33773"
+    "address": "12530 Enterprise Blvd  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "11077202",
     "name": "Sun State Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 545-0675",
-    "address": "street: 12505 Starkey Rd Ste M location: Largo, FL 33773"
+    "address": "12505 Starkey Rd Ste M  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "472129917",
     "name": "B2b Services",
     "description": "Marketing Consultants",
     "phone": "(727) 535-6565",
-    "address": "street: 12508 Starkey Rd location: Largo, FL 33773"
+    "address": "12508 Starkey Rd  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "479319245",
     "name": "Global B2b",
     "description": "Marketing Consultants",
     "phone": "(727) 475-1019",
-    "address": "street: 14350 60th St N location: Clearwater, FL 33760"
+    "address": "14350 60th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "520283624",
     "name": "GooglePlacesForBusiness.Net",
     "description": "Internet Consultants",
     "phone": "(727) 238-5147",
-    "address": "street: 11819 104th St location: Largo, FL 33773"
+    "address": "11819 104th St  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "530140868",
     "name": "Elite Marketing & Investors Group",
     "description": "Marketing Consultants",
     "phone": "(727) 803-6603",
-    "address": "street: 10627 117th Dr location: Largo, FL 33773"
+    "address": "10627 117th Dr  Largo, FL 33773",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475499934",
     "name": "Kyle Vena",
     "description": "Print Advertising",
     "phone": "(727) 564-8724",
-    "address": "street: 2310 Tall Pines Dr Ste 220 location: largo, FL 33771"
+    "address": "2310 Tall Pines Dr Ste 220  largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "525565969",
     "name": "3g Business Partners",
     "description": "Marketing Consultants",
     "phone": "(800) 511-8676",
-    "address": "street: 12019 106th Ct location: Largo, FL 33778"
+    "address": "12019 106th Ct  Largo, FL 33778",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571229200",
     "name": "Federal Contracting Center",
     "description": "Business Coaches & Consultants",
     "phone": "(855) 612-8077",
-    "address": "street: 15500 Roosevelt Blvd Ste 103 location: Clearwater, FL 33760"
+    "address": "15500 Roosevelt Blvd Ste 103  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497785802",
     "name": "Proforma Specialty Products",
     "description": "Print Advertising",
     "phone": "(727) 259-0222",
-    "address": "street: 12300 Seminole Blvd Lot 4 location: Largo, FL 33778"
+    "address": "12300 Seminole Blvd Lot 4  Largo, FL 33778",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "466719640",
     "name": "Envision Market",
     "description": "Marketing Consultants",
     "phone": "(727) 216-6192",
-    "address": "street: 1200 Belcher Rd S location: Largo, FL 33771"
+    "address": "1200 Belcher Rd S  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "453229256",
     "name": "Dialamerica",
     "description": "Market Research & Analysis",
     "phone": "(727) 531-2039",
-    "address": "street: 5501 Roosevelt Blvd location: Clearwater, FL 33760"
+    "address": "5501 Roosevelt Blvd  Clearwater, FL 33760",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "21144504",
     "name": "Innovative Marketing of America",
     "description": "Marketing Consultants",
     "phone": "(727) 532-4141",
-    "address": "street: 1101 Belcher Rd S location: Largo, FL 33771"
+    "address": "1101 Belcher Rd S  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "459292045",
     "name": "Consumer Foreclosure Protection Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 588-3355",
-    "address": "street: 12945 Seminole Blvd location: Largo, FL 33778"
+    "address": "12945 Seminole Blvd  Largo, FL 33778",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504714022",
     "name": "Infinity Marketing Group",
     "description": "Marketing Consultants",
     "phone": "(727) 581-1810",
-    "address": "street: 1501 Lake Ave SE location: Largo, FL 33771"
+    "address": "1501 Lake Ave SE  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "563841357",
     "name": "Fly High Business Builders",
     "description": "Advertising Agencies",
     "phone": "(866) 359-3422",
-    "address": "street: 10225 Ulmerton Rd location: Largo, FL 33771"
+    "address": "10225 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "551757194",
     "name": "Higher Response Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 953-3569",
-    "address": "street: 8755 Commodore Dr location: Seminole, FL 33776"
+    "address": "8755 Commodore Dr  Seminole, FL 33776",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "571020806",
     "name": "AGM Marketing Agency",
     "description": "Marketing Consultants",
     "phone": "(727) 477-1102",
-    "address": "street: 1200 Starkey Rd Ste 215-A location: Largo, FL 33771"
+    "address": "1200 Starkey Rd Ste 215-A  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503180631",
     "name": "Admark Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 530-1438",
-    "address": "street: 3900 Belle Oak Blvd location: Largo, FL 33771"
+    "address": "3900 Belle Oak Blvd  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "4006672",
     "name": "International Magazine Co Inc",
     "description": "Market Research & Analysis",
     "phone": "(727) 536-9999",
-    "address": "street: 1205 Starkey Rd location: Largo, FL 33771"
+    "address": "1205 Starkey Rd  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504040804",
     "name": "Trade Languages",
     "description": "International Trade Consultants",
     "phone": "(727) 244-5409",
-    "address": "street: 14539 Red Bird Ct location: Seminole, FL 33776"
+    "address": "14539 Red Bird Ct  Seminole, FL 33776",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "453348977",
     "name": "Medicare Marketing",
     "description": "Marketing Consultants",
     "phone": "(800) 443-1702",
-    "address": "street: 4625 E Bay Dr location: Clearwater, FL 33764"
+    "address": "4625 E Bay Dr  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "500463601",
     "name": "Nuview Marketing",
     "description": "Marketing Consultants",
     "phone": "(727) 754-9743",
-    "address": "street: 4625 E Bay Dr Ste 103 location: Clearwater, FL 33764"
+    "address": "4625 E Bay Dr Ste 103  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "15917125",
     "name": "The Media Crew",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 517-3839",
-    "address": "street: 12597 Walsingham Rd location: Largo, FL 33774"
+    "address": "12597 Walsingham Rd  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "569797481",
     "name": "Drive Now",
     "description": "Direct Mail Advertising",
     "phone": "(760) 688-2305",
-    "address": "street: 1001 Starkey Rd location: Largo, FL 33771"
+    "address": "1001 Starkey Rd  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "9811277",
     "name": "St Clair Group Inc",
     "description": "Marketing Consultants",
     "phone": "(727) 530-5887",
-    "address": "street: 4175 E Bay Dr location: Clearwater, FL 33764"
+    "address": "4175 E Bay Dr  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481545183",
     "name": "My SEO Guys",
     "description": "Internet Consultants",
     "phone": "(813) 333-9666",
-    "address": "street: 1301 Seminole Blvd Suite #136 location: Largo, FL 33770"
+    "address": "1301 Seminole Blvd Suite #136  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "551442159",
     "name": "Vanityskitchens2Go.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(850) 481-5945",
-    "address": "street: 2655 E Bay Dr location: Largo, FL 33771"
+    "address": "2655 E Bay Dr  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "510260343",
     "name": "Just Click It Digital Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(866) 757-7337",
-    "address": "street: 1301 Seminole Blvd Ste 13 location: Largo, FL 33770"
+    "address": "1301 Seminole Blvd Ste 13  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "550094767",
     "name": "Baxter Christenson, Inc.",
     "description": "Advertising Specialties",
     "phone": "(727) 710-8711",
-    "address": "street: 14493 Bay Hills Dr location: Largo, FL 33774"
+    "address": "14493 Bay Hills Dr  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "14784816",
     "name": "Tidewater Marketing Conslnts",
     "description": "Marketing Consultants",
     "phone": "(727) 483-5913",
-    "address": "street: 13540 Walsingham Rd location: Largo, FL 33774"
+    "address": "13540 Walsingham Rd  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "527197399",
     "name": "Epic Digital Marketing Online Services",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 223-9772",
-    "address": "street: 207 Canterbury Ln location: Largo, FL 33770"
+    "address": "207 Canterbury Ln  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "480675889",
     "name": "Professional Media Group",
     "description": "Marketing Consultants",
     "phone": "(727) 584-5511",
-    "address": "street: 1915 E Bay Dr Ste B3 location: Largo, FL 33771"
+    "address": "1915 E Bay Dr Ste B3  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "541246570",
     "name": "Digital Marcom, LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(770) 262-2862",
-    "address": "street: 13801 Walsingham Road Suite A #403 location: Largo, FL 33774"
+    "address": "13801 Walsingham Road Suite A #403  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "534879329",
     "name": "Theodore Barber & Company",
     "description": "Marketing Consultants",
     "phone": "(727) 581-5522",
-    "address": "street: 1715 E Bay Dr Ste E location: Largo, FL 33771"
+    "address": "1715 E Bay Dr Ste E  Largo, FL 33771",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "560497483",
     "name": "Prestige Marketing Concepts",
     "description": "Marketing Consultants",
     "phone": "(727) 754-9910",
-    "address": "street: 11580 Oakhurst Rd location: Largo, FL 33774"
+    "address": "11580 Oakhurst Rd  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "461840957",
     "name": "Hollowell Marketing",
     "description": "Print Advertising",
     "phone": "(727) 698-4031",
-    "address": "street: 12277 Eldon Dr location: Largo, FL 33774"
+    "address": "12277 Eldon Dr  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "548540396",
     "name": "C2 Design Group",
     "description": "Graphic Designers",
     "phone": "(727) 595-1519",
-    "address": "street: 12551 Indian Rocks Rd location: Largo, FL 33774"
+    "address": "12551 Indian Rocks Rd  Largo, FL 33774",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "536922617",
     "name": "KBK Communications",
     "description": "Marketing Consultants",
     "phone": "(815) 464-8565",
-    "address": "street: 3163 Burns Dr location: Clearwater, FL 33764"
+    "address": "3163 Burns Dr  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "2192754",
     "name": "Total Marketing Solutions",
     "description": "Marketing Consultants",
     "phone": "(727) 532-0803",
-    "address": "street: 18469 Us Highway 19 N location: Clearwater, FL 33764"
+    "address": "18469 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "525286512",
     "name": "Coast 2 Coast Bargain's",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 226-7782",
-    "address": "street: 447 6th Ave NE location: Largo, FL 33770"
+    "address": "447 6th Ave NE  Largo, FL 33770",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "500906301",
     "name": "Wenzel",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 451-9426",
-    "address": "street: 205 Beach Trl location: Indian Rocks Beach, FL 33785"
+    "address": "205 Beach Trl  Indian Rocks Beach, FL 33785",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "18189791",
     "name": "Bulls Eye Auto Marketing Inc",
     "description": "Market Research & Analysis",
     "phone": "(727) 483-9602",
-    "address": "street: 18820 Us Highway 19 N location: Clearwater, FL 33764"
+    "address": "18820 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "467613003",
     "name": "CEA Marketing",
     "description": "Advertising Agencies",
     "phone": "(727) 523-8044",
-    "address": "street: 2233 Nursery Rd location: Clearwater, FL 33764"
+    "address": "2233 Nursery Rd  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "551166692",
     "name": "613Creative",
     "description": "Marketing Consultants",
     "phone": "(727) 709-1035",
-    "address": "street: 613 2nd Street #1 location: Indian Rocks Beach, FL 33785"
+    "address": "613 2nd Street #1  Indian Rocks Beach, FL 33785",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504535076",
     "name": "Group Inc Lam",
     "description": "Marketing Consultants",
     "phone": "(727) 333-7900",
-    "address": "street: 1584 Oak Ln location: Clearwater, FL 33764"
+    "address": "1584 Oak Ln  Clearwater, FL 33764",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "469755924",
-    "name": "Makiby Promotions of Florida",
-    "description": "Advertising-Promotional Products",
-    "phone": "(727) 595-1510",
-    "address": "street: 702 2nd St location: Indian Rocks Beach, FL 33785"
-  },
-  {
-    "dataYpid": "482153833",
     "name": "WenzelPPC Ltd.",
     "description": "Internet Marketing & Advertising",
     "phone": "(727) 451-9426",
-    "address": "street: 1809 1st St location: Indian Rocks Beach, FL 33785"
+    "address": "1809 1st St  Indian Rocks Beach, FL 33785",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497676732",
     "name": "Web Twister SEO",
     "description": "Internet Consultants",
     "phone": "(727) 489-2626",
-    "address": "street: 1548 S Missouri Ave # 109 location: Clearwater, FL 33756"
+    "address": "1548 S Missouri Ave # 109  Clearwater, FL 33756",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "452206702",
     "name": "Ten Digit Publishing",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 531-9600",
-    "address": "street: 1180 8th Ave W Ste 318 location: Palmetto, FL 34221"
+    "address": "1180 8th Ave W Ste 318  Palmetto, FL 34221",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "530654506",
     "name": "Lawnline Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 944-3400",
-    "address": "street: 235 Apollo Beach Blvd # 128 location: Apollo Beach, FL 33572"
+    "address": "235 Apollo Beach Blvd # 128  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503600872",
     "name": "Nuestar Mobile Marketing",
     "description": "Advertising Agencies",
     "phone": "(727) 560-9698",
-    "address": "street: 5207 72nd St E location: Palmetto, FL 34221"
+    "address": "5207 72nd St E  Palmetto, FL 34221",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "533444241",
     "name": "Oelker Chelsea",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 251-5267",
-    "address": "street: 517 72nd St location: Holmes Beach, FL 34217"
+    "address": "517 72nd St  Holmes Beach, FL 34217",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "503108758",
     "name": "Zora Creative Web Design",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 807-7001",
-    "address": "street: 10915 Bristol Bay Dr location: Bradenton, FL 34209"
+    "address": "10915 Bristol Bay Dr  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "531717467",
     "name": "DH Digital Marketing Group",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 502-0564",
-    "address": "street: Po Box 6613 location: Tampa, FL 33608"
+    "address": "Po Box 6613  Tampa, FL 33608",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546740384",
     "name": "OPK Solutions",
     "description": "Web Site Design & Services",
     "phone": "(941) 243-0414",
-    "address": "street: 10320 Spoonbill Road West location: Bradenton, FL 34209"
+    "address": "10320 Spoonbill Road West  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559608860",
     "name": "Wordpress Seo Experts",
     "description": "Advertising Agencies",
     "phone": "(813) 492-4080",
-    "address": "street: 5350 Bridge St location: Tampa, FL 33611"
+    "address": "5350 Bridge St  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "482117690",
     "name": "The Jameson Interests",
     "description": "Marketing Consultants",
     "phone": "(813) 634-7775",
-    "address": "street: PO Box 1273 location: Ruskin, FL 33575"
+    "address": "PO Box 1273  Ruskin, FL 33575",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "515532276",
     "name": "Redletterbaskets.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 224-0108",
-    "address": "street: 7812 Portosueno Ave location: Bradenton, FL 34209"
+    "address": "7812 Portosueno Ave  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481466023",
     "name": "Care2learn.Com",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 747-5060",
-    "address": "street: 3027 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "3027 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "540150803",
     "name": "ROI Amplified",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 805-1616",
-    "address": "street: 4905 S West Shore Blvd location: Tampa, FL 33611"
+    "address": "4905 S West Shore Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "481359537",
     "name": "Exact Marketing",
     "description": "Marketing Consultants",
     "phone": "(813) 943-6053",
-    "address": "street: 4842 W Gandy Blvd location: Tampa, FL 33611"
+    "address": "4842 W Gandy Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "31077011",
     "name": "Group50 Consulting",
     "description": "Business Coaches & Consultants",
     "phone": "(909) 949-9083",
-    "address": "street: 411 Islebay Dr location: Apollo Beach, FL 33572"
+    "address": "411 Islebay Dr  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "468775989",
     "name": "KRHMYFLABIZ LLC",
     "description": "Telecommunications Consultants",
     "phone": "(941) 479-6164",
-    "address": "street: 2309 Manatee Ave W Apt 1 location: Bradenton, FL 34205"
+    "address": "2309 Manatee Ave W Apt 1  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "526051151",
-    "name": "Beach Lion Studios",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(727) 207-1108",
-    "address": "street: Po Box 416 location: Ellenton, FL 34222"
-  },
-  {
-    "dataYpid": "465254610",
     "name": "VideoViralViews.com",
     "description": "Advertising Agencies",
     "phone": "(813) 413-5209",
-    "address": "street: 4817 S West Shore Blvd location: Tampa, FL 33611"
+    "address": "4817 S West Shore Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "533624860",
     "name": "Rank Blade",
     "description": "Marketing Consultants",
     "phone": "(800) 825-9480",
-    "address": "street: 3050 Pointeview Dr location: Tampa, FL 33611"
+    "address": "3050 Pointeview Dr  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505145866",
     "name": "Kelly Direct Consulting",
     "description": "Medical Practice Consultants",
     "phone": "(813) 500-2256",
-    "address": "street: 517 Bayview Dr location: Holmes Beach, FL 34217"
+    "address": "517 Bayview Dr  Holmes Beach, FL 34217",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "522091166",
     "name": "Illuminate Local",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 400-1378",
-    "address": "street: 3223 W Victoria Ave location: Tampa, FL 33611"
+    "address": "3223 W Victoria Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "502869615",
     "name": "FF Web Solutions",
     "description": "Internet Consultants",
     "phone": "(941) 462-4881",
-    "address": "street: 1506 Redmond Brook Ln location: Ruskin, FL 33570"
+    "address": "1506 Redmond Brook Ln  Ruskin, FL 33570",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3452492",
     "name": "Straight Line Services",
     "description": "Advertising Agencies",
     "phone": "(941) 746-6117",
-    "address": "street: 1505 6th Ave W location: Bradenton, FL 34205"
+    "address": "1505 6th Ave W  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "517463495",
     "name": "Certified SEO",
     "description": "Interactive Media",
     "phone": "(941) 201-3294",
-    "address": "street: 824 Manatee Ave W location: Bradenton, FL 34205"
+    "address": "824 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497476199",
     "name": "Hotelmode.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 964-7005",
-    "address": "street: 6410 S Macdill Ave location: Tampa, FL 33611"
+    "address": "6410 S Macdill Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "567798559",
     "name": "Starwheel Websites",
     "description": "Web Site Design & Services",
     "phone": "(941) 557-7090",
-    "address": "street: 1201 6th Ave W Ste 100 location: Bradenton, FL 34205"
+    "address": "1201 6th Ave W Ste 100  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "546510693",
     "name": "South Costa LLC",
     "description": "Internet Marketing & Advertising",
     "phone": "(305) 204-3131",
-    "address": "street: 4520 W Oakellar Ave unit 130031 location: Tampa, FL 33611"
+    "address": "4520 W Oakellar Ave unit 130031  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497619719",
     "name": "RYP Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 757-3075",
-    "address": "street: 1201 6th Ave W Ste 500c location: Bradenton, FL 34205"
+    "address": "1201 6th Ave W Ste 500c  Bradenton, FL 34205",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "497667801",
     "name": "AMWAY GLOBAL",
     "description": "Direct Marketing Services",
     "phone": "(813) 990-7427",
-    "address": "street: 3606 W Oklahoma Ave location: Tampa, FL 33611"
+    "address": "3606 W Oklahoma Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "570740022",
     "name": "FranchiseResales.com",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 269-2010",
-    "address": "street: 2414 Avenue A location: Bradenton Beach, FL 34217"
+    "address": "2414 Avenue A  Bradenton Beach, FL 34217",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "489466051",
     "name": "Graphics Edge LLC",
     "description": "Product Design, Development & Marketing",
     "phone": "(813) 493-8000",
-    "address": "street: 804 Golf Island Dr location: Apollo Beach, FL 33572"
+    "address": "804 Golf Island Dr  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "523354417",
     "name": "SEO Advantage, Inc.",
     "description": "Internet Marketing & Advertising",
     "phone": "(877) 516-6272",
-    "address": "street: 3690 W Gandy Blvd Ste 444 location: Tampa, FL 33611"
+    "address": "3690 W Gandy Blvd Ste 444  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "29107475",
     "name": "Dock29 Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 776-1925",
-    "address": "street: 3823 91st Ave E location: Parrish, FL 34219"
+    "address": "3823 91st Ave E  Parrish, FL 34219",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "475821224",
     "name": "Brand Story Experts",
     "description": "Marketing Consultants",
     "phone": "(941) 747-7777",
-    "address": "street: 1911 Manatee Ave E location: Bradenton, FL 34208"
+    "address": "1911 Manatee Ave E  Bradenton, FL 34208",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "576153536",
     "name": "Cre 8 Group Inc",
     "description": "Marketing Consultants",
     "phone": "(813) 649-8504",
-    "address": "street: 3107 W Ballast Point Blvd location: Tampa, FL 33611"
+    "address": "3107 W Ballast Point Blvd  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "504955984",
     "name": "Stream",
     "description": "Internet Marketing & Advertising",
     "phone": "(941) 447-9931",
-    "address": "street: 2912 Oak Ln location: Bradenton, FL 34209"
+    "address": "2912 Oak Ln  Bradenton, FL 34209",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "511331642",
     "name": "Steadfast Executive Solutions",
     "description": "Internet Products & Services",
     "phone": "(727) 768-5519",
-    "address": "street: 3113 W Paul Ave location: Tampa, FL 33611"
+    "address": "3113 W Paul Ave  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "524275664",
     "name": "Sign8 SEO",
     "description": "Internet Marketing & Advertising",
     "phone": "(813) 419-7635",
-    "address": "street: 4809 S Mound Ave Apt 102 location: Tampa, FL 33611"
+    "address": "4809 S Mound Ave Apt 102  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "505029804",
     "name": "Mosiac Marketing on the Bay",
     "description": "Marketing Consultants",
     "phone": "(813) 250-0278",
-    "address": "street: 4207 S Dale Mabry Hwy location: Tampa, FL 33611"
+    "address": "4207 S Dale Mabry Hwy  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "523462396",
     "name": "Grow SEO",
     "description": "Internet Consultants",
     "phone": "(855) 447-6973",
-    "address": "street: 3120 W Fielder St location: Tampa, FL 33611"
+    "address": "3120 W Fielder St  Tampa, FL 33611",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "567051163",
     "name": "Pure Design Studio",
     "description": "Marketing Consultants",
     "phone": "(813) 270-3406",
-    "address": "street: 200 Frandorson Cir Ste 102 location: Apollo Beach, FL 33572"
+    "address": "200 Frandorson Cir Ste 102  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "3177001",
     "name": "Trend Marketing Services Inc",
     "description": "Food Products-Wholesale",
     "phone": "(813) 286-1920",
-    "address": "street: 5440 Mariner St location: Tampa, FL 33609"
+    "address": "5440 Mariner St  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "559534794",
     "name": "The Montembeault Group",
     "description": "Marketing Consultants",
     "phone": "(317) 514-9495",
-    "address": "street: 6409 Blue Sail Ln location: Apollo Beach, FL 33572"
+    "address": "6409 Blue Sail Ln  Apollo Beach, FL 33572",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "521065211",
     "name": "Adenvision",
     "description": "Marketing Consultants",
     "phone": "(813) 773-6812",
-    "address": "street: 5340 W Kennedy Blvd location: Tampa, FL 33609"
+    "address": "5340 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "573724298",
     "name": "Rai Bakers",
     "description": "Marketing Consultants",
     "phone": "(813) 773-6812",
-    "address": "street: 5340 W Kennedy Blvd location: Tampa, FL 33609"
+    "address": "5340 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "6052126",
     "name": "Teasdale WW",
     "description": "Marketing Consultants",
     "phone": "(813) 868-1515",
-    "address": "street: 405 N Reo St location: Tampa, FL 33609"
+    "address": "405 N Reo St  Tampa, FL 33609",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "540645430",
     "name": "Global 2U Now Marketing, Inc",
     "description": "Marketing Consultants",
     "phone": "(813) 315-3995",
-    "address": "street: 4514 Hamlin Way location: Wimauma, FL 33598"
+    "address": "4514 Hamlin Way  Wimauma, FL 33598",
+    "location": "Pinellas"
   },
   {
-    "dataYpid": "14237504",
     "name": "Phil Balducci & Associates",
     "description": "Market Research & Analysis",
     "phone": "(941) 748-5053",
-    "address": "street: 918 River Basin Ct location: Bradenton, FL 34212"
+    "address": "918 River Basin Ct  Bradenton, FL 34212",
+    "location": "Pinellas"
   }
 ]

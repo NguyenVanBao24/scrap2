@@ -1,422 +1,170 @@
 [
   {
-    "dataYpid": "559270220",
     "name": "Baker Creative Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 995-9557",
-    "address": "street: 4233 Hazelhurst Dr location: Milton, FL 32571"
+    "address": " 4233 Hazelhurst Dr  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "467546079",
     "name": "A+ Sign Station",
     "description": "Signs-Erectors & Hangers",
     "phone": "(850) 994-6600",
-    "address": "street: 3655 Highway 90 location: Milton, FL 32571"
+    "address": " 3655 Highway 90  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "5452709",
     "name": "Sunshine Promo Usa Inc",
     "description": "Advertising-Promotional Products",
     "phone": "(850) 995-4053",
-    "address": "street: 4000 Highway 90 location: Milton, FL 32571"
+    "address": " 4000 Highway 90  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "10455853",
     "name": "Enfinger Flags and Poles",
     "description": "Flags, Flagpoles & Accessories",
     "phone": "(850) 994-9560",
-    "address": "street: 4449 Nora Ave location: Pace, FL 32571"
+    "address": " 4449 Nora Ave  Pace, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "14163152",
-    "name": "Gulf Coast Shopper",
-    "description": "Advertising Specialties",
-    "phone": "(850) 941-8300",
-    "address": "street: N/A location: Pensacola, FL 32526"
-  },
-  {
-    "dataYpid": "464461403",
-    "name": "Indoor Billboards",
-    "description": "Advertising Agencies",
-    "phone": "(850) 484-8622",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465290542",
-    "name": "Latino Media",
-    "description": "Advertising Agencies",
-    "phone": "(850) 494-7899",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "571808594",
-    "name": "Mark-It Digital",
-    "description": "Advertising Agencies",
-    "phone": "(678) 221-7697",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "538337088",
     "name": "3SIXTY Marketing",
     "description": "Advertising Agencies",
     "phone": "(850) 393-4605",
-    "address": "street: 350 W Cedar St Ste 300C location: Pensacola, FL 32502"
+    "address": " 350 W Cedar St Ste 300C  Pensacola, FL 32502",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "544978827",
-    "name": "Usenet Storm",
-    "description": "Advertising Agencies",
-    "phone": "(850) 291-6837",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "dataYpid": "460770952",
-    "name": "United Marketing Resolutions",
-    "description": "Advertising Agencies",
-    "phone": "(850) 396-3004",
-    "address": "street: N/A location: Navarre, FL 32566"
-  },
-  {
-    "dataYpid": "483678246",
-    "name": "Door Flyer Delivery & Door Hanger Distribution Pensacola",
-    "description": "Advertising Agencies",
-    "phone": "(832) 534-3577",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "dataYpid": "562493299",
-    "name": "Pegasus Digital Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(850) 312-8083",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "212353",
-    "name": "A1 Web Consulting",
-    "description": "Advertising Agencies",
-    "phone": "(850) 417-7035",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "548516206",
-    "name": "Joshua Lyons Marketing",
-    "description": "Advertising Agencies",
-    "phone": "(850) 898-2237",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "558920195",
-    "name": "CleverOgre",
-    "description": "Advertising Agencies",
-    "phone": "(850) 912-4203",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "465659552",
-    "name": "American Lighting & Signs LLC",
-    "description": "Sign Lettering",
-    "phone": "(850) 458-8359",
-    "address": "street: N/A location: Pensacola, FL 32526"
-  },
-  {
-    "dataYpid": "22392172",
-    "name": "David's Canvas Boat Works",
-    "description": "Canvas Goods",
-    "phone": "(850) 453-0034",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "456062735",
-    "name": "K.R. Group - Photography",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 293-9787",
-    "address": "street: N/A location: Pensacola, FL 32503"
-  },
-  {
-    "dataYpid": "7330730",
     "name": "Bill Salter Advertising Inc",
     "description": "Outdoor Advertising",
     "phone": "(850) 994-4611",
-    "address": "street: 5547 Highway 90 location: Milton, FL 32571"
+    "address": " 5547 Highway 90  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "16539730",
     "name": "Personal Appraiser Guide",
     "description": "Advertising Specialties",
     "phone": "(850) 308-5904",
-    "address": "street: 5345 Willow Oak Dr location: Milton, FL 32571"
+    "address": " 5345 Willow Oak Dr  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "481238899",
     "name": "C & S Signs",
     "description": "Signs",
     "phone": "(850) 983-9540",
-    "address": "street: 5859 Commerce Rd location: Milton, FL 32583"
+    "address": " 5859 Commerce Rd  Milton, FL 32583",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "6776802",
     "name": "Sign Crafters",
     "description": "Signs",
     "phone": "(850) 995-0010",
-    "address": "street: 5273 Highway 90 location: Milton, FL 32571"
+    "address": " 5273 Highway 90  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "520872229",
     "name": "Conquest Graphics",
     "description": "Graphic Designers",
     "phone": "(850) 607-0997",
-    "address": "street: 5675 Highway 90 location: Milton, FL 32583"
+    "address": " 5675 Highway 90  Milton, FL 32583",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "20471599",
     "name": "DigiMark, INC",
     "description": "Signs",
     "phone": "(850) 221-9728",
-    "address": "street: 5155 Oakleaf Dr location: Milton, FL 32571"
+    "address": " 5155 Oakleaf Dr  Milton, FL 32571",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "460768387",
-    "name": "Work at Home United",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 396-5979",
-    "address": "street: N/A location: Navarre, FL 32566"
-  },
-  {
-    "dataYpid": "470674320",
-    "name": "Flip Flop Publishing & Promotions",
-    "description": "Product Design, Development & Marketing",
-    "phone": "(850) 206-8379",
-    "address": "street: N/A location: Gulf Breeze, FL 32563"
-  },
-  {
-    "dataYpid": "483284081",
-    "name": "Gulf Coast Traffic Engineering",
-    "description": "Marking & Coding Equipment",
-    "phone": "(850) 478-7066",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "dataYpid": "483781885",
-    "name": "Heritage Sign Shop",
-    "description": "Graphic Designers",
-    "phone": "(850) 375-2334",
-    "address": "street: N/A location: Milton, FL 32583"
-  },
-  {
-    "dataYpid": "469604457",
-    "name": "Copy Expertise.com",
-    "description": "Direct Mail Advertising",
-    "phone": "(850) 221-9826",
-    "address": "street: N/A location: Pensacola, FL 32503"
-  },
-  {
-    "dataYpid": "465239570",
-    "name": "Mynonprofitmatch.com",
-    "description": "Charities",
-    "phone": "(850) 455-6549",
-    "address": "street: N/A location: Pensacola, FL 32506"
-  },
-  {
-    "dataYpid": "504737934",
-    "name": "Steven Gray Photography",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 712-5730",
-    "address": "street: N/A location: Pensacola, FL 32503"
-  },
-  {
-    "dataYpid": "449014",
-    "name": "Sprocket Studios",
-    "description": "Signs",
-    "phone": "(850) 995-3220",
-    "address": "street: N/A location: Pensacola, FL 32514"
-  },
-  {
-    "dataYpid": "531803996",
-    "name": "David's Canvas & Awnings",
-    "description": "Canvas Goods",
-    "phone": "(850) 453-0034",
-    "address": "street: N/A location: Pensacola, FL 32506"
-  },
-  {
-    "dataYpid": "503908247",
-    "name": "98 Signs & Designs",
-    "description": "Signs",
-    "phone": "(850) 936-7740",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "451466234",
-    "name": "web design are us",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 725-0020",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452209514",
-    "name": "PracticeWorx",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 530-1968",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "13925843",
-    "name": "CommonCents",
-    "description": "Advertising Specialties",
-    "phone": "(757) 322-0855",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "452223587",
-    "name": "DB Signs",
-    "description": "Outdoor Advertising",
-    "phone": "(850) 390-3514",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "481166665",
-    "name": "A Router Works",
-    "description": "Signs",
-    "phone": "(850) 332-6211",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "457146182",
-    "name": "Gengis Coutou Dot Com",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(850) 304-0770",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "13389443",
-    "name": "Parkes Signs",
-    "description": "Signs",
-    "phone": "(850) 261-6320",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "454856183",
-    "name": "Boone Joe Signs",
-    "description": "Signs",
-    "phone": "(850) 712-1932",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "464468286",
-    "name": "Navarre Printing & Signs",
-    "description": "Signs",
-    "phone": "(850) 934-4322",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "474186879",
-    "name": "American Mobile Sign Machine",
-    "description": "Signs",
-    "phone": "(850) 572-7446",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "547814369",
     "name": "Emerald Coast Striping",
     "description": "Asphalt Paving & Sealcoating",
     "phone": "(850) 477-4484",
-    "address": "street: 8840 Fowler Ave location: Pensacola, FL 32534"
+    "address": " 8840 Fowler Ave  Pensacola, FL 32534",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "12053372",
     "name": "Appleyard Agency",
     "description": "Advertising Agencies",
     "phone": "(850) 494-2194",
-    "address": "street: 4400 Bayou Blvd location: Pensacola, FL 32503"
+    "address": " 4400 Bayou Blvd  Pensacola, FL 32503",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "4977744",
     "name": "The Original Clark's Flea Market U.S.A",
     "description": "Advertising Agencies",
     "phone": "(850) 968-9595",
-    "address": "street: 2345 Pompano Rd location: Cantonment, FL 32533"
+    "address": " 2345 Pompano Rd  Cantonment, FL 32533",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "574226877",
     "name": "Hip Creative Agency",
     "description": "Advertising Agencies",
     "phone": "(850) 359-3081",
-    "address": "street: 2690 S Highway 95a location: Cantonment, FL 32533"
+    "address": " 2690 S Highway 95a  Cantonment, FL 32533",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "479293767",
     "name": "Saritus",
     "description": "Advertising Agencies",
     "phone": "(850) 291-6837",
-    "address": "street: 1765 E Nine Mile Rd location: Pensacola, FL 32514"
+    "address": " 1765 E Nine Mile Rd  Pensacola, FL 32514",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "467643651",
     "name": "US Digital Media Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 473-8886",
-    "address": "street: 9100 Hamman Ave location: Pensacola, FL 32514"
+    "address": " 9100 Hamman Ave  Pensacola, FL 32514",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "15704703",
     "name": "AC Advertising",
     "description": "Advertising Agencies",
     "phone": "(850) 437-3301",
-    "address": "street: 1401 E Olive Rd Apt 3 location: Pensacola, FL 32514"
+    "address": " 1401 E Olive Rd Apt 3  Pensacola, FL 32514",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "17601094",
     "name": "Goodson Racing",
     "description": "Advertising Agencies",
     "phone": "(850) 477-0994",
-    "address": "street: 89 W Hood Dr location: Pensacola, FL 32534"
+    "address": " 89 W Hood Dr  Pensacola, FL 32534",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "13023437",
     "name": "McCall Duncan",
     "description": "Advertising Agencies",
     "phone": "(850) 476-5035",
-    "address": "street: 4400 Bayou Blvd location: Pensacola, FL 32503"
+    "address": " 4400 Bayou Blvd  Pensacola, FL 32503",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "461222539",
     "name": "JBT Service",
     "description": "Advertising Agencies",
     "phone": "(850) 994-1643",
-    "address": "street: 5765 Highland Lake Dr location: Milton, FL 32583"
+    "address": " 5765 Highland Lake Dr  Milton, FL 32583",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "521935",
     "name": "Southern Media Inc",
     "description": "Advertising Agencies",
     "phone": "(850) 477-3995",
-    "address": "street: 9165 Roe St location: Pensacola, FL 32514"
+    "address": " 9165 Roe St  Pensacola, FL 32514",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "559411080",
     "name": "Bill Salter Advertise",
     "description": "Advertising Agencies",
     "phone": "(850) 994-4611",
-    "address": "street: 5692 Trevino Dr location: Milton, FL 32570"
+    "address": " 5692 Trevino Dr  Milton, FL 32570",
+    "location": "Pasco"
   },
   {
-    "dataYpid": "464364611",
     "name": "Lea Personnel Management",
     "description": "Advertising Agencies",
     "phone": "(850) 494-9168",
-    "address": "street: 6210 Maybelle Dr location: Pensacola, FL 32504"
+    "address": " 6210 Maybelle Dr  Pensacola, FL 32504",
+    "location": "Pasco"
   }
 ]

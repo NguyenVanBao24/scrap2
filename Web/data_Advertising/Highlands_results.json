@@ -1,597 +1,415 @@
 [
   {
-    "dataYpid": "545518230",
     "name": "Lind Outdoor Advertising Co",
     "description": "Transit Advertising",
     "phone": "(800) 444-5463",
-    "address": "street: 409 N Main St location: Jacksonville, FL 32202"
+    "address": " 409 N Main St  Jacksonville, FL 32202",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "512753548",
     "name": "Lacayo Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 636-5085",
-    "address": "street: 131 E Bay St location: Jacksonville, FL 32202"
+    "address": " 131 E Bay St  Jacksonville, FL 32202",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "523795740",
     "name": "Advertising Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 353-2900",
-    "address": "street: 131 E Bay St location: Jacksonville, FL 32202"
+    "address": " 131 E Bay St  Jacksonville, FL 32202",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "480297703",
     "name": "BROOKSLACAYO Advertising Branding Public Relations",
     "description": "Public Relations Counselors",
     "phone": "(904) 636-5085",
-    "address": "street: 1 Riverside Ave location: Jacksonville, FL 32202"
+    "address": " 1 Riverside Ave  Jacksonville, FL 32202",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "546967721",
     "name": "Aiden Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 549-5039",
-    "address": "street: 24 Market St location: Jacksonville, FL 32202"
+    "address": " 24 Market St  Jacksonville, FL 32202",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "464301103",
-    "name": "Lrs Advertising",
-    "description": "N/A",
-    "phone": "(904) 265-0330",
-    "address": "street: 1225 W Beaver St location: Jacksonville, FL 32204"
-  },
-  {
-    "dataYpid": "458696251",
     "name": "B & B Outdoor Advertising",
     "description": "Outdoor Advertising",
     "phone": "(904) 281-0000",
-    "address": "street: 215 Osceola St location: Jacksonville, FL 32204"
+    "address": " 215 Osceola St  Jacksonville, FL 32204",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "2691818",
     "name": "Brunet-Garcia Advertising Inc",
     "description": "Advertising Specialties",
     "phone": "(904) 346-1977",
-    "address": "street: 1510 Hendricks Ave location: Jacksonville, FL 32207"
+    "address": " 1510 Hendricks Ave  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "473617179",
     "name": "Lamar Advertising Co",
     "description": "Transit Advertising",
     "phone": "(904) 394-2910",
-    "address": "street: 1022 Park St Ste 301 location: Jacksonville, FL 32204"
+    "address": " 1022 Park St Ste 301  Jacksonville, FL 32204",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "15313771",
     "name": "Brunet-Garcia Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 346-1977",
-    "address": "street: 1534 Oak St location: Jacksonville, FL 32204"
+    "address": " 1534 Oak St  Jacksonville, FL 32204",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "544959036",
     "name": "Stephens Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 354-1777",
-    "address": "street: 7029 Commonwealth Ave location: Jacksonville, FL 32220"
+    "address": " 7029 Commonwealth Ave  Jacksonville, FL 32220",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "527265675",
     "name": "First Coast Advertising Service",
     "description": "Advertising Agencies",
     "phone": "(904) 554-7535",
-    "address": "street: 840 Edgewood Ave S location: Jacksonville, FL 32205"
+    "address": " 840 Edgewood Ave S  Jacksonville, FL 32205",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "3412397",
     "name": "Great American Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 693-4344",
-    "address": "street: 1046 Ellis Rd S location: Jacksonville, FL 32205"
+    "address": " 1046 Ellis Rd S  Jacksonville, FL 32205",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "505367917",
     "name": "GLOBAL ADVERTISING LLC",
     "description": "Advertising Agencies",
     "phone": "(904) 800-6332",
-    "address": "street: 6720 Arlington Expy location: Jacksonville, FL 32211"
+    "address": " 6720 Arlington Expy  Jacksonville, FL 32211",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "22145989",
     "name": "National A-1 Advertising, Inc.",
     "description": "Advertising Agencies",
     "phone": "(904) 724-8255",
-    "address": "street: 6501 Arlington Expy location: Jacksonville, FL 32211"
+    "address": " 6501 Arlington Expy  Jacksonville, FL 32211",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "14894144",
-    "name": "Stephens Advertising Inc",
-    "description": "Advertising Specialties",
-    "phone": "(904) 354-7004",
-    "address": "street: 6635 Highway Ave location: Jacksonville, FL 32254"
-  },
-  {
-    "dataYpid": "481241913",
     "name": "American Advertising Inc",
     "description": "Outdoor Advertising",
     "phone": "(904) 739-0300",
-    "address": "street: 3127 Atlantic Blvd Ste 117 location: Jacksonville, FL 32207"
+    "address": " 3127 Atlantic Blvd Ste 117  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "523900432",
     "name": "Jacksonville Specialty Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 398-7297",
-    "address": "street: 1801 Art Museum Dr location: Jacksonville, FL 32207"
+    "address": " 1801 Art Museum Dr  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "5576395",
     "name": "Broadus Matthew Advertising",
     "description": "Signs",
     "phone": "(904) 396-6950",
-    "address": "street: 2139 Nickerson Ln location: Jacksonville, FL 32207"
+    "address": " 2139 Nickerson Ln  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "469123349",
     "name": "Enhanced Advertising",
     "description": "Marketing Consultants",
     "phone": "(904) 316-0345",
-    "address": "street: 5627 Bishop Ln location: Jacksonville, FL 32207"
+    "address": " 5627 Bishop Ln  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "517745390",
-    "name": "Ksi Sportswear & Advertising",
-    "description": "N/A",
-    "phone": "(904) 398-0654",
-    "address": "street: 4600 Philips Hwy location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "1331605",
     "name": "Jacksonville Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 398-7297",
-    "address": "street: 2727 Atlantic Blvd location: Jacksonville, FL 32207"
+    "address": " 2727 Atlantic Blvd  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "2565633",
     "name": "St John & Partners Advertising & Public Relations",
     "description": "Public Relations Counselors",
     "phone": "(904) 281-2500",
-    "address": "street: 5220 Belfort Rd Ste 400 location: Jacksonville, FL 32256"
+    "address": " 5220 Belfort Rd Ste 400  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "1626376",
     "name": "William G Schmidt Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 384-7000",
-    "address": "street: 4814 Algonquin Ave location: Jacksonville, FL 32210"
+    "address": " 4814 Algonquin Ave  Jacksonville, FL 32210",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "7760427",
     "name": "Steven & Stephen Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 737-8171",
-    "address": "street: 7899 Baymeadows Way location: Jacksonville, FL 32256"
+    "address": " 7899 Baymeadows Way  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "520040162",
     "name": "Andersen Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 733-7240",
-    "address": "street: 1752 Clemson Rd location: Jacksonville, FL 32217"
+    "address": " 1752 Clemson Rd  Jacksonville, FL 32217",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "14710871",
     "name": "American Advertising",
     "description": "Outdoor Advertising",
     "phone": "(904) 443-7771",
-    "address": "street: 6278 Dupont Station Ct E location: Jacksonville, FL 32217"
+    "address": " 6278 Dupont Station Ct E  Jacksonville, FL 32217",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "470784329",
     "name": "Integrated Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 296-2585",
-    "address": "street: 6817 Southpoint Pkwy Ste 804 location: Jacksonville, FL 32216"
+    "address": " 6817 Southpoint Pkwy Ste 804  Jacksonville, FL 32216",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "456632224",
     "name": "Brookslacayo Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 470-2300",
-    "address": "street: 7563 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 7563 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "7205985",
     "name": "ZAG Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 733-2998",
-    "address": "street: 8547 San Jose Blvd location: Jacksonville, FL 32217"
+    "address": " 8547 San Jose Blvd  Jacksonville, FL 32217",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "527438215",
-    "name": "Austin Advertising Federation",
-    "description": "N/A",
-    "phone": "(904) 332-2000",
-    "address": "street: 7016 A C Skinner Pkwy location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "7691622",
     "name": "B & B Advertising Inc",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 381-1214",
-    "address": "street: 4749 Ortega Forest Dr location: Jacksonville, FL 32210"
+    "address": " 4749 Ortega Forest Dr  Jacksonville, FL 32210",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "16256002",
     "name": "River City Advertising",
     "description": "Engraving",
     "phone": "(904) 731-3452",
-    "address": "street: 3514 Morton St location: Jacksonville, FL 32217"
+    "address": " 3514 Morton St  Jacksonville, FL 32217",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "464236446",
     "name": "Ford Dealers Advertising Fund",
     "description": "Advertising Agencies",
     "phone": "(904) 737-0449",
-    "address": "street: 6198 Deepwood Dr W location: Jacksonville, FL 32244"
+    "address": " 6198 Deepwood Dr W  Jacksonville, FL 32244",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "505531166",
     "name": "Adventures in Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 737-7344",
-    "address": "street: 8130 Baymeadows Cir W location: Jacksonville, FL 32256"
+    "address": " 8130 Baymeadows Cir W  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "546109631",
     "name": "Qinaos Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 337-1248",
-    "address": "street: 9645 Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 9645 Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "15756910",
     "name": "Adventures In Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 737-7344",
-    "address": "street: 9310 Old Kings Rd S Ste 302 location: Jacksonville, FL 32257"
+    "address": " 9310 Old Kings Rd S Ste 302  Jacksonville, FL 32257",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "459502915",
     "name": "Captiview Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 880-6418",
-    "address": "street: 9802 Baymeadows Rd location: Jacksonville, FL 32256"
+    "address": " 9802 Baymeadows Rd  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "503574696",
     "name": "William Sasser & Associates Advertising Agency",
     "description": "Advertising Agencies",
     "phone": "(904) 363-2006",
-    "address": "street: 9127 Phillips Hwy location: Jacksonville, FL 32207"
+    "address": " 9127 Phillips Hwy  Jacksonville, FL 32207",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "536652748",
     "name": "Redee Advertising",
     "description": "Advertising Agencies",
     "phone": "(904) 463-3159",
-    "address": "street: 13810 Sutton Park Dr N location: Jacksonville, FL 32224"
+    "address": " 13810 Sutton Park Dr N  Jacksonville, FL 32224",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "534764718",
-    "name": "William Sasser & Associates Advertising Agency",
-    "description": "Advertising Agencies",
-    "phone": "(904) 363-2006",
-    "address": "street: 9127 Philips Hwy location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "535788089",
     "name": "ADS Advertising Data Scan",
     "description": "Advertising Agencies",
     "phone": "(904) 363-0016",
-    "address": "street: 9127 Philips Hwy location: Jacksonville, FL 32256"
+    "address": " 9127 Philips Hwy  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "5549141",
-    "name": "Integrated Advertising Inc",
-    "description": "Advertising Agencies",
-    "phone": "(904) 296-2585",
-    "address": "street: 8677 Southern Glen Dr location: Jacksonville, FL 32256"
-  },
-  {
-    "dataYpid": "13200549",
     "name": "Fatib Advertising",
     "description": "Computer Online Services",
     "phone": "(904) 766-2120",
-    "address": "street: 7040 Beechfern Ln N location: Jacksonville, FL 32244"
+    "address": " 7040 Beechfern Ln N  Jacksonville, FL 32244",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "572822835",
-    "name": "Andersen Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 859-8165",
-    "address": "street: 3355 Claire Ln location: Jacksonville, FL 32223"
-  },
-  {
-    "dataYpid": "480630474",
     "name": "Amy W Pritchett Creative Advertising Services",
     "description": "Marketing Consultants",
     "phone": "(904) 527-3664",
-    "address": "street: 11239 Losco Junction Dr S location: Jacksonville, FL 32257"
+    "address": " 11239 Losco Junction Dr S  Jacksonville, FL 32257",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "481966673",
-    "name": "Marketing Advertising Sales Solutions Inc. - MASS",
-    "description": "N/A",
-    "phone": "(855) 507-1505",
-    "address": "street: 9957 Moorings Dr Ste 302 location: Jacksonville, FL 32257"
-  },
-  {
-    "dataYpid": "531311993",
-    "name": "Action First Advertising",
-    "description": "N/A",
-    "phone": "(800) 721-0982",
-    "address": "street: 6823 Candlewood Dr S location: Jacksonville, FL 32244"
-  },
-  {
-    "dataYpid": "460710095",
     "name": "Hartmark Advertising Solutions",
     "description": "Advertising Agencies",
     "phone": "(904) 400-4223",
-    "address": "street: 11933 Gran Crique Ct S location: Jacksonville, FL 32223"
+    "address": " 11933 Gran Crique Ct S  Jacksonville, FL 32223",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "465735504",
     "name": "Com South Advertising Inc",
     "description": "Advertising Agencies",
     "phone": "(904) 448-0400",
-    "address": "street: 10175 Fortune Pkwy location: Jacksonville, FL 32256"
+    "address": " 10175 Fortune Pkwy  Jacksonville, FL 32256",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "505165808",
     "name": "Red House Advertising and Marketing",
     "description": "Internet Marketing & Advertising",
     "phone": "(904) 270-9390",
-    "address": "street: 2027 Mayport Rd location: Jacksonville, FL 32233"
+    "address": " 2027 Mayport Rd  Jacksonville, FL 32233",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "496623699",
     "name": "Jacksonville Ace Hardware Advertising Group",
     "description": "Hardware Stores",
     "phone": "(904) 268-6886",
-    "address": "street: 12443 San Jose Blvd location: Jacksonville, FL 32223"
+    "address": " 12443 San Jose Blvd  Jacksonville, FL 32223",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "515371283",
     "name": "Innovative Outdoor Advertising USA",
     "description": "Transit Advertising",
     "phone": "(866) 215-1090",
-    "address": "street: 12438 Ivy Woods Ct location: Jacksonville, FL 32258"
+    "address": " 12438 Ivy Woods Ct  Jacksonville, FL 32258",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "528910267",
-    "name": "AntonWest Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 701-4140",
-    "address": "street: N/A location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "482422255",
-    "name": "AntonWest Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 701-4140",
-    "address": "street: 1654 San Marco Blvd location: Jacksonville, FL 32207"
-  },
-  {
-    "dataYpid": "8997750",
     "name": "Impact Advertising Group - CLOSED",
     "description": "Advertising Agencies",
     "phone": "(904) 262-6767",
-    "address": "street: 3649 Crown Point Ct location: Jacksonville, FL 32257"
+    "address": " 3649 Crown Point Ct  Jacksonville, FL 32257",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "3866036",
-    "name": "Glenn Ivie Advertising Art - CLOSED",
-    "description": "Art Galleries, Dealers & Consultants",
-    "phone": "N/A",
-    "address": "street: 11977 Marbon Meadows Dr location: Jacksonville, FL 32223"
-  },
-  {
-    "dataYpid": "460096967",
-    "name": "360 Advertising and Media Consulting - CLOSED",
-    "description": "Internet Marketing & Advertising",
-    "phone": "(904) 228-4802",
-    "address": "street: N/A location: Jacksonville, FL 32220"
-  },
-  {
-    "dataYpid": "456176881",
-    "name": "Jacksonville Ace Hardware Advertising Group",
-    "description": "Hardware Stores",
-    "phone": "(904) 879-9890",
-    "address": "street: 617325 Brandies Ave location: Callahan, FL 32011"
-  },
-  {
-    "dataYpid": "461091323",
     "name": "Mass Media Outdoor Advertising Corporation",
     "description": "Outdoor Advertising",
     "phone": "(904) 982-3365",
-    "address": "street: 127 Lora St location: Neptune Beach, FL 32266"
+    "address": " 127 Lora St  Neptune Beach, FL 32266",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "8323081",
     "name": "Vista Outdoor Advertising",
     "description": "Advertising Agencies",
     "phone": "(912) 882-6262",
-    "address": "street: 117 Osborne St location: Saint Marys, GA 31558"
+    "address": " 117 Osborne St  Saint Marys, GA 31558",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "23319644",
     "name": "If Marketing and Advertising",
     "description": "Marketing Programs & Services",
     "phone": "(904) 834-3354",
-    "address": "street: 2107 Sawgrass Village Dr location: Ponte Vedra Beach, FL 32082"
+    "address": " 2107 Sawgrass Village Dr  Ponte Vedra Beach, FL 32082",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "27205617",
     "name": "Coastal Advertising Specialty",
     "description": "Advertising Agencies",
     "phone": "(912) 882-0603",
-    "address": "street: 358 Osprey Cir location: Saint Marys, GA 31558"
+    "address": " 358 Osprey Cir  Saint Marys, GA 31558",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "7588242",
     "name": "First Coast Advertising",
     "description": "Advertising Specialties",
     "phone": "(904) 273-7400",
-    "address": "street: 4 Sawgrass Village Dr Ste 130C location: Ponte Vedra Beach, FL 32082"
+    "address": " 4 Sawgrass Village Dr Ste 130C  Ponte Vedra Beach, FL 32082",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "576017241",
     "name": "Chalmers Advertising & Design",
     "description": "Advertising Agencies",
     "phone": "(772) 334-7744",
-    "address": "street: 188 Leese Dr location: Saint Johns, FL 32259"
+    "address": " 188 Leese Dr  Saint Johns, FL 32259",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "504955110",
-    "name": "First Coast Advertising",
-    "description": "Screen Printing",
-    "phone": "(904) 273-7400",
-    "address": "street: 10033 Sawgrass Dr W Ste 204 location: Ponte Vedra Beach, FL 32082"
-  },
-  {
-    "dataYpid": "574191366",
     "name": "Lucas Design & Advertising",
     "description": "Advertising Agencies",
     "phone": "(770) 664-1316",
-    "address": "street: 1870 Green Springs Cir location: Fleming Island, FL 32003"
+    "address": " 1870 Green Springs Cir  Fleming Island, FL 32003",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "29226224",
-    "name": "Ford Dealers Advertising Fund Jacksonville Division",
-    "description": "N/A",
-    "phone": "(904) 737-0449",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "10183870",
-    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
-    "description": "Marketing Programs & Services",
-    "phone": "(888) 222-4337",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "575718595",
-    "name": "Timber Wolf Advertising",
-    "description": "Advertising Agencies",
-    "phone": "(904) 440-1911",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "18072776",
-    "name": "Twomey Advertising Specialties",
-    "description": "Advertising Specialties",
-    "phone": "(904) 641-1766",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "480919510",
-    "name": "Atlantic Advertising Group",
-    "description": "Advertising Agencies",
-    "phone": "(904) 223-8774",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "573812926",
-    "name": "Southwick Specialty Advertising Inc",
-    "description": "Advertising Specialties",
-    "phone": "(800) 858-8090",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "451184584",
-    "name": "Lake Shore Marketing & Advertising - CLOSED",
-    "description": "Direct Mail Advertising",
-    "phone": "N/A",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "9554261",
     "name": "Etch Masters Of Jax",
     "description": "Advertising-Promotional Products",
     "phone": "(904) 717-5669",
-    "address": "street: 7308 N Pearl St location: Jacksonville, FL 32208"
+    "address": " 7308 N Pearl St  Jacksonville, FL 32208",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "542196789",
     "name": "Shark Signs of NE FL",
     "description": "Signs",
     "phone": "(904) 758-9171",
-    "address": "street: 5317 Shen Ave location: Jacksonville, FL 32205"
+    "address": " 5317 Shen Ave  Jacksonville, FL 32205",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "575839799",
     "name": "Bella Vision Custom Print and Gift",
     "description": "Clothing Stores",
     "phone": "(904) 258-0813",
-    "address": "street: 8595 Beach Boulevard location: Jacksonville, FL 32216"
+    "address": " 8595 Beach Boulevard  Jacksonville, FL 32216",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "497689415",
     "name": "First Coast Promotions",
     "description": "Balloons-Advertising & Signage",
     "phone": "(904) 262-9155",
-    "address": "street: 3948 Sunbeam Rd #5 location: Jacksonville, FL 32257"
+    "address": " 3948 Sunbeam Rd #5  Jacksonville, FL 32257",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "456048360",
     "name": "Sea Shells & Coral",
     "description": "Novelties",
     "phone": "(904) 241-9031",
-    "address": "street: 239 1st St N location: Jacksonville Beach, FL 32250"
+    "address": " 239 1st St N  Jacksonville Beach, FL 32250",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "478448874",
     "name": "Stitches & Screens",
     "description": "T-Shirts",
     "phone": "(904) 789-3406",
-    "address": "street: 1939 Mayport Rd location: Atlantic Beach, FL 32233"
+    "address": " 1939 Mayport Rd  Atlantic Beach, FL 32233",
+    "location": "Highlands"
   },
   {
-    "dataYpid": "466808",
     "name": "B & S Signs",
     "description": "Crane Service",
     "phone": "(904) 587-1073",
-    "address": "street: 2764 South Collins Avenue location: St. Augustine, FL 32084"
-  },
-  {
-    "dataYpid": "21870404",
-    "name": "Writing Assistance Inc.",
-    "description": "Educational Services",
-    "phone": "(866) 674-5125",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "546974868",
-    "name": "Banner Marketing Group",
-    "description": "Flags, Flagpoles & Accessories",
-    "phone": "(805) 528-5018",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "21846196",
-    "name": "Daves Tops and Trim",
-    "description": "Truck Equipment & Parts",
-    "phone": "(386) 325-3313",
-    "address": "street: N/A location: N/A"
-  },
-  {
-    "dataYpid": "17083867",
-    "name": "Sunshine Trophies & Awards Inc",
-    "description": "Trophies, Plaques & Medals",
-    "phone": "(386) 328-4989",
-    "address": "street: N/A location: N/A"
+    "address": " 2764 South Collins Avenue  St. Augustine, FL 32084",
+    "location": "Highlands"
   }
 ]
