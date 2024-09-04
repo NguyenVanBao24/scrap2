@@ -1,0 +1,835 @@
+[
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "8100049",
+    "name": "Trm",
+    "description": "Advertising Agencies",
+    "phone": "(904) 282-8604",
+    "address": "street: 2816 Henley Rd location: Green Cove Springs, FL 32043"
+  },
+  {
+    "dataYpid": "8602393",
+    "name": "Cook Enterprises Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 215-5660",
+    "address": "street: 4711 US Highway 17 location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "474991329",
+    "name": "Unicorn Web Development",
+    "description": "Web Site Design & Services",
+    "phone": "(904) 282-7454",
+    "address": "street: N/A location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "3393055",
+    "name": "St Brendan's Isle Inc",
+    "description": "Courier & Delivery Service",
+    "phone": "(904) 284-1200",
+    "address": "street: 1501 County Road 315 location: Green Cove Springs, FL 32043"
+  },
+  {
+    "dataYpid": "540968744",
+    "name": "Darla J Mayo Signs & Designs",
+    "description": "Advertising Specialties",
+    "phone": "(904) 626-3064",
+    "address": "street: 3514 Citation Dr location: Green Cove Springs, FL 32043"
+  },
+  {
+    "dataYpid": "2549752",
+    "name": "Tape Technologies Inc",
+    "description": "Signs",
+    "phone": "(904) 284-0284",
+    "address": "street: 1272 Harbor Rd location: Green Cove Springs, FL 32043"
+  },
+  {
+    "dataYpid": "14673968",
+    "name": "Signs Now",
+    "description": "Signs",
+    "phone": "(904) 874-9378",
+    "address": "street: N/A location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "19940983",
+    "name": "Equi-Signs",
+    "description": "Signs",
+    "phone": "(904) 704-6572",
+    "address": "street: N/A location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "464461371",
+    "name": "Peacock Sign Studio",
+    "description": "Signs",
+    "phone": "(904) 910-1634",
+    "address": "street: N/A location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "451287946",
+    "name": "Street Side Promotions",
+    "description": "Marketing Programs & Services",
+    "phone": "(904) 469-5826",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "2813187",
+    "name": "Patriot Sales & Services Inc",
+    "description": "Advertising Specialties",
+    "phone": "(904) 278-0446",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "464700577",
+    "name": "Walker Signs, Inc.",
+    "description": "Signs",
+    "phone": "(352) 478-1741",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "575038370",
+    "name": "Fable Heart Media",
+    "description": "Advertising Agencies",
+    "phone": "(904) 479-1472",
+    "address": "street: 255 Rivertown Shops Dr Ste 102 PMB 126 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "4129854",
+    "name": "Jet Micro",
+    "description": "Advertising Agencies",
+    "phone": "(904) 213-8770",
+    "address": "street: 2384 Country Side Dr location: Orange Park, FL 32003"
+  },
+  {
+    "dataYpid": "13781444",
+    "name": "Northfloridayardsalecom",
+    "description": "Advertising Agencies",
+    "phone": "(904) 705-9581",
+    "address": "street: 1963 Belhaven Dr location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "574191366",
+    "name": "Lucas Design & Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(770) 664-1316",
+    "address": "street: 1870 Green Springs Cir location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "465669229",
+    "name": "Pathways Developmental Learning",
+    "description": "Advertising Agencies",
+    "phone": "(904) 278-9700",
+    "address": "street: 1330 Brookgreen Way location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "29329488",
+    "name": "R Elliott Estey Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 282-7780",
+    "address": "street: 4000 Lazy Acres Rd location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "506170512",
+    "name": "Creative Ad Design Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 696-2391",
+    "address": "street: 627 Rothmoor Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "460371754",
+    "name": "Motionbuzz Web Design and Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(904) 213-9415",
+    "address": "street: 752 Blanding Blvd Ste 105 location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "519989916",
+    "name": "Fleming Signs & Graphics",
+    "description": "Advertising Agencies",
+    "phone": "(904) 214-3265",
+    "address": "street: 4289 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "496047285",
+    "name": "Revision Marketing LLC",
+    "description": "Advertising Agencies",
+    "phone": "(904) 214-4929",
+    "address": "street: 4058 Everett Ave location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "8293514",
+    "name": "Alphabet Signs",
+    "description": "Signs",
+    "phone": "(904) 272-0262",
+    "address": "street: 1268 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "530652895",
+    "name": "Logo Depot",
+    "description": "Garments-Printing & Lettering",
+    "phone": "(904) 215-5646",
+    "address": "street: 365 College Dr location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "23831641",
+    "name": "Logo Depot",
+    "description": "Signs",
+    "phone": "(904) 215-5646",
+    "address": "street: 3535 Us Highway 17 Ste 5 location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "11725760",
+    "name": "Logo Xpress - (Logo Express)",
+    "description": "Embroidery",
+    "phone": "(904) 278-7774",
+    "address": "street: 1831 Golden Eagle Way Ste 32 location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "470890475",
+    "name": "Fleming Signs & Graphics",
+    "description": "Signs",
+    "phone": "(904) 214-3265",
+    "address": "street: 4182 County Road 218 Ste 7 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "548439273",
+    "name": "Heritage Signs",
+    "description": "Signs",
+    "phone": "(904) 529-7446",
+    "address": "street: 1282 Energy Cove Ct location: Green Cove Springs, FL 32043"
+  },
+  {
+    "dataYpid": "481439303",
+    "name": "Victory Graphics Sign Co",
+    "description": "Signs",
+    "phone": "(904) 210-6579",
+    "address": "street: 7146 Tarpon Ct location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "522057887",
+    "name": "Old Goat Custom Woods LLC",
+    "description": "Woodworking",
+    "phone": "(904) 228-1319",
+    "address": "street: 4237-1 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "520775363",
+    "name": "A-Pro Signs & Promo",
+    "description": "Signs",
+    "phone": "(904) 400-0882",
+    "address": "street: 1232 Blanding Blvd Ste 2 location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "481236671",
+    "name": "Winning Concepts USA",
+    "description": "Advertising-Promotional Products",
+    "phone": "(904) 272-9784",
+    "address": "street: 950 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "556141412",
+    "name": "Logo X-Press",
+    "description": "Embroidery",
+    "phone": "(904) 278-7774",
+    "address": "street: 2245 Plantation Center Dr location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "22266425",
+    "name": "Fleming Signs and Graphics",
+    "description": "Signs",
+    "phone": "(904) 214-3265",
+    "address": "street: 2494 Blanding Blvd Ste 10 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "8029733",
+    "name": "Unlimited Signs",
+    "description": "Signs",
+    "phone": "(904) 282-5340",
+    "address": "street: 4213 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "521870697",
+    "name": "Grace Graphics",
+    "description": "Graphic Designers",
+    "phone": "(904) 291-3672",
+    "address": "street: 4219 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "548784958",
+    "name": "Grace Graphics",
+    "description": "Graphic Designers",
+    "phone": "(904) 291-3672",
+    "address": "street: 4364 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "9737001",
+    "name": "Grace Graphics",
+    "description": "Signs",
+    "phone": "(904) 291-3672",
+    "address": "street: 4899 Alligator Blvd location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "22066788",
+    "name": "Grafiikka Signs Studios Inc",
+    "description": "Signs",
+    "phone": "(904) 276-0661",
+    "address": "street: 931 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "534584629",
+    "name": "Cb Exchange",
+    "description": "Direct Mail Advertising",
+    "phone": "(904) 282-1560",
+    "address": "street: 5629 Lake Meadow Rd location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "553692978",
+    "name": "Lists",
+    "description": "Mailing Lists",
+    "phone": "(904) 660-0596",
+    "address": "street: 1820 State Road 13 N location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "527890868",
+    "name": "Johnsati.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(310) 299-0932",
+    "address": "street: 4650 Javeline St location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "452110917",
+    "name": "SearchXcel",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(877) 400-0252",
+    "address": "street: 1778 Fiddlers Ridge Dr location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "464474146",
+    "name": "web904.com, LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 375-0194",
+    "address": "street: 2752 Greenridge Rd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "553506909",
+    "name": "Walker Signs Inc",
+    "description": "Signs",
+    "phone": "(904) 885-6517",
+    "address": "street: 3099 Apalachicola Blvd location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "520485445",
+    "name": "Black Creek Customs",
+    "description": "Sign Lettering",
+    "phone": "(904) 351-8776",
+    "address": "street: 2070 Palmetto St Ste 1 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "2212847",
+    "name": "Florida Wholesale Neon",
+    "description": "Signs",
+    "phone": "(904) 278-2214",
+    "address": "street: 2497 County Road 220 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "4436917",
+    "name": "John Goble Signs",
+    "description": "Signs",
+    "phone": "(904) 278-2213",
+    "address": "street: 2497 County Road 220 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "507487779",
+    "name": "Sign Spinner Guys",
+    "description": "Advertising Specialties",
+    "phone": "(888) 985-0598",
+    "address": "street: 1864 Inlet Cove Ct location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "554666283",
+    "name": "Rogers Pavement",
+    "description": "Pavement & Floor Marking Services",
+    "phone": "(904) 213-1080",
+    "address": "street: 273 Jefferson Ave location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "461571015",
+    "name": "Play to Win Sports Company Inc.",
+    "description": "Embroidery",
+    "phone": "(904) 735-2800",
+    "address": "street: 331 Parkridge Ave location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "546599246",
+    "name": "Embroider Me",
+    "description": "Embroidery",
+    "phone": "(904) 545-5671",
+    "address": "street: 767 Blanding Blvd location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "475709710",
+    "name": "Victory Graphics Sign Co",
+    "description": "Signs",
+    "phone": "(904) 210-6579",
+    "address": "street: 3535 Us Highway 17 Ste 4 location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "485842733",
+    "name": "Dogwood Signs",
+    "description": "Advertising Specialties",
+    "phone": "(904) 203-2636",
+    "address": "street: 4886 County Road 218 location: Middleburg, FL 32068"
+  },
+  {
+    "dataYpid": "17728531",
+    "name": "Banners & Signs, etc.",
+    "description": "Advertising Agencies",
+    "phone": "(904) 272-3395",
+    "address": "street: 1970 Solomon St location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "9759390",
+    "name": "Viani Communications",
+    "description": "Advertising Agencies",
+    "phone": "(904) 688-0004",
+    "address": "street: 2175 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "507400902",
+    "name": "web904.com, LLC",
+    "description": "Advertising Agencies",
+    "phone": "(904) 375-0194",
+    "address": "street: 1850 Park Ave. #2 location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "562108234",
+    "name": "Designasaur",
+    "description": "Advertising Agencies",
+    "phone": "(817) 442-5353",
+    "address": "street: 320 Glenneyre Cir location: Saint Augustine, FL 32092"
+  },
+  {
+    "dataYpid": "472814902",
+    "name": "Xsite Digital, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(904) 477-3667",
+    "address": "street: 549 Dandelion Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "576017241",
+    "name": "Chalmers Advertising & Design",
+    "description": "Advertising Agencies",
+    "phone": "(772) 334-7744",
+    "address": "street: 188 Leese Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "483954704",
+    "name": "Signal Staff",
+    "description": "Advertising Agencies",
+    "phone": "(904) 770-2185",
+    "address": "street: 609 Grand Parke Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "5363546",
+    "name": "Media Pros",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-7916",
+    "address": "street: 297 Bell Branch Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "464236923",
+    "name": "Centerstage Productions Video",
+    "description": "Advertising Agencies",
+    "phone": "(904) 996-0066",
+    "address": "street: 505 Tupelo Trce location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "29178533",
+    "name": "Dm Mincey Marketing Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 880-2720",
+    "address": "street: 12422 Mesa Verde Trl location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "464189686",
+    "name": "Oscar Hinojosa Studios Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 260-4348",
+    "address": "street: 11352 Shady Brook Ln location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "522381311",
+    "name": "Spark Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 732-4391",
+    "address": "street: 11111 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "475173533",
+    "name": "Shop Ameriprodcom",
+    "description": "Advertising Agencies",
+    "phone": "(904) 262-9004",
+    "address": "street: 2950 Halcyon Ln Ste 503 location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "572822835",
+    "name": "Andersen Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(904) 859-8165",
+    "address": "street: 3355 Claire Ln location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "464340246",
+    "name": "Pfc Church Consultants",
+    "description": "Advertising Agencies",
+    "phone": "(904) 268-8196",
+    "address": "street: 5157 Breezeway Ct location: Jacksonville, FL 32258"
+  },
+  {
+    "dataYpid": "460710095",
+    "name": "Hartmark Advertising Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(904) 400-4223",
+    "address": "street: 11933 Gran Crique Ct S location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "503241877",
+    "name": "SumitSEO",
+    "description": "Advertising Agencies",
+    "phone": "(904) 345-0944",
+    "address": "street: 10503 San Jose Blvd Ste 4 location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "541606458",
+    "name": "Merkley Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-3430",
+    "address": "street: 704 Ginger Mill Dr. location: St. Johns, FL 32259"
+  },
+  {
+    "dataYpid": "450799598",
+    "name": "3-D Courier Services, LLC",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-4572",
+    "address": "street: 12443 San Jose Blvd Ste 802-e location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "464640756",
+    "name": "Sign Talk Graphix",
+    "description": "Advertising Agencies",
+    "phone": "(904) 737-9119",
+    "address": "street: 12610 Cachet Dr location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "470263701",
+    "name": "DRIVEN2WIN",
+    "description": "Advertising Agencies",
+    "phone": "(904) 638-7200",
+    "address": "street: 450 State Road 13 Ste 106 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "468334744",
+    "name": "Merkley Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-3430",
+    "address": "street: 357 Maplewood Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "470422796",
+    "name": "Search Seek Destroy",
+    "description": "Advertising Agencies",
+    "phone": "(904) 469-7335",
+    "address": "street: 11979 Colby Creek Dr location: Jacksonville, FL 32258"
+  },
+  {
+    "dataYpid": "541605063",
+    "name": "Thunder Road Fx Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 389-5656",
+    "address": "street: 767 Turkey Point Dr location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "28623118",
+    "name": "Web904.Com",
+    "description": "Advertising Agencies",
+    "phone": "(904) 505-0305",
+    "address": "street: 1734 Kingsley Ave location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "527292786",
+    "name": "Eric Kronfrost",
+    "description": "Advertising Agencies",
+    "phone": "(904) 527-1688",
+    "address": "street: 3204 Wandering Oaks Dr location: Orange Park, FL 32065"
+  },
+  {
+    "dataYpid": "465708378",
+    "name": "Rt Publishing",
+    "description": "Advertising Agencies",
+    "phone": "(904) 886-4919",
+    "address": "street: 12443 San Jose Blvd Ste 403 location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "15316662",
+    "name": "Corporate Concepts",
+    "description": "Advertising Agencies",
+    "phone": "(904) 880-8212",
+    "address": "street: 3826 Olympic Ln location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "10697531",
+    "name": "Lists",
+    "description": "Mailing Lists",
+    "phone": "(904) 733-6106",
+    "address": "street: 2950 Halcyon Ln location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "9828076",
+    "name": "Sir Speedy",
+    "description": "Printing Services-Commercial",
+    "phone": "(904) 269-5116",
+    "address": "street: 1857 Wells Rd Ste 1-AB location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "451266266",
+    "name": "Walker Signs, Inc.",
+    "description": "Outdoor Advertising",
+    "phone": "(904) 885-6517",
+    "address": "street: PO Box 206 location: Orange Park, FL 32067"
+  },
+  {
+    "dataYpid": "13328663",
+    "name": "Crown Trophy",
+    "description": "Trophies, Plaques & Medals",
+    "phone": "(904) 260-4871",
+    "address": "street: 11792 San Jose Blvd location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "457412016",
+    "name": "Print-A-Shirt custom t-shirts of Jacksonville",
+    "description": "T-Shirts",
+    "phone": "(904) 297-8337",
+    "address": "street: 726 State Road 13 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "502812800",
+    "name": "FedEx Office Print & Ship Center",
+    "description": "Copying & Duplicating Service",
+    "phone": "(904) 288-8380",
+    "address": "street: 10400 San Jose Blvd Ste 7 location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "2648027",
+    "name": "Custom Graphics and Sign Designs Inc",
+    "description": "Signs",
+    "phone": "(904) 264-7667",
+    "address": "street: 230 Industrial Loop location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "451699843",
+    "name": "American Database Marketing Inc",
+    "description": "Mailing Lists",
+    "phone": "(888) 565-7724",
+    "address": "street: 12627 San Jose Blvd Ste 603 location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "480867699",
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(904) 272-8333",
+    "address": "street: 175 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "458005429",
+    "name": "Signarama-Orange Park",
+    "description": "Business Cards",
+    "phone": "(904) 272-8333",
+    "address": "street: 14 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "477810839",
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(904) 579-1182",
+    "address": "street: 1635 Wells Rd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "550308830",
+    "name": "BEST VIEW SIGNS INC",
+    "description": "Signs",
+    "phone": "(779) 435-9161",
+    "address": "street: 1194 Eagle Bluff Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "505117042",
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(904) 292-1104",
+    "address": "street: 10601 San Jose Blvd location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "11177007",
+    "name": "Signs 'N Stuff",
+    "description": "Signs",
+    "phone": "(904) 272-2324",
+    "address": "street: 410 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "15140105",
+    "name": "Howell Signs",
+    "description": "Signs",
+    "phone": "(904) 287-7549",
+    "address": "street: 430 Fruit Cove Rd location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "567292818",
+    "name": "Sundancer Sign Graphics Inc",
+    "description": "Signs",
+    "phone": "(904) 287-4949",
+    "address": "street: 1216 Creek Bend Rd location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "13031240",
+    "name": "River City Sign Company",
+    "description": "Signs",
+    "phone": "(904) 309-6410",
+    "address": "street: 12025 San Jose Blvd Ste 3 location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "462413780",
+    "name": "Cb Exchange",
+    "description": "Direct Mail Advertising",
+    "phone": "(904) 282-1560",
+    "address": "street: 5629 State Road 16 W location: Starke, FL 32091"
+  },
+  {
+    "dataYpid": "505149290",
+    "name": "enCode",
+    "description": "Incentive Programs",
+    "phone": "(904) 501-3042",
+    "address": "street: Po Box 600534 location: Jacksonville, FL 32260"
+  },
+  {
+    "dataYpid": "474364419",
+    "name": "Vizzitopia",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(907) 217-3749",
+    "address": "street: 12421 San Jose Blvd Ste 200g location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "518275349",
+    "name": "DarttSpark Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 567-7977",
+    "address": "street: 12330 Valpariso Trl location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "478359572",
+    "name": "HFI Web Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 699-3429",
+    "address": "street: 4514 Julington Creek Rd location: Jacksonville, FL 32258"
+  },
+  {
+    "dataYpid": "497696918",
+    "name": "Daily Net Pay",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 887-8478",
+    "address": "street: 3355 Claire Ln location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "505019976",
+    "name": "Signs and More",
+    "description": "Advertising Specialties",
+    "phone": "(904) 272-7446",
+    "address": "street: 555 Blanding Blvd location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "503871269",
+    "name": "Peacock Sign Studio",
+    "description": "Graphic Designers",
+    "phone": "(904) 269-4450",
+    "address": "street: P O Box 237 location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "507467316",
+    "name": "Signs and More",
+    "description": "Advertising Specialties",
+    "phone": "(904) 272-7446",
+    "address": "street: 212 Industrial Loop S location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "576319297",
+    "name": "Custom Graphics & Sign Designs Inc",
+    "description": "Graphic Designers",
+    "phone": "(904) 264-7667",
+    "address": "street: 99 Industrial Loop N location: Orange Park, FL 32073"
+  },
+  {
+    "dataYpid": "574725243",
+    "name": "Paypercallus",
+    "description": "Advertising Specialties",
+    "phone": "(630) 936-7112",
+    "address": "street: 185 Celtic Wedding Dr location: Jacksonville, FL 32259"
+  },
+  {
+    "dataYpid": "528611488",
+    "name": "Sumner Digital",
+    "description": "Advertising Agencies",
+    "phone": "(904) 239-8401",
+    "address": "street: 11562 Derby Forest Dr location: Jacksonville, FL 32258"
+  },
+  {
+    "dataYpid": "502574959",
+    "name": "LLF Incorporated",
+    "description": "Advertising Specialties",
+    "phone": "(904) 854-1415",
+    "address": "street: 5570 Florida Mining Blvd S location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "539443859",
+    "name": "Chromatix Creative",
+    "description": "Graphic Designers",
+    "phone": "(904) 683-7938",
+    "address": "street: 5771 Mining Ter Ste 201 location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "21846196",
+    "name": "Daves Tops and Trim",
+    "description": "Truck Equipment & Parts",
+    "phone": "(386) 325-3313",
+    "address": "street: 615 N Palm Ave location: Palatka, FL 32177"
+  },
+  {
+    "dataYpid": "17083867",
+    "name": "Sunshine Trophies & Awards Inc",
+    "description": "Trophies, Plaques & Medals",
+    "phone": "(386) 328-4989",
+    "address": "street: 239 N Highway 17 location: Palatka, FL 32177"
+  },
+  {
+    "dataYpid": "542196789",
+    "name": "Shark Signs of NE FL",
+    "description": "Signs",
+    "phone": "(904) 875-0448",
+    "address": "street: 5317 Shen Ave location: Jacksonville, FL 32205"
+  },
+  {
+    "dataYpid": "466808",
+    "name": "B & S Signs",
+    "description": "Crane Service",
+    "phone": "(904) 587-1073",
+    "address": "street: 2764 South Collins Avenue location: St. Augustine, FL 32084"
+  }
+]

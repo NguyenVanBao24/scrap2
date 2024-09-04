@@ -1,0 +1,842 @@
+[
+  {
+    "dataYpid": "28998848",
+    "name": "McClay Inglesby Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 906-4320",
+    "address": "street: 2167 Vivian Way S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "dataYpid": "452223359",
+    "name": "Largo AdzZoo",
+    "description": "Advertising Agencies",
+    "phone": "(727) 290-6694",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "561326115",
+    "name": "Your Ad Market",
+    "description": "Advertising Agencies",
+    "phone": "(727) 584-8697",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "575806373",
+    "name": "IPTV Wire",
+    "description": "Advertising Agencies",
+    "phone": "(515) 612-6394",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "462617773",
+    "name": "MarcGrace.com Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(727) 687-6383",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "468205329",
+    "name": "IDEAS4, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(813) 230-3018",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "567891897",
+    "name": "LeadMiningPros.com",
+    "description": "Advertising Agencies",
+    "phone": "(727) 877-8772",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "570380338",
+    "name": "Light Touch Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(855) 715-4448",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "8149878",
+    "name": "Sirius Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 865-0033",
+    "address": "street: 500 Jasmine Way S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "dataYpid": "455451977",
+    "name": "Suncoast Legal Nurse Consulting",
+    "description": "Advertising Agencies",
+    "phone": "(727) 867-3363",
+    "address": "street: 512 51st Ave S location: Saint Petersburg, FL 33705"
+  },
+  {
+    "dataYpid": "533172376",
+    "name": "Palm Bay Advertising, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(813) 586-1685",
+    "address": "street: 3695 40th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "dataYpid": "480250108",
+    "name": "First Priority Land Services",
+    "description": "Advertising Agencies",
+    "phone": "(727) 822-0088",
+    "address": "street: 2433 19th St S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "dataYpid": "562606425",
+    "name": "Big Sea Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 386-8031",
+    "address": "street: 2622 Fairfield Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "dataYpid": "503177396",
+    "name": "Designer Club Entertaininment",
+    "description": "Advertising Agencies",
+    "phone": "(727) 327-4441",
+    "address": "street: 675 37th St S location: Saint Petersburg, FL 33711"
+  },
+  {
+    "dataYpid": "14989117",
+    "name": "Cr Impact",
+    "description": "Advertising Agencies",
+    "phone": "(727) 345-7300",
+    "address": "street: 2825 Beach Blvd S location: Gulfport, FL 33707"
+  },
+  {
+    "dataYpid": "12280885",
+    "name": "Wilson Media & Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 894-6100",
+    "address": "street: 300 3rd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "7063776",
+    "name": "Corplogowear",
+    "description": "Advertising Agencies",
+    "phone": "(727) 322-9151",
+    "address": "street: 2429 Central Ave location: Saint Petersburg, FL 33713"
+  },
+  {
+    "dataYpid": "521415539",
+    "name": "Media Garage Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 258-0318",
+    "address": "street: 3001 1st Ave S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "dataYpid": "547637909",
+    "name": "Mosaic Development",
+    "description": "Advertising Agencies",
+    "phone": "(239) 603-8596",
+    "address": "street: 1763 1st Ave N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "dataYpid": "565028064",
+    "name": "Rob Graham Enterprises",
+    "description": "Advertising Agencies",
+    "phone": "(727) 803-6058",
+    "address": "street: 100 7th St S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "472818348",
+    "name": "Roma Direct Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(727) 498-8999",
+    "address": "street: 33 6th St S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "505883557",
+    "name": "Intent Local",
+    "description": "Advertising Agencies",
+    "phone": "(727) 278-3926",
+    "address": "street: 33 6th St S Ste 501 location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "547547524",
+    "name": "Cliktree",
+    "description": "Advertising Agencies",
+    "phone": "(727) 220-5923",
+    "address": "street: 200 2nd Ave S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "20450815",
+    "name": "Vitale Bros",
+    "description": "Advertising Agencies",
+    "phone": "(727) 520-0969",
+    "address": "street: 651 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "513305626",
+    "name": "Vibe Digital Media",
+    "description": "Advertising Agencies",
+    "phone": "(727) 565-0115",
+    "address": "street: 475 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "560340996",
+    "name": "Media Shark",
+    "description": "Advertising Agencies",
+    "phone": "(916) 342-9441",
+    "address": "street: 433 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "465703634",
+    "name": "Hype Group",
+    "description": "Advertising Agencies",
+    "phone": "(727) 623-9085",
+    "address": "street: 360 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "560725827",
+    "name": "Driven Results",
+    "description": "Advertising Agencies",
+    "phone": "(727) 222-0391",
+    "address": "street: 360 Central Ave Ste 800 location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "494164943",
+    "name": "Pyper Young, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 873-1210",
+    "address": "street: 235 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "28803150",
+    "name": "Vibrant Wealth",
+    "description": "Advertising Agencies",
+    "phone": "(727) 864-0904",
+    "address": "street: 1645 Pinellas Bayway S location: Saint Petersburg, FL 33715"
+  },
+  {
+    "dataYpid": "497330553",
+    "name": "Wilson Media & Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 894-6100",
+    "address": "street: 290 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33705"
+  },
+  {
+    "dataYpid": "565082095",
+    "name": "BNO Creative Labs",
+    "description": "Advertising Agencies",
+    "phone": "(727) 550-0309",
+    "address": "street: 111 2nd Ave NE location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "560760777",
+    "name": "Reardon Killion Communications",
+    "description": "Advertising Agencies",
+    "phone": "(727) 896-3435",
+    "address": "street: 226 5th Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "544938122",
+    "name": "Clear PH Design",
+    "description": "Advertising Agencies",
+    "phone": "(727) 823-5333",
+    "address": "street: 327 11th Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "567269100",
+    "name": "Paradise Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(727) 821-5155",
+    "address": "street: 5999 Central Ave location: Saint Petersburg, FL 33710"
+  },
+  {
+    "dataYpid": "550406726",
+    "name": "Advantage Indoor Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 800-2600",
+    "address": "street: 6100 Central Ave location: Saint Petersburg, FL 33707"
+  },
+  {
+    "dataYpid": "475194731",
+    "name": "Midvale",
+    "description": "Advertising Agencies",
+    "phone": "(727) 498-6489",
+    "address": "street: 3158 24th Ave N location: Saint Petersburg, FL 33713"
+  },
+  {
+    "dataYpid": "7493053",
+    "name": "Dailey Communications",
+    "description": "Advertising Agencies",
+    "phone": "(727) 896-4477",
+    "address": "street: 323 2nd St N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "551412365",
+    "name": "Castnet Media",
+    "description": "Advertising Agencies",
+    "phone": "(727) 892-2391",
+    "address": "street: 490 1st Ave S location: St Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "539001377",
+    "name": "Craft Brands",
+    "description": "Advertising Agencies",
+    "phone": "(239) 691-0561",
+    "address": "street: P.O. Box 12825 location: St. Petersburg, FL 33733"
+  },
+  {
+    "dataYpid": "575358257",
+    "name": "Empathy First Media",
+    "description": "Advertising Agencies",
+    "phone": "(727) 291-7384",
+    "address": "street: 260 1st Ave S Ste 166 location: St Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "556508889",
+    "name": "Carroway Rose",
+    "description": "Advertising Agencies",
+    "phone": "(843) 501-9128",
+    "address": "street: 260 1st Ave S location: St. Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "568231731",
+    "name": "Latitude Park",
+    "description": "Advertising Agencies",
+    "phone": "(727) 580-7521",
+    "address": "street: 260 1st Ave S Ste 200-25 location: St Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "573538416",
+    "name": "Allegrow",
+    "description": "Advertising Agencies",
+    "phone": "(727) 513-0020",
+    "address": "street: 360 Central Ave Ste 800 location: St Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "546589838",
+    "name": "Beach Lion Studios",
+    "description": "Advertising Agencies",
+    "phone": "(727) 207-1108",
+    "address": "street: 433 Central Ave Suite 212 location: St Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "561384605",
+    "name": "Automationlinks",
+    "description": "Advertising Agencies",
+    "phone": "(727) 888-5855",
+    "address": "street: 4638 Gulf Blvd location: St Pete Beach, FL 33706"
+  },
+  {
+    "dataYpid": "462381092",
+    "name": "Creative Warehouse 2 Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 367-1400",
+    "address": "street: 249 Corey Ave location: St Pete Beach, FL 33706"
+  },
+  {
+    "dataYpid": "470267434",
+    "name": "Cw2 Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 367-1400",
+    "address": "street: 249 Corey Ave location: St Pete Beach, FL 33706"
+  },
+  {
+    "dataYpid": "6650146",
+    "name": "Lino & Associates Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 384-3700",
+    "address": "street: 6515 1st Ave S location: Saint Petersburg, FL 33707"
+  },
+  {
+    "dataYpid": "8883885",
+    "name": "Guckenberger'n Partners",
+    "description": "Advertising Agencies",
+    "phone": "(813) 963-1309",
+    "address": "street: 235 Central Ave location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "3425655",
+    "name": "Roma Television Group",
+    "description": "Advertising Agencies",
+    "phone": "(727) 823-5500",
+    "address": "street: 469 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "454867814",
+    "name": "Bumpads Services Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 803-1490",
+    "address": "street: 111 2nd Ave N location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "13902012",
+    "name": "Image Production",
+    "description": "Advertising Agencies",
+    "phone": "(727) 823-8909",
+    "address": "street: 150 22nd St S location: Saint Petersburg, FL 33712"
+  },
+  {
+    "dataYpid": "480739461",
+    "name": "Reardon Killion Communications",
+    "description": "Advertising Agencies",
+    "phone": "(727) 896-3435",
+    "address": "street: 650 2nd Ave S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "472024192",
+    "name": "Truefire Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 898-8866",
+    "address": "street: 100 7th St S location: Saint Petersburg, FL 33701"
+  },
+  {
+    "dataYpid": "470100736",
+    "name": "Sunshine Design Studio",
+    "description": "Advertising Agencies",
+    "phone": "(727) 424-8388",
+    "address": "street: 25th 26th Street Ct N location: Saint Petersburg, FL 33714"
+  },
+  {
+    "dataYpid": "475791556",
+    "name": "T F Ward Market Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(727) 895-7424",
+    "address": "street: 3031 2nd St N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "dataYpid": "559437068",
+    "name": "Alpha Bay Media",
+    "description": "Advertising Agencies",
+    "phone": "(727) 353-8427",
+    "address": "street: 8017 13th Ave S location: Saint Petersburg, FL 33707"
+  },
+  {
+    "dataYpid": "8232305",
+    "name": "Advertising & Marketing Spec",
+    "description": "Advertising Agencies",
+    "phone": "(727) 527-6419",
+    "address": "street: 4906 33rd Ave N location: Saint Petersburg, FL 33710"
+  },
+  {
+    "dataYpid": "530063176",
+    "name": "Sales Up Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(727) 755-3614",
+    "address": "street: 204 37th Ave N location: Saint Petersburg, FL 33704"
+  },
+  {
+    "dataYpid": "20625531",
+    "name": "FHB Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 281-4670",
+    "address": "street: 3001 N Rocky Point Dr location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "28750494",
+    "name": "Metropolitan Advertising Co",
+    "description": "Advertising Agencies",
+    "phone": "(813) 876-4107",
+    "address": "street: 624 S Macdill Ave location: Tampa, FL 33609"
+  },
+  {
+    "dataYpid": "473021206",
+    "name": "Shaker Advertising Agen",
+    "description": "Advertising Agencies",
+    "phone": "(813) 288-6970",
+    "address": "street: 1408 N West Shore Blvd location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "451700296",
+    "name": "Jay Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 639-4252",
+    "address": "street: 2202 N West Shore Blvd location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "481221753",
+    "name": "Resseguie Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 642-0606",
+    "address": "street: 2203 N Creek Ct location: Sun City Center, FL 33573"
+  },
+  {
+    "dataYpid": "1570194",
+    "name": "Ralph Chancey Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 870-6396",
+    "address": "street: 3302 W Cypress St location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "453294069",
+    "name": "Metropolitan Advertising Co",
+    "description": "Outdoor Advertising",
+    "phone": "(813) 870-2300",
+    "address": "street: 1315 N Himes Ave location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "534515264",
+    "name": "Advluence Advertising Influence",
+    "description": "Advertising Agencies",
+    "phone": "(813) 254-1500",
+    "address": "street: 1910 W Platt St location: Tampa, FL 33606"
+  },
+  {
+    "dataYpid": "505224087",
+    "name": "Metropolitan Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(813) 877-3200",
+    "address": "street: 3420 W La Salle St location: Tampa, FL 33607"
+  },
+  {
+    "dataYpid": "459989758",
+    "name": "A Better Reality Advertising",
+    "description": "Management Consultants",
+    "phone": "(941) 932-8006",
+    "address": "street: 1100 Dartmouth Dr location: Bradenton, FL 34207"
+  },
+  {
+    "dataYpid": "467622089",
+    "name": "Carter & Company Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 254-1633",
+    "address": "street: 606 S Boulevard location: Tampa, FL 33606"
+  },
+  {
+    "dataYpid": "542741084",
+    "name": "Reel Deal Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(877) 899-7865",
+    "address": "street: 6728 26th St W location: Bradenton, FL 34207"
+  },
+  {
+    "dataYpid": "553761013",
+    "name": "Logan Outdoor Advertising, Inc",
+    "description": "Outdoor Advertising",
+    "phone": "(813) 253-3367",
+    "address": "street: 1716 W Lemon St location: Tampa, FL 33606"
+  },
+  {
+    "dataYpid": "458593277",
+    "name": "Logan Outdoor Advertising Inc",
+    "description": "Transit Advertising",
+    "phone": "(813) 253-3367",
+    "address": "street: 1200 W Cass St location: Tampa, FL 33606"
+  },
+  {
+    "dataYpid": "528927303",
+    "name": "DeAngelis Advertising - Multiple Markets USA",
+    "description": "Advertising Agencies",
+    "phone": "(800) 318-5047",
+    "address": "street: 100 S Ashley Dr Ste 600 location: Tampa, FL 33602"
+  },
+  {
+    "dataYpid": "552276207",
+    "name": "JFD Advertising & Public",
+    "description": "Advertising Agencies",
+    "phone": "(813) 223-4545",
+    "address": "street: 412 E Madison St location: Tampa, FL 33602"
+  },
+  {
+    "dataYpid": "543352778",
+    "name": "Rooks Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 747-2021",
+    "address": "street: 6170 State Road 70 E location: Bradenton, FL 34203"
+  },
+  {
+    "dataYpid": "482439330",
+    "name": "Ad Exact Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 777-7701",
+    "address": "street: 11015 Gatewood Dr location: Bradenton, FL 34211"
+  },
+  {
+    "dataYpid": "543918891",
+    "name": "Integrity Advertising Works",
+    "description": "Screen Printing-Equipment & Supplies",
+    "phone": "(813) 237-6473",
+    "address": "street: 4719 N Thatcher Ave location: Tampa, FL 33614"
+  },
+  {
+    "dataYpid": "469518774",
+    "name": "Signal Outdoor Advertising Tampa Bay",
+    "description": "Outdoor Advertising",
+    "phone": "(813) 249-6309",
+    "address": "street: 6011 Benjamin Rd location: Tampa, FL 33634"
+  },
+  {
+    "dataYpid": "472928684",
+    "name": "Phoenix Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(813) 642-0002",
+    "address": "street: 11542 Sumner Rd location: Wimauma, FL 33598"
+  },
+  {
+    "dataYpid": "29215438",
+    "name": "Doner Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(813) 741-9967",
+    "address": "street: 8303 Moccasin Trail Dr location: Riverview, FL 33578"
+  },
+  {
+    "dataYpid": "540909187",
+    "name": "McKay Advertising + Activation",
+    "description": "Advertising Agencies",
+    "phone": "(813) 498-0376",
+    "address": "street: 1517 E 7th Ave Ste F location: Tampa, FL 33605"
+  },
+  {
+    "dataYpid": "462417193",
+    "name": "Glass Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 351-4516",
+    "address": "street: 8051 N Tamiami Trl location: Sarasota, FL 34243"
+  },
+  {
+    "dataYpid": "483869468",
+    "name": "J & M Advertising",
+    "description": "Direct Mail Advertising",
+    "phone": "(727) 451-6510",
+    "address": "street: 13618 W Hillsborough Ave location: Tampa, FL 33635"
+  },
+  {
+    "dataYpid": "8791438",
+    "name": "A Direct Advertising Specialty Company",
+    "description": "Advertising Agencies",
+    "phone": "(813) 221-3000",
+    "address": "street: N/A location: Tampa, FL 33602"
+  },
+  {
+    "dataYpid": "484581712",
+    "name": "Metropolitan Advertising Com",
+    "description": "N/A",
+    "phone": "(813) 876-8125",
+    "address": "street: 3014 W Horatio St location: Tampa, FL 33609"
+  },
+  {
+    "dataYpid": "476320593",
+    "name": "Polished Advertising",
+    "description": "N/A",
+    "phone": "(813) 639-7591",
+    "address": "street: 2202 N West Shore Blvd Fl 33614 location: Tampa, FL 33614"
+  },
+  {
+    "dataYpid": "530731035",
+    "name": "Glass Advertising",
+    "description": "N/A",
+    "phone": "(941) 723-2523",
+    "address": "street: 1414 69th Ave W location: Bradenton, FL 34207"
+  },
+  {
+    "dataYpid": "28855550",
+    "name": "Shaw Advertising Design",
+    "description": "Advertising Agencies",
+    "phone": "(813) 254-6202",
+    "address": "street: 709 W Bay St location: Tampa, FL 33606"
+  },
+  {
+    "dataYpid": "534713291",
+    "name": "Big Nerd Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(844) 637-3439",
+    "address": "street: 11300 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33716"
+  },
+  {
+    "dataYpid": "12228201",
+    "name": "Tampa Bay Interconnect",
+    "description": "Advertising Agencies",
+    "phone": "(727) 578-2662",
+    "address": "street: 11500 Dr Martin Luther King Jr St N location: Saint Petersburg, FL 33716"
+  },
+  {
+    "dataYpid": "29466759",
+    "name": "Fleming Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 374-6845",
+    "address": "street: 167 114th Ave NE location: Saint Petersburg, FL 33716"
+  },
+  {
+    "dataYpid": "479272534",
+    "name": "First Advantage",
+    "description": "Advertising Agencies",
+    "phone": "(727) 290-1000",
+    "address": "street: 140 Fountain Pkwy N Ste 140 location: Saint Petersburg, FL 33716"
+  },
+  {
+    "dataYpid": "534417052",
+    "name": "Wescat, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(813) 559-0921",
+    "address": "street: 8915 Laurel Dr N location: Pinellas Park, FL 33782"
+  },
+  {
+    "dataYpid": "453333210",
+    "name": "The E Factory",
+    "description": "Advertising Agencies",
+    "phone": "(727) 319-4459",
+    "address": "street: 10575 68th Ave location: Seminole, FL 33772"
+  },
+  {
+    "dataYpid": "2389563",
+    "name": "America Ii Group",
+    "description": "Advertising Agencies",
+    "phone": "(727) 541-4739",
+    "address": "street: 5899 117th Ave N location: Pinellas Park, FL 33782"
+  },
+  {
+    "dataYpid": "29355904",
+    "name": "Exceltech Of Pinellas Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 397-1769",
+    "address": "street: 9405 94th St location: Seminole, FL 33777"
+  },
+  {
+    "dataYpid": "571529342",
+    "name": "Slwm",
+    "description": "Advertising Agencies",
+    "phone": "(727) 531-1112",
+    "address": "street: 12161 62nd St location: Largo, FL 33773"
+  },
+  {
+    "dataYpid": "469820853",
+    "name": "Ts Concepts Group",
+    "description": "Advertising Agencies",
+    "phone": "(727) 369-8060",
+    "address": "street: 8666 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "dataYpid": "6454166",
+    "name": "A -Direct Advertising Specialty Company",
+    "description": "Advertising Agencies",
+    "phone": "(727) 398-1000",
+    "address": "street: 8950 Seminole Blvd location: Seminole, FL 33772"
+  },
+  {
+    "dataYpid": "573350961",
+    "name": "GO Agency Digital Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(813) 790-5909",
+    "address": "street: 2655 Ulmerton Rd Ste 219 location: Clearwater, FL 33762"
+  },
+  {
+    "dataYpid": "2379141",
+    "name": "The Mallard Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 572-4665",
+    "address": "street: 2861 Executive Dr location: Clearwater, FL 33762"
+  },
+  {
+    "dataYpid": "550631808",
+    "name": "Publications Nep",
+    "description": "Advertising Agencies",
+    "phone": "(727) 289-5563",
+    "address": "street: 4908 Creekside Dr location: Clearwater, FL 33760"
+  },
+  {
+    "dataYpid": "28812054",
+    "name": "Rick Crosby & Associates",
+    "description": "Advertising Agencies",
+    "phone": "(727) 535-1338",
+    "address": "street: 12360 66th St location: Largo, FL 33773"
+  },
+  {
+    "dataYpid": "571808325",
+    "name": "iHeartMedia",
+    "description": "Advertising Agencies",
+    "phone": "(813) 832-1000",
+    "address": "street: 13577 Feather Sound Dr location: Clearwater, FL 33762"
+  },
+  {
+    "dataYpid": "575411185",
+    "name": "Ads and Funnels",
+    "description": "Advertising Agencies",
+    "phone": "(727) 280-5912",
+    "address": "street: 12700 66th St Apt 2325 location: Largo, FL 33773"
+  },
+  {
+    "dataYpid": "482918251",
+    "name": "Mail Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(727) 556-2500",
+    "address": "street: 12405 73rd Ct location: Largo, FL 33773"
+  },
+  {
+    "dataYpid": "13128668",
+    "name": "Octane Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(727) 538-8606",
+    "address": "street: 4500 140th Ave N location: Clearwater, FL 33762"
+  },
+  {
+    "dataYpid": "739036",
+    "name": "Tri Ed Distribution",
+    "description": "Advertising Agencies",
+    "phone": "(727) 530-3902",
+    "address": "street: 4600 140th Ave N Ste 220 location: Clearwater, FL 33762"
+  },
+  {
+    "dataYpid": "460708777",
+    "name": "Media Impact Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 536-3342",
+    "address": "street: 13825 Icot Blvd location: Clearwater, FL 33760"
+  },
+  {
+    "dataYpid": "547659458",
+    "name": "My Marketing Department, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 888-1200",
+    "address": "street: 7777 131st St Ste 9 location: Seminole, FL 33776"
+  },
+  {
+    "dataYpid": "482787534",
+    "name": "Southeast Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 530-1603",
+    "address": "street: 14001 63rd Way N location: Clearwater, FL 33760"
+  },
+  {
+    "dataYpid": "8296097",
+    "name": "Amico Treasure Island Holdings",
+    "description": "Advertising Agencies",
+    "phone": "(727) 538-2069",
+    "address": "street: 14001 63rd Way N location: Clearwater, FL 33760"
+  },
+  {
+    "dataYpid": "481148938",
+    "name": "Direct Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(727) 524-7600",
+    "address": "street: 12530 Enterprise Blvd location: Largo, FL 33773"
+  },
+  {
+    "dataYpid": "470402908",
+    "name": "Miraclemedia",
+    "description": "Advertising Agencies",
+    "phone": "(727) 397-3817",
+    "address": "street: 13800 Park Blvd location: Seminole, FL 33776"
+  },
+  {
+    "dataYpid": "464279527",
+    "name": "JMK Solutions Inc",
+    "description": "Advertising Agencies",
+    "phone": "(727) 595-7613",
+    "address": "street: 13790 87th Pl location: Seminole, FL 33776"
+  },
+  {
+    "dataYpid": "563806448",
+    "name": "Blue Atlas Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(855) 755-6225",
+    "address": "street: 13721 88th Ave location: Seminole, FL 33776"
+  },
+  {
+    "dataYpid": "456316420",
+    "name": "Business Growth Solutions Of Florida",
+    "description": "Advertising Agencies",
+    "phone": "(727) 581-6314",
+    "address": "street: 12945 Seminole Blvd location: Largo, FL 33778"
+  },
+  {
+    "dataYpid": "563841357",
+    "name": "Fly High Business Builders",
+    "description": "Advertising Agencies",
+    "phone": "(866) 359-3422",
+    "address": "street: 10225 Ulmerton Rd location: Largo, FL 33771"
+  }
+]

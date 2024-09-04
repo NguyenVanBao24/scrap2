@@ -1,0 +1,632 @@
+[
+  {
+    "dataYpid": "575038370",
+    "name": "Fable Heart Media",
+    "description": "Advertising Agencies",
+    "phone": "(904) 479-1472",
+    "address": "street: 255 Rivertown Shops Dr Ste 102 PMB 126 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "506170512",
+    "name": "Creative Ad Design Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 696-2391",
+    "address": "street: 627 Rothmoor Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "576017241",
+    "name": "Chalmers Advertising & Design",
+    "description": "Advertising Agencies",
+    "phone": "(772) 334-7744",
+    "address": "street: 188 Leese Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "472814902",
+    "name": "Xsite Digital, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(904) 477-3667",
+    "address": "street: 549 Dandelion Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "5363546",
+    "name": "Media Pros",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-7916",
+    "address": "street: 297 Bell Branch Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "464236923",
+    "name": "Centerstage Productions Video",
+    "description": "Advertising Agencies",
+    "phone": "(904) 996-0066",
+    "address": "street: 505 Tupelo Trce location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "483954704",
+    "name": "Signal Staff",
+    "description": "Advertising Agencies",
+    "phone": "(904) 770-2185",
+    "address": "street: 609 Grand Parke Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "464325547",
+    "name": "Creative Marketing Concpets",
+    "description": "Advertising Agencies",
+    "phone": "(904) 347-3088",
+    "address": "street: 2220 County Road 210 W location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "16954116",
+    "name": "Smart Card Co",
+    "description": "Advertising Agencies",
+    "phone": "(904) 374-5188",
+    "address": "street: 865 S Black Cherry Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "470263701",
+    "name": "DRIVEN2WIN",
+    "description": "Advertising Agencies",
+    "phone": "(904) 638-7200",
+    "address": "street: 450 State Road 13 Ste 106 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "468334744",
+    "name": "Merkley Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(904) 217-3430",
+    "address": "street: 357 Maplewood Dr location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "457412016",
+    "name": "Print-A-Shirt custom t-shirts of Jacksonville",
+    "description": "T-Shirts",
+    "phone": "(904) 297-8337",
+    "address": "street: 726 State Road 13 location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "550308830",
+    "name": "BEST VIEW SIGNS INC",
+    "description": "Signs",
+    "phone": "(779) 435-9161",
+    "address": "street: 1194 Eagle Bluff Ln location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "567292818",
+    "name": "Sundancer Sign Graphics Inc",
+    "description": "Signs",
+    "phone": "(904) 287-4949",
+    "address": "street: 1216 Creek Bend Rd location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "15140105",
+    "name": "Howell Signs",
+    "description": "Signs",
+    "phone": "(904) 287-7549",
+    "address": "street: 430 Fruit Cove Rd location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "553692978",
+    "name": "Lists",
+    "description": "Mailing Lists",
+    "phone": "(904) 660-0596",
+    "address": "street: 1820 State Road 13 N location: Saint Johns, FL 32259"
+  },
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "562108234",
+    "name": "Designasaur",
+    "description": "Advertising Agencies",
+    "phone": "(817) 442-5353",
+    "address": "street: 320 Glenneyre Cir location: Saint Augustine, FL 32092"
+  },
+  {
+    "dataYpid": "540877435",
+    "name": "Webamity",
+    "description": "Advertising Agencies",
+    "phone": "(904) 463-5138",
+    "address": "street: N/A location: Jacksonville, FL 32210"
+  },
+  {
+    "dataYpid": "465692857",
+    "name": "Connelly, Stephen A",
+    "description": "Advertising Agencies",
+    "phone": "(904) 731-8900",
+    "address": "street: N/A location: Jacksonville, FL 32217"
+  },
+  {
+    "dataYpid": "528910267",
+    "name": "AntonWest Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(904) 701-4140",
+    "address": "street: N/A location: Jacksonville, FL 32207"
+  },
+  {
+    "dataYpid": "548192327",
+    "name": "Running Suit Guy Promotions Inc",
+    "description": "Advertising Agencies",
+    "phone": "(516) 650-5600",
+    "address": "street: N/A location: Jacksonville, FL 32256"
+  },
+  {
+    "dataYpid": "12193992",
+    "name": "Robin Shepherd Public Relation",
+    "description": "Advertising Agencies",
+    "phone": "(904) 359-0981",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "465252554",
+    "name": "Skylifepromo",
+    "description": "Advertising Agencies",
+    "phone": "(904) 642-6671",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "575718595",
+    "name": "Timber Wolf Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(904) 440-1911",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "483344900",
+    "name": "Jax Media Team",
+    "description": "Advertising Agencies",
+    "phone": "(904) 253-3205",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "503141054",
+    "name": "GoSocial Media",
+    "description": "Advertising Agencies",
+    "phone": "(888) 980-9043",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "536566171",
+    "name": "RevLocal",
+    "description": "Advertising Agencies",
+    "phone": "(904) 406-3901",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "473454186",
+    "name": "A-Kool Distribution Company",
+    "description": "Advertising Agencies",
+    "phone": "(904) 783-3633",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "480919510",
+    "name": "Atlantic Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(904) 223-8774",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "15435396",
+    "name": "Powers Creative Inc",
+    "description": "Advertising Agencies",
+    "phone": "(904) 387-9990",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "479999012",
+    "name": "River City Distribution, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(904) 370-3723",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "575050909",
+    "name": "MainStreet BOOST",
+    "description": "Advertising Agencies",
+    "phone": "(904) 606-6030",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "457971916",
+    "name": "Trios Creative",
+    "description": "Advertising Agencies",
+    "phone": "(904) 396-9533",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "457883271",
+    "name": "Twidget Media Marketing service",
+    "description": "Advertising Agencies",
+    "phone": "(904) 803-9640",
+    "address": "street: N/A location: Jacksonville, FL 32216"
+  },
+  {
+    "dataYpid": "481242546",
+    "name": "LogoMaid",
+    "description": "Advertising Agencies",
+    "phone": "(904) 399-8846",
+    "address": "street: N/A location: Jacksonville, FL 32207"
+  },
+  {
+    "dataYpid": "545003517",
+    "name": "North Florida Design",
+    "description": "Advertising Agencies",
+    "phone": "(904) 673-0864",
+    "address": "street: N/A location: Jacksonville, FL 32202"
+  },
+  {
+    "dataYpid": "575839040",
+    "name": "J2911 Digital Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(904) 664-1210",
+    "address": "street: N/A location: Jacksonville, FL 32207"
+  },
+  {
+    "dataYpid": "462509523",
+    "name": "A Leopard Spots Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(904) 536-2800",
+    "address": "street: N/A location: Jacksonville, FL 32211"
+  },
+  {
+    "dataYpid": "548581145",
+    "name": "Winston and Murphy Consulting",
+    "description": "Advertising Agencies",
+    "phone": "(302) 448-5564",
+    "address": "street: N/A location: Jacksonville, FL 32258"
+  },
+  {
+    "dataYpid": "558673064",
+    "name": "Grindstone Design",
+    "description": "Advertising Agencies",
+    "phone": "(904) 608-8534",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "525981558",
+    "name": "Beach Banners",
+    "description": "Aerial Photographers",
+    "phone": "(904) 642-0721",
+    "address": "street: N/A location: Jacksonville, FL 32225"
+  },
+  {
+    "dataYpid": "454038950",
+    "name": "NDA Solutions",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 469-8558",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "16565223",
+    "name": "SIGN-A-RAMA",
+    "description": "Signs-Erectors & Hangers",
+    "phone": "(904) 292-1104",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "15383712",
+    "name": "Signs Of All Kinds",
+    "description": "Signs",
+    "phone": "(904) 300-3665",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "462489158",
+    "name": "Performance Internet Group",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 469-0444",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "14847748",
+    "name": "Embroidery Authority",
+    "description": "Embroidery",
+    "phone": "(904) 343-3311",
+    "address": "street: 391 S Hampton Club Way location: Saint Augustine, FL 32092"
+  },
+  {
+    "dataYpid": "481439303",
+    "name": "Victory Graphics Sign Co",
+    "description": "Signs",
+    "phone": "(904) 210-6579",
+    "address": "street: 7146 Tarpon Ct location: Fleming Island, FL 32003"
+  },
+  {
+    "dataYpid": "10631648",
+    "name": "Tri-C Promotions",
+    "description": "Computer Graphics",
+    "phone": "(904) 262-6280",
+    "address": "street: N/A location: Jacksonville, FL 32223"
+  },
+  {
+    "dataYpid": "460683816",
+    "name": "CTR Impressions",
+    "description": "Gift Baskets",
+    "phone": "(904) 371-2036",
+    "address": "street: N/A location: Jacksonville, FL 32246"
+  },
+  {
+    "dataYpid": "505149290",
+    "name": "enCode",
+    "description": "Incentive Programs",
+    "phone": "(904) 501-3042",
+    "address": "street: Po Box 600534 location: Jacksonville, FL 32260"
+  },
+  {
+    "dataYpid": "19279053",
+    "name": "Millennium Technology Resources",
+    "description": "Internet Consultants",
+    "phone": "(904) 733-1447",
+    "address": "street: N/A location: Jacksonville, FL 32257"
+  },
+  {
+    "dataYpid": "467911211",
+    "name": "a Jax Small Biz",
+    "description": "Internet Consultants",
+    "phone": "(904) 437-0888",
+    "address": "street: N/A location: Jacksonville, FL 32210"
+  },
+  {
+    "dataYpid": "496120702",
+    "name": "DesignLoad",
+    "description": "Web Site Design & Services",
+    "phone": "(904) 399-8846",
+    "address": "street: N/A location: Jacksonville, FL 32207"
+  },
+  {
+    "dataYpid": "574725243",
+    "name": "Paypercallus",
+    "description": "Advertising Specialties",
+    "phone": "(630) 936-7112",
+    "address": "street: 185 Celtic Wedding Dr location: Jacksonville, FL 32259"
+  },
+  {
+    "dataYpid": "469724686",
+    "name": "HexKeyIT",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 638-1070",
+    "address": "street: N/A location: Jacksonville, FL 32256"
+  },
+  {
+    "dataYpid": "470127228",
+    "name": "Work from Home DBG",
+    "description": "Home Centers",
+    "phone": "(904) 654-1740",
+    "address": "street: N/A location: Jacksonville, FL 32246"
+  },
+  {
+    "dataYpid": "575289836",
+    "name": "ACM Digital Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(904) 274-1135",
+    "address": "street: N/A location: Jacksonville, FL 32225"
+  },
+  {
+    "dataYpid": "19572183",
+    "name": "G. Wooden Printing",
+    "description": "Business Cards",
+    "phone": "(904) 705-8090",
+    "address": "street: N/A location: Jacksonville, FL 32218"
+  },
+  {
+    "dataYpid": "457885817",
+    "name": "Original Car Decals",
+    "description": "Automobile Accessories",
+    "phone": "(904) 469-7151",
+    "address": "street: N/A location: Jacksonville, FL 32225"
+  },
+  {
+    "dataYpid": "461582109",
+    "name": "SignMeUp Graphics Inc.",
+    "description": "Business Cards",
+    "phone": "(904) 322-3228",
+    "address": "street: N/A location: Jacksonville, FL 32277"
+  },
+  {
+    "dataYpid": "464586012",
+    "name": "MR. Graphics",
+    "description": "Advertising-Promotional Products",
+    "phone": "(904) 200-5001",
+    "address": "street: N/A location: Jacksonville, FL 32244"
+  },
+  {
+    "dataYpid": "465490305",
+    "name": "Graphic by Anthony",
+    "description": "Graphic Designers",
+    "phone": "(904) 257-3621",
+    "address": "street: N/A location: Jacksonville, FL 32220"
+  },
+  {
+    "dataYpid": "457411841",
+    "name": "Red Zephyr Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(704) 918-5733",
+    "address": "street: N/A location: Jacksonville, FL 32224"
+  },
+  {
+    "dataYpid": "468112384",
+    "name": "OptiSite.co LLC",
+    "description": "Internet Consultants",
+    "phone": "(904) 404-7484",
+    "address": "street: N/A location: Jacksonville, FL 32225"
+  },
+  {
+    "dataYpid": "468451291",
+    "name": "Synapsis Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 900-8959",
+    "address": "street: N/A location: Jacksonville, FL 32224"
+  },
+  {
+    "dataYpid": "482194362",
+    "name": "Full Ambit Media, LLC",
+    "description": "Internet Consultants",
+    "phone": "(800) 604-0625",
+    "address": "street: N/A location: Jacksonville, FL 32207"
+  },
+  {
+    "dataYpid": "533500064",
+    "name": "Optimization Nation",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 834-4814",
+    "address": "street: N/A location: Jacksonville, FL 32216"
+  },
+  {
+    "dataYpid": "549165162",
+    "name": "Bright Green Path Web Solutions",
+    "description": "Web Site Design & Services",
+    "phone": "(904) 502-4627",
+    "address": "street: N/A location: Jacksonville, FL 32254"
+  },
+  {
+    "dataYpid": "473980060",
+    "name": "Extreme Tint & Graphics",
+    "description": "Signs",
+    "phone": "(904) 813-1770",
+    "address": "street: N/A location: Jacksonville, FL 32218"
+  },
+  {
+    "dataYpid": "4294558",
+    "name": "M M Grinnan",
+    "description": "T-Shirts",
+    "phone": "(904) 260-2686",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "2642672",
+    "name": "Signs Plus",
+    "description": "Signs",
+    "phone": "(904) 854-1414",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "168007",
+    "name": "Mr Anderson's EBookStore",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 743-7205",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "22037774",
+    "name": "Visual Cove",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 468-7770",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "252820",
+    "name": "J. Lacey Designs",
+    "description": "Animation Services",
+    "phone": "(904) 860-3309",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "468326441",
+    "name": "WebMotion",
+    "description": "Internet Consultants",
+    "phone": "(904) 477-2237",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "22842649",
+    "name": "1 Americas Promotions Custom Promotional Products and Promo Items",
+    "description": "T-Shirts",
+    "phone": "(904) 520-4496",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "22842652",
+    "name": "1 Custom Embroidery Factory Jacksonville",
+    "description": "T-Shirts",
+    "phone": "(904) 520-4498",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "465215978",
+    "name": "free cash daily investment",
+    "description": "Marketing Programs & Services",
+    "phone": "(904) 325-6437",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "526367115",
+    "name": "Jacksonville Direct Mail Marketing",
+    "description": "Direct Mail Advertising",
+    "phone": "(904) 330-4082",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "22351004",
+    "name": "Mygani Design Studio",
+    "description": "Graphic Designers",
+    "phone": "(904) 860-8440",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "467176727",
+    "name": "Urban Websites",
+    "description": "Internet Consultants",
+    "phone": "(800) 718-8020",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "479824224",
+    "name": "Surf Core",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 729-2207",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "562525860",
+    "name": "Web Scholars",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(215) 808-0641",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "16960101",
+    "name": "Signshark Sign Service",
+    "description": "Signs",
+    "phone": "(904) 766-9588",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "18072776",
+    "name": "Twomey Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(904) 641-1766",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "456841200",
+    "name": "Clear View Signs Inc",
+    "description": "Signs-Erectors & Hangers",
+    "phone": "(904) 879-0752",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "474188018",
+    "name": "Twomey Associates",
+    "description": "Advertising Specialties",
+    "phone": "(904) 641-1766",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "513693489",
+    "name": "Graphics Garage",
+    "description": "Graphic Designers",
+    "phone": "(904) 910-7924",
+    "address": "street: N/A location: N/A"
+  }
+]

@@ -1,0 +1,940 @@
+[
+  {
+    "dataYpid": "23041802",
+    "name": "Wide Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 518-9712",
+    "address": "street: 1700 Kelley Ave location: Kissimmee, FL 34744"
+  },
+  {
+    "dataYpid": "2012588",
+    "name": "Advertising Mania",
+    "description": "Advertising Specialties",
+    "phone": "(407) 846-1655",
+    "address": "street: 1124 E Donegan Ave location: Kissimmee, FL 34744"
+  },
+  {
+    "dataYpid": "533071505",
+    "name": "Kempf; Affordable Advertising",
+    "description": "Marketing Consultants",
+    "phone": "(407) 390-0690",
+    "address": "street: 3217 Running Bear Way location: Kissimmee, FL 34746"
+  },
+  {
+    "dataYpid": "530879324",
+    "name": "Advertising Mania",
+    "description": "Advertising Agencies",
+    "phone": "(407) 846-2558",
+    "address": "street: 2580 Partin Settlement Rd location: Kissimmee, FL 34744"
+  },
+  {
+    "dataYpid": "543433367",
+    "name": "Affordable Advertising Kempf",
+    "description": "Advertising Agencies",
+    "phone": "(407) 239-1105",
+    "address": "street: 5300 W Irlo Bronson Memorial Hwy location: Kissimmee, FL 34746"
+  },
+  {
+    "dataYpid": "467292032",
+    "name": "The Buzz Advertising Inc - CLOSED",
+    "description": "Print Advertising",
+    "phone": "N/A",
+    "address": "street: 3603 Commerce Blvd location: Kissimmee, FL 34741"
+  },
+  {
+    "dataYpid": "561638977",
+    "name": "Vantage Advertising Trade Show",
+    "description": "Advertising Agencies",
+    "phone": "(315) 350-3058",
+    "address": "street: 6000 W Osceola Pkwy location: Kissimmee, FL 34746"
+  },
+  {
+    "dataYpid": "28870154",
+    "name": "Dabbs Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 240-7096",
+    "address": "street: 2714 Lone Feather Dr location: Orlando, FL 32837"
+  },
+  {
+    "dataYpid": "5975883",
+    "name": "Advertising and Classified",
+    "description": "Advertising Specialties",
+    "phone": "(407) 891-0662",
+    "address": "street: 1102 Pennsylvania Ave location: Saint Cloud, FL 34769"
+  },
+  {
+    "dataYpid": "8158619",
+    "name": "Signal Outdoor Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 856-7079",
+    "address": "street: 7616 Southland Blvd Ste 114 location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "552004178",
+    "name": "Advertising Mania Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 846-1655",
+    "address": "street: 1050 Dean St location: Saint Cloud, FL 34771"
+  },
+  {
+    "dataYpid": "466839560",
+    "name": "Advertising Mania 2",
+    "description": "Advertising Specialties",
+    "phone": "(407) 498-0505",
+    "address": "street: 1420 S Narcoossee Rd location: Saint Cloud, FL 34771"
+  },
+  {
+    "dataYpid": "480208148",
+    "name": "Global Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 203-5812",
+    "address": "street: 1707 Orlando Central Pkwy Ste 430 location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "545303980",
+    "name": "Kempf; Affordable Advertising",
+    "description": "Marketing Consultants",
+    "phone": "(407) 390-0690",
+    "address": "street: 7208 W Sand Lake Rd Ste 305 location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "530920702",
+    "name": "Air Time Giant Balloon Advertising",
+    "description": "N/A",
+    "phone": "(407) 857-2787",
+    "address": "street: 5001 W Sand Lake Rd location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "561116379",
+    "name": "Maja Advertising Group Services",
+    "description": "N/A",
+    "phone": "(407) 272-4833",
+    "address": "street: 7130 S Orange Blossom Trl location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "469527774",
+    "name": "Bee Idea Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 351-3976",
+    "address": "street: 7250 S Kirkman Rd location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "474117126",
+    "name": "Quantum Leap Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 396-6300",
+    "address": "street: 7901 Kingspointe Pkwy Ste 17 location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "229159",
+    "name": "BMP Advertising",
+    "description": "Television Stations & Broadcast Companies",
+    "phone": "(866) 996-2673",
+    "address": "street: 1650 Sand Lake Rd Ste 301 location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "458729150",
+    "name": "Florida Legal Advertising Inc",
+    "description": "Legal Forms",
+    "phone": "(407) 286-0807",
+    "address": "street: 5728 Major Blvd Ste 610 location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "524494352",
+    "name": "Allure Advertising",
+    "description": "Product Design, Development & Marketing",
+    "phone": "(407) 719-4567",
+    "address": "street: 5517 Hansel Ave Ste B location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "513181852",
+    "name": "MakeSense Advertising",
+    "description": "Directory & Guide Advertising",
+    "phone": "(407) 255-2515",
+    "address": "street: 5027 Commander Dr location: Orlando, FL 32822"
+  },
+  {
+    "dataYpid": "531874312",
+    "name": "All the way up Advertising & Promotions",
+    "description": "Outdoor Advertising",
+    "phone": "(585) 448-6804",
+    "address": "street: 5969 Lee Vista Blvd location: Orlando, FL 32822"
+  },
+  {
+    "dataYpid": "9497034",
+    "name": "Radio Advertising 407-704-3271",
+    "description": "Entertainment Agencies & Bureaus",
+    "phone": "(407) 704-3282",
+    "address": "street: 5530 Chrishire Way location: Orlando, FL 32822"
+  },
+  {
+    "dataYpid": "29242798",
+    "name": "Astonish Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(321) 202-5949",
+    "address": "street: 5301 Rosegay Ct location: Orlando, FL 32811"
+  },
+  {
+    "dataYpid": "462509680",
+    "name": "Nationwide Newspapers Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 909-1644",
+    "address": "street: 5955 Masters Blvd location: Orlando, FL 32819"
+  },
+  {
+    "dataYpid": "479812554",
+    "name": "Advantage Advertising and Marketing",
+    "description": "Copy Writers",
+    "phone": "(407) 730-4172",
+    "address": "street: 5132 Dockside Dr location: Orlando, FL 32822"
+  },
+  {
+    "dataYpid": "572980204",
+    "name": "LED Truck Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 577-4175",
+    "address": "street: 400 Callawalk Ct location: Davenport, FL 33896"
+  },
+  {
+    "dataYpid": "331692",
+    "name": "Florida Newspaper Advertising Network",
+    "description": "Newspapers",
+    "phone": "(407) 420-6100",
+    "address": "street: 633 N Orange Ave location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "493044546",
+    "name": "Royall Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(407) 401-7479",
+    "address": "street: 14 E Washington St location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "542531251",
+    "name": "Advertising In Florida",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 675-3515",
+    "address": "street: 111 N Orange Ave, 8th Floor, Suite 800 location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "533941679",
+    "name": "Bright Rain Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 440-3017",
+    "address": "street: 733 W Smith St location: Orlando, FL 32804"
+  },
+  {
+    "dataYpid": "472444830",
+    "name": "Rcp Advertising & Marketing Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 578-5955",
+    "address": "street: 7849 Saint Andrews Cir location: Orlando, FL 32835"
+  },
+  {
+    "dataYpid": "4940024",
+    "name": "Higher Advertising & Pr Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 447-1340",
+    "address": "street: 30 S Magnolia Ave Ste 250 location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "464522386",
+    "name": "Creative Advertising Network",
+    "description": "Advertising Agencies",
+    "phone": "(407) 210-6566",
+    "address": "street: 301 E Pine St location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "481575665",
+    "name": "Dayner Hall Marketing & Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 206-1630",
+    "address": "street: 621 E Pine St location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "467824175",
+    "name": "VCI & Associates Advertising",
+    "description": "Vacation Time Sharing Plans",
+    "phone": "(866) 678-3204",
+    "address": "street: 37 N Orange Ave Ste 617 location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "503680221",
+    "name": "Aura Advertising and Modeling Agency",
+    "description": "Advertising Agencies",
+    "phone": "(321) 230-9751",
+    "address": "street: 37 N Orange Ave Ste 500 location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "495318865",
+    "name": "WHOISCARRUS Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 477-2528",
+    "address": "street: 416 N Ferncreek Ave Ste A location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "481262631",
+    "name": "CGS Advertising Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 316-8070",
+    "address": "street: 1212 Mount Vernon St location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "497611533",
+    "name": "Grand Design Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 599-0759",
+    "address": "street: 7516 Old Winter Garden Rd location: Orlando, FL 32835"
+  },
+  {
+    "dataYpid": "4196794",
+    "name": "Kelso Outdoor Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 648-7001",
+    "address": "street: 212 Pasadena Pl location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "4007874",
+    "name": "Jackson Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 849-9995",
+    "address": "street: 912 Highland Ave location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "472426104",
+    "name": "Central Florida Mobile Advertisement",
+    "description": "Advertising Specialties",
+    "phone": "(407) 883-3169",
+    "address": "street: 344 Canoe Trail Ln location: Orlando, FL 32825"
+  },
+  {
+    "dataYpid": "542663213",
+    "name": "Lamar Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 316-0036",
+    "address": "street: 1468 N Goldenrod Rd location: Orlando, FL 32807"
+  },
+  {
+    "dataYpid": "28949584",
+    "name": "Hudson Hill Design Advertising",
+    "description": "N/A",
+    "phone": "(407) 894-5747",
+    "address": "street: 2702 E Pine St location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "517504678",
+    "name": "Next Step Advertising Co",
+    "description": "N/A",
+    "phone": "(407) 902-3065",
+    "address": "street: 9730 Pleasance Cir location: Windermere, FL 34786"
+  },
+  {
+    "dataYpid": "533089464",
+    "name": "Royall Advertising",
+    "description": "N/A",
+    "phone": "(407) 401-7479",
+    "address": "street: 801 N Magnolia Ave location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "462393000",
+    "name": "JKR Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(321) 397-0777",
+    "address": "street: 1 S Orange Ave location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "461923612",
+    "name": "Push Button Productions-Radio Advertising",
+    "description": "Buttons-Advertising",
+    "phone": "(888) 494-7874",
+    "address": "street: 1 S Orange Ave Ste 306 location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "4807986",
+    "name": "United Advertising Agency Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 422-2818",
+    "address": "street: 612 N Orange Ave location: Orlando, FL 32801"
+  },
+  {
+    "dataYpid": "470493638",
+    "name": "The Group Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 898-2409",
+    "address": "street: 1221 N Mills Ave Suite B location: Orlando, FL 32803"
+  },
+  {
+    "dataYpid": "502139176",
+    "name": "Capstone Advertising, Inc.",
+    "description": "Advertising Specialties",
+    "phone": "(863) 225-3670",
+    "address": "street: 752 Lady Diana Dr location: Davenport, FL 33837"
+  },
+  {
+    "dataYpid": "461647870",
+    "name": "Maxmeda Outdoor Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 716-6547",
+    "address": "street: 847 Golfview Ter location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "480107634",
+    "name": "MP advertising.com",
+    "description": "Advertising Agencies",
+    "phone": "(407) 324-3255",
+    "address": "street: PO Box 3052 E. Jefferson Street location: Orlando, FL 32802"
+  },
+  {
+    "dataYpid": "10326219",
+    "name": "The Outdoor Advertising Specialists",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 272-4010",
+    "address": "street: 13350 W Colonial Dr Ste 330 location: Winter Garden, FL 34787"
+  },
+  {
+    "dataYpid": "464429658",
+    "name": "CGS Advertising Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 644-8070",
+    "address": "street: 2008 Natalen Rd location: Winter Park, FL 32792"
+  },
+  {
+    "dataYpid": "3663122",
+    "name": "Stalder Green Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 645-1113",
+    "address": "street: 1101 N Kentucky Ave location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "22828175",
+    "name": "Lawyers Group Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(321) 972-5620",
+    "address": "street: 2729 W Fairbanks Ave location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "551621268",
+    "name": "A Plus Advertisement and Body Rental",
+    "description": "Rental Service Stores & Yards",
+    "phone": "(407) 250-6397",
+    "address": "street: 10632 Jane Eyre Dr location: Orlando, FL 32825"
+  },
+  {
+    "dataYpid": "508771857",
+    "name": "A & A Advertising Specialties",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 381-5799",
+    "address": "street: 2414 Teton Stone Run location: Orlando, FL 32828"
+  },
+  {
+    "dataYpid": "13502181",
+    "name": "Continental Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 628-9988",
+    "address": "street: 2250 Lee Rd location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "478300954",
+    "name": "Lawyers Group Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(321) 972-5620",
+    "address": "street: 2431 Aloma Ave location: Winter Park, FL 32792"
+  },
+  {
+    "dataYpid": "531315976",
+    "name": "Maxmeda Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 716-6547",
+    "address": "street: 2431 Aloma Ave location: Winter Park, FL 32792"
+  },
+  {
+    "dataYpid": "464279695",
+    "name": "Jose Aldamuy Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 877-8451",
+    "address": "street: 102 W Story Rd location: Winter Garden, FL 34787"
+  },
+  {
+    "dataYpid": "571669647",
+    "name": "JKR Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(321) 397-0777",
+    "address": "street: 298 S Lake Destiny Dr location: Orlando, FL 32810"
+  },
+  {
+    "dataYpid": "453341715",
+    "name": "Stadler-Green Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 667-4800",
+    "address": "street: 1800 Pembrook Dr location: Orlando, FL 32810"
+  },
+  {
+    "dataYpid": "468515576",
+    "name": "Free Online Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(866) 238-5791",
+    "address": "street: 1875 Knight Ave location: Orlando, FL 32826"
+  },
+  {
+    "dataYpid": "28713704",
+    "name": "Frank Murphy Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 539-2771",
+    "address": "street: 9029 Lake Hope Dr location: Maitland, FL 32751"
+  },
+  {
+    "dataYpid": "505531394",
+    "name": "Jerry Defalco Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 661-3131",
+    "address": "street: 1060 Maitland Center Commons Blvd Ste 410 location: Maitland, FL 32751"
+  },
+  {
+    "dataYpid": "466776496",
+    "name": "Bernard Hodes Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 740-5002",
+    "address": "street: 1101 N Lake Destiny Rd Ste 300 location: Maitland, FL 32751"
+  },
+  {
+    "dataYpid": "505416686",
+    "name": "Sid Paterson Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 542-6008",
+    "address": "street: 2937 Ashford Park Pl location: Oviedo, FL 32765"
+  },
+  {
+    "dataYpid": "15108830",
+    "name": "Radio Advertising",
+    "description": "Publicity Service",
+    "phone": "(407) 704-3271",
+    "address": "street: N/A location: Orlando, FL 32859"
+  },
+  {
+    "dataYpid": "453305335",
+    "name": "Community Services Advertising",
+    "description": "Social Service Organizations",
+    "phone": "(407) 644-2699",
+    "address": "street: 533 W New England Ave location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "22770188",
+    "name": "DeHarris Advertising & Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 202-2370",
+    "address": "street: 934 S Central Ave location: Apopka, FL 32703"
+  },
+  {
+    "dataYpid": "28699558",
+    "name": "Su Advertising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 737-3605",
+    "address": "street: 1417 Sherman St Ste 202 location: Orlando, FL 32828"
+  },
+  {
+    "dataYpid": "504946580",
+    "name": "No Limit Marketing and Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 400-6116",
+    "address": "street: 2789 Wrights Rd Ste 1009 location: Oviedo, FL 32765"
+  },
+  {
+    "dataYpid": "464235955",
+    "name": "Gillman Advertising Specialties",
+    "description": "Advertising Agencies",
+    "phone": "(407) 331-5111",
+    "address": "street: 657 Maitland Ave location: Altamonte Springs, FL 32701"
+  },
+  {
+    "dataYpid": "504808114",
+    "name": "Signal Out Door Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 856-7079",
+    "address": "street: 101 Sunnytown Rd Ste 312 location: Casselberry, FL 32707"
+  },
+  {
+    "dataYpid": "15183981",
+    "name": "Gillman Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(407) 331-5111",
+    "address": "street: 498 Palm Springs Dr Ste 350 location: Altamonte Springs, FL 32701"
+  },
+  {
+    "dataYpid": "514332882",
+    "name": "Quick Advertising, Inc.",
+    "description": "Signs",
+    "phone": "(407) 774-0003",
+    "address": "street: 3030 E Semoran Blvd Ste 156 location: Apopka, FL 32703"
+  },
+  {
+    "dataYpid": "473330188",
+    "name": "Genius Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(407) 682-3037",
+    "address": "street: 864 Little Bend Rd location: Altamonte Springs, FL 32714"
+  },
+  {
+    "dataYpid": "469599939",
+    "name": "Tc Commercial Advertising Sales",
+    "description": "Advertising Specialties",
+    "phone": "(888) 224-4836",
+    "address": "street: 911 N State Road 434 location: Altamonte Springs, FL 32714"
+  },
+  {
+    "dataYpid": "496019121",
+    "name": "Go Digital Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 497-7198",
+    "address": "street: 2735 W State Road 434 location: Longwood, FL 32779"
+  },
+  {
+    "dataYpid": "564294219",
+    "name": "JKR Advertising & Marketings",
+    "description": "Advertising Agencies",
+    "phone": "(321) 397-0777",
+    "address": "street: 195 Wekiva Springs Rd location: Longwood, FL 32779"
+  },
+  {
+    "dataYpid": "4682583",
+    "name": "DeFalco Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 551-0303",
+    "address": "street: 1441 S Grant St location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "459298965",
+    "name": "Fax IT Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 339-4555",
+    "address": "street: 1499 Robert St location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "471972305",
+    "name": "Chance Advertising Agency",
+    "description": "Audio-Visual Creative Services",
+    "phone": "(407) 788-0028",
+    "address": "street: 2484 W. Sr 434 #208 location: Longwood, FL 32779"
+  },
+  {
+    "dataYpid": "472630418",
+    "name": "Nationwide Marketing and Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 814-3929",
+    "address": "street: 1077 W Orange Blossom Trl location: Apopka, FL 32712"
+  },
+  {
+    "dataYpid": "28729583",
+    "name": "Divine Outdoor Advertising Inc",
+    "description": "Outdoor Advertising",
+    "phone": "(352) 394-4850",
+    "address": "street: 11410 Cypress Dr location: Clermont, FL 34711"
+  },
+  {
+    "dataYpid": "29043638",
+    "name": "Gilbert Manjura Marketing and Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 261-5739",
+    "address": "street: 346 Freeman St location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "464280150",
+    "name": "Advantage Signs & Advertising",
+    "description": "Signs",
+    "phone": "(407) 339-7446",
+    "address": "street: 1983 Corporate Sq location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "464276777",
+    "name": "Innovative Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 814-7800",
+    "address": "street: 2436 Cedar Knoll Dr location: Apopka, FL 32712"
+  },
+  {
+    "dataYpid": "524656487",
+    "name": "Deborah L Perry Internet Advertising",
+    "description": "N/A",
+    "phone": "(407) 212-6147",
+    "address": "street: 298 Hilltop Dr location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "479329299",
+    "name": "Chance Advertising Agency",
+    "description": "Advertising Agencies",
+    "phone": "(321) 946-0666",
+    "address": "street: 803 Trailwood Dr Suite 100 location: Apopka, FL 32712"
+  },
+  {
+    "dataYpid": "453225663",
+    "name": "National Advertising Co",
+    "description": "N/A",
+    "phone": "(407) 330-0338",
+    "address": "street: 2687 S Design Ct location: Sanford, FL 32773"
+  },
+  {
+    "dataYpid": "1555117",
+    "name": "The Advertiser Of Polk County",
+    "description": "Newspapers",
+    "phone": "(863) 299-2201",
+    "address": "street: 1122 5th St SW location: Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "16438602",
+    "name": "Shiver Outdoor Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 889-7734",
+    "address": "street: 3367 N Washington St location: Zellwood, FL 32798"
+  },
+  {
+    "dataYpid": "4982319",
+    "name": "Action Signs & Advertising",
+    "description": "Signs",
+    "phone": "(863) 678-0500",
+    "address": "street: 107 E Polk Ave location: Lake Wales, FL 33853"
+  },
+  {
+    "dataYpid": "540683038",
+    "name": "Blue Skies Advertising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 687-2961",
+    "address": "street: 204 Teakwood Ct location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "517425050",
+    "name": "Advertising Specialty Institute",
+    "description": "Advertising Agencies",
+    "phone": "(407) 430-3698",
+    "address": "street: 4300 W Lake Mary Blvd location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "493539354",
+    "name": "Advertising Solutions & Printing",
+    "description": "Advertising Agencies",
+    "phone": "(863) 291-6808",
+    "address": "street: 3191 Recker Hwy location: Winter Haven, FL 33880"
+  },
+  {
+    "dataYpid": "495306875",
+    "name": "Iceberg Advertising",
+    "description": "Print Advertising",
+    "phone": "(407) 486-8478",
+    "address": "street: 3415 W Lake Mary Blvd location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "558940612",
+    "name": "Evok Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 302-4416",
+    "address": "street: 152 N 4th St location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "458594523",
+    "name": "Marketleverage Interactive Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 268-7648",
+    "address": "street: 1515 International Pkwy location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "564907227",
+    "name": "Cake Advertising",
+    "description": "N/A",
+    "phone": "(321) 363-3875",
+    "address": "street: 3750 Crawley Down Loop location: Sanford, FL 32773"
+  },
+  {
+    "dataYpid": "467929876",
+    "name": "Advertising Networks of Florida",
+    "description": "Advertising-Shoppers Publications",
+    "phone": "(866) 742-1373",
+    "address": "street: 610 Crescent Executive Ct Ste 112 location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "1619695",
+    "name": "AdvertiseIT",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 522-8064",
+    "address": "street: N/A location: Orlando, FL 32810"
+  },
+  {
+    "dataYpid": "467122560",
+    "name": "GEM2 Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 690-6279",
+    "address": "street: N/A location: Orlando, FL 32839"
+  },
+  {
+    "dataYpid": "496055012",
+    "name": "Grace Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 960-6183",
+    "address": "street: N/A location: Winter Park, FL 32790"
+  },
+  {
+    "dataYpid": "468515277",
+    "name": "Gelmtree Advertising",
+    "description": "Copy Writers",
+    "phone": "(352) 408-8601",
+    "address": "street: N/A location: Howey in the Hills, FL 34737"
+  },
+  {
+    "dataYpid": "19544766",
+    "name": "Reaper Harpy Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 414-8276",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "465328232",
+    "name": "Advision Advertising",
+    "description": "Interactive Media",
+    "phone": "(407) 456-3463",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "514565350",
+    "name": "Marketing Abstract Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(321) 746-6779",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "556898204",
+    "name": "Mighty Oak Advertising",
+    "description": "Direct Mail Advertising",
+    "phone": "(321) 947-2942",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "13897696",
+    "name": "A J Shellard Advertising",
+    "description": "Balloons-Advertising & Signage",
+    "phone": "(321) 329-3116",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "464397310",
+    "name": "A & A Advertising Specialties",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 381-5799",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "9874911",
+    "name": "Kenton Smith Advertising & Public Relations Inc - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 8000 S Orange Ave location: Orlando, FL 32809"
+  },
+  {
+    "dataYpid": "474934567",
+    "name": "Evok Advertising & Design Inc - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "(321) 281-8105",
+    "address": "street: 2500 Kunze Ave location: Orlando, FL 32806"
+  },
+  {
+    "dataYpid": "522902225",
+    "name": "Damn Good Advertising - CLOSED",
+    "description": "Advertising Specialties",
+    "phone": "N/A",
+    "address": "street: 4767 New Broad St # 1004 location: Orlando, FL 32814"
+  },
+  {
+    "dataYpid": "1988118",
+    "name": "Impact Communications Outdoor-Advertising - CLOSED",
+    "description": "Transit Advertising",
+    "phone": "N/A",
+    "address": "street: 400 N New York Ave location: Winter Park, FL 32789"
+  },
+  {
+    "dataYpid": "5176321",
+    "name": "Chuck Rhodes Advertising - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 114 S Atlas Dr location: Apopka, FL 32703"
+  },
+  {
+    "dataYpid": "470604565",
+    "name": "Defalco & Son Advertising - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 300 N Ronald Reagan Blvd location: Longwood, FL 32750"
+  },
+  {
+    "dataYpid": "453374613",
+    "name": "Jerry Defalco Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 915-0452",
+    "address": "street: 1825 Duffy Ct location: Lake Mary, FL 32746"
+  },
+  {
+    "dataYpid": "495198690",
+    "name": "Outdoor Images Inc",
+    "description": "Signs",
+    "phone": "(321) 270-0560",
+    "address": "street: 4061 Forrestal Ave Unit 2 location: Orlando, FL 32806"
+  },
+  {
+    "dataYpid": "503886348",
+    "name": "Signal Outdoor Advertisin",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 856-7079",
+    "address": "street: 3740 All American Blvd location: Orlando, FL 32810"
+  },
+  {
+    "dataYpid": "474245553",
+    "name": "Gulf State Signs",
+    "description": "Audio-Visual Creative Services",
+    "phone": "(863) 967-0659",
+    "address": "street: 1305 42nd St NW location: Winter Haven, FL 33881"
+  },
+  {
+    "dataYpid": "451856635",
+    "name": "Sunstate Awnings",
+    "description": "Building Contractors-Commercial & Industrial",
+    "phone": "(386) 868-4507",
+    "address": "street: 50 Keyes Ave location: Sanford, FL 32773"
+  },
+  {
+    "dataYpid": "20242227",
+    "name": "Direct One Inc",
+    "description": "Mail & Shipping Services",
+    "phone": "(407) 636-2053",
+    "address": "street: N/A location: Winter Park, FL 32792"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "546974868",
+    "name": "Banner Marketing Group",
+    "description": "Flags, Flagpoles & Accessories",
+    "phone": "(805) 528-5018",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "547718322",
+    "name": "Lamar Advertisi Ng",
+    "description": "N/A",
+    "phone": "(407) 755-5121",
+    "address": "street: 6100 Hanging Moss Rd location: Orlando, FL 32807"
+  },
+  {
+    "dataYpid": "497653237",
+    "name": "Advert Signs and Printing",
+    "description": "Signs",
+    "phone": "(352) 988-5215",
+    "address": "street: N/A location: Clermont, FL 34711"
+  }
+]

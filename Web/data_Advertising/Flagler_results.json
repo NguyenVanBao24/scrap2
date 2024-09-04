@@ -1,0 +1,2683 @@
+[
+  {
+    "dataYpid": "481041756",
+    "name": "Chisholm Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 648-4712",
+    "address": "street: 1205 SW 37th Ave location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "29588391",
+    "name": "Futura Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 443-0336",
+    "address": "street: 120 Cibao Ct location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "477861119",
+    "name": "South Eastern Health Mgmt",
+    "description": "Advertising Agencies",
+    "phone": "(305) 476-8186",
+    "address": "street: 112 Avila Ct location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "482985289",
+    "name": "Imagen Creative Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 774-9443",
+    "address": "street: 800 S Douglas Rd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "8266036",
+    "name": "Ogilvy & Mather Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-6002",
+    "address": "street: 800 S Douglas Rd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "9999692",
+    "name": "Accentmarketing Communications",
+    "description": "Advertising Agencies",
+    "phone": "(305) 461-1112",
+    "address": "street: 800 S Douglas Rd Ste 100 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "14257216",
+    "name": "Cooper Ddb",
+    "description": "Advertising Agencies",
+    "phone": "(305) 529-4300",
+    "address": "street: 806 S Douglas Rd Fl 11 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "465244088",
+    "name": "Noiseworks Media",
+    "description": "Advertising Agencies",
+    "phone": "(305) 418-0118",
+    "address": "street: 814 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "460254315",
+    "name": "Arcoart Plus",
+    "description": "Advertising Agencies",
+    "phone": "(305) 447-2262",
+    "address": "street: 3971 SW 8th St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "769910",
+    "name": "Machado Garcia-Serra",
+    "description": "Advertising Agencies",
+    "phone": "(305) 444-4647",
+    "address": "street: 1500 S Douglas Rd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "458320362",
+    "name": "Lemon Yellow",
+    "description": "Advertising Agencies",
+    "phone": "(305) 704-7096",
+    "address": "street: 106 Madeira Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "498444459",
+    "name": "Arx Solution Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 443-7733",
+    "address": "street: 1805 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "475747590",
+    "name": "Shooger",
+    "description": "Advertising Agencies",
+    "phone": "(305) 704-7940",
+    "address": "street: 1825 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "512295864",
+    "name": "La Huella Management Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(786) 488-1092",
+    "address": "street: 300 Madeira Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "461377872",
+    "name": "SKG Creative",
+    "description": "Advertising Agencies",
+    "phone": "(305) 758-9557",
+    "address": "street: 2000 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "486256622",
+    "name": "Media Global Group",
+    "description": "Advertising Agencies",
+    "phone": "(786) 431-4555",
+    "address": "street: 2000 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "536850159",
+    "name": "Grupo Uno International",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-6111",
+    "address": "street: 2000 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "471231730",
+    "name": "2EZ2 Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(786) 261-0161",
+    "address": "street: 2020 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "560953500",
+    "name": "gFour Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-8788",
+    "address": "street: 2100 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "576746854",
+    "name": "Markham Yard",
+    "description": "Advertising Agencies",
+    "phone": "(305) 445-6642",
+    "address": "street: 2121 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "4365121",
+    "name": "Siboney USA",
+    "description": "Advertising Agencies",
+    "phone": "(305) 373-2525",
+    "address": "street: 1 Alhambra Plz location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "23295371",
+    "name": "Eventus Online",
+    "description": "Advertising Agencies",
+    "phone": "(305) 774-7061",
+    "address": "street: 147 Alhambra Cir location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "458756179",
+    "name": "Reiser & Reiser",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-7797",
+    "address": "street: 343 Alcazar Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "3105412",
+    "name": "America Economia",
+    "description": "Advertising Agencies",
+    "phone": "(305) 648-9071",
+    "address": "street: 255 Alhambra Cir location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "462536364",
+    "name": "Jls Creative Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(786) 472-5933",
+    "address": "street: 255 Alhambra Cir Ste 415 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "464885751",
+    "name": "Vs Brooks Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 443-3500",
+    "address": "street: 255 Alhambra Cir Ste 850 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "576314425",
+    "name": "Radancy",
+    "description": "Advertising Agencies",
+    "phone": "(305) 704-4788",
+    "address": "street: 255 Alhambra Cir location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "575025859",
+    "name": "GlueIQ",
+    "description": "Advertising Agencies",
+    "phone": "(305) 239-9440",
+    "address": "street: 95 Merrick Way Ste 700 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "574282403",
+    "name": "Inpulse Digital",
+    "description": "Advertising Agencies",
+    "phone": "(888) 880-8620",
+    "address": "street: 95 Merrick Way location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "481038481",
+    "name": "Grupouno International",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-6111",
+    "address": "street: 2199 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "550452177",
+    "name": "Stealth Media Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(786) 575-0220",
+    "address": "street: 2222 Ponce De Leon Blvd 3rd Fl location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "1086425",
+    "name": "Zubi Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 428-6175",
+    "address": "street: 355 Alhambra Cir location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "8283067",
+    "name": "Adn Communications",
+    "description": "Advertising Agencies",
+    "phone": "(305) 456-9163",
+    "address": "street: 355 Alhambra Cir Ste 1500 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "465701258",
+    "name": "International Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 499-9000",
+    "address": "street: N/A location: Miami, FL 33183"
+  },
+  {
+    "dataYpid": "465520315",
+    "name": "internal media.design",
+    "description": "Advertising Agencies",
+    "phone": "(305) 482-3090",
+    "address": "street: 1563 Columbus Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "472735723",
+    "name": "Elite Productions",
+    "description": "Advertising Agencies",
+    "phone": "(305) 439-8254",
+    "address": "street: 5455 SW 8th St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "465490366",
+    "name": "PRODUCCIONES ALEVIDEOS",
+    "description": "Advertising Agencies",
+    "phone": "(786) 283-0038",
+    "address": "street: N/A location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "574888096",
+    "name": "Toledo Creative Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 631-6954",
+    "address": "street: 215 Sw 17th Ave, Suite 216-B location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "496249728",
+    "name": "Elf",
+    "description": "Advertising Agencies",
+    "phone": "(802) 735-1298",
+    "address": "street: 20 Miracle Mile location: Miami, FL 33234"
+  },
+  {
+    "dataYpid": "464920499",
+    "name": "Pow Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 438-0063",
+    "address": "street: 1221 SW 27th Ave location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "548611282",
+    "name": "Miami Business Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 807-2413",
+    "address": "street: 2529 SW 8th St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "530259454",
+    "name": "Urban Connection Group LLC",
+    "description": "Advertising Agencies",
+    "phone": "(646) 893-5233",
+    "address": "street: 2655 S Le Jeune Rd location: Miami, FL 33134"
+  },
+  {
+    "dataYpid": "548527467",
+    "name": "Yachting Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 514-7472",
+    "address": "street: 3517 SW 26th St location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "2686083",
+    "name": "Charney Palacios & Co Ltd",
+    "description": "Advertising Agencies",
+    "phone": "(786) 388-6340",
+    "address": "street: 5201 Waterford District Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "559116458",
+    "name": "The Creative Image",
+    "description": "Advertising Agencies",
+    "phone": "(305) 204-2593",
+    "address": "street: 5201 Waterford District Dr Ste 900 location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "572770197",
+    "name": "Intercom Media",
+    "description": "Advertising Agencies",
+    "phone": "(212) 302-9199",
+    "address": "street: 5201 Blue Lagoon Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "481023522",
+    "name": "Pruitt, Tracy",
+    "description": "Advertising Agencies",
+    "phone": "(786) 953-6998",
+    "address": "street: 2819 SW 25th Ter location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "521002117",
+    "name": "The Adsmith",
+    "description": "Advertising Agencies",
+    "phone": "(305) 491-5950",
+    "address": "street: 814 NW 20th Ave location: Miami, FL 33125"
+  },
+  {
+    "dataYpid": "534676428",
+    "name": "Z Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(786) 871-7286",
+    "address": "street: 1750 SW 7th St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "465237290",
+    "name": "Richard Maranon & Associates",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-2002",
+    "address": "street: 2103 Coral Way location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "464880256",
+    "name": "The Hitter Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 456-6043",
+    "address": "street: 1830 NW 7th St Ste 218 location: Miami, FL 33125"
+  },
+  {
+    "dataYpid": "571122916",
+    "name": "MSS Media",
+    "description": "Advertising Agencies",
+    "phone": "(305) 358-8868",
+    "address": "street: 2100 Coral Way location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "506351055",
+    "name": "Parking Garage Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 558-4975",
+    "address": "street: 1637 SW 8th St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "479344968",
+    "name": "Tom Kukic Advertising-Art Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 665-9050",
+    "address": "street: 4041 NW 26th St location: Miami, FL 33142"
+  },
+  {
+    "dataYpid": "497777622",
+    "name": "Square One Branding",
+    "description": "Advertising Agencies",
+    "phone": "(786) 552-6343",
+    "address": "street: 8201 Coral Way location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "495657618",
+    "name": "Miami Advertising Guru",
+    "description": "Advertising Agencies",
+    "phone": "(305) 213-2421",
+    "address": "street: N/A location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "495955543",
+    "name": "Sorensen Communications",
+    "description": "Advertising Agencies",
+    "phone": "(305) 274-8337",
+    "address": "street: N/A location: Miami, FL 33256"
+  },
+  {
+    "dataYpid": "504932215",
+    "name": "Umbaji",
+    "description": "Advertising Agencies",
+    "phone": "(305) 551-4604",
+    "address": "street: N/A location: Miami, FL 33172"
+  },
+  {
+    "dataYpid": "531559021",
+    "name": "Fishing Talent Digital Marketing Agency",
+    "description": "Advertising Agencies",
+    "phone": "(786) 327-7712",
+    "address": "street: N/A location: Miami, FL 33166"
+  },
+  {
+    "dataYpid": "552624146",
+    "name": "Matrix global sms",
+    "description": "Advertising Agencies",
+    "phone": "(305) 440-0585",
+    "address": "street: N/A location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "458159222",
+    "name": "A & A Enterprises",
+    "description": "Advertising Agencies",
+    "phone": "(305) 274-1091",
+    "address": "street: N/A location: Miami, FL 33176"
+  },
+  {
+    "dataYpid": "481896898",
+    "name": "Creative Advertising Caribbean",
+    "description": "Advertising Agencies",
+    "phone": "(868) 796-0146",
+    "address": "street: N/A location: Miami, FL 33186"
+  },
+  {
+    "dataYpid": "482198636",
+    "name": "GoPedi",
+    "description": "Advertising Agencies",
+    "phone": "(866) 462-3182",
+    "address": "street: N/A location: Miami, FL 33180"
+  },
+  {
+    "dataYpid": "498757322",
+    "name": "Codis, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(513) 403-1885",
+    "address": "street: N/A location: Miami, FL 33137"
+  },
+  {
+    "dataYpid": "531497704",
+    "name": "EyeSea Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(754) 300-9506",
+    "address": "street: N/A location: Miami, FL 33132"
+  },
+  {
+    "dataYpid": "461613800",
+    "name": "Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 477-6364",
+    "address": "street: 2341 SW 10th St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "562603414",
+    "name": "Adstream America",
+    "description": "Advertising Agencies",
+    "phone": "(786) 472-2615",
+    "address": "street: 255 Giralda Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "469320376",
+    "name": "Biegen Schunack Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 569-9154",
+    "address": "street: 396 Alhambra Cir location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "17320277",
+    "name": "Blanquier, Real Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(305) 728-7178",
+    "address": "street: 2332 Galiano St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "451705779",
+    "name": "Vanguard Comm",
+    "description": "Advertising Agencies",
+    "phone": "(305) 728-7146",
+    "address": "street: 2332 Galiano St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "22110292",
+    "name": "Cps Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 362-5140",
+    "address": "street: 280 Aragon Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "10247822",
+    "name": "Response Publishing",
+    "description": "Advertising Agencies",
+    "phone": "(305) 444-8278",
+    "address": "street: 2519 Galiano St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "521750713",
+    "name": "Grupouno International",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-6111",
+    "address": "street: 2850 S Douglas Rd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "466946926",
+    "name": "Blue Daisy Media",
+    "description": "Advertising Agencies",
+    "phone": "(305) 442-4229",
+    "address": "street: 2906 S Douglas Rd Ste 201 location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "533071424",
+    "name": "Platino International Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 392-3181",
+    "address": "street: 333 Palermo Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "481391333",
+    "name": "Zubi Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-9824",
+    "address": "street: 2990 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "474557837",
+    "name": "Extra Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 387-0074",
+    "address": "street: 5455 SW 8th St location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "1771889",
+    "name": "L Martinez Associates",
+    "description": "Advertising Agencies",
+    "phone": "(305) 476-9700",
+    "address": "street: 327 Santander Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "461846991",
+    "name": "Ronin Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 444-6868",
+    "address": "street: 400 University Dr location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "5253219",
+    "name": "KSR Inc",
+    "description": "Advertising Agencies",
+    "phone": "(786) 999-1133",
+    "address": "street: 3399 Ponce De Leon Blvd location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "490835790",
+    "name": "Adstech",
+    "description": "Advertising Agencies",
+    "phone": "(305) 677-0592",
+    "address": "street: 2050 Coral Way location: Coral Gables, FL 33145"
+  },
+  {
+    "dataYpid": "489149380",
+    "name": "Sea Star Films",
+    "description": "Advertising Agencies",
+    "phone": "(786) 565-2865",
+    "address": "street: N/A location: North Miami Beach, FL 33160"
+  },
+  {
+    "dataYpid": "544209336",
+    "name": "PlanSEO Marketing | Agencia SEO en Miami",
+    "description": "Advertising Agencies",
+    "phone": "(786) 613-2358",
+    "address": "street: N/A location: Hialeah, FL 33015"
+  },
+  {
+    "dataYpid": "453386447",
+    "name": "Concept Cafe Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 533-1840",
+    "address": "street: N/A location: Hialeah, FL 33010"
+  },
+  {
+    "dataYpid": "462521687",
+    "name": "Jackie Zambrano, LLC",
+    "description": "Advertising Agencies",
+    "phone": "(305) 305-6226",
+    "address": "street: N/A location: Doral, FL 33178"
+  },
+  {
+    "dataYpid": "540845648",
+    "name": "Zen-promo",
+    "description": "Advertising Agencies",
+    "phone": "(305) 203-3892",
+    "address": "street: N/A location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "542379543",
+    "name": "Superlative Creative",
+    "description": "Advertising Agencies",
+    "phone": "(305) 707-6993",
+    "address": "street: N/A location: Miami Beach, FL 33139"
+  },
+  {
+    "dataYpid": "15778089",
+    "name": "Dominique Dekindt",
+    "description": "Advertising Agencies",
+    "phone": "(305) 969-6184",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "452148963",
+    "name": "JOHNOFALLTYPE",
+    "description": "Advertising Agencies",
+    "phone": "(305) 498-0614",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "502239168",
+    "name": "All Star Media Solutions Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(786) 380-8899",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "574302613",
+    "name": "Michael Haupert, Miami Digital Marketing Consultant, Advertising, Social Media Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(786) 635-5574",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "12896964",
+    "name": "Travel Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 654-3506",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "16480243",
+    "name": "Ryder & Schild Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-0580",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "19505893",
+    "name": "Creative On Demand",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-8496",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "21483325",
+    "name": "VendorPlus Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 441-8100",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "461490664",
+    "name": "Blonde Concepts",
+    "description": "Advertising Agencies",
+    "phone": "(305) 793-1660",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "467355380",
+    "name": "Pixel Graphics Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 718-0595",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "467781669",
+    "name": "Branding Forces",
+    "description": "Advertising Agencies",
+    "phone": "(305) 534-9898",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "473580102",
+    "name": "Valpak",
+    "description": "Advertising Agencies",
+    "phone": "(305) 380-9610",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "481921578",
+    "name": "FN Magazine (Fashion Nerrd, Inc)",
+    "description": "Advertising Agencies",
+    "phone": "(954) 417-5114",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "501717280",
+    "name": "All-Ways Advertising Co",
+    "description": "Advertising Agencies",
+    "phone": "(305) 653-7588",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "505672457",
+    "name": "Misterfreek",
+    "description": "Advertising Agencies",
+    "phone": "(631) 355-9435",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "560350073",
+    "name": "YesMapPromo.com",
+    "description": "Advertising Agencies",
+    "phone": "(866) 999-9510",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "568207871",
+    "name": "Comrade Digital Marketing Agency - Miami",
+    "description": "Advertising Agencies",
+    "phone": "(305) 768-1129",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "574902450",
+    "name": "Executive Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 597-5454",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "472947742",
+    "name": "Di Tu Services",
+    "description": "Advertising Agencies",
+    "phone": "(786) 452-1154",
+    "address": "street: 1701 W Flagler St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "453950192",
+    "name": "Marca",
+    "description": "Advertising Agencies",
+    "phone": "(305) 423-8300",
+    "address": "street: 3390 Mary St location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "16701473",
+    "name": "Martin Schleifer Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 442-7272",
+    "address": "street: 2915 SW 27th Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "916600",
+    "name": "Alonso & Company",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-5699",
+    "address": "street: 1235 Coral Way Ste 101 location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "458745312",
+    "name": "Crispin Porter & Bogusky Design",
+    "description": "Advertising Agencies",
+    "phone": "(305) 859-2070",
+    "address": "street: 2699 S Bayshore Dr location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "12767676",
+    "name": "Tinsley Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-6060",
+    "address": "street: 2000 S Dixie Hwy Ste 201 location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "469318295",
+    "name": "Executive Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 597-5454",
+    "address": "street: 6790 Coral Way location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "455125201",
+    "name": "Foreclosure Defense Team",
+    "description": "Advertising Agencies",
+    "phone": "(786) 953-7118",
+    "address": "street: 2100 SW 24th St location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "8849588",
+    "name": "Out of the Blue Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 442-2431",
+    "address": "street: 2424 S Dixie Hwy Ste 100 location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "15486819",
+    "name": "Jay Lawrence Advertising Co",
+    "description": "Advertising Agencies",
+    "phone": "(305) 860-1200",
+    "address": "street: 1840 Coral Way location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "524375939",
+    "name": "Amgw Agency",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-8650",
+    "address": "street: 3150 SW 38th Ave location: Miami, FL 33146"
+  },
+  {
+    "dataYpid": "507420299",
+    "name": "McCann Worldgroup",
+    "description": "Advertising Agencies",
+    "phone": "(305) 269-3600",
+    "address": "street: 5820 Waterford District Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "562603237",
+    "name": "Criterion Global",
+    "description": "Advertising Agencies",
+    "phone": "(646) 330-4673",
+    "address": "street: 2937 SW 27th Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "537968208",
+    "name": "Worldwide Productions Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 858-5060",
+    "address": "street: 2140 S Dixie Hwy location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "513035849",
+    "name": "Kaptivo",
+    "description": "Advertising Agencies",
+    "phone": "(786) 452-7100",
+    "address": "street: 3122 Ohio St location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "464612612",
+    "name": "Segre collaborative",
+    "description": "Advertising Agencies",
+    "phone": "(305) 442-1504",
+    "address": "street: 2950 SW 27th Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "480809927",
+    "name": "C & P Video Advertising System",
+    "description": "Advertising Agencies",
+    "phone": "(305) 649-4030",
+    "address": "street: 1393 SW 1st St location: Miami, FL 33135"
+  },
+  {
+    "dataYpid": "14198762",
+    "name": "Think Track Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 860-0303",
+    "address": "street: 2000 S Dixie Hwy location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "550963332",
+    "name": "Adyouwish",
+    "description": "Advertising Agencies",
+    "phone": "(786) 777-9311",
+    "address": "street: 2300 Jackson St location: Miami, FL 33137"
+  },
+  {
+    "dataYpid": "467235700",
+    "name": "Premier Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 567-3188",
+    "address": "street: 703 NW 62nd Ave Ste 500 location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "459527597",
+    "name": "Alonso & Company",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-5699",
+    "address": "street: 1401 SW 22nd St location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "15990656",
+    "name": "Triumph Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 545-0168",
+    "address": "street: 1143 W Flagler St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "548044462",
+    "name": "Tekkell",
+    "description": "Advertising Agencies",
+    "phone": "(786) 391-7354",
+    "address": "street: 141 Grand Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "469126503",
+    "name": "Bendixen & Amandi International Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 529-9916",
+    "address": "street: 3250 Mary St location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "14449381",
+    "name": "Dollar Store",
+    "description": "Advertising Agencies",
+    "phone": "(305) 545-9270",
+    "address": "street: 1104 W Flagler St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "13845537",
+    "name": "C Com Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 447-4015",
+    "address": "street: 2871 Oak Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "475609112",
+    "name": "Minotti USA Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 646-1741",
+    "address": "street: 1825 Micanopy Ave location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "568120807",
+    "name": "Doubledome Digital Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(786) 363-9868",
+    "address": "street: 6303 Waterford District Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "574371785",
+    "name": "Media Response Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 423-1473",
+    "address": "street: 6303 Waterford District Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "575988083",
+    "name": "Flobot",
+    "description": "Advertising Agencies",
+    "phone": "(754) 200-1322",
+    "address": "street: 6303 Waterford District Dr location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "461638697",
+    "name": "Markham Unlimited",
+    "description": "Advertising Agencies",
+    "phone": "(305) 445-6642",
+    "address": "street: 3326 Mary St Ste 601 location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "6412837",
+    "name": "Ab+A Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 859-8989",
+    "address": "street: 1235 Coral Way location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "451133605",
+    "name": "BSG World",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-5688",
+    "address": "street: 3361 SW 3rd Ave location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "458560790",
+    "name": "Pantin J G R Public Relations",
+    "description": "Advertising Agencies",
+    "phone": "(305) 858-7277",
+    "address": "street: 3361 SW 3rd Ave location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "474978079",
+    "name": "Beber Silverstein Productions",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-9800",
+    "address": "street: 3361 SW 3rd Ave location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "559574777",
+    "name": "Hayday Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 410-2886",
+    "address": "street: 3199 NW 36th St location: Miami, FL 33142"
+  },
+  {
+    "dataYpid": "481042551",
+    "name": "Media 8",
+    "description": "Advertising Agencies",
+    "phone": "(786) 623-5483",
+    "address": "street: 3305 SW 1st Ave location: Miami, FL 33145"
+  },
+  {
+    "dataYpid": "531394285",
+    "name": "Sun & Sons",
+    "description": "Advertising Agencies",
+    "phone": "(303) 506-1371",
+    "address": "street: 2980 Mcfarlane Rd location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "482537184",
+    "name": "Excel Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-7083",
+    "address": "street: 2600 SW 3rd Ave location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "456676985",
+    "name": "Blanco-Lorenz",
+    "description": "Advertising Agencies",
+    "phone": "(305) 668-9637",
+    "address": "street: 4000 Ponce De Leon Blvd Ste 470 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "482799032",
+    "name": "Guava Moon Marketing & Comm",
+    "description": "Advertising Agencies",
+    "phone": "(305) 444-5575",
+    "address": "street: 4000 Ponce De Leon Blvd Ste 460 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "505921088",
+    "name": "Grupo Uno International",
+    "description": "Advertising Agencies",
+    "phone": "(305) 448-6111",
+    "address": "street: 4000 Ponce De Leon Blvd Ste 430 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "507504677",
+    "name": "Brandcom",
+    "description": "Advertising Agencies",
+    "phone": "(305) 728-5271",
+    "address": "street: 4000 Ponce De Leon Blvd Ste 470 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "528885025",
+    "name": "C-Com Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 371-4030",
+    "address": "street: 1790 Coral Way location: Coral Gables, FL 33145"
+  },
+  {
+    "dataYpid": "464617779",
+    "name": "Atkins Lopez Marti",
+    "description": "Advertising Agencies",
+    "phone": "(305) 669-8777",
+    "address": "street: 1537 Saragossa Ave location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "566381714",
+    "name": "Mobile Edge Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 609-8713",
+    "address": "street: 6815 Edgewater Dr Delio Nunez location: Coral Gables, FL 33133"
+  },
+  {
+    "dataYpid": "532642238",
+    "name": "Nobox",
+    "description": "Advertising Agencies",
+    "phone": "(305) 571-2008",
+    "address": "street: 3390 Mary St location: Coconut Grove, FL 33133"
+  },
+  {
+    "dataYpid": "807482",
+    "name": "Global Distribution & Logistics",
+    "description": "Advertising Agencies",
+    "phone": "(305) 871-1807",
+    "address": "street: 5275 NW 36th St location: Miami Springs, FL 33166"
+  },
+  {
+    "dataYpid": "466755203",
+    "name": "Alma D D B",
+    "description": "Advertising Agencies",
+    "phone": "(305) 666-2101",
+    "address": "street: 770 S Dixie Hwy Ste 109 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "497763409",
+    "name": "AVANZA | Hispanic Advertising + Branding Agency",
+    "description": "Advertising Agencies",
+    "phone": "(786) 565-7601",
+    "address": "street: 5465 NW 36th St Ste 100 location: Miami Springs, FL 33166"
+  },
+  {
+    "dataYpid": "504796898",
+    "name": "AVANZA | Integrated Branding & Advertising Agency",
+    "description": "Advertising Agencies",
+    "phone": "(786) 565-7601",
+    "address": "street: 5465 NW 36th St Ste 100 location: Miami Springs, FL 33166"
+  },
+  {
+    "dataYpid": "5554492",
+    "name": "Shepard Lobe Costa - Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 372-1430",
+    "address": "street: 250 Bird Rd Ste 206 location: Coral Gables, FL 33146"
+  },
+  {
+    "dataYpid": "461614863",
+    "name": "Nineteen Ninety Six",
+    "description": "Advertising Agencies",
+    "phone": "(305) 603-7811",
+    "address": "street: 2665 S Bayshore Dr location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "29545843",
+    "name": "Shine Entertainment Med",
+    "description": "Advertising Agencies",
+    "phone": "(305) 860-9911",
+    "address": "street: 520 SW 22nd Rd location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "22963721",
+    "name": "Add Ventures",
+    "description": "Advertising Agencies",
+    "phone": "(305) 569-7718",
+    "address": "street: 3121 Commodore Plz location: Miami, FL 33133"
+  },
+  {
+    "dataYpid": "475958224",
+    "name": "Miami Billboard Advertising & SEO",
+    "description": "Advertising Agencies",
+    "phone": "(305) 370-9973",
+    "address": "street: 501 Marlins Way location: Miami, FL 33125"
+  },
+  {
+    "dataYpid": "28619391",
+    "name": "Omd Usa",
+    "description": "Advertising Agencies",
+    "phone": "(305) 341-2530",
+    "address": "street: 6205 Blue Lagoon Dr Ste 650 location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "459414056",
+    "name": "Creative Minds Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 392-6313",
+    "address": "street: 2801 NW 74th Ave location: Miami, FL 33122"
+  },
+  {
+    "dataYpid": "459613710",
+    "name": "Young & Rubicam",
+    "description": "Advertising Agencies",
+    "phone": "(305) 347-1900",
+    "address": "street: 601 Brickell Key Dr location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "3112377",
+    "name": "OneAccord Partners",
+    "description": "Advertising Agencies",
+    "phone": "(305) 432-5210",
+    "address": "street: 1865 Brickell Ave Apt A-1207 location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "458677404",
+    "name": "Brain Switch Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 576-1415",
+    "address": "street: 250 NW 23rd St location: Miami, FL 33127"
+  },
+  {
+    "dataYpid": "473950063",
+    "name": "Begante",
+    "description": "Advertising Agencies",
+    "phone": "(305) 925-0816",
+    "address": "street: 1001 Brickell Bay location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "503101858",
+    "name": "Prediq Media",
+    "description": "Advertising Agencies",
+    "phone": "(800) 796-0201",
+    "address": "street: 14 SW 2nd Ave location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "532677684",
+    "name": "Publitony USA LLC",
+    "description": "Advertising Agencies",
+    "phone": "(786) 607-1244",
+    "address": "street: 1221 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "4217184",
+    "name": "Miami Daily Business Review",
+    "description": "Advertising Agencies",
+    "phone": "(305) 377-3721",
+    "address": "street: 1 SE 3rd Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "497102409",
+    "name": "B P Media & Partners",
+    "description": "Advertising Agencies",
+    "phone": "(305) 720-8535",
+    "address": "street: 462 SW 15th Rd location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "470060095",
+    "name": "Trinitoba Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 856-1012",
+    "address": "street: 418 SW 10th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "467752498",
+    "name": "Brite Impressions Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 269-0333",
+    "address": "street: 7200 NW 7th St location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "497520057",
+    "name": "G & E Assoc",
+    "description": "Advertising Agencies",
+    "phone": "(786) 360-4820",
+    "address": "street: 1234 NW 6th Ave location: Miami, FL 33136"
+  },
+  {
+    "dataYpid": "575810919",
+    "name": "Eminent Wealth Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(888) 807-4482",
+    "address": "street: 1150 NW 72nd Ave location: Miami, FL 33126"
+  },
+  {
+    "dataYpid": "528556942",
+    "name": "Iffective",
+    "description": "Advertising Agencies",
+    "phone": "(305) 215-7229",
+    "address": "street: 1951 NW 7th Ave location: Miami, FL 33136"
+  },
+  {
+    "dataYpid": "475123772",
+    "name": "Avadora USA",
+    "description": "Advertising Agencies",
+    "phone": "(786) 518-2486",
+    "address": "street: 1800 SW 1st Ave location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "474703491",
+    "name": "First Florida",
+    "description": "Advertising Agencies",
+    "phone": "(305) 846-9694",
+    "address": "street: 228 SW 10th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "473353076",
+    "name": "Frost & Sullivan",
+    "description": "Advertising Agencies",
+    "phone": "(786) 220-7020",
+    "address": "street: 175 SW 7th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "483627275",
+    "name": "Z Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(786) 871-7286",
+    "address": "street: 175 SW 7th St Ste 2107 location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "461527384",
+    "name": "Hex Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(786) 587-2069",
+    "address": "street: N/A location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "550408771",
+    "name": "Miami Seo",
+    "description": "Advertising Agencies",
+    "phone": "(918) 919-3226",
+    "address": "street: 150 W Flagler St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "537583766",
+    "name": "White Shark Media",
+    "description": "Advertising Agencies",
+    "phone": "(786) 728-9231",
+    "address": "street: 120 SW 8th St Ste 113 location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "573303770",
+    "name": "SEO Smooth",
+    "description": "Advertising Agencies",
+    "phone": "(305) 563-3037",
+    "address": "street: 66 W Flagler St Ste 900-128 location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "560537393",
+    "name": "Yacht Music Group",
+    "description": "Advertising Agencies",
+    "phone": "(407) 627-9628",
+    "address": "street: 66 W Flagler St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "575835367",
+    "name": "Marly Media",
+    "description": "Advertising Agencies",
+    "phone": "(409) 996-2759",
+    "address": "street: 7437 Coral Way location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "533643641",
+    "name": "Florida Advertising Balloons",
+    "description": "Advertising Agencies",
+    "phone": "(800) 805-0276",
+    "address": "street: 80 SW 8th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "573115662",
+    "name": "Media Planning International",
+    "description": "Advertising Agencies",
+    "phone": "(305) 377-1907",
+    "address": "street: 80 SW 8th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "545907772",
+    "name": "Promo Digital Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(786) 378-9020",
+    "address": "street: 50 SW 10th St location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "560324616",
+    "name": "Tag Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 577-9988",
+    "address": "street: 75 SW 15th Rd location: Miami, FL 33129"
+  },
+  {
+    "dataYpid": "459699395",
+    "name": "Usdirectory.com",
+    "description": "Advertising Agencies",
+    "phone": "(305) 244-8771",
+    "address": "street: 1000 NW 1st Ave location: Miami, FL 33136"
+  },
+  {
+    "dataYpid": "505163670",
+    "name": "SEO Miami - Moonlight SEO - Miami SEO Expert",
+    "description": "Advertising Agencies",
+    "phone": "(786) 529-7624",
+    "address": "street: 28 W Flagler St Ste 1200-b location: Miami, FL 33130"
+  },
+  {
+    "dataYpid": "559670918",
+    "name": "Target Digital Marketing Miami",
+    "description": "Advertising Agencies",
+    "phone": "(888) 457-3353",
+    "address": "street: 800 N Miami Ave location: Miami, FL 33136"
+  },
+  {
+    "dataYpid": "550621538",
+    "name": "Rocket Seo",
+    "description": "Advertising Agencies",
+    "phone": "(305) 363-3134",
+    "address": "street: 1200 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "574323285",
+    "name": "Campaign180",
+    "description": "Advertising Agencies",
+    "phone": "(888) 487-8630",
+    "address": "street: 1200 Brickell Ave Ste 800 location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "546583410",
+    "name": "The Kluger Agency",
+    "description": "Advertising Agencies",
+    "phone": "(305) 639-8748",
+    "address": "street: 1200 Brickell Ave Ste 1950 location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "536681798",
+    "name": "USA Man Super",
+    "description": "Advertising Agencies",
+    "phone": "(786) 360-2535",
+    "address": "street: 1441 Brickell Ave Ste 1400 location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "481033750",
+    "name": "The M Network Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 571-1455",
+    "address": "street: 14 NE 1st Ave location: Miami, FL 33132"
+  },
+  {
+    "dataYpid": "499347334",
+    "name": "Paper Street Media",
+    "description": "Advertising Agencies",
+    "phone": "(305) 364-5663",
+    "address": "street: 14 NE 1st Ave location: Miami, FL 33132"
+  },
+  {
+    "dataYpid": "616432",
+    "name": "Img",
+    "description": "Advertising Agencies",
+    "phone": "(305) 381-6896",
+    "address": "street: 1110 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "549063829",
+    "name": "Free Buggy Ride",
+    "description": "Advertising Agencies",
+    "phone": "(305) 925-5611",
+    "address": "street: 100 SE 2nd St location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "2602074",
+    "name": "Igt Media Holdings, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(305) 573-2800",
+    "address": "street: 21 SE 1st Ave Ste 300 location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "507143429",
+    "name": "Ooh USA Corp",
+    "description": "Advertising Agencies",
+    "phone": "(305) 603-7129",
+    "address": "street: 1000 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "502000636",
+    "name": "Benamor Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 400-4961",
+    "address": "street: 117 NE 1st Ave location: Miami, FL 33132"
+  },
+  {
+    "dataYpid": "546631591",
+    "name": "Lit Social",
+    "description": "Advertising Agencies",
+    "phone": "(305) 250-2268",
+    "address": "street: 117 NE 1st Ave location: Miami, FL 33132"
+  },
+  {
+    "dataYpid": "477788015",
+    "name": "MRM Worldwide",
+    "description": "Advertising Agencies",
+    "phone": "(305) 371-8655",
+    "address": "street: 1201 Brickell Ave Ste 600 location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "556877708",
+    "name": "Tibint",
+    "description": "Advertising Agencies",
+    "phone": "(786) 410-7566",
+    "address": "street: 1111 Brickell Ave 10th Fl location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "575842154",
+    "name": "Drive Social Media - Miami",
+    "description": "Advertising Agencies",
+    "phone": "(786) 688-3833",
+    "address": "street: 1111 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "545040805",
+    "name": "Wild Pixel Media",
+    "description": "Advertising Agencies",
+    "phone": "(786) 678-5353",
+    "address": "street: 1101 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "474711174",
+    "name": "BVK/Meka Marketing Communications",
+    "description": "Advertising Agencies",
+    "phone": "(305) 372-0028",
+    "address": "street: 848 Brickell Ave location: Miami, FL 33131"
+  },
+  {
+    "dataYpid": "18595069",
+    "name": "Hunter-Hamersmith & Associates Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 895-3492",
+    "address": "street: 725 NE 125th St location: North Miami, FL 33161"
+  },
+  {
+    "dataYpid": "454864349",
+    "name": "HH Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 895-8430",
+    "address": "street: 725 NE 125th St location: North Miami, FL 33161"
+  },
+  {
+    "dataYpid": "14745017",
+    "name": "Tropic Survival Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(305) 899-7229",
+    "address": "street: 1125 NE 125th St Ste 400 location: North Miami, FL 33161"
+  },
+  {
+    "dataYpid": "538492904",
+    "name": "Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(786) 773-2499",
+    "address": "street: 2280 W 84th St location: Hialeah, FL 33016"
+  },
+  {
+    "dataYpid": "473362062",
+    "name": "On Advertising Inc",
+    "description": "Public Relations Counselors",
+    "phone": "(786) 301-4117",
+    "address": "street: 1800 Sans Souci Blvd location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "462422461",
+    "name": "MVP Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(305) 628-0770",
+    "address": "street: 4980 NW 165th St location: Miami Lakes, FL 33014"
+  },
+  {
+    "dataYpid": "1396984",
+    "name": "Prodigy Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(305) 328-8515",
+    "address": "street: 18001 Old Cutler Rd Ste 429 location: Palmetto Bay, FL 33157"
+  },
+  {
+    "dataYpid": "467476146",
+    "name": "Bluelion Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 971-7021",
+    "address": "street: 9120 SW 162nd St location: Palmetto Bay, FL 33157"
+  },
+  {
+    "dataYpid": "29547032",
+    "name": "Coral Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 252-0405",
+    "address": "street: 8650 SW 144th St location: Palmetto Bay, FL 33158"
+  },
+  {
+    "dataYpid": "460395077",
+    "name": "Gimmick Advertising LTD Inc",
+    "description": "Advertising Specialties",
+    "phone": "(305) 893-5580",
+    "address": "street: 1745 NE 124th St location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "466855208",
+    "name": "Behr Advertising, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(305) 674-8406",
+    "address": "street: 1801 NE 123rd St Ste 314 location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "554439827",
+    "name": "Green Dot Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 674-8406",
+    "address": "street: 1801 NE 123rd St location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "460106179",
+    "name": "Miami Production Advertising",
+    "description": "Advertising-Broadcast & Film",
+    "phone": "(786) 360-4058",
+    "address": "street: 12955 Biscayne Blvd location: North Miami, FL 33181"
+  },
+  {
+    "dataYpid": "29575657",
+    "name": "Advertising Updated Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 944-6718",
+    "address": "street: 1248 NE 154th St location: North Miami Beach, FL 33162"
+  },
+  {
+    "dataYpid": "472109054",
+    "name": "Joint Advertising",
+    "description": "Direct Mail Advertising",
+    "phone": "(305) 252-1002",
+    "address": "street: 8625 SW 184th Ter location: Cutler Bay, FL 33157"
+  },
+  {
+    "dataYpid": "575954204",
+    "name": "Levy Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 592-5389",
+    "address": "street: 4241 W 108th St location: Hialeah, FL 33018"
+  },
+  {
+    "dataYpid": "9638629",
+    "name": "Carter Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(305) 669-8669",
+    "address": "street: 10675 SW 186th St location: Cutler Bay, FL 33157"
+  },
+  {
+    "dataYpid": "546115694",
+    "name": "Major's Advertising",
+    "description": "N/A",
+    "phone": "(305) 266-6734",
+    "address": "street: 7360 E Saint Andrews Dr location: Hialeah, FL 33015"
+  },
+  {
+    "dataYpid": "13031427",
+    "name": "Menda Group Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 436-9290",
+    "address": "street: 3638 SW 162nd Ave location: Miramar, FL 33027"
+  },
+  {
+    "dataYpid": "1946575",
+    "name": "Englehardt Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 927-2886",
+    "address": "street: 2450 Hollywood Blvd location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "7650309",
+    "name": "Colin Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 932-3128",
+    "address": "street: 19111 Collins Ave location: Sunny Isles Beach, FL 33160"
+  },
+  {
+    "dataYpid": "5393334",
+    "name": "Edco Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(954) 964-2466",
+    "address": "street: 5634 Johnson St location: Hollywood, FL 33021"
+  },
+  {
+    "dataYpid": "541789406",
+    "name": "Boat Advertising",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(954) 343-8810",
+    "address": "street: 1835 E Hallandale Beach Blvd location: Hallandale Beach, FL 33009"
+  },
+  {
+    "dataYpid": "465211448",
+    "name": "Advertising Profits From Home",
+    "description": "Hospital Equipment & Supplies",
+    "phone": "(954) 889-4529",
+    "address": "street: 2413 Dewey St location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "549896337",
+    "name": "Advertising Excellence, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(954) 522-8772",
+    "address": "street: PO Box 220555 location: Hollywood, FL 33022"
+  },
+  {
+    "dataYpid": "525176102",
+    "name": "Mc2 Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 374-9925",
+    "address": "street: 3350 SW 148th Ave location: Miramar, FL 33027"
+  },
+  {
+    "dataYpid": "568230102",
+    "name": "Adtech Electric Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 533-3210",
+    "address": "street: 221 W Hallandale Beach Blvd location: Hallandale Beach, FL 33009"
+  },
+  {
+    "dataYpid": "495985594",
+    "name": "FreeAdvertisingNetwork.org",
+    "description": "Marketing Programs & Services",
+    "phone": "(954) 864-5578",
+    "address": "street: 2080 S Ocean Dr Apt 104 location: Hallandale Beach, FL 33009"
+  },
+  {
+    "dataYpid": "544452794",
+    "name": "Engelhardt Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 613-5139",
+    "address": "street: 4000 Hollywood Blvd location: Hollywood, FL 33021"
+  },
+  {
+    "dataYpid": "460139512",
+    "name": "Coastal Advertising & Consulting Corp",
+    "description": "Advertising Agencies",
+    "phone": "(954) 920-0644",
+    "address": "street: 2334 Hollywood Blvd location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "7891402",
+    "name": "Jakubisin Ronald & Associates Inc Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(954) 922-5052",
+    "address": "street: 1841 Monroe St location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "473228246",
+    "name": "Solomon Snow Marketing & Advertising",
+    "description": "Marketing Consultants",
+    "phone": "(954) 920-9646",
+    "address": "street: 2321 Hollywood Blvd location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "22791024",
+    "name": "Salamon Snow Marketing & Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(954) 367-0531",
+    "address": "street: 1942 Harrison St location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "747583",
+    "name": "Edison Advertising Corp",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 443-4101",
+    "address": "street: 10611 London St location: Hollywood, FL 33026"
+  },
+  {
+    "dataYpid": "464397051",
+    "name": "Awesome Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 445-7706",
+    "address": "street: 6440 Pershing St location: Hollywood, FL 33024"
+  },
+  {
+    "dataYpid": "454944350",
+    "name": "Fascinations Imprinted Advertising",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 436-9555",
+    "address": "street: 1554 NW 182nd Ave location: Pembroke Pines, FL 33029"
+  },
+  {
+    "dataYpid": "548336031",
+    "name": "Villa's Clara Advertising Consultants",
+    "description": "Real Estate Management",
+    "phone": "(786) 601-7297",
+    "address": "street: 23659 SW 133rd Ave location: Homestead, FL 33032"
+  },
+  {
+    "dataYpid": "539483512",
+    "name": "Automotive Advertising Associates",
+    "description": "Advertising Specialties",
+    "phone": "(954) 434-4100",
+    "address": "street: 16261 Oneida Pl location: Davie, FL 33331"
+  },
+  {
+    "dataYpid": "457382418",
+    "name": "Graphic Advertising Printing & Engraving, LLC",
+    "description": "N/A",
+    "phone": "(754) 444-0313",
+    "address": "street: 4054 N 30th Ave location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "465349024",
+    "name": "Genius Advertising Agency",
+    "description": "Printing Services",
+    "phone": "(954) 587-0046",
+    "address": "street: 9000 Sheridan St location: Hollywood, FL 33024"
+  },
+  {
+    "dataYpid": "2891006",
+    "name": "Spanish Voices Marketing & Advertising",
+    "description": "Marketing Consultants",
+    "phone": "(954) 981-7949",
+    "address": "street: 121 S 61st Ter location: Hollywood, FL 33023"
+  },
+  {
+    "dataYpid": "467623941",
+    "name": "Promotional Innovative Advertising",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 437-7591",
+    "address": "street: 11569 Gorham Dr location: Hollywood, FL 33026"
+  },
+  {
+    "dataYpid": "19100955",
+    "name": "Roger Deutsch Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 473-0600",
+    "address": "street: 1761 SW 120th Ter location: Davie, FL 33325"
+  },
+  {
+    "dataYpid": "540646760",
+    "name": "Hardcore Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 636-7030",
+    "address": "street: 502 SE 11th Ct location: Fort Lauderdale, FL 33316"
+  },
+  {
+    "dataYpid": "28969660",
+    "name": "Advertising For Surgeons",
+    "description": "Advertising Agencies",
+    "phone": "(833) 311-1004",
+    "address": "street: 110 SE 6th St location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "525671130",
+    "name": "Rieback & David Integrated Marketing and Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 358-1119",
+    "address": "street: 772 NW 100th Ter location: Plantation, FL 33324"
+  },
+  {
+    "dataYpid": "569822691",
+    "name": "Hardcore Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 636-7030",
+    "address": "street: 300 SE 2nd St location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "506497019",
+    "name": "Gold Coast Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 791-6131",
+    "address": "street: 3941 SW 47th St location: Fort Lauderdale, FL 33312"
+  },
+  {
+    "dataYpid": "742069",
+    "name": "Designed Advertising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(954) 583-6762",
+    "address": "street: 5936 SW 44th St location: Davie, FL 33314"
+  },
+  {
+    "dataYpid": "503115017",
+    "name": "AM Publicidad Advertising Org",
+    "description": "Advertising Agencies",
+    "phone": "(954) 391-8557",
+    "address": "street: 233 N Federal Hwy location: Dania, FL 33004"
+  },
+  {
+    "dataYpid": "507282533",
+    "name": "Gold Coast Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 791-6131",
+    "address": "street: 3941 SW 47th Ave location: Davie, FL 33314"
+  },
+  {
+    "dataYpid": "7095321",
+    "name": "Loud And Clear Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(305) 247-0777",
+    "address": "street: 28852 S Dixie Hwy location: Homestead, FL 33033"
+  },
+  {
+    "dataYpid": "464281568",
+    "name": "Mobile Advertising Technology",
+    "description": "Advertising Agencies",
+    "phone": "(786) 787-0413",
+    "address": "street: 3402 SW 26th Ter location: Fort Lauderdale, FL 33312"
+  },
+  {
+    "dataYpid": "385384",
+    "name": "Gold Coast Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 791-6131",
+    "address": "street: 2380 College Ave location: Davie, FL 33317"
+  },
+  {
+    "dataYpid": "493071948",
+    "name": "Media Concepts & Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 949-0540",
+    "address": "street: 2031 SW 70th Ave Ste C21 location: Davie, FL 33317"
+  },
+  {
+    "dataYpid": "21308215",
+    "name": "Rand Searchlight Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 476-7620",
+    "address": "street: 11330 SW 17th St location: Davie, FL 33325"
+  },
+  {
+    "dataYpid": "510961869",
+    "name": "Adfinity Advertising and Signs",
+    "description": "Advertising Specialties",
+    "phone": "(754) 223-4798",
+    "address": "street: 1414 E Harmony Lake Cir location: Davie, FL 33324"
+  },
+  {
+    "dataYpid": "467431856",
+    "name": "Lipof Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 472-9999",
+    "address": "street: 8030 Peters Rd Ste D location: Plantation, FL 33324"
+  },
+  {
+    "dataYpid": "545205408",
+    "name": "Edco Advertising Specialties",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 587-0137",
+    "address": "street: 3702 Davie Blvd location: Fort Lauderdale, FL 33312"
+  },
+  {
+    "dataYpid": "468786433",
+    "name": "Ck Advertising & Design",
+    "description": "Graphic Designers",
+    "phone": "(954) 356-9928",
+    "address": "street: 933 SW 17th St location: Fort Lauderdale, FL 33315"
+  },
+  {
+    "dataYpid": "13329409",
+    "name": "Windmill Advertising Group",
+    "description": "Advertising Specialties",
+    "phone": "(954) 385-1350",
+    "address": "street: 1675 N Commerce Pkwy location: Weston, FL 33326"
+  },
+  {
+    "dataYpid": "516348431",
+    "name": "Golden Traffic Advertising",
+    "description": "Advertising-Shoppers Publications",
+    "phone": "(202) 350-1872",
+    "address": "street: 801 S State Road 7 location: Plantation, FL 33317"
+  },
+  {
+    "dataYpid": "453948566",
+    "name": "Arena Advertising & Sports Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(954) 533-8556",
+    "address": "street: 11870 W State Road 84 location: Davie, FL 33325"
+  },
+  {
+    "dataYpid": "505771433",
+    "name": "UCA Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 372-4606",
+    "address": "street: 8211 W Broward Blvd location: Plantation, FL 33324"
+  },
+  {
+    "dataYpid": "470453927",
+    "name": "R&R Publications & Advertising",
+    "description": "Advertising-Shoppers Publications",
+    "phone": "(954) 867-8838",
+    "address": "street: 7027 W Broward Blvd # 158 location: Plantation, FL 33317"
+  },
+  {
+    "dataYpid": "8135939",
+    "name": "Laser Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 760-4667",
+    "address": "street: 1500 Cordova Rd location: Fort Lauderdale, FL 33316"
+  },
+  {
+    "dataYpid": "497687670",
+    "name": "The Advertising Department",
+    "description": "Advertising Agencies",
+    "phone": "(954) 769-3930",
+    "address": "street: 227 SW 2nd Ave location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "21044271",
+    "name": "Gana Gana Land Advertising & Design, Inc.",
+    "description": "Landscaping & Lawn Services",
+    "phone": "(954) 452-0441",
+    "address": "street: 8232 NW 8th Pl location: Plantation, FL 33324"
+  },
+  {
+    "dataYpid": "548407417",
+    "name": "Ambit Advertising and Public Relations",
+    "description": "Advertising Agencies",
+    "phone": "(954) 568-2100",
+    "address": "street: 401 E Las Olas Blvd location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "454872978",
+    "name": "Advertising Products Corp",
+    "description": "N/A",
+    "phone": "(954) 349-3433",
+    "address": "street: 1112 Weston Rd location: Weston, FL 33326"
+  },
+  {
+    "dataYpid": "562550170",
+    "name": "Automotive Advertisement",
+    "description": "N/A",
+    "phone": "(954) 389-6500",
+    "address": "street: 1045 Woodfall Ct location: Weston, FL 33326"
+  },
+  {
+    "dataYpid": "454887304",
+    "name": "Interspace Airport Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 359-5099",
+    "address": "street: 50 Terminal Dr location: Fort Lauderdale, FL 33315"
+  },
+  {
+    "dataYpid": "475544178",
+    "name": "Aeronet Advertising",
+    "description": "Web Site Hosting",
+    "phone": "(954) 476-2407",
+    "address": "street: 1970 SW 115th Ave location: Davie, FL 33325"
+  },
+  {
+    "dataYpid": "473138779",
+    "name": "Martini & Partners Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 562-7950",
+    "address": "street: 2248 SW 14th Ct location: Fort Lauderdale, FL 33312"
+  },
+  {
+    "dataYpid": "14532829",
+    "name": "Adbit's Advertising & Pr",
+    "description": "Advertising Agencies",
+    "phone": "(954) 467-8420",
+    "address": "street: 1003 SE 17th St location: Fort Lauderdale, FL 33316"
+  },
+  {
+    "dataYpid": "6961921",
+    "name": "Downtown Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 376-4780",
+    "address": "street: 4 W Las Olas Blvd location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "3664119",
+    "name": "Tower Advertising Group",
+    "description": "Advertising Specialties",
+    "phone": "(954) 627-3450",
+    "address": "street: 110 E Broward Blvd location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "8122760",
+    "name": "Harris & Drury Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 489-0611",
+    "address": "street: 1901 W Cypress Creek Rd location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "19175752",
+    "name": "D Signs for Mobile Graphics Advertising",
+    "description": "Signs",
+    "phone": "(954) 733-3764",
+    "address": "street: 3405 Lime Hill Rd location: Lauderhill, FL 33319"
+  },
+  {
+    "dataYpid": "503937734",
+    "name": "Creative Advertising Promotions",
+    "description": "Clothing Stores",
+    "phone": "(954) 623-3000",
+    "address": "street: 1975 E Sunrise Blvd Ste 816 location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "516342446",
+    "name": "Sofibiz Advertisement",
+    "description": "Advertising Agencies",
+    "phone": "(954) 870-7190",
+    "address": "street: 7481 W Oakland Park Blvd location: Tamarac, FL 33319"
+  },
+  {
+    "dataYpid": "496716278",
+    "name": "Springboard Advertising/Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 655-8368",
+    "address": "street: 408 NE 6th St location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "14535359",
+    "name": "PLP Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 567-1455",
+    "address": "street: 200 NE 44th St location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "564736011",
+    "name": "Zebra Advertisement",
+    "description": "Advertising Agencies",
+    "phone": "(305) 974-4204",
+    "address": "street: 800 E Broward Blvd location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "496505440",
+    "name": "Automotive Advertising Associates",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 389-6500",
+    "address": "street: 362 Lake Crest Ct location: Weston, FL 33326"
+  },
+  {
+    "dataYpid": "485284900",
+    "name": "Advertising Concepts Of America Inc",
+    "description": "Commercials-Radio & Television",
+    "phone": "(954) 764-8864",
+    "address": "street: 233 NE 3rd Ave location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "13218965",
+    "name": "Graphic Advertising",
+    "description": "Graphic Designers",
+    "phone": "(954) 587-1451",
+    "address": "street: 3291 W Sunrise Blvd location: Fort Lauderdale, FL 33311"
+  },
+  {
+    "dataYpid": "508714252",
+    "name": "Ambit Advertising and Public Relations",
+    "description": "Advertising Agencies",
+    "phone": "(954) 524-8864",
+    "address": "street: 19 NW 5th St location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "481832365",
+    "name": "Kind Design Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 467-5463",
+    "address": "street: 901 Progresso Dr location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "6473742",
+    "name": "Lipof Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 472-9999",
+    "address": "street: 1880 N University Dr location: Plantation, FL 33322"
+  },
+  {
+    "dataYpid": "5199913",
+    "name": "Myers Myers & Adams Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(954) 523-6262",
+    "address": "street: 938 N Victoria Park Rd location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "505167043",
+    "name": "Springboard Advertising/Design",
+    "description": "Advertising Agencies",
+    "phone": "(954) 655-8368",
+    "address": "street: 720 Orton Ave Apt 303 location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "475880921",
+    "name": "Truckside Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(954) 557-7339",
+    "address": "street: 1975 E Sunrise Blvd Ste 800 location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "536949657",
+    "name": "Mass Traffic Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(202) 350-1872",
+    "address": "street: 2598 East Sunrise Blvd location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "480859285",
+    "name": "Downtown Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 376-4780",
+    "address": "street: 1040 Seminole Dr location: Fort Lauderdale, FL 33304"
+  },
+  {
+    "dataYpid": "12929707",
+    "name": "Boca Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 302-1844",
+    "address": "street: 124 Glades Cir Ste 139 location: Weston, FL 33327"
+  },
+  {
+    "dataYpid": "468541841",
+    "name": "ADVERTISING SPECIALTIES INC.",
+    "description": "Directory & Guide Advertising",
+    "phone": "(888) 920-7284",
+    "address": "street: 2950 Glades Cir Ste 16 location: Weston, FL 33327"
+  },
+  {
+    "dataYpid": "29374671",
+    "name": "Torque Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 566-4963",
+    "address": "street: 1719 NE 17th St location: Fort Lauderdale, FL 33305"
+  },
+  {
+    "dataYpid": "5179235",
+    "name": "Brainstorms Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 564-2424",
+    "address": "street: 2201 Wilton Dr location: Wilton Manors, FL 33305"
+  },
+  {
+    "dataYpid": "542596130",
+    "name": "Emagine Creations Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 406-6800",
+    "address": "street: 3626 NW 82nd Ter location: Sunrise, FL 33351"
+  },
+  {
+    "dataYpid": "534173347",
+    "name": "Anything But Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 227-8867",
+    "address": "street: 2601 NE 14th Ave location: Wilton Manors, FL 33334"
+  },
+  {
+    "dataYpid": "536372666",
+    "name": "Experience Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 742-0345",
+    "address": "street: 10218 NW 47th St location: Sunrise, FL 33351"
+  },
+  {
+    "dataYpid": "460119681",
+    "name": "H and H Advertising Solutions Inc",
+    "description": "Advertising Specialties",
+    "phone": "(954) 530-1705",
+    "address": "street: 1699 E Oakland Park Blvd location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "495589951",
+    "name": "Madsen Advertising",
+    "description": "Print Advertising",
+    "phone": "(954) 990-6549",
+    "address": "street: 3455 NE 12th Ter Ste 20 location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "534466541",
+    "name": "Jdoc Advertising and Marketing",
+    "description": "Advertising Specialties",
+    "phone": "(954) 530-8628",
+    "address": "street: 2734 E Oakland Park Blvd Ste 110 location: Fort Lauderdale, FL 33306"
+  },
+  {
+    "dataYpid": "559699421",
+    "name": "Jdoc Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(954) 909-5948",
+    "address": "street: 2787 E Oakland Park Blvd location: Fort Lauderdale, FL 33306"
+  },
+  {
+    "dataYpid": "497893328",
+    "name": "Experience Advertising",
+    "description": "Transit Advertising",
+    "phone": "(954) 742-0345",
+    "address": "street: 10871 NW 52nd St Ste 9 location: Sunrise, FL 33351"
+  },
+  {
+    "dataYpid": "488844540",
+    "name": "Baxter Martin Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 563-0602",
+    "address": "street: 3471 N Federal Hwy location: Fort Lauderdale, FL 33306"
+  },
+  {
+    "dataYpid": "16586318",
+    "name": "Advertising agency Intl INC",
+    "description": "Advertising-Promotional Products",
+    "phone": "(954) 734-9015",
+    "address": "street: 3511 W Commercial Blvd Ste 1301 location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "537680579",
+    "name": "Fox Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 369-0604",
+    "address": "street: 2881 E Oakland Park Blvd location: Fort Lauderdale, FL 33306"
+  },
+  {
+    "dataYpid": "12015569",
+    "name": "Herman Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 565-3102",
+    "address": "street: 450 NE 44th St location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "511170372",
+    "name": "Zimmerman Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(954) 644-4000",
+    "address": "street: 2200 W Commercial Blvd location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "480864912",
+    "name": "Aaron Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(954) 566-4030",
+    "address": "street: 3500 Galt Ocean Dr location: Fort Lauderdale, FL 33308"
+  },
+  {
+    "dataYpid": "476072784",
+    "name": "Advanced Media Advertising",
+    "description": "Advertising-Broadcast & Film",
+    "phone": "(805) 637-5200",
+    "address": "street: Serving Southeast Florida location: Fort Lauderdale, FL 33307"
+  },
+  {
+    "dataYpid": "571803182",
+    "name": "Polaris Advertising LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(818) 208-5818",
+    "address": "street: 1326 E Commercial Blvd PMB 3036 location: Fort Lauderdale, FL 33334"
+  },
+  {
+    "dataYpid": "464301721",
+    "name": "M P Advertising",
+    "description": "Printing Services-Commercial",
+    "phone": "(954) 971-6220",
+    "address": "street: 6033 NW 31st Ave location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "483617521",
+    "name": "John Forsyth Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 938-2050",
+    "address": "street: 5200 N Federal Hwy location: Fort Lauderdale, FL 33308"
+  },
+  {
+    "dataYpid": "509975886",
+    "name": "A Publicidad Advertising",
+    "description": "N/A",
+    "phone": "(954) 530-8830",
+    "address": "street: 2895 NE 26th Pl location: Fort Lauderdale, FL 33306"
+  },
+  {
+    "dataYpid": "474180141",
+    "name": "Myers Myers & Adams Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(954) 523-6262",
+    "address": "street: 1616 NE 5th Ct location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "9998347",
+    "name": "Greene Beech Advertising Design Group",
+    "description": "Advertising Specialties",
+    "phone": "(954) 771-6500",
+    "address": "street: 509 NE 3rd Ave location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "456900297",
+    "name": "Direct Web Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 762-3404",
+    "address": "street: 1511 NE 4th Pl location: Fort Lauderdale, FL 33301"
+  },
+  {
+    "dataYpid": "14234439",
+    "name": "Seitz Inc Advertising & Promotion",
+    "description": "Advertising Agencies",
+    "phone": "(954) 970-3394",
+    "address": "street: 1350 NW 9th Ave location: Fort Lauderdale, FL 33311"
+  },
+  {
+    "dataYpid": "22888450",
+    "name": "Aaron Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 381-8000",
+    "address": "street: 4825 N Dixie Hwy location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "10274578",
+    "name": "Seitz Inc Advertising & Promotion",
+    "description": "Advertising Agencies",
+    "phone": "(954) 970-3394",
+    "address": "street: 1350 S Powerline Rd location: Pompano Beach, FL 33069"
+  },
+  {
+    "dataYpid": "5548140",
+    "name": "Herman Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 772-0503",
+    "address": "street: 6400 N Andrews Ave location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "464441708",
+    "name": "Brand X Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 972-7453",
+    "address": "street: 6855 NW 23rd Ter location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "538437926",
+    "name": "Transformatic Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(954) 573-0148",
+    "address": "street: 8771 Holly Ct location: Tamarac, FL 33321"
+  },
+  {
+    "dataYpid": "497749524",
+    "name": "Zimmerman Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 644-4000",
+    "address": "street: 6600 N Andrews Ave location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "561087279",
+    "name": "Iman Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(844) 462-6836",
+    "address": "street: 8050 N University Dr location: Tamarac, FL 33321"
+  },
+  {
+    "dataYpid": "545916627",
+    "name": "Big Card Advertising",
+    "description": "Advertising-Shoppers Publications",
+    "phone": "(954) 773-6241",
+    "address": "street: 2637 East Atlantic Blvd. location: Pompano Beach, FL 33062"
+  },
+  {
+    "dataYpid": "520753307",
+    "name": "JB Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(954) 298-9530",
+    "address": "street: 1300 SW 82nd Ave location: North Lauderdale, FL 33068"
+  },
+  {
+    "dataYpid": "8742436",
+    "name": "C R Advertising Associates",
+    "description": "Advertising Specialties",
+    "phone": "(954) 771-7858",
+    "address": "street: 5554 N Federal Hwy location: Fort Lauderdale, FL 33308"
+  },
+  {
+    "dataYpid": "457751930",
+    "name": "James Ross Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 974-6640",
+    "address": "street: 1180 SW 36th Ave location: Pompano Beach, FL 33069"
+  },
+  {
+    "dataYpid": "464403865",
+    "name": "Phoenix Publications & Advertising, Inc.",
+    "description": "Directory & Guide Advertising",
+    "phone": "(954) 786-0227",
+    "address": "street: 2637 E Atlantic Blvd # 171 location: Pompano Beach, FL 33062"
+  },
+  {
+    "dataYpid": "533779757",
+    "name": "Treatment Advertising Solutions",
+    "description": "Advertising Specialties",
+    "phone": "(954) 960-5153",
+    "address": "street: 2641 E Atlantic Blvd Ste 309 location: Pompano Beach, FL 33062"
+  },
+  {
+    "dataYpid": "473819860",
+    "name": "Allied Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 229-9030",
+    "address": "street: 6400 N Andrews Ave location: Fort Lauderdale, FL 33309"
+  },
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "453386447",
+    "name": "Concept Cafe Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(786) 533-1840",
+    "address": "street: N/A location: Hialeah, FL 33010"
+  },
+  {
+    "dataYpid": "455253261",
+    "name": "L.F.A. Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(305) 331-5487",
+    "address": "street: N/A location: Coral Gables, FL 33134"
+  },
+  {
+    "dataYpid": "576616343",
+    "name": "305 Marketing & Advertising",
+    "description": "Advertising-Promotional Products",
+    "phone": "(305) 796-4898",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "467203636",
+    "name": "Advertise globel",
+    "description": "Advertising Specialties",
+    "phone": "(242) 454-5980",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "574302613",
+    "name": "Michael Haupert, Miami Digital Marketing Consultant, Advertising, Social Media Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(786) 635-5574",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "9874699",
+    "name": "Spanish TV Advertising",
+    "description": "Commercials-Radio & Television",
+    "phone": "(786) 267-2640",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "14408369",
+    "name": "Las Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(305) 822-4545",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "16480243",
+    "name": "Ryder & Schild Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 854-0580",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "16644423",
+    "name": "Ahead Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(305) 273-6040",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "454040639",
+    "name": "Advertising Edge Assoc.",
+    "description": "Marketing Consultants",
+    "phone": "(786) 327-7099",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "461614781",
+    "name": "Creative Ideas Advertising, Inc.",
+    "description": "Outdoor Advertising",
+    "phone": "(305) 358-5644",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "461615663",
+    "name": "Edison Advertising Corp",
+    "description": "Advertising-Promotional Products",
+    "phone": "(305) 249-9766",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "467355380",
+    "name": "Pixel Graphics Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(305) 718-0595",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "501717280",
+    "name": "All-Ways Advertising Co",
+    "description": "Advertising Agencies",
+    "phone": "(305) 653-7588",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "574902450",
+    "name": "Executive Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(305) 597-5454",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "461823108",
+    "name": "EMC Marketing & Advertising, Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(786) 663-9813",
+    "address": "street: N/A location: Hialeah, FL 33018"
+  },
+  {
+    "dataYpid": "526205435",
+    "name": "Facebook social media advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(305) 896-5471",
+    "address": "street: 2450 W 82nd St location: hialeah, FL 33016"
+  },
+  {
+    "dataYpid": "510648552",
+    "name": "JRM Advertising - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 7700 SW 146th Ter location: Palmetto Bay, FL 33158"
+  },
+  {
+    "dataYpid": "15640990",
+    "name": "Argiz Advertising - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 5927 Sheridan St location: Hollywood, FL 33021"
+  },
+  {
+    "dataYpid": "14013844",
+    "name": "AMP Advertising - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 2700 N 29th Ave Ste 106 location: Hollywood, FL 33020"
+  },
+  {
+    "dataYpid": "481062110",
+    "name": "Adam Hill Advertising Corp - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 9001 SW 55th Ct location: Cooper City, FL 33328"
+  },
+  {
+    "dataYpid": "459479766",
+    "name": "Adam Hill Advertising Corporation - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "N/A",
+    "address": "street: 2699 Stirling Rd Ste B301 location: Fort Lauderdale, FL 33312"
+  },
+  {
+    "dataYpid": "468581830",
+    "name": "S E Marketing & Advertising - CLOSED",
+    "description": "Marketing Programs & Services",
+    "phone": "N/A",
+    "address": "street: 874 SW 10th Dr location: Pompano Beach, FL 33060"
+  },
+  {
+    "dataYpid": "460352529",
+    "name": "Christopher Advertising Group - CLOSED",
+    "description": "N/A",
+    "phone": "N/A",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "22961528",
+    "name": "Instant Signs",
+    "description": "Document Imaging",
+    "phone": "(786) 802-1641",
+    "address": "street: 4701 SW 72nd Ave location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "545103543",
+    "name": "National Claims Consultants",
+    "description": "Advertising Agencies",
+    "phone": "(786) 438-0305",
+    "address": "street: 4909 SW 74th Ct location: Miami, FL 33155"
+  },
+  {
+    "dataYpid": "459694105",
+    "name": "Triple S International Inc",
+    "description": "Exporters",
+    "phone": "(305) 859-3248",
+    "address": "street: 8645 NW 61st St location: Miami, FL 33166"
+  },
+  {
+    "dataYpid": "465261087",
+    "name": "Green DOT Advertsing",
+    "description": "Advertising Agencies",
+    "phone": "(305) 674-8406",
+    "address": "street: 5400 NE 4th Ct Ste 3 location: Miami, FL 33137"
+  },
+  {
+    "dataYpid": "6265438",
+    "name": "Rafa Advertisting Corp",
+    "description": "Advertising Agencies",
+    "phone": "(305) 887-8879",
+    "address": "street: 9016 NW 105th Way location: Medley, FL 33178"
+  },
+  {
+    "dataYpid": "6886205",
+    "name": "Clear Channel Outdoor",
+    "description": "Outdoor Advertising",
+    "phone": "(786) 530-5039",
+    "address": "street: 5800 NW 77th Ct location: Doral, FL 33166"
+  },
+  {
+    "dataYpid": "503303324",
+    "name": "JMG Adverstising",
+    "description": "Advertising Agencies",
+    "phone": "(954) 965-9791",
+    "address": "street: 2544 N State Road 7 location: Hollywood, FL 33021"
+  },
+  {
+    "dataYpid": "451068780",
+    "name": "Prospect Plastics",
+    "description": "Signs",
+    "phone": "(754) 900-4447",
+    "address": "street: 836 NE 44th St location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "9838100",
+    "name": "Gratefull Thread",
+    "description": "T-Shirts",
+    "phone": "(954) 572-8383",
+    "address": "street: 10158 NW 47th St location: Sunrise, FL 33351"
+  },
+  {
+    "dataYpid": "13967994",
+    "name": "Reel Web Adveritising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(954) 771-3325",
+    "address": "street: 4520 NE 16th Ave location: Oakland Park, FL 33334"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "546974868",
+    "name": "Banner Marketing Group",
+    "description": "Flags, Flagpoles & Accessories",
+    "phone": "(805) 528-5018",
+    "address": "street: N/A location: N/A"
+  }
+]

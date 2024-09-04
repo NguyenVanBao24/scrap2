@@ -1,0 +1,807 @@
+[
+  {
+    "dataYpid": "464325984",
+    "name": "Jordan Crossing Sign Shop",
+    "description": "Signs",
+    "phone": "(850) 926-5188",
+    "address": "street: 22 Leslie Cir location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "478012519",
+    "name": "R L B Construction Conslnt",
+    "description": "Advertising Agencies",
+    "phone": "(850) 926-7761",
+    "address": "street: PO Box 1573 location: Crawfordville, FL 32326"
+  },
+  {
+    "dataYpid": "28638653",
+    "name": "Ink Blot Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(850) 345-7940",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "481012259",
+    "name": "Zimmerman Agency",
+    "description": "Advertising Agencies",
+    "phone": "(850) 877-1521",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "526510009",
+    "name": "Enjoy Gujarat",
+    "description": "Advertising Agencies",
+    "phone": "(740) 551-1273",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "572087819",
+    "name": "HARN Digital",
+    "description": "Advertising Agencies",
+    "phone": "(850) 597-0838",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "495666660",
+    "name": "Chamillah Designs",
+    "description": "Advertising Agencies",
+    "phone": "(727) 492-1699",
+    "address": "street: N/A location: Tallahassee, FL 32308"
+  },
+  {
+    "dataYpid": "465518553",
+    "name": "EZLocal.com",
+    "description": "Advertising Agencies",
+    "phone": "(850) 408-1604",
+    "address": "street: N/A location: Tallahassee, FL 32312"
+  },
+  {
+    "dataYpid": "539092703",
+    "name": "Tallahassee Lighting & Fan - Repair & Restoration / Same Day Service",
+    "description": "Lighting Consultants & Designers",
+    "phone": "(850) 815-8537",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "717338",
+    "name": "Wakulla Sign Co",
+    "description": "Signs",
+    "phone": "(850) 421-2301",
+    "address": "street: 466 Woodville Hwy location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "468055132",
+    "name": "G-Signs",
+    "description": "Signs",
+    "phone": "(850) 926-1601",
+    "address": "street: 3055 Crawfordville Hwy location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "532540476",
+    "name": "Modern Mailers",
+    "description": "Direct Mail Advertising",
+    "phone": "(850) 745-6397",
+    "address": "street: 933 Whiddon Lake Rd location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "480049116",
+    "name": "Simply Done Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 228-5110",
+    "address": "street: 1884 Woodville Hwy location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "468670996",
+    "name": "PrestigiousCreations",
+    "description": "Advertising Specialties",
+    "phone": "(850) 544-7884",
+    "address": "street: 89 Tickie Ridge Cir location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "475583837",
+    "name": "Core Graphics & Signs LLC",
+    "description": "Signs",
+    "phone": "(850) 545-4516",
+    "address": "street: N/A location: Tallahassee, FL 32309"
+  },
+  {
+    "dataYpid": "455253289",
+    "name": "Element Pool Design",
+    "description": "Interactive Media",
+    "phone": "(850) 366-2851",
+    "address": "street: N/A location: Tallahassee, FL 32312"
+  },
+  {
+    "dataYpid": "484688971",
+    "name": "Custom Graphic Transformations",
+    "description": "Signs",
+    "phone": "(850) 371-2090",
+    "address": "street: N/A location: Perry, FL 32347"
+  },
+  {
+    "dataYpid": "467052753",
+    "name": "Digi 10 Media",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 809-3967",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "480611082",
+    "name": "Brazilius Web Solutions",
+    "description": "Interactive Media",
+    "phone": "(786) 264-2747",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "452228317",
+    "name": "ZAMZUU'S INTERNET BUSINESS CENTER",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 329-6177",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "14354572",
+    "name": "Vera Voices",
+    "description": "Advertising Specialties",
+    "phone": "(850) 321-9514",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "548785184",
+    "name": "A T-Shirt Prince",
+    "description": "Screen Printing",
+    "phone": "(561) 792-1415",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "465168764",
+    "name": "Thinking Thrifty",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 555-1234",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "475561682",
+    "name": "Modern Mailers Inc",
+    "description": "Mail & Shipping Services",
+    "phone": "(850) 877-0613",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "1965125",
+    "name": "Lobby Tools Inc",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 915-0142",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "474596483",
+    "name": "mywebmarket.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 766-2711",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "454913678",
+    "name": "The Sign Shop",
+    "description": "Signs",
+    "phone": "(850) 223-3471",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "530392586",
+    "name": "Lovelady",
+    "description": "Signs",
+    "phone": "(850) 893-0674",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "560334520",
+    "name": "Jensen Signs",
+    "description": "Advertising Specialties",
+    "phone": "(850) 792-2764",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "465420666",
+    "name": "Emerald Coast Striping",
+    "description": "Signs",
+    "phone": "(850) 574-3831",
+    "address": "street: 4454 Entrepot Blvd. location: Tallahassee, FL 32310"
+  },
+  {
+    "dataYpid": "5668221",
+    "name": "Lamar Advertising Co",
+    "description": "Advertising Agencies",
+    "phone": "(850) 877-4184",
+    "address": "street: 4706 Capital Cir SW location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "481254974",
+    "name": "Prime Digital Network",
+    "description": "Advertising Agencies",
+    "phone": "(850) 320-6396",
+    "address": "street: 3712 Crawfordville Rd location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "6248690",
+    "name": "Pruitt Humphress Powers & Munroe",
+    "description": "Advertising Agencies",
+    "phone": "(850) 222-1212",
+    "address": "street: 25 Saint Marks Rivers Edge Dr location: Crawfordville, FL 32327"
+  },
+  {
+    "dataYpid": "534292518",
+    "name": "My-Omni-Shop.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 760-7177",
+    "address": "street: 3927 Crawfordville Rd location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "472472145",
+    "name": "Dice Promotions",
+    "description": "Advertising Specialties",
+    "phone": "(850) 597-7081",
+    "address": "street: 4013 Woodville Hwy location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "538571210",
+    "name": "Myflorida.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 487-4196",
+    "address": "street: 4050 Esplanade Way location: Tallahassee, FL 32311"
+  },
+  {
+    "dataYpid": "2343772",
+    "name": "Florida Logos Inc",
+    "description": "Signs",
+    "phone": "(850) 656-5933",
+    "address": "street: 4706 Capital Cir SW location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "481276191",
+    "name": "Durra-Print",
+    "description": "Advertising Agencies",
+    "phone": "(850) 583-6395",
+    "address": "street: 3044 W Tharpe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "9689638",
+    "name": "Express Printing, Mailing & Copying",
+    "description": "Printing Services-Commercial",
+    "phone": "(850) 222-9777",
+    "address": "street: 927 N Monroe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "6176351",
+    "name": "Goodson J S & Partners Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 878-2322",
+    "address": "street: 1351 E Lafayette St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "9836381",
+    "name": "Thinkcreative",
+    "description": "Advertising Agencies",
+    "phone": "(850) 656-7050",
+    "address": "street: 304 W College Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "480210628",
+    "name": "STREET ADVERTISING...",
+    "description": "Advertising Agencies",
+    "phone": "(850) 274-3153",
+    "address": "street: 480 W Tennessee St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "752885",
+    "name": "Gelhardt Graphics",
+    "description": "Advertising Agencies",
+    "phone": "(850) 877-6185",
+    "address": "street: 902 Brookwood Dr location: Tallahassee, FL 32308"
+  },
+  {
+    "dataYpid": "8012079",
+    "name": "Florida Outdoor Advertising Association",
+    "description": "Advertising Agencies",
+    "phone": "(850) 224-5838",
+    "address": "street: 314 N Gadsden St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "538578677",
+    "name": "The Social Source, LLC",
+    "description": "Advertising Agencies",
+    "phone": "(850) 273-8439",
+    "address": "street: 799 W Gaines St location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "567726443",
+    "name": "Moxxi Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(239) 330-6236",
+    "address": "street: 300 W Pensacola St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "548586041",
+    "name": "223 Agency",
+    "description": "Advertising Agencies",
+    "phone": "(833) 850-8324",
+    "address": "street: 223 W Carolina St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "551542461",
+    "name": "LocaliQ",
+    "description": "Advertising Agencies",
+    "phone": "(877) 525-6084",
+    "address": "street: 277 N Magnolia Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "550749801",
+    "name": "Reach America Media",
+    "description": "Advertising Agencies",
+    "phone": "(850) 273-8473",
+    "address": "street: 835 E Park Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "3791362",
+    "name": "Perez Lynch & Partners Inc",
+    "description": "Advertising Agencies",
+    "phone": "(850) 224-7204",
+    "address": "street: 738 E Park Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "28613268",
+    "name": "Sammons Media",
+    "description": "Advertising Agencies",
+    "phone": "(850) 671-4371",
+    "address": "street: 313 Williams St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "559535202",
+    "name": "Goodson J S & Partners Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 878-2322",
+    "address": "street: 2829 Par Ln location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "571671955",
+    "name": "Eighty 8 Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(448) 488-9690",
+    "address": "street: 1020 E Lafayette St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "533083006",
+    "name": "Clec Itc Deltacom-4616",
+    "description": "Advertising Agencies",
+    "phone": "(850) 656-7050",
+    "address": "street: 304 W College Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "514703491",
+    "name": "Sachs Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(850) 222-1996",
+    "address": "street: 114 S Duval St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "23238193",
+    "name": "St John & Partners",
+    "description": "Advertising Agencies",
+    "phone": "(850) 656-4236",
+    "address": "street: 250 Marriott Dr location: Tallahassee, FL 32399"
+  },
+  {
+    "dataYpid": "532194150",
+    "name": "Ppk",
+    "description": "Advertising Agencies",
+    "phone": "(850) 329-2109",
+    "address": "street: 725 E Park Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "571997652",
+    "name": "Captiveyes Inc",
+    "description": "Advertising Agencies",
+    "phone": "(850) 391-0752",
+    "address": "street: 835 E Park Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "528415666",
+    "name": "Pod Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 597-8374",
+    "address": "street: 124 Marriott Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "15713090",
+    "name": "Hull Stephen D Inc",
+    "description": "Advertising Agencies",
+    "phone": "(850) 681-8535",
+    "address": "street: 811 E Call St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "482568431",
+    "name": "Hubze Inc",
+    "description": "Advertising Agencies",
+    "phone": "(850) 597-8077",
+    "address": "street: 501 E Tennessee St Ste D location: Tallahassee, FL 32308"
+  },
+  {
+    "dataYpid": "7237365",
+    "name": "Cuneo Creative Consultants",
+    "description": "Advertising Agencies",
+    "phone": "(850) 402-0027",
+    "address": "street: 1406 Hays St Ste 1 location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "496995035",
+    "name": "Cuneo Creative Consultants",
+    "description": "Advertising Agencies",
+    "phone": "(850) 402-0027",
+    "address": "street: 416 N Adams St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "533541376",
+    "name": "Nuance Agency",
+    "description": "Advertising Agencies",
+    "phone": "(850) 524-3129",
+    "address": "street: 313 Williams St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "457133545",
+    "name": "Tallahassee Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 728-4322",
+    "address": "street: 1311 Executive Center Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "458148796",
+    "name": "National-Marketplace.com",
+    "description": "Advertising Agencies",
+    "phone": "(850) 276-9894",
+    "address": "street: 480 W Tennessee St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "12609796",
+    "name": "Adventures In Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 224-6819",
+    "address": "street: 292 N Magnolia Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "470672762",
+    "name": "Adventures in Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 224-6819",
+    "address": "street: 507 Concord Rd location: Tallahassee, FL 32308"
+  },
+  {
+    "dataYpid": "503235765",
+    "name": "Specialty Sportswear & Promotions LLC",
+    "description": "Advertising Agencies",
+    "phone": "(850) 350-3723",
+    "address": "street: 1500 Capital Cir SE location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "473693541",
+    "name": "The Pod Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 597-8374",
+    "address": "street: 502 E Park Ave location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "10065576",
+    "name": "TCB Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(850) 574-6758",
+    "address": "street: 2818 S Monroe St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "7228015",
+    "name": "ALCOM, Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(850) 385-7762",
+    "address": "street: 508 Capital Cir SE Ste D3 location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "7998425",
+    "name": "Bidavilla Com",
+    "description": "Advertising Agencies",
+    "phone": "(850) 383-8587",
+    "address": "street: 903 N Monroe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "517410491",
+    "name": "Speed Promotions",
+    "description": "Advertising Agencies",
+    "phone": "(850) 405-0596",
+    "address": "street: 702 Stafford St location: Tallahassee, FL 32305"
+  },
+  {
+    "dataYpid": "10506665",
+    "name": "Visual Solutions",
+    "description": "Advertising Specialties",
+    "phone": "(850) 224-4252",
+    "address": "street: 1105 N Monroe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "3436585",
+    "name": "Super Signs",
+    "description": "Signs-Erectors & Hangers",
+    "phone": "(850) 422-1883",
+    "address": "street: 1706 The Capitol Suite 1 location: Tallahassee, FL 32399"
+  },
+  {
+    "dataYpid": "13695891",
+    "name": "Bill's Signs & Service Inc",
+    "description": "Signs-Maintenance & Repair",
+    "phone": "(850) 576-6847",
+    "address": "street: 5765 Mandy Ln location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "5424511",
+    "name": "Eyecatcher Signs Graphics",
+    "description": "Signs",
+    "phone": "(850) 574-7446",
+    "address": "street: 2622 W Tennessee St location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "482496213",
+    "name": "Clothesline",
+    "description": "Embroidery",
+    "phone": "(850) 877-9171",
+    "address": "street: 1369 E Lafayette St Ste A location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "550816695",
+    "name": "Signarama Tallahassee, FL",
+    "description": "Signs",
+    "phone": "(850) 656-3200",
+    "address": "street: 897 N Monroe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "561802653",
+    "name": "Signs Now",
+    "description": "Signs",
+    "phone": "(850) 383-6500",
+    "address": "street: 1551 Capital Cir SE Ste 6 location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "20951238",
+    "name": "Target Copy",
+    "description": "Printing Services",
+    "phone": "(850) 224-3007",
+    "address": "street: 635 W Tennessee St location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "1961407",
+    "name": "Full Moon Signs & Graphics",
+    "description": "Signs",
+    "phone": "(850) 877-6683",
+    "address": "street: 2836 Industrial Plaza Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "3380870",
+    "name": "Lithohaus Printers Inc",
+    "description": "Direct Mail Advertising",
+    "phone": "(850) 671-6600",
+    "address": "street: 2843 Industrial Plaza Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "513215629",
+    "name": "ROI Town",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 566-4990",
+    "address": "street: 304 N Meridian St Apt 6 location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "16797481",
+    "name": "Tallahassee Democrat",
+    "description": "Printing Services-Commercial",
+    "phone": "(850) 599-2100",
+    "address": "street: 277 N Magnolia Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "460671836",
+    "name": "Web Traffic Consultants",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 325-0791",
+    "address": "street: 206 Grace St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "14233882",
+    "name": "Sauls Signs",
+    "description": "Signs",
+    "phone": "(850) 222-0975",
+    "address": "street: 810 S M L King Jr Blvd location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "6403864",
+    "name": "Sign Solutions Inc",
+    "description": "Signs",
+    "phone": "(850) 562-7446",
+    "address": "street: 220 N Duval St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "475825642",
+    "name": "Signs Now",
+    "description": "Signs",
+    "phone": "(850) 383-6500",
+    "address": "street: 500 Capital Cir SE Unit NULL location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "460691105",
+    "name": "MS Sign",
+    "description": "Signs",
+    "phone": "(850) 656-6256",
+    "address": "street: 1325 Mahan Dr location: Tallahassee, FL 32308"
+  },
+  {
+    "dataYpid": "3037632",
+    "name": "The Sign Shop",
+    "description": "Signs",
+    "phone": "(850) 656-6611",
+    "address": "street: 654 Capital Cir NE Ste A location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "502789630",
+    "name": "Old Elpaso Coffee Co",
+    "description": "Direct Mail Advertising",
+    "phone": "(850) 402-0119",
+    "address": "street: 1540 Pine Forest Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "503605218",
+    "name": "Modular Mailing Systems Inc",
+    "description": "Direct Mail Advertising",
+    "phone": "(850) 402-1647",
+    "address": "street: 1891 Capital Cir SE location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "507484675",
+    "name": "Tallahasseelocals.Com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 405-5993",
+    "address": "street: 1200 Tampa Dr location: Tallahassee, FL 32311"
+  },
+  {
+    "dataYpid": "474390164",
+    "name": "GulfStar Innovations, LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 587-2940",
+    "address": "street: 75 N Woodward Ave # 8000-1738 location: Tallahassee, FL 32313"
+  },
+  {
+    "dataYpid": "9529431",
+    "name": "Velocity Online",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 205-4638",
+    "address": "street: 215 W Carolina St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "574494789",
+    "name": "Ziffer Stansberrv Advertising & Public Relations",
+    "description": "Public Relations Counselors",
+    "phone": "(850) 668-0010",
+    "address": "street: 3166 Baringer Hill Dr location: Tallahassee, FL 32311"
+  },
+  {
+    "dataYpid": "472599713",
+    "name": "Clutch Enterprises",
+    "description": "Advertising Specialties",
+    "phone": "(850) 549-9272",
+    "address": "street: 2903 Jim Lee Rd location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "575385190",
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(850) 656-3200",
+    "address": "street: 2289 Lake Bradford Rd location: Tallahassee, FL 32310"
+  },
+  {
+    "dataYpid": "480152985",
+    "name": "Work for Home",
+    "description": "Market Research & Analysis",
+    "phone": "(850) 320-8554",
+    "address": "street: 1201 Blairstone Rd location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "541027465",
+    "name": "Super Signs",
+    "description": "Advertising Specialties",
+    "phone": "(850) 422-1883",
+    "address": "street: 1519 Capital Cir SE location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "526827853",
+    "name": "EMG Design & Printing",
+    "description": "Business Cards",
+    "phone": "(850) 553-1299",
+    "address": "street: 2312 Apalachee Pkwy Ste 3 location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "21657137",
+    "name": "Eyecatcher Signs Graphics Engravers & Screenprinting",
+    "description": "Signs",
+    "phone": "(850) 574-7746",
+    "address": "street: 2262 W Tennessee St location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "531378125",
+    "name": "Alcom Marketing & Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(850) 385-7762",
+    "address": "street: 508 Capital Cir SE location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "534819092",
+    "name": "Signs By Tomorrow",
+    "description": "Signs",
+    "phone": "(850) 383-6500",
+    "address": "street: 500 Capital Cir SE location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "498806128",
+    "name": "Ansun",
+    "description": "Advertising Specialties",
+    "phone": "(850) 345-5608",
+    "address": "street: 800 Ocala Rd location: Tallahassee, FL 32304"
+  },
+  {
+    "dataYpid": "451189653",
+    "name": "Ad-Max",
+    "description": "Advertising Specialties",
+    "phone": "(850) 309-1400",
+    "address": "street: 2940 E Park Ave Ste C location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "483635506",
+    "name": "Sign Design Promotions",
+    "description": "Advertising Specialties",
+    "phone": "(850) 320-6120",
+    "address": "street: 831 N Monroe St location: Tallahassee, FL 32303"
+  },
+  {
+    "dataYpid": "467903536",
+    "name": "Ragz",
+    "description": "Screen Printing",
+    "phone": "(850) 656-1223",
+    "address": "street: 2827 Industrial Plaza Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "513125837",
+    "name": "Target Print & Mall",
+    "description": "Printing Services-Commercial",
+    "phone": "(850) 671-6600",
+    "address": "street: 2843 Industrial Plaza Dr location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "7586902",
+    "name": "Awards4U",
+    "description": "Trophies, Plaques & Medals",
+    "phone": "(850) 878-7187",
+    "address": "street: 1387 E Lafayette St location: Tallahassee, FL 32301"
+  },
+  {
+    "dataYpid": "482096008",
+    "name": "Signs by Design of North Florida, Inc.",
+    "description": "Communications Services",
+    "phone": "(844) 457-5858",
+    "address": "street: 6766 Circle J Dr location: Tallahassee, FL 32312"
+  }
+]

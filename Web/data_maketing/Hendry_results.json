@@ -1,0 +1,891 @@
+[
+  {
+    "dataYpid": "471846883",
+    "name": "M B Marketing & Manufacturing Co",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 631-7688",
+    "address": "street: 322 Clearlake Rd location: Cocoa, FL 32922"
+  },
+  {
+    "dataYpid": "10183870",
+    "name": "Cheep Cheep Postcards - Direct Mail Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(888) 222-4337",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "521072419",
+    "name": "Oso Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(847) 922-3994",
+    "address": "street: 600 Florida Ave location: Cocoa, FL 32923"
+  },
+  {
+    "dataYpid": "468737899",
+    "name": "Digital Spark Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(607) 725-8240",
+    "address": "street: N/A location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "507581978",
+    "name": "Dr. Carrie Rose",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 987-0676",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "18616501",
+    "name": "Roswell US",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 639-0893",
+    "address": "street: 3370 Grissom Pkwy location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "552317634",
+    "name": "Microwave Component Marketing Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 452-0358",
+    "address": "street: 750 Venetian Way location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "545717755",
+    "name": "Lead Machine",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 373-3536",
+    "address": "street: 234 E Merritt Island Cswy location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "1438960",
+    "name": "Jones & Trevor Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 986-8501",
+    "address": "street: 4774 Navaho Trl location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "569693278",
+    "name": "Buzz Local",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 819-4736",
+    "address": "street: 6411 Cable Ave location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "572984881",
+    "name": "Impact Platforms",
+    "description": "Marketing Programs & Services",
+    "phone": "(833) 438-4672",
+    "address": "street: 1980 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "481858209",
+    "name": "GYB Marketing Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 392-3132",
+    "address": "street: 8501 Astronaut Blvd Ste 5 location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "533063721",
+    "name": "Florida SEO",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 613-2524",
+    "address": "street: 201 International Dr location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "551675529",
+    "name": "Westgate Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(407) 351-3351",
+    "address": "street: 401 Meade Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "462621315",
+    "name": "Zephyr Studio",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 848-6909",
+    "address": "street: 6208 Erik Ct location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "540984295",
+    "name": "Totall Recall I Nc",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 613-2115",
+    "address": "street: 395 Harbor Dr location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "458785497",
+    "name": "SCB Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 622-5986",
+    "address": "street: 335 Pineda Ct location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "494416008",
+    "name": "First Wave Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 806-8799",
+    "address": "street: 3912 Orchard Dr location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "486737137",
+    "name": "Davenport Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 405-2585",
+    "address": "street: 3540 Heartwood Ln location: Melbourne, FL 32934"
+  },
+  {
+    "dataYpid": "481554637",
+    "name": "Southbound Sales & Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 777-3533",
+    "address": "street: 537 Hawksbill Island Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "dataYpid": "451698940",
+    "name": "Circle E Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 267-4824",
+    "address": "street: 2352 Armour Ct location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "496405083",
+    "name": "PAIN BE GONE",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 403-8225",
+    "address": "street: 1107 Linda Ave location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "472647578",
+    "name": "Twin Rivers Communications",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 578-8133",
+    "address": "street: N/A location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "475641864",
+    "name": "Creative Copywrite Couture",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 300-4427",
+    "address": "street: N/A location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "263509",
+    "name": "Brandt Ronat & Company",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 453-3101",
+    "address": "street: 60 McLeod St location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "476080805",
+    "name": "Mds Vacation Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 305-6969",
+    "address": "street: 273 Crockett Blvd location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "563126371",
+    "name": "Video Display Corporation",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 784-4427",
+    "address": "street: 5155 King St location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "507837235",
+    "name": "Crowder and Company, LLC",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 216-3112",
+    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "457938163",
+    "name": "SPACE COAST COUPONS Inc.",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 268-7667",
+    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "481413224",
+    "name": "Space Coast City Guide",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 544-3440",
+    "address": "street: 8934 Puerto Del Rio Dr Unit 204 location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "472216358",
+    "name": "Jeanos LLC",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 205-4334",
+    "address": "street: 2023 N Atlantic Ave # 27 location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "465255170",
+    "name": "SPACE COAST SMS Inc. TEXT MESSAGE MARKETING",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 438-7325",
+    "address": "street: 8501 Astronaut Blvd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "506753340",
+    "name": "P and W Services",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 220-8265",
+    "address": "street: 2078 Lionel Dr location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "472426128",
+    "name": "Mahalo Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 305-3636",
+    "address": "street: 607 Manatee Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "dataYpid": "530652438",
+    "name": "Dunham Accounting & Business Solutions, Inc.",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 622-5094",
+    "address": "street: 1127 S Patrick Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "dataYpid": "21870404",
+    "name": "Writing Assistance Inc.",
+    "description": "Educational Services",
+    "phone": "(866) 674-5125",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "457762628",
+    "name": "Cocoa Enterprises LLC",
+    "description": "Internet Consultants",
+    "phone": "(321) 480-6687",
+    "address": "street: N/A location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "469439989",
+    "name": "765 Media LLC",
+    "description": "Print Advertising",
+    "phone": "(321) 735-9842",
+    "address": "street: 252 Brevard Ave location: Cocoa, FL 32922"
+  },
+  {
+    "dataYpid": "451154501",
+    "name": "Digi Donkey Web Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 433-0801",
+    "address": "street: 315 Brevard Ave location: Cocoa, FL 32922"
+  },
+  {
+    "dataYpid": "17068936",
+    "name": "Ferrell James G And Associates",
+    "description": "Marketing Consultants",
+    "phone": "(321) 632-4374",
+    "address": "street: 120 Harrison St location: Cocoa, FL 32922"
+  },
+  {
+    "dataYpid": "495608070",
+    "name": "TYPE AB CREATIVE",
+    "description": "Graphic Designers",
+    "phone": "(321) 266-9222",
+    "address": "street: 633 Brevard Ave Ste B location: Cocoa, FL 32922"
+  },
+  {
+    "dataYpid": "22996471",
+    "name": "Atlas Web Company",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 300-4932",
+    "address": "street: N/A location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "29484257",
+    "name": "Computer Management Corporation of the South",
+    "description": "Web Site Design & Services",
+    "phone": "(321) 258-5313",
+    "address": "street: N/A location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "464560802",
+    "name": "Peeks Media",
+    "description": "Internet Directories",
+    "phone": "(321) 507-4627",
+    "address": "street: N/A location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "481921566",
+    "name": "Dhcentinc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 613-8514",
+    "address": "street: N/A location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "546601472",
+    "name": "Hmbaccounting.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 433-1191",
+    "address": "street: 976 Brevard Ave location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "564893889",
+    "name": "Gabrielli Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 996-0027",
+    "address": "street: 881 Barton Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "497738163",
+    "name": "Cape Canaveral Web Development",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 987-0222",
+    "address": "street: N/A location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "492689307",
+    "name": "Brilliant Blue Graphic Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 474-4830",
+    "address": "street: N/A location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "460735751",
+    "name": "Send Out Cards Manager",
+    "description": "Online & Mail Order Shopping",
+    "phone": "(321) 427-8575",
+    "address": "street: N/A location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "22714355",
+    "name": "All Pro Websites",
+    "description": "Computer Network Design & Systems",
+    "phone": "(321) 412-8155",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "457395982",
+    "name": "CR Hotel Management",
+    "description": "Hotel & Motel Consultants",
+    "phone": "(407) 965-6323",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "474188009",
+    "name": "Efsmart Marketing Services",
+    "description": "Marketing Consultants",
+    "phone": "(321) 449-2561",
+    "address": "street: N/A location: N/A"
+  },
+  {
+    "dataYpid": "569523948",
+    "name": "Florida Digital Media",
+    "description": "Web Site Design & Services",
+    "phone": "(321) 757-2788",
+    "address": "street: 222 Teal Drive location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "16134254",
+    "name": "Matchmaker Business Brokers",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 452-3462",
+    "address": "street: 435 Woodland St location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "518840363",
+    "name": "My Island Designs",
+    "description": "Internet Consultants",
+    "phone": "(321) 301-4797",
+    "address": "street: 517 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "496642864",
+    "name": "Shawk Technology Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 506-9345",
+    "address": "street: 330 Alabama Ave location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "462567612",
+    "name": "Adfactor, Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(877) 328-7552",
+    "address": "street: 1129 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "21332665",
+    "name": "Portable LED.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 631-6150",
+    "address": "street: 1740 Huntington Ln location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "530907576",
+    "name": "WebBaze",
+    "description": "Web Site Design & Services",
+    "phone": "(321) 298-2533",
+    "address": "street: 000 Murrell Rd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "460137736",
+    "name": "Mtrb Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 453-6068",
+    "address": "street: 327 Magnolia Ave location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "10783716",
+    "name": "PIP Marketing, Signs, Print",
+    "description": "Printing Services",
+    "phone": "(321) 452-2800",
+    "address": "street: 275 Magnolia Ave Ste 2 location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "576330676",
+    "name": "The Timeless CEO",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 408-7612",
+    "address": "street: 1175 N Courtenay Pkwy Ste 4A location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "475351268",
+    "name": "Mtrb Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 453-6068",
+    "address": "street: 253 Crockett Blvd location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "471230559",
+    "name": "Moetto Mobile Marketing",
+    "description": "Coupon Advertising",
+    "phone": "(321) 345-6630",
+    "address": "street: 915 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "470422576",
+    "name": "Just Face It Media",
+    "description": "Marketing Consultants",
+    "phone": "(321) 474-7409",
+    "address": "street: 137 S Courtenay Pkwy # 604 location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "532238258",
+    "name": "JDot Media",
+    "description": "Aerial Photographers",
+    "phone": "(813) 618-3908",
+    "address": "street: 937 Yorktowne Dr location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "497652291",
+    "name": "Dragonfly Web Solutions LLC",
+    "description": "Business & Trade Organizations",
+    "phone": "(321) 505-9212",
+    "address": "street: PO Box 560894 location: Rockledge, FL 32956"
+  },
+  {
+    "dataYpid": "557914916",
+    "name": "Dentist Finder US",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 305-4588",
+    "address": "street: 819 Topaz Dr location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "544692675",
+    "name": "Onsite123.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 392-0697",
+    "address": "street: 2552 Meadow Ln location: Cocoa, FL 32926"
+  },
+  {
+    "dataYpid": "468795693",
+    "name": "Allegra Design Print Mail",
+    "description": "Printing Services",
+    "phone": "(321) 632-7272",
+    "address": "street: 2040 Murrell Rd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "481551150",
+    "name": "Adverleads",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 693-0963",
+    "address": "street: 2944 Matthew Dr location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "525520703",
+    "name": "AutoUpLinkUSA Of Florida",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(800) 443-2139",
+    "address": "street: 1720 bridgeport cir location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "464320348",
+    "name": "Cmfmc Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 454-6814",
+    "address": "street: 3765 Sierra Dr location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "11321081",
+    "name": "Acquatic Plant Technolgy",
+    "description": "Market Research & Analysis",
+    "phone": "(321) 638-4300",
+    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "506861303",
+    "name": "Mtrb Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 453-6068",
+    "address": "street: 3585 N Courtenay Pkwy location: Merritt Island, FL 32953"
+  },
+  {
+    "dataYpid": "467819614",
+    "name": "Azurea Inc",
+    "description": "Market Research & Analysis",
+    "phone": "(321) 631-0610",
+    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "467819615",
+    "name": "Db Environmental Inc",
+    "description": "Market Research & Analysis",
+    "phone": "(321) 639-4896",
+    "address": "street: 365 Gus Hipp Blvd location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "467066869",
+    "name": "Madhouse Media Company",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 339-9654",
+    "address": "street: 1892 Sun Gazer Dr location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "11019713",
+    "name": "Brevard Graphics",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 368-2744",
+    "address": "street: 524 Glenbrook Cir location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "504755305",
+    "name": "ShopinPal, Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 617-5696",
+    "address": "street: 328 Brookcrest Cir location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "548459325",
+    "name": "Nuance",
+    "description": "Marketing Consultants",
+    "phone": "(321) 349-2562",
+    "address": "street: 1960 Porpoise St location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "451284666",
+    "name": "Viera Networks",
+    "description": "Internet Consultants",
+    "phone": "(321) 622-3309",
+    "address": "street: 3810 Murrell Rd Suite 201 location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "28649919",
+    "name": "Space Coast Sales",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 453-7627",
+    "address": "street: 1635 Yates Dr location: Merritt Island, FL 32952"
+  },
+  {
+    "dataYpid": "452228150",
+    "name": "Senior-Linx",
+    "description": "Consultants Referral Service",
+    "phone": "(321) 474-8289",
+    "address": "street: PO Box 540704 location: Merritt Island, FL 32954"
+  },
+  {
+    "dataYpid": "456181329",
+    "name": "Nuance",
+    "description": "Marketing Consultants",
+    "phone": "(321) 632-2410",
+    "address": "street: 1616 Sun Gazer Dr location: Rockledge, FL 32955"
+  },
+  {
+    "dataYpid": "29206638",
+    "name": "V Enterprises",
+    "description": "Direct Marketing Services",
+    "phone": "(321) 632-6642",
+    "address": "street: 6380 Aberfoyle Ave location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "548853157",
+    "name": "Qwiklight Digital Marketing Agency",
+    "description": "Marketing Consultants",
+    "phone": "(321) 505-3649",
+    "address": "street: 7065 Kaylor Ave location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "511633652",
+    "name": "TipTopWebsite.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(800) 753-5129",
+    "address": "street: 2023 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "467822615",
+    "name": "Jet Press",
+    "description": "Printing Services",
+    "phone": "(321) 783-5555",
+    "address": "street: 250 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "548853157",
+    "name": "Qwiklight Digital Marketing Agency",
+    "description": "Marketing Consultants",
+    "phone": "(321) 505-3649",
+    "address": "street: 7065 Kaylor Ave location: Cocoa, FL 32927"
+  },
+  {
+    "dataYpid": "511633652",
+    "name": "TipTopWebsite.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(800) 753-5129",
+    "address": "street: 2023 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "467822615",
+    "name": "Jet Press",
+    "description": "Printing Services",
+    "phone": "(321) 783-5555",
+    "address": "street: 250 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "560367550",
+    "name": "LocaliQ",
+    "description": "Advertising Agencies",
+    "phone": "(877) 525-6084",
+    "address": "street: 1005 Viera Blvd Unit 101 location: Viera, FL 32955"
+  },
+  {
+    "dataYpid": "532238954",
+    "name": "Brevard Insurance & Marketing, Inc.",
+    "description": "Insurance",
+    "phone": "(321) 783-2404",
+    "address": "street: PO Box 320770 location: Cocoa Beach, FL 32932"
+  },
+  {
+    "dataYpid": "509488156",
+    "name": "Cocoa Beach Marketing Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 784-3223",
+    "address": "street: 3670 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "453441412",
+    "name": "Cocoa Beach Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 784-0946",
+    "address": "street: 4151 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "464250330",
+    "name": "Cocoa Beach Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 868-6536",
+    "address": "street: 8699 Astronaut Blvd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "13610508",
+    "name": "Premier Marketing Group",
+    "description": "Marketing Consultants",
+    "phone": "(321) 868-4858",
+    "address": "street: 1485 N Atlantic Ave Ste 201 location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "534643730",
+    "name": "QMtel Communications",
+    "description": "Computer Software & Services",
+    "phone": "(321) 323-1436",
+    "address": "street: 1980 N Atlantic Ave #121 location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "503641733",
+    "name": "Justsmallbiz Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 613-8476",
+    "address": "street: 830 N Atlantic Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "502198547",
+    "name": "9 Mile Media",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 613-4805",
+    "address": "street: 103 Cleveland Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "503914996",
+    "name": "Cocoa Beach Mar Keting In",
+    "description": "Marketing Consultants",
+    "phone": "(321) 784-3223",
+    "address": "street: 7099 N Atlantic Ave location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "533132004",
+    "name": "Digimarcon",
+    "description": "Marketing Consultants",
+    "phone": "(800) 805-5385",
+    "address": "street: 9050 Discovery Rd location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "517135389",
+    "name": "Premier Marketing Group",
+    "description": "Marketing Consultants",
+    "phone": "(321) 868-4858",
+    "address": "street: 503 N Orlando Ave location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "549888149",
+    "name": "Digital Blades Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 613-8451",
+    "address": "street: 428 S Orlando Avenue Unit C location: Cocoa Beach, FL 32931"
+  },
+  {
+    "dataYpid": "28617831",
+    "name": "Cocoa Beach Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 868-6536",
+    "address": "street: 1000 Shorewood Dr location: Cape Canaveral, FL 32920"
+  },
+  {
+    "dataYpid": "536606456",
+    "name": "Drumup Media Group",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 505-4583",
+    "address": "street: 1048 Carriage Hill Road location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "489444399",
+    "name": "Yellow Page Directory Service Inc",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 254-6012",
+    "address": "street: 640 Classic Ct location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "468801809",
+    "name": "Certified Internet Solutions",
+    "description": "Internet Consultants",
+    "phone": "(321) 412-6658",
+    "address": "street: 530 Wickham Lakes Dr location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "475219002",
+    "name": "All Media Graphics",
+    "description": "Editorial & Publication Services",
+    "phone": "(321) 698-1550",
+    "address": "street: 7777 N Wickham Rd Ste 12-124 location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "481858192",
+    "name": "SearhCred Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(855) 736-2723",
+    "address": "street: 7777 N Wickham Rd location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "489695654",
+    "name": "Mad Hatter Promotions",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 543-1346",
+    "address": "street: 340 Myrtlewood Rd location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "495379320",
+    "name": "M.I.T. Mobile Integrated Technologies",
+    "description": "Marketing Consultants",
+    "phone": "(321) 412-6667",
+    "address": "street: 201 Plantation Club Dr Apt 105 location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "547038496",
+    "name": "Cycn Management & Marketing Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 757-4017",
+    "address": "street: 3270 Suntree Blvd Ste 1101 location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "500712279",
+    "name": "Brevard Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 837-9850",
+    "address": "street: 7025 N Wickham Rd Ste 111 location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "6453265",
+    "name": "Invision Multimedia",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 253-1000",
+    "address": "street: 6300 N Wickham Rd location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "504064503",
+    "name": "P1studios.Com",
+    "description": "Marketing Consultants",
+    "phone": "(954) 510-6216",
+    "address": "street: 1203 Vestavia Cir location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "474370562",
+    "name": "Space Coast Business Media",
+    "description": "Marketing Consultants",
+    "phone": "(321) 622-5986",
+    "address": "street: 5131 Industry Dr Ste 107 location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "533707012",
+    "name": "DeSantis Digital Works LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 626-4724",
+    "address": "street: 2725 Center Pl location: Melbourne, FL 32940"
+  },
+  {
+    "dataYpid": "548108573",
+    "name": "Laura Sasaninejad",
+    "description": "Marketing Consultants",
+    "phone": "(540) 915-2874",
+    "address": "street: 5305 Wendy Lee Dr location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "492007359",
+    "name": "Reuben Marketing Services",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 593-0346",
+    "address": "street: 4990 Sharlene Dr location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "481171211",
+    "name": "The Print Alien",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 837-9569",
+    "address": "street: 224 Cheney Hwy location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "531312073",
+    "name": "Front Page Solution",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 505-7932",
+    "address": "street: 4100 N Wickham Rd Ste 107A-198 location: Melbourne, FL 32935"
+  },
+  {
+    "dataYpid": "531845362",
+    "name": "Big B Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 775-3995",
+    "address": "street: 455 Atlantis Dr location: Satellite Beach, FL 32937"
+  },
+  {
+    "dataYpid": "535192978",
+    "name": "Ward & Comp",
+    "description": "Marketing Consultants",
+    "phone": "(321) 289-1490",
+    "address": "street: 2323 S Washington Ave Ste 102 location: Titusville, FL 32780"
+  },
+  {
+    "dataYpid": "11072559",
+    "name": "Mtn Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(321) 779-1010",
+    "address": "street: 1355 S Patrick Dr location: Satellite Beach, FL 32937"
+  }
+]
