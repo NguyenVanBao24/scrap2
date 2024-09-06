@@ -7,10 +7,10 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
     console.log(' >> mở tab mới');
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36');
 
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 150000 });
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 1500000 });
     console.log(' >> truy cập URL', url);
 
-    await page.waitForSelector('#content-container', { timeout: 150000 });
+    await page.waitForSelector('#content-container', { timeout: 1500000 });
     console.log(' >> web đã load xong');
 
     await page.evaluate(
@@ -27,7 +27,7 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
     );
 
     await page.click('button[value="Find"]');
-    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 150000 });
+    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
 
     // page.on('console', (consoleObj) => console.log(consoleObj.text()));
 
@@ -67,7 +67,7 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
       const isNext = await page.$('.pagination .next.ajax-page');
       if (isNext) {
         await page.click('.pagination .next.ajax-page');
-        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 150000 });
+        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
         currentPage++;
         await new Promise((resolve) => setTimeout(resolve, 500)); // Đợi một chút trước khi tiếp tục
       } else {

@@ -1,0 +1,5552 @@
+[
+  {},
+  {
+    "companyName": "Web.com",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.4B",
+    "website": "www.web.com"
+  },
+  {
+    "companyName": "Acosta",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "10,000+",
+    "revenue": "$7.5B",
+    "website": "www.acosta.com"
+  },
+  {
+    "companyName": "Cisneros",
+    "location": "Miami, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "5,001 - 10,000",
+    "revenue": "$2.3B",
+    "website": "www.cisneros.com"
+  },
+  {
+    "companyName": "Newswire",
+    "location": "Sarasota, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "201 - 500",
+    "revenue": "$10.2M",
+    "website": "www.newswire.com"
+  },
+  {
+    "companyName": "Valpak",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$420.2M",
+    "website": "www.valpak.com"
+  },
+  {
+    "companyName": "Catalina",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$665M",
+    "website": "www.catalina.com"
+  },
+  {
+    "companyName": "Digital Media Solutions",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$409M",
+    "website": "www.digitalmediasolutions.com"
+  },
+  {
+    "companyName": "Growve",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$500M",
+    "website": "www.growve.com"
+  },
+  {
+    "companyName": "JeffreyGroup",
+    "location": "Miami, Florida",
+    "industry": "Management Consulting, HR & Staffing",
+    "employees": "201 - 500",
+    "revenue": "$154.4M",
+    "website": "www.jeffreygroup.com"
+  },
+  {
+    "companyName": "Newfold Digital",
+    "location": "Jacksonville, Florida",
+    "industry": "Custom Software & IT Services, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.1B",
+    "website": "www.newfold.com"
+  },
+  {
+    "companyName": "PCI",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$136M",
+    "website": "www.pcibrands.com"
+  },
+  {
+    "companyName": "GSP",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$33.9M",
+    "website": "www.gspretail.com"
+  },
+  {
+    "companyName": "Infinity Sales Group (ISG)",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$36.9M",
+    "website": "www.isg.us"
+  },
+  {
+    "companyName": "Adfuel",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$1.2B",
+    "website": "www.goadfuel.com"
+  },
+  {
+    "companyName": "Palm Coast Data",
+    "location": "Palm Coast, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$231.3M",
+    "website": "www.palmcoastdata.com"
+  },
+  {
+    "companyName": "Leading Response",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$66.7M",
+    "website": "www.leadingresponse.com"
+  },
+  {
+    "companyName": "Transworld Business Advisors",
+    "location": "West Palm Beach, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$179.6M",
+    "website": "www.tworld.com"
+  },
+  {
+    "companyName": "Postcard Mania",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$97.2M",
+    "website": "www.postcardmania.com"
+  },
+  {
+    "companyName": "Newlink",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$29.4M",
+    "website": "www.newlink-group.com"
+  },
+  {
+    "companyName": "Koozie Group",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$301.9M",
+    "website": "www.kooziegroup.com"
+  },
+  {
+    "companyName": "Boats Group",
+    "location": "Miami, Florida",
+    "industry": "Boats & Submarines, Manufacturing",
+    "employees": "51 - 200",
+    "revenue": "$41M",
+    "website": "www.boatsgroup.com"
+  },
+  {
+    "companyName": "Welcome Wagon",
+    "location": "Crystal Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$168.2M",
+    "website": "www.welcomewagon.com"
+  },
+  {
+    "companyName": "MediaBrains",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$17.7M",
+    "website": "www.mediabrains.com"
+  },
+  {
+    "companyName": "AutoWeb",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$72.8M",
+    "website": "www.autoweb.com"
+  },
+  {
+    "companyName": "Kobie Marketing",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$100M",
+    "website": "www.kobie.com"
+  },
+  {},
+  {
+    "companyName": "iCrowdNewswire",
+    "location": "Miami, Florida",
+    "industry": "Newspapers & News Services, Media & Internet",
+    "employees": "51 - 200",
+    "revenue": "$28.4M",
+    "website": "www.icrowdnewswire.com"
+  },
+  {
+    "companyName": "Comcast Advertising",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.7B",
+    "website": "www.comcastadvertising.com"
+  },
+  {
+    "companyName": "Adsmovil",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$105.1M",
+    "website": "www.adsmovil.com"
+  },
+  {
+    "companyName": "Emg E-Commerce",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$16.5M",
+    "website": "www.emg-marcom.com"
+  },
+  {},
+  {
+    "companyName": "BG",
+    "location": "West Palm Beach, Florida",
+    "industry": "Automotive Parts, Manufacturing",
+    "employees": "501 - 1,000",
+    "revenue": "$6.9M",
+    "website": "www.bgservice.com"
+  },
+  {
+    "companyName": "Travel Media Group",
+    "location": "Maitland, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$38.6M",
+    "website": "www.travelmediagroup.com"
+  },
+  {
+    "companyName": "Terraboost Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$51M",
+    "website": "www.terraboost.com"
+  },
+  {
+    "companyName": "Boater’s World Marine Centers",
+    "location": "Lake Placid, Florida",
+    "industry": "Retail, Advertising & Marketing",
+    "employees": "11 - 50",
+    "revenue": "$59.9M",
+    "website": "www.boatersworld.com"
+  },
+  {
+    "companyName": "NetReputation",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$22.8M",
+    "website": "www.netreputation.com"
+  },
+  {
+    "companyName": "Rock Content",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$116.3M",
+    "website": "www.rockcontent.com"
+  },
+  {
+    "companyName": "IZEA",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$34.4M",
+    "website": "www.izea.com"
+  },
+  {
+    "companyName": "MRL Promotions",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$8.7M",
+    "website": "www.mrlpromotions.com"
+  },
+  {
+    "companyName": "ONPASSIVE",
+    "location": "Orlando, Florida",
+    "industry": "Business Services, Advertising & Marketing",
+    "employees": "201 - 500",
+    "revenue": "$5.1M",
+    "website": "www.onpassive.com"
+  },
+  {
+    "companyName": "First Beat Media",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$145.2M",
+    "website": "www.firstbeatmedia.com"
+  },
+  {
+    "companyName": "Jump Media",
+    "location": "Wellington, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$22.3M",
+    "website": "www.jumpmediallc.com"
+  },
+  {
+    "companyName": "Mod Op",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$38.8M",
+    "website": "www.modop.com"
+  },
+  {
+    "companyName": "Team Enterprises",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$689.3M",
+    "website": "www.teamenterprises.com"
+  },
+  {
+    "companyName": "Bluewater",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$66.5M",
+    "website": "www.bluewater.tv"
+  },
+  {
+    "companyName": "Apollo Retail Specialists",
+    "location": "Tampa, Florida",
+    "industry": "Grocery Retail, Retail",
+    "employees": "1,001 - 5,000",
+    "revenue": "$710.5M",
+    "website": "www.apolloretail.com"
+  },
+  {
+    "companyName": "Team IP",
+    "location": "Stuart, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$45.5M",
+    "website": "www.teamip.com"
+  },
+  {
+    "companyName": "Futbol Sites",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$14.2M",
+    "website": "www.futbolsites.net"
+  },
+  {
+    "companyName": "Miles Partnership",
+    "location": "Sarasota, Florida",
+    "industry": "Travel Agencies & Services, Hospitality",
+    "employees": "201 - 500",
+    "revenue": "$119.7M",
+    "website": "www.milespartnership.com"
+  },
+  {
+    "companyName": "BrandStar",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$85M",
+    "website": "www.brandstar.com"
+  },
+  {
+    "companyName": "Phase V",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$60.5M",
+    "website": "www.phasev.com"
+  },
+  {},
+  {
+    "companyName": "Black Book Market Research",
+    "location": "Tampa, Florida",
+    "industry": "Research & Development, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$17.7M",
+    "website": "www.blackbookmarketresearch.com"
+  },
+  {
+    "companyName": "WordJack Media",
+    "location": "Miami, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$7.1M",
+    "website": "www.wordjack.com"
+  },
+  {
+    "companyName": "Burdette Beckmann",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$29.5M",
+    "website": "www.bbiteam.com"
+  },
+  {
+    "companyName": "REVCONTENT",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$183.8M",
+    "website": "www.revcontent.com"
+  },
+  {},
+  {
+    "companyName": "DME Delivers",
+    "location": "Daytona Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$37.4M",
+    "website": "www.dmedelivers.com"
+  },
+  {
+    "companyName": "Perform[cb]",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$21.1M",
+    "website": "www.performcb.com"
+  },
+  {
+    "companyName": "Socius Marketing",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$25.5M",
+    "website": "www.sociusmarketing.com"
+  },
+  {
+    "companyName": "ISGN Solutions",
+    "location": "Palm Bay, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$23.4M",
+    "website": "www.isgnsolutions.com"
+  },
+  {
+    "companyName": "OMNICOMMANDER",
+    "location": "Miramar Beach, Florida",
+    "industry": "Banking, Finance",
+    "employees": "51 - 200",
+    "revenue": "$27.2M",
+    "website": "www.omnicommander.com"
+  },
+  {
+    "companyName": "Playwire Media",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$27.1M",
+    "website": "www.playwire.com"
+  },
+  {
+    "companyName": "American Meetings",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$18.2M",
+    "website": "www.americanmeetings.com"
+  },
+  {
+    "companyName": "AccuData Integrated Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$36.9M",
+    "website": "www.accudata.com"
+  },
+  {
+    "companyName": "República",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$19.3M",
+    "website": "www.republicahavas.com"
+  },
+  {
+    "companyName": "V2 Global",
+    "location": "Miami, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$15.1M",
+    "website": "www.v2-global.com"
+  },
+  {
+    "companyName": "ME Productions",
+    "location": "Pembroke Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$24M",
+    "website": "www.meproductions.com"
+  },
+  {
+    "companyName": "Earl Enterprises",
+    "location": "Orlando, Florida",
+    "industry": "Holding Companies & Conglomerates, Advertising & Marketing",
+    "employees": "1,001 - 5,000",
+    "revenue": "$535.6M",
+    "website": "www.earlenterprise.com"
+  },
+  {
+    "companyName": "SalesRoads",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$45.2M",
+    "website": "www.salesroads.com"
+  },
+  {
+    "companyName": "The AD Leaf Marketing Firm",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$28.6M",
+    "website": "www.theadleaf.com"
+  },
+  {
+    "companyName": "Quick Test",
+    "location": "Jupiter, Florida",
+    "industry": "Data Collection & Internet Portals, Media & Internet",
+    "employees": "-",
+    "revenue": "$241M",
+    "website": "www.quicktest.com"
+  },
+  {
+    "companyName": "Poston Communications",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.1M",
+    "website": "www.postoncommunications.com"
+  },
+  {
+    "companyName": "JDM Web Technologies",
+    "location": "Hollywood, Florida",
+    "industry": "Software, Advertising & Marketing",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.jdmwebtechnologies.com"
+  },
+  {
+    "companyName": "Tambourine",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$3.2M",
+    "website": "www.tambourine.com"
+  },
+  {
+    "companyName": "AdAbler",
+    "location": "Indian Rocks Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$7.2M",
+    "website": "www.adabler.com"
+  },
+  {
+    "companyName": "Feathr",
+    "location": "Gainesville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$54.4M",
+    "website": "www.feathr.co"
+  },
+  {},
+  {
+    "companyName": "Éclat Media Group",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.2M",
+    "website": "www.eclatmediagroup.com"
+  },
+  {
+    "companyName": "Zyndio Holdings",
+    "location": "Delray Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.5M",
+    "website": "www.zyndio.com"
+  },
+  {
+    "companyName": "Zuniga Marketing",
+    "location": "Ruskin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zunigamarketing.com"
+  },
+  {
+    "companyName": "Zum Digital",
+    "location": "Miami, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "-",
+    "revenue": "$4.7M",
+    "website": "www.zumbrazilamericas.com"
+  },
+  {},
+  {
+    "companyName": "Zucker Public Relations",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$5.2M",
+    "website": "www.zuckerpublicrelations.com"
+  },
+  {
+    "companyName": "Zucker",
+    "location": "Dunedin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zuckerandzucker.com"
+  },
+  {
+    "companyName": "Zubi Advertising Services",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$65.1M",
+    "website": "www.zubiad.com"
+  },
+  {
+    "companyName": "Zu Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zugroup.net"
+  },
+  {
+    "companyName": "ZS Information Group",
+    "location": "Tampa, Florida",
+    "industry": "Information & Document Management, Business Services",
+    "employees": "-",
+    "revenue": "$5.1M",
+    "website": "www.zsinformationgroup.com"
+  },
+  {
+    "companyName": "Zrinity",
+    "location": "Orlando, Florida",
+    "industry": "Software, Advertising & Marketing",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.zrinity.com"
+  },
+  {
+    "companyName": "Zosap",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3M",
+    "website": "www.zosap.com"
+  },
+  {
+    "companyName": "Zoom Promos",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$920,000",
+    "website": "www.zoompromos.com"
+  },
+  {
+    "companyName": "Zoom IQ",
+    "location": "Bal Harbour, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zoomiq.com"
+  },
+  {
+    "companyName": "Zone Advisors",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.7M",
+    "website": "www.zoneadvisors.com"
+  },
+  {
+    "companyName": "Zobily",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$3.9M",
+    "website": "www.zobily.com"
+  },
+  {
+    "companyName": "Zo Promos",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.8M",
+    "website": "www.zopromos.com"
+  },
+  {
+    "companyName": "ZlataPR",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6.6M",
+    "website": "www.zlatapr.com"
+  },
+  {
+    "companyName": "Zizion",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$24.1M",
+    "website": "www.zizion.com"
+  },
+  {
+    "companyName": "Zitta Media Digital Solutions",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.zittamedia.tv"
+  },
+  {
+    "companyName": "Zitos Promotional Products",
+    "location": "North Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zitosprom.com"
+  },
+  {
+    "companyName": "ZipLine",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$9M",
+    "website": "www.zipline.biz"
+  },
+  {
+    "companyName": "Zip Printing & Mailing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zipmailingflorida.com"
+  },
+  {
+    "companyName": "Zip Code Target Marketing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.9M",
+    "website": "www.zipcodetargetmarketing.com"
+  },
+  {
+    "companyName": "Zion Marketing",
+    "location": "Pompano Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$4.5M",
+    "website": "www.zionmarketing.com"
+  },
+  {},
+  {
+    "companyName": "Zindo",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.zindo.co"
+  },
+  {
+    "companyName": "ZINC Digital of Miami",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.zincmiami.com"
+  },
+  {
+    "companyName": "Zinata",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$16M",
+    "website": "www.zinata.com"
+  },
+  {
+    "companyName": "Zimmerman Advertising",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$126.3M",
+    "website": "www.zadv.com"
+  },
+  {
+    "companyName": "Zilveti Communications",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zilveticomm.com"
+  },
+  {
+    "companyName": "Zigglio",
+    "location": "Miramar, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zigglio.com"
+  },
+  {
+    "companyName": "Ziggi Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.ziggimarketing.com"
+  },
+  {
+    "companyName": "Ziffer Stansberry",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.9M",
+    "website": "www.ziffberry.com"
+  },
+  {
+    "companyName": "Zidan Marketing & Media",
+    "location": "Lutz, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$7.7M",
+    "website": "www.zidanmarketing.com"
+  },
+  {
+    "companyName": "Zeta Direct",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.1M",
+    "website": "www.pyalaw.com"
+  },
+  {
+    "companyName": "Zeszutko",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6M",
+    "website": "www.zcorppr.com"
+  },
+  {
+    "companyName": "Zercom Infotech",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$991,000",
+    "website": "www.zercominfotech.com"
+  },
+  {
+    "companyName": "Zephoria",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.5M",
+    "website": "www.zephoria.com"
+  },
+  {
+    "companyName": "Zentrigue",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$5.1M",
+    "website": "www.zentrigue.com"
+  },
+  {
+    "companyName": "ZenScape Marketing",
+    "location": "Gainesville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zenscapemarketing.com"
+  },
+  {
+    "companyName": "Zenfox Media",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.7M",
+    "website": "www.zenfoxmedia.com"
+  },
+  {
+    "companyName": "Zenbound SEO",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$575,000",
+    "website": "www.zenboundseo.com"
+  },
+  {
+    "companyName": "Zen Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$7.7M",
+    "website": "www.zenmedia.com"
+  },
+  {
+    "companyName": "Zelen Communications",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zelencommunications.com"
+  },
+  {
+    "companyName": "Zebra Advertisement",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.zebraadvertisement.com"
+  },
+  {
+    "companyName": "Zealousie",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$3.7M",
+    "website": "www.zealousie.com"
+  },
+  {
+    "companyName": "Zazz Events",
+    "location": "Coral Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$13.1M",
+    "website": "www.zazzevents.com"
+  },
+  {
+    "companyName": "ZaZa Events",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.3M",
+    "website": "www.zazaevents.com"
+  },
+  {
+    "companyName": "Zavee",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6M",
+    "website": "www.zavee.com"
+  },
+  {
+    "companyName": "Zammy Promotions",
+    "location": "Altamonte Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M",
+    "website": "www.zammypromotions.com"
+  },
+  {},
+  {
+    "companyName": "Zaid Designs",
+    "location": "Pompano Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.8M",
+    "website": "www.zaid-designs.com"
+  },
+  {
+    "companyName": "ZAG Creates",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.zagcreates.com"
+  },
+  {
+    "companyName": "Z Promotions",
+    "location": "Cape Coral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$1M",
+    "website": "www.atozpromos.com"
+  },
+  {
+    "companyName": "Z Media",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.3M",
+    "website": "www.zmedia-inc.com"
+  },
+  {},
+  {
+    "companyName": "Z Advertising Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.zadvertisinggroup.com"
+  },
+  {
+    "companyName": "YZ Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.yzmediausa.net"
+  },
+  {
+    "companyName": "YuzzBuzz",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.3M",
+    "website": "www.yuzzbuzz.com"
+  },
+  {
+    "companyName": "Yuppify",
+    "location": "Altamonte Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4M",
+    "website": "www.yuppify.com"
+  },
+  {
+    "companyName": "Yupi products",
+    "location": "Miami, Florida",
+    "industry": "Retail, Advertising & Marketing",
+    "employees": "-",
+    "revenue": "$6.9M",
+    "website": "www.yupiproducts.com"
+  },
+  {
+    "companyName": "Yum Distribution",
+    "location": "Sanford, Florida",
+    "industry": "Sporting & Recreational Equipment Retail, Retail",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.yumdistribution.com"
+  },
+  {
+    "companyName": "Yudit Design",
+    "location": "Wellington, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.yuditdesign.com"
+  },
+  {
+    "companyName": "YPA Marketing Center",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.1M",
+    "website": "www.ypamc.com"
+  },
+  {
+    "companyName": "YP Marketing Pros",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.2M",
+    "website": "www.ypmarketingpros.com"
+  },
+  {
+    "companyName": "YouTube TV Ads",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.youtubetvmarketing.com"
+  },
+  {
+    "companyName": "YourNight",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Media & Internet, Advertising & Marketing",
+    "employees": "-",
+    "revenue": "$5.7M",
+    "website": "www.yournight.com"
+  },
+  {
+    "companyName": "YourHashtagMarketingAgency",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.yourhashtagmarketingagency.com"
+  },
+  {
+    "companyName": "Your Web Marketing Coach",
+    "location": "Palm City, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.3M",
+    "website": "www.yourwebmarketingcoach.com"
+  },
+  {
+    "companyName": "Your Walking Billboard",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.yourwalkingbillboard.com"
+  },
+  {
+    "companyName": "Your Special Day By Joni",
+    "location": "Boca Raton, Florida",
+    "industry": "Repair Services, Consumer Services",
+    "employees": "11 - 50",
+    "revenue": "$4.7M",
+    "website": "www.yourspecialdaybyjoni.com"
+  },
+  {
+    "companyName": "Your Sparkling Event",
+    "location": "Jupiter, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.yoursparklingevent.com"
+  },
+  {
+    "companyName": "Your Sign Solution",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.yssfla.com"
+  },
+  {
+    "companyName": "Your Sign Guy",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.yoursignguyfl.com"
+  },
+  {
+    "companyName": "Your ROI Guy",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.1M",
+    "website": "www.yourroiguy.com"
+  },
+  {
+    "companyName": "Your Publicity",
+    "location": "Odessa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$4.7M",
+    "website": "www.yourpublicitycompany.com"
+  },
+  {},
+  {
+    "companyName": "0-0x.com",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$3.3M",
+    "website": "www.0-0x.com"
+  },
+  {
+    "companyName": "06 Marketing",
+    "location": "Daytona Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.9M",
+    "website": "www.06marketing.com"
+  },
+  {
+    "companyName": "1 +1",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$5.3M",
+    "website": "1plus1.media"
+  },
+  {
+    "companyName": "1 Link Exchange",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.7M",
+    "website": "www.1linkexchange.com"
+  },
+  {},
+  {
+    "companyName": "1 Percent Lists Suncoast",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3M",
+    "website": "www.1percentlistssuncoast.com"
+  },
+  {
+    "companyName": "1 Stop Promos",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$6.5M",
+    "website": "www.1stoppromos.com"
+  },
+  {
+    "companyName": "1-800-The-Sign",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.1800thesign.com"
+  },
+  {
+    "companyName": "1-Stop Marketing Solutions",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.8M",
+    "website": "www.1stopmarketingsolutions.com"
+  },
+  {
+    "companyName": "10,000 Ideas",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$1M",
+    "website": "www.10kideas.net"
+  },
+  {
+    "companyName": "100 Marketers",
+    "location": "Surfside, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.2M",
+    "website": "www.100marketers.com"
+  },
+  {
+    "companyName": "1010 West",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.1010west.com"
+  },
+  {
+    "companyName": "1016 Workshop",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.1M",
+    "website": "www.1016w.com"
+  },
+  {
+    "companyName": "10X Growth Clinic",
+    "location": "Delray Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.6M",
+    "website": "www.thegrowthclinic.net"
+  },
+  {
+    "companyName": "10x Roas",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.2M",
+    "website": "www.10xroas.com"
+  },
+  {
+    "companyName": "10X White Label",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.10xwhitelabel.com"
+  },
+  {
+    "companyName": "10x10 Solutions",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6M",
+    "website": "www.10x10solutions.com"
+  },
+  {
+    "companyName": "11 Dots Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.11dotsgroup.com"
+  },
+  {
+    "companyName": "110 Theory",
+    "location": "Kissimmee, Florida",
+    "industry": "Multimedia & Graphic Design, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.9M",
+    "website": "www.110theory.com"
+  },
+  {
+    "companyName": "1111 Media Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.8M",
+    "website": "www.1111mediagroup.com"
+  },
+  {
+    "companyName": "117",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$2.5M",
+    "website": "www.117inc.com"
+  },
+  {
+    "companyName": "1190 Sports",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$999,000",
+    "website": "www.1190sports.com"
+  },
+  {
+    "companyName": "11Posts",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.8M",
+    "website": "www.11posts.com"
+  },
+  {
+    "companyName": "121 Marketing",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$3.3M",
+    "website": "www.1-2-1marketing.com"
+  },
+  {
+    "companyName": "17north Digital Marketing",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$7.7M",
+    "website": "www.17-north.com"
+  },
+  {},
+  {
+    "companyName": "1922 Creative",
+    "location": "Cape Coral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.6M",
+    "website": "www.1922creative.com"
+  },
+  {
+    "companyName": "1A Promotional Products",
+    "location": "Plantation, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.1appnow.com"
+  },
+  {
+    "companyName": "1AB Media",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.2M",
+    "website": "www.1abmedia.com"
+  },
+  {
+    "companyName": "1dollarseo.com",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$64.6M",
+    "website": "www.1dollarseo.com"
+  },
+  {},
+  {
+    "companyName": "1GS Digital Agency",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$995,000",
+    "website": "www.1gslab.com"
+  },
+  {
+    "companyName": "1ShoppingCart",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.sureresponse.com"
+  },
+  {
+    "companyName": "1st American Internet Marketing",
+    "location": "Lutz, Florida",
+    "industry": "Internet Service Providers, Website Hosting & Internet-related Services, Telecommunications",
+    "employees": "-",
+    "revenue": "$1.6M",
+    "website": "www.small-biz-seo.com"
+  },
+  {
+    "companyName": "1st Line Global",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.3M",
+    "website": "www.global1stline.com"
+  },
+  {
+    "companyName": "1Touch Marketing",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$5.8M",
+    "website": "www.1touchmarketing.com"
+  },
+  {
+    "companyName": "1x1 Impression",
+    "location": "Ormond Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$414,000",
+    "website": "www.1x1impression.com"
+  },
+  {
+    "companyName": "2 AJ's Media",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.2M",
+    "website": "2ajs.media"
+  },
+  {
+    "companyName": "2 Labs Digital Marketing",
+    "location": "New Port Richey, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.2ldm.com"
+  },
+  {
+    "companyName": "20 Twenty Creative",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$808,000",
+    "website": "www.20twentycreative.com"
+  },
+  {
+    "companyName": "2020 Embroidery",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.2020promotionalproducts.com"
+  },
+  {
+    "companyName": "2090 Group",
+    "location": "Gainesville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$5.7M",
+    "website": "www.2090group.com"
+  },
+  {
+    "companyName": "21st Century International",
+    "location": "Bradenton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.21stcenturyinternational.com"
+  },
+  {
+    "companyName": "223_Agency",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.8M",
+    "website": "www.223agency.com"
+  },
+  {
+    "companyName": "239 Marketing",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$647,000",
+    "website": "www.239marketing.com"
+  },
+  {
+    "companyName": "239web.com",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.239web.com"
+  },
+  {
+    "companyName": "249Labs",
+    "location": "Tampa, Florida",
+    "industry": "Internet Service Providers, Website Hosting & Internet-related Services, Telecommunications",
+    "employees": "1 - 10",
+    "revenue": "$1.6M",
+    "website": "www.249labs.com"
+  },
+  {
+    "companyName": "24x7 Marketing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.3M",
+    "website": "www.24x7marketing.com"
+  },
+  {
+    "companyName": "2Birds Events",
+    "location": "Gulfport, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.2birdsevents.com"
+  },
+  {
+    "companyName": "2DiFore Marketing Solutions",
+    "location": "Ruskin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2M",
+    "website": "www.2diforemarketingsolutions.com"
+  },
+  {
+    "companyName": "2K Web Group",
+    "location": "Eastpoint, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$728,000",
+    "website": "www.2kwebgroup.com"
+  },
+  {},
+  {
+    "companyName": "2nGage",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.5M",
+    "website": "www.2ngagenow.com"
+  },
+  {
+    "companyName": "2Night Entertainment",
+    "location": "Miami Beach, Florida",
+    "industry": "Internet Service Providers, Website Hosting & Internet-related Services, Telecommunications",
+    "employees": "201 - 500",
+    "revenue": "$67.8M",
+    "website": "www.2night.com"
+  },
+  {
+    "companyName": "2R Creative",
+    "location": "Miami, Florida",
+    "industry": "Repair Services, Consumer Services",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.2rcreative.com"
+  },
+  {
+    "companyName": "2ww",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$1.3M",
+    "website": "2ww.agency"
+  },
+  {},
+  {
+    "companyName": "3 Pillars Events",
+    "location": "Miami Beach, Florida",
+    "industry": "Cultural & Informational Centers, Hospitality",
+    "employees": "-",
+    "revenue": "$4.6M",
+    "website": "www.3pillarsevents.com"
+  },
+  {
+    "companyName": "30 Second",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.8M",
+    "website": "www.30secondstreet.com"
+  },
+  {
+    "companyName": "300bees",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.4M",
+    "website": "www.300bees.com"
+  },
+  {
+    "companyName": "305 Communications & Events",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1M",
+    "website": "www.305commevents.com"
+  },
+  {
+    "companyName": "305 Creative Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$829,000",
+    "website": "www.305creativegroup.com"
+  },
+  {
+    "companyName": "305 Expo",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.7M",
+    "website": "www.305expo.com"
+  },
+  {
+    "companyName": "305 Global Marketing",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.2M",
+    "website": "www.305globalmarketing.com"
+  },
+  {
+    "companyName": "305 Marketing",
+    "location": "Davie, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M"
+  },
+  {
+    "companyName": "305 Pr",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.305publicrelations.net"
+  },
+  {
+    "companyName": "3125 Communications",
+    "location": "Pensacola, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$978,000",
+    "website": "www.3125communications.com"
+  },
+  {
+    "companyName": "32 Degrees Marketing",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.1M",
+    "website": "www.32degreesmarketing.com"
+  },
+  {
+    "companyName": "321 Agency",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6.2M",
+    "website": "www.321theagency.com"
+  },
+  {
+    "companyName": "321 Exhibits",
+    "location": "Titusville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.2M",
+    "website": "www.321exhibits.com"
+  },
+  {
+    "companyName": "321MediaGroup",
+    "location": "Cape Canaveral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.321mediagroup.com"
+  },
+  {
+    "companyName": "324 Marketing",
+    "location": "Coconut Creek, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.324marketing.com"
+  },
+  {
+    "companyName": "36 Marketing",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.1M",
+    "website": "www.36mktg.com"
+  },
+  {
+    "companyName": "360 Digital Business Solutions",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$1.4M",
+    "website": "www.360sam.com"
+  },
+  {
+    "companyName": "360 Sponsorship",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.1M",
+    "website": "www.360sponsor.com"
+  },
+  {
+    "companyName": "360strat.Com",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.1M",
+    "website": "www.360strat.com"
+  },
+  {
+    "companyName": "360WiSE",
+    "location": "Miami Lakes, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.360wise.com"
+  },
+  {},
+  {
+    "companyName": "Billboard Connection",
+    "location": "McDonough, Georgia",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$18.9M",
+    "website": "www.billboardconnection.com"
+  },
+  {
+    "companyName": "creeAtive media",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "www.creeativemediaagency.com"
+  },
+  {
+    "companyName": "The Legacy Studio",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.thelegacystudio.com"
+  },
+  {
+    "companyName": "Next Gen Mailers",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.nextgenmailers.com"
+  },
+  {},
+  {
+    "companyName": "Power Moves Digital Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "www.powermovesdm.com"
+  },
+  {
+    "companyName": "Loudr",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "loudr.agency"
+  },
+  {
+    "companyName": "Brand DNA",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.branddnausa.com"
+  },
+  {
+    "companyName": "Kinetic",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$122,000",
+    "website": "www.knitgrp.com"
+  },
+  {
+    "companyName": "A&E Advisory",
+    "location": "Coral Springs, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.8M",
+    "website": "www.aeadvisory.com"
+  },
+  {
+    "companyName": "RockawayMore",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.rockawaymore.com"
+  },
+  {
+    "companyName": "LightFire Distribution",
+    "location": "Tamarac, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.lightfiredistribution.com"
+  },
+  {
+    "companyName": "The Insight Marketers",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.4M",
+    "website": "www.theinsightmarketers.com"
+  },
+  {
+    "companyName": "Marketing Group of Florida",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.1M",
+    "website": "www.marketinggroupofflorida.com"
+  },
+  {
+    "companyName": "The Marketing Department",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$593,000",
+    "website": "www.themarketingdepartment.co"
+  },
+  {
+    "companyName": "Koala Advertising",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.koalaadvertising.com"
+  },
+  {
+    "companyName": "BUILT Marketing Strategies",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.builtstrategies.com"
+  },
+  {
+    "companyName": "Team 11 Global Research Collaboration Network",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "volunteer.larkinhospital.com"
+  },
+  {
+    "companyName": "Mad Promo",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.madpromo.com"
+  },
+  {
+    "companyName": "Dharma Digital Marketing Agency",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.6M",
+    "website": "www.dharmadigitalmarketingagency.com"
+  },
+  {
+    "companyName": "32 Degrees Marketing",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.1M",
+    "website": "www.32degreesmarketing.com"
+  },
+  {
+    "companyName": "Lean Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3M",
+    "website": "www.leanmarketing.com"
+  },
+  {
+    "companyName": "Profit Marketing Group",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.1M",
+    "website": "www.profitmarketinggroup.com"
+  },
+  {
+    "companyName": "AB Distributor",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$5.2M",
+    "website": "www.abdistributor.com"
+  },
+  {
+    "companyName": "Metro Pack N' Mail",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.metropacknmail.com"
+  },
+  {},
+  {
+    "companyName": "Antheon Research",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.2M",
+    "website": "www.antheonresearch.com"
+  },
+  {
+    "companyName": "Olympia Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.5M",
+    "website": "www.olympiamarketing.com"
+  },
+  {
+    "companyName": "WIN Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.whatineedmarketing.com"
+  },
+  {
+    "companyName": "New Med Research",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.4M",
+    "website": "www.newmedresearch.com"
+  },
+  {},
+  {
+    "companyName": "Vogel Marketing Group",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.3M",
+    "website": "www.vogelmarketinggroup.com"
+  },
+  {
+    "companyName": "Acceleration Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "www.accelerationmarketing.net"
+  },
+  {
+    "companyName": "Pink Panther Marketing Agency",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.4M",
+    "website": "www.pinkpantheragency.com"
+  },
+  {
+    "companyName": "ProSolve Marketing",
+    "location": "Venice, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "prosolve.marketing"
+  },
+  {
+    "companyName": "Expert Choice Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.1M",
+    "website": "expertchoice.tech"
+  },
+  {
+    "companyName": "Digital Innovations Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.2M",
+    "website": "www.dimarketingco.com"
+  },
+  {
+    "companyName": "Expert Distributors FL",
+    "location": "Apopka, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.4M",
+    "website": "www.expertdistributorsfl.com"
+  },
+  {
+    "companyName": "Top Niche Digital Marketing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.topnichedigitalmarketing.com"
+  },
+  {
+    "companyName": "Image Depot",
+    "location": "Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.image-depot.com"
+  },
+  {
+    "companyName": "RISE Integrated Marketing",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.6M",
+    "website": "www.riseintegratedmarketing.com"
+  },
+  {
+    "companyName": "Public Display",
+    "location": "Yulee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.publicdisplayofimagination.com"
+  },
+  {
+    "companyName": "Sigma Analytics",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.7M",
+    "website": "www.sigmaanalyticsusa.com"
+  },
+  {
+    "companyName": "Ad Venture Promotions",
+    "location": "Saint Johns, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "www.avpromos.com"
+  },
+  {
+    "companyName": "Velocity Development Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.vdmmktg.com"
+  },
+  {
+    "companyName": "PJM Distributors",
+    "location": "Aventura, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.pjmdistributorsusa.com"
+  },
+  {
+    "companyName": "The Marketing Group",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$8.6M",
+    "website": "www.marketinggroup.com.pa"
+  },
+  {
+    "companyName": "Excalibur Marketing",
+    "location": "Davie, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.9M",
+    "website": "www.excaliburmarketing.co"
+  },
+  {
+    "companyName": "Amplify Digital Advertising",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.amplifydigitaladvertising.com"
+  },
+  {
+    "companyName": "Jeff Garner Digital Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.8M",
+    "website": "www.jeffgarner.com"
+  },
+  {
+    "companyName": "VIDAL Promos",
+    "location": "Ponte Vedra Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.vidalpromos.com"
+  },
+  {},
+  {
+    "companyName": "MAKU MARKETING",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.3M",
+    "website": "www.maku4u.com"
+  },
+  {
+    "companyName": "Amazing Ideas Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.amazingideasmarketing.com"
+  },
+  {
+    "companyName": "RTM Distribution",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.rtmdist.com"
+  },
+  {
+    "companyName": "Imperium Marketing Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4M",
+    "website": "www.imggroupllc.com"
+  },
+  {},
+  {
+    "companyName": "Next Destination Marketing",
+    "location": "Wesley Chapel, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.nextdestinationmarketing.com"
+  },
+  {
+    "companyName": "Imagine Research",
+    "location": "Boynton Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$931,000",
+    "website": "www.imagineresearch.com"
+  },
+  {
+    "companyName": "Johnston Marketing Group",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6.5M",
+    "website": "www.johnstonmarketinggroup.com"
+  },
+  {
+    "companyName": "AON Marketing",
+    "location": "Temple Terrace, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.aonmarketinginc.com"
+  },
+  {
+    "companyName": "Overflow Marketing",
+    "location": "Tarpon Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.overflowmarketing.com"
+  },
+  {
+    "companyName": "Imperium Marketing Solutions",
+    "location": "Alachua, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.8M",
+    "website": "www.imsedge.com"
+  },
+  {
+    "companyName": "Noble Grey Research",
+    "location": "Saint Johns, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.4M",
+    "website": "www.noblegreyresearch.com"
+  },
+  {
+    "companyName": "Epic Label",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.epiclabel.co"
+  },
+  {
+    "companyName": "Rainmaker.Uno",
+    "location": "Ocala, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "rainmaker.uno"
+  },
+  {
+    "companyName": "Shine Automation",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.5M",
+    "website": "www.shinemarketingppc.com"
+  },
+  {
+    "companyName": "Format Agency",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.formatagency.com"
+  },
+  {
+    "companyName": "Digi_T Marketing",
+    "location": "Suwannee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2M",
+    "website": "www.digitllc.net"
+  },
+  {
+    "companyName": "El Camino Marketing",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.6M",
+    "website": "www.elcaminomarketing.com"
+  },
+  {
+    "companyName": "Nexo Distribution",
+    "location": "Hialeah, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.2M",
+    "website": "www.nexodistribution.com"
+  },
+  {
+    "companyName": "Engage 365 Marketing",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.e365marketing.com"
+  },
+  {
+    "companyName": "Classified Ads",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.wowslive.com"
+  },
+  {
+    "companyName": "The Move Marketing Team",
+    "location": "Altamonte Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$2.1M",
+    "website": "www.themovemarketingteam.com"
+  },
+  {
+    "companyName": "Nxt Era Marketing",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.nxteramarketingteam.com"
+  },
+  {
+    "companyName": "Marketing Director on Call",
+    "location": "Clearwater Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.marketingdocfl.com"
+  },
+  {
+    "companyName": "Dat Media",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M",
+    "website": "www.datmediafl.com"
+  },
+  {},
+  {
+    "companyName": "creeAtive media",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "www.creeativemediaagency.com"
+  },
+  {
+    "companyName": "The Legacy Studio",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.thelegacystudio.com"
+  },
+  {
+    "companyName": "Next Gen Mailers",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.nextgenmailers.com"
+  },
+  {
+    "companyName": "Power Moves Digital Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "www.powermovesdm.com"
+  },
+  {},
+  {
+    "companyName": "Loudr",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "loudr.agency"
+  },
+  {
+    "companyName": "Brand DNA",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.branddnausa.com"
+  },
+  {
+    "companyName": "Kinetic",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$122,000",
+    "website": "www.knitgrp.com"
+  },
+  {
+    "companyName": "A&E Advisory",
+    "location": "Coral Springs, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.8M",
+    "website": "www.aeadvisory.com"
+  },
+  {
+    "companyName": "RockawayMore",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.rockawaymore.com"
+  },
+  {
+    "companyName": "LightFire Distribution",
+    "location": "Tamarac, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.lightfiredistribution.com"
+  },
+  {
+    "companyName": "The Insight Marketers",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.4M",
+    "website": "www.theinsightmarketers.com"
+  },
+  {
+    "companyName": "Marketing Group of Florida",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.1M",
+    "website": "www.marketinggroupofflorida.com"
+  },
+  {
+    "companyName": "The Marketing Department",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$593,000",
+    "website": "www.themarketingdepartment.co"
+  },
+  {
+    "companyName": "Koala Advertising",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.koalaadvertising.com"
+  },
+  {
+    "companyName": "BUILT Marketing Strategies",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.builtstrategies.com"
+  },
+  {
+    "companyName": "Team 11 Global Research Collaboration Network",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "volunteer.larkinhospital.com"
+  },
+  {
+    "companyName": "Mad Promo",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.madpromo.com"
+  },
+  {
+    "companyName": "Dharma Digital Marketing Agency",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.6M",
+    "website": "www.dharmadigitalmarketingagency.com"
+  },
+  {
+    "companyName": "32 Degrees Marketing",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.1M",
+    "website": "www.32degreesmarketing.com"
+  },
+  {
+    "companyName": "Lean Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3M",
+    "website": "www.leanmarketing.com"
+  },
+  {
+    "companyName": "Profit Marketing Group",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.1M",
+    "website": "www.profitmarketinggroup.com"
+  },
+  {
+    "companyName": "AB Distributor",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$5.2M",
+    "website": "www.abdistributor.com"
+  },
+  {
+    "companyName": "Metro Pack N' Mail",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.metropacknmail.com"
+  },
+  {
+    "companyName": "Teri Merritt",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.4M",
+    "website": "www.terimerritt.com"
+  },
+  {},
+  {
+    "companyName": "Olympia Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.5M",
+    "website": "www.olympiamarketing.com"
+  },
+  {
+    "companyName": "WIN Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.whatineedmarketing.com"
+  },
+  {
+    "companyName": "New Med Research",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.4M",
+    "website": "www.newmedresearch.com"
+  },
+  {
+    "companyName": "Vogel Marketing Group",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.3M",
+    "website": "www.vogelmarketinggroup.com"
+  },
+  {},
+  {
+    "companyName": "Acceleration Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "www.accelerationmarketing.net"
+  },
+  {
+    "companyName": "Pink Panther Marketing Agency",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.4M",
+    "website": "www.pinkpantheragency.com"
+  },
+  {
+    "companyName": "ProSolve Marketing",
+    "location": "Venice, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.6M",
+    "website": "prosolve.marketing"
+  },
+  {
+    "companyName": "Expert Choice Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.1M",
+    "website": "expertchoice.tech"
+  },
+  {
+    "companyName": "Digital Innovations Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.2M",
+    "website": "www.dimarketingco.com"
+  },
+  {
+    "companyName": "Expert Distributors FL",
+    "location": "Apopka, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.4M",
+    "website": "www.expertdistributorsfl.com"
+  },
+  {
+    "companyName": "Top Niche Digital Marketing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.topnichedigitalmarketing.com"
+  },
+  {
+    "companyName": "Image Depot",
+    "location": "Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "www.image-depot.com"
+  },
+  {
+    "companyName": "RISE Integrated Marketing",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$4.6M",
+    "website": "www.riseintegratedmarketing.com"
+  },
+  {
+    "companyName": "Public Display",
+    "location": "Yulee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.publicdisplayofimagination.com"
+  },
+  {
+    "companyName": "Sigma Analytics",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.7M",
+    "website": "www.sigmaanalyticsusa.com"
+  },
+  {
+    "companyName": "Ad Venture Promotions",
+    "location": "Saint Johns, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.8M",
+    "website": "www.avpromos.com"
+  },
+  {
+    "companyName": "Velocity Development Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.9M",
+    "website": "www.vdmmktg.com"
+  },
+  {
+    "companyName": "PJM Distributors",
+    "location": "Aventura, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.pjmdistributorsusa.com"
+  },
+  {
+    "companyName": "The Marketing Group",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$8.6M",
+    "website": "www.marketinggroup.com.pa"
+  },
+  {
+    "companyName": "Excalibur Marketing",
+    "location": "Davie, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.9M",
+    "website": "www.excaliburmarketing.co"
+  },
+  {
+    "companyName": "Amplify Digital Advertising",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.amplifydigitaladvertising.com"
+  },
+  {
+    "companyName": "Jeff Garner Digital Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.8M",
+    "website": "www.jeffgarner.com"
+  },
+  {
+    "companyName": "VIDAL Promos",
+    "location": "Ponte Vedra Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.vidalpromos.com"
+  },
+  {
+    "companyName": "True Story PR",
+    "location": "Destin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.truestorypr.co"
+  },
+  {},
+  {
+    "companyName": "Amazing Ideas Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.amazingideasmarketing.com"
+  },
+  {
+    "companyName": "RTM Distribution",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2M",
+    "website": "www.rtmdist.com"
+  },
+  {
+    "companyName": "Imperium Marketing Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4M",
+    "website": "www.imggroupllc.com"
+  },
+  {
+    "companyName": "Next Destination Marketing",
+    "location": "Wesley Chapel, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.nextdestinationmarketing.com"
+  },
+  {},
+  {
+    "companyName": "Imagine Research",
+    "location": "Boynton Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$931,000",
+    "website": "www.imagineresearch.com"
+  },
+  {
+    "companyName": "Johnston Marketing Group",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6.5M",
+    "website": "www.johnstonmarketinggroup.com"
+  },
+  {
+    "companyName": "AON Marketing",
+    "location": "Temple Terrace, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.aonmarketinginc.com"
+  },
+  {
+    "companyName": "Overflow Marketing",
+    "location": "Tarpon Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.overflowmarketing.com"
+  },
+  {
+    "companyName": "Imperium Marketing Solutions",
+    "location": "Alachua, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.8M",
+    "website": "www.imsedge.com"
+  },
+  {
+    "companyName": "Noble Grey Research",
+    "location": "Saint Johns, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.4M",
+    "website": "www.noblegreyresearch.com"
+  },
+  {
+    "companyName": "Epic Label",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.epiclabel.co"
+  },
+  {
+    "companyName": "Rainmaker.Uno",
+    "location": "Ocala, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M",
+    "website": "rainmaker.uno"
+  },
+  {
+    "companyName": "Shine Automation",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.5M",
+    "website": "www.shinemarketingppc.com"
+  },
+  {
+    "companyName": "Format Agency",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.formatagency.com"
+  },
+  {
+    "companyName": "Digi_T Marketing",
+    "location": "Suwannee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2M",
+    "website": "www.digitllc.net"
+  },
+  {
+    "companyName": "El Camino Marketing",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.6M",
+    "website": "www.elcaminomarketing.com"
+  },
+  {
+    "companyName": "Nexo Distribution",
+    "location": "Hialeah, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.2M",
+    "website": "www.nexodistribution.com"
+  },
+  {
+    "companyName": "Engage 365 Marketing",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.3M",
+    "website": "www.e365marketing.com"
+  },
+  {
+    "companyName": "Classified Ads",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.7M",
+    "website": "www.wowslive.com"
+  },
+  {
+    "companyName": "The Move Marketing Team",
+    "location": "Altamonte Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$2.1M",
+    "website": "www.themovemarketingteam.com"
+  },
+  {
+    "companyName": "Nxt Era Marketing",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.4M",
+    "website": "www.nxteramarketingteam.com"
+  },
+  {
+    "companyName": "Marketing Director on Call",
+    "location": "Clearwater Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.marketingdocfl.com"
+  },
+  {
+    "companyName": "Dat Media",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M",
+    "website": "www.datmediafl.com"
+  },
+  {
+    "companyName": "Aryam Marketing",
+    "location": "Port Charlotte, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.aryammarketing.com"
+  },
+  {},
+  {
+    "companyName": "Acosta",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "10,000+",
+    "revenue": "$7.5B",
+    "website": "www.acosta.com"
+  },
+  {
+    "companyName": "Cisneros",
+    "location": "Miami, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "5,001 - 10,000",
+    "revenue": "$2.3B",
+    "website": "www.cisneros.com"
+  },
+  {
+    "companyName": "Comcast Advertising",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.7B",
+    "website": "www.comcastadvertising.com"
+  },
+  {
+    "companyName": "Newfold Digital",
+    "location": "Jacksonville, Florida",
+    "industry": "Custom Software & IT Services, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.1B",
+    "website": "www.newfold.com"
+  },
+  {},
+  {
+    "companyName": "Web.com",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.4B",
+    "website": "www.web.com"
+  },
+  {
+    "companyName": "Apollo Retail Specialists",
+    "location": "Tampa, Florida",
+    "industry": "Grocery Retail, Retail",
+    "employees": "1,001 - 5,000",
+    "revenue": "$710.5M",
+    "website": "www.apolloretail.com"
+  },
+  {
+    "companyName": "IBOPE Media",
+    "location": "Miami, Florida",
+    "industry": "Media & Internet, Advertising & Marketing",
+    "employees": "1,001 - 5,000",
+    "revenue": "$591.7M",
+    "website": "www.ibopemedia.com"
+  },
+  {
+    "companyName": "AKEMA Group",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$452.9M",
+    "website": "www.akemagroup.com"
+  },
+  {
+    "companyName": "Team Enterprises",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$689.3M",
+    "website": "www.teamenterprises.com"
+  },
+  {
+    "companyName": "Earl Enterprises",
+    "location": "Orlando, Florida",
+    "industry": "Holding Companies & Conglomerates, Advertising & Marketing",
+    "employees": "1,001 - 5,000",
+    "revenue": "$535.6M",
+    "website": "www.earlenterprise.com"
+  },
+  {
+    "companyName": "Quick Test",
+    "location": "Jupiter, Florida",
+    "industry": "Data Collection & Internet Portals, Media & Internet",
+    "employees": "-",
+    "revenue": "$241M",
+    "website": "www.quicktest.com"
+  },
+  {
+    "companyName": "Consumer Source",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$332M",
+    "website": "www.consumersource.com"
+  },
+  {
+    "companyName": "Catalina",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$665M",
+    "website": "www.catalina.com"
+  },
+  {
+    "companyName": "Valpak",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$420.2M",
+    "website": "www.valpak.com"
+  },
+  {
+    "companyName": "Koozie Group",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$301.9M",
+    "website": "www.kooziegroup.com"
+  },
+  {
+    "companyName": "The Wanderers Club",
+    "location": "Wellington, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$2.9M",
+    "website": "www.coth.com"
+  },
+  {
+    "companyName": "Global Mail",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$73.2M",
+    "website": "www.globalmail.com"
+  },
+  {
+    "companyName": "Growve",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$500M",
+    "website": "www.growve.com"
+  },
+  {
+    "companyName": "AAF Miami",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$527,000",
+    "website": "www.aafmiami.com"
+  },
+  {
+    "companyName": "Infinity Sales Group (ISG)",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$36.9M",
+    "website": "www.isg.us"
+  },
+  {
+    "companyName": "Hit Promotional Products",
+    "location": "Largo, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$223.3M",
+    "website": "www.hitpromo.net"
+  },
+  {
+    "companyName": "Access Worldwide Communications",
+    "location": "Boca Raton, Florida",
+    "industry": "Business Services, Advertising & Marketing",
+    "employees": "-",
+    "revenue": "$28.5M",
+    "website": "www.accessww.com"
+  },
+  {
+    "companyName": "Newlink",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$29.4M",
+    "website": "www.newlink-group.com"
+  },
+  {
+    "companyName": "Transworld Business Advisors",
+    "location": "West Palm Beach, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$179.6M",
+    "website": "www.tworld.com"
+  },
+  {},
+  {
+    "companyName": "Zimmerman Advertising",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$126.3M",
+    "website": "www.zadv.com"
+  },
+  {
+    "companyName": "Alma",
+    "location": "Coconut Grove, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$259.8M",
+    "website": "www.almaad.com"
+  },
+  {
+    "companyName": "Cashback World",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$187M",
+    "website": "www.cashbackworld.com"
+  },
+  {
+    "companyName": "Sonas Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$994,000",
+    "website": "www.sonasmarketing.com"
+  },
+  {},
+  {
+    "companyName": "Factory Direct Promos",
+    "location": "Coral Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$1.3M",
+    "website": "www.factorydirectpromos.com"
+  },
+  {
+    "companyName": "Redvolution",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$1.3M",
+    "website": "www.redvolutionlatam.com"
+  },
+  {
+    "companyName": "TRT Interactive",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$4.2M",
+    "website": "www.trtinteractive.com"
+  },
+  {
+    "companyName": "BEL Promo",
+    "location": "Medley, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$41.5M",
+    "website": "www.belpromo.com"
+  },
+  {
+    "companyName": "ThinkDirect",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$97.8M",
+    "website": "www.tdmg.com"
+  },
+  {
+    "companyName": "Qology Direct",
+    "location": "Margate, Florida",
+    "industry": "Telecommunications, Advertising & Marketing",
+    "employees": "501 - 1,000",
+    "revenue": "$14.5M",
+    "website": "www.qologydirect.com"
+  },
+  {
+    "companyName": "BG",
+    "location": "West Palm Beach, Florida",
+    "industry": "Automotive Parts, Manufacturing",
+    "employees": "501 - 1,000",
+    "revenue": "$6.9M",
+    "website": "www.bgservice.com"
+  },
+  {
+    "companyName": "Victory Marketing Agency",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$153.2M",
+    "website": "www.victory-agency.com"
+  },
+  {
+    "companyName": "Palm Coast Data",
+    "location": "Palm Coast, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$231.3M",
+    "website": "www.palmcoastdata.com"
+  },
+  {
+    "companyName": "O'neill Marketing",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$5.4M",
+    "website": "www.oneillmarketing.net"
+  },
+  {
+    "companyName": "Ariadna Communications Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$221M",
+    "website": "www.ariadnacommunicationsgroup.com"
+  },
+  {
+    "companyName": "ISGN Solutions",
+    "location": "Palm Bay, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$23.4M",
+    "website": "www.isgnsolutions.com"
+  },
+  {
+    "companyName": "Linkeo",
+    "location": "Doral, Florida",
+    "industry": "Internet Service Providers, Website Hosting & Internet-related Services, Telecommunications",
+    "employees": "501 - 1,000",
+    "revenue": "$44.8M",
+    "website": "www.linkeo.us"
+  },
+  {
+    "companyName": "Abcw",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$4.6M",
+    "website": "abcw.global"
+  },
+  {
+    "companyName": "Fully Promoted",
+    "location": "West Palm Beach, Florida",
+    "industry": "Commercial Printing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$136.1M",
+    "website": "www.fullypromoted.com"
+  },
+  {
+    "companyName": "Welcome Wagon",
+    "location": "Crystal Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$168.2M",
+    "website": "www.welcomewagon.com"
+  },
+  {
+    "companyName": "OneTouch Direct",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$265.8M",
+    "website": "www.onetouchdirect.com"
+  },
+  {
+    "companyName": "INFUSEmedia",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$170M",
+    "website": "www.infusemedia.com"
+  },
+  {
+    "companyName": "Rock Content",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$116.3M",
+    "website": "www.rockcontent.com"
+  },
+  {
+    "companyName": "Glocal Income DHS Club",
+    "location": "Englewood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$14.1M",
+    "website": "www.glocalincome.com"
+  },
+  {},
+  {
+    "companyName": "Beyond Promotions",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$595,000",
+    "website": "www.beyondpromotions.net"
+  },
+  {
+    "companyName": "The Granton Group",
+    "location": "Milton, Florida",
+    "industry": "Flowers, Gifts & Specialty Stores, Retail",
+    "employees": "201 - 500",
+    "revenue": "$976,000",
+    "website": "www.thegrantongroup.com"
+  },
+  {
+    "companyName": "SalesMakers",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$75M",
+    "website": "www.salesmakersinc.com"
+  },
+  {
+    "companyName": "allContact",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$126.6M",
+    "website": "www.allcontact.com"
+  },
+  {},
+  {
+    "companyName": "Digital Media Solutions",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$409M",
+    "website": "www.digitalmediasolutions.com"
+  },
+  {
+    "companyName": "Marco Mkt",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$153M",
+    "website": "www.marcomkt.com"
+  },
+  {
+    "companyName": "Lmg",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$13M",
+    "website": "www.lmg.net"
+  },
+  {
+    "companyName": "South American Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$1.5M",
+    "website": "www.southamericanmarketing.com"
+  },
+  {
+    "companyName": "First Beat Media",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$145.2M",
+    "website": "www.firstbeatmedia.com"
+  },
+  {
+    "companyName": "Increxa",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$50M",
+    "website": "www.increxa.com"
+  },
+  {
+    "companyName": "Global Distribution FZE",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$6M",
+    "website": "www.globalfze.com"
+  },
+  {
+    "companyName": "My Data Privacy",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$2.8M",
+    "website": "www.mydataprivacy.com"
+  },
+  {
+    "companyName": "Be Bravo",
+    "location": "Miami, Florida",
+    "industry": "Apparel & Accessories Retail, Retail",
+    "employees": "201 - 500",
+    "revenue": "$25.6M",
+    "website": "www.bebravo.com"
+  },
+  {
+    "companyName": "PCI",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$136M",
+    "website": "www.pcibrands.com"
+  },
+  {
+    "companyName": "GSP",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$33.9M",
+    "website": "www.gspretail.com"
+  },
+  {
+    "companyName": "Spuntino Catering",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$3.9M",
+    "website": "www.spuntinocatering.com"
+  },
+  {
+    "companyName": "Signature Marketing Concepts",
+    "location": "Land O Lakes, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$81.3M",
+    "website": "www.signature-network.com"
+  },
+  {
+    "companyName": "Triad Retail Media",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$68.8M",
+    "website": "www.triadretail.com"
+  },
+  {
+    "companyName": "V2 Global",
+    "location": "Miami, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$15.1M",
+    "website": "www.v2-global.com"
+  },
+  {
+    "companyName": "Femwell",
+    "location": "Miami, Florida",
+    "industry": "Business Services, Accounting Services",
+    "employees": "201 - 500",
+    "revenue": "$36.3M",
+    "website": "www.femwell.com"
+  },
+  {
+    "companyName": "Grupo 361",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$58.2M",
+    "website": "www.grupo361.com"
+  },
+  {
+    "companyName": "Builderall",
+    "location": "Orlando, Florida",
+    "industry": "Software, Advertising & Marketing",
+    "employees": "201 - 500",
+    "revenue": "$2M",
+    "website": "www.builderall.com"
+  },
+  {
+    "companyName": "KVH Media Group",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Cable & Satellite, Telecommunications",
+    "employees": "201 - 500",
+    "revenue": "$40.5M",
+    "website": "www.kvhmediagroup.com"
+  },
+  {
+    "companyName": "Miles Partnership",
+    "location": "Sarasota, Florida",
+    "industry": "Travel Agencies & Services, Hospitality",
+    "employees": "201 - 500",
+    "revenue": "$119.7M",
+    "website": "www.milespartnership.com"
+  },
+  {},
+  {
+    "companyName": "South Marketing Group",
+    "location": "Brandon, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.southmarketinggroup.com"
+  },
+  {
+    "companyName": "SmartClicks",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$183,000",
+    "website": "smartclicks.tech"
+  },
+  {
+    "companyName": "Fuego Enterprises",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$304,000",
+    "website": "www.fuegoenterprisesinc.com"
+  },
+  {
+    "companyName": "First Marketing",
+    "location": "Pompano Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$202,000",
+    "website": "www.first-marketing.com"
+  },
+  {},
+  {
+    "companyName": "Kinetic",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$122,000",
+    "website": "www.knitgrp.com"
+  },
+  {
+    "companyName": "VTS Marketing",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$633,000",
+    "website": "www.vtsmarketing.com"
+  },
+  {
+    "companyName": "Penton Relations",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$273,000"
+  },
+  {
+    "companyName": "Go Getter Marketing",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$283,000"
+  },
+  {
+    "companyName": "Promotions by Dawn",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$228,000"
+  },
+  {
+    "companyName": "Compass Concepts & Consulting",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$530,000",
+    "website": "compass.miami"
+  },
+  {
+    "companyName": "SOFLO Marketing",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$296,000",
+    "website": "www.instagram.com/soflo_marketing"
+  },
+  {
+    "companyName": "Honig Innovative Promotions",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$227,000"
+  },
+  {
+    "companyName": "International Marketing Specialist",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M"
+  },
+  {
+    "companyName": "All Florida Promotional Products",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$363,000"
+  },
+  {
+    "companyName": "Proactive Advertising",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$225,000"
+  },
+  {
+    "companyName": "Macaw Digital Marketing agency",
+    "location": "Cape Coral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.digitalmacaw.com"
+  },
+  {
+    "companyName": "TRY Business School",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$324,000",
+    "website": "www.trybizschool.com"
+  },
+  {
+    "companyName": "Ads Concierge",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.7M",
+    "website": "www.adsconcierge.com"
+  },
+  {
+    "companyName": "Continental Research Network",
+    "location": "Miami, Florida",
+    "industry": "Hospitals & Physicians Clinics, Physicians Clinics",
+    "employees": "-",
+    "revenue": "$360,000",
+    "website": "www.continentalmodimonetwork.com"
+  },
+  {
+    "companyName": "Meraki Marketing",
+    "location": "Stuart, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.merakimarketingfl.com"
+  },
+  {
+    "companyName": "Freelance Media Services",
+    "location": "Wellington, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$336,000",
+    "website": "www.freelancemediaservices.com"
+  },
+  {
+    "companyName": "J Barbery Advertising",
+    "location": "Cooper City, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$316,000",
+    "website": "www.jbarbery.com"
+  },
+  {
+    "companyName": "Research Analytics",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.3M",
+    "website": "www.researchanalyticsconsulting.com"
+  },
+  {
+    "companyName": "B&C Concepts",
+    "location": "Pembroke Pines, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$367,000",
+    "website": "www.bncconcepts.com"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "companyName": "Alpha Mail Media",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.alphamailmedia.io"
+  },
+  {
+    "companyName": "Bigfoot",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$230,000",
+    "website": "www.bigfootswag.com"
+  },
+  {
+    "companyName": "Healthcare Performance Analytics",
+    "location": "Miami, Florida",
+    "industry": "Drug Stores & Pharmacies, Retail",
+    "employees": "1 - 10",
+    "revenue": "$196,000",
+    "website": "www.healthcare-performance.com"
+  },
+  {
+    "companyName": "Raven Rock Communications",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.ravenrockcomms.com"
+  },
+  {
+    "companyName": "Contact Courtney Consulting",
+    "location": "North Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$393,000",
+    "website": "www.contactcourtney.com"
+  },
+  {
+    "companyName": "Clear Vision Media Solutions",
+    "location": "Jupiter, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$731,000",
+    "website": "www.cvmediasolutions.com"
+  },
+  {
+    "companyName": "Boeing & Airbus Distribution Programs",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$401,000",
+    "website": "www.airstationav.com"
+  },
+  {
+    "companyName": "The Passion",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$756,000",
+    "website": "www.thediamondgroups.com"
+  },
+  {
+    "companyName": "etc Marketing Consultants",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$517,000",
+    "website": "www.consultsforyou.com"
+  },
+  {
+    "companyName": "Lead Generation",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$577,000",
+    "website": "www.automatedacquisitions.com"
+  },
+  {
+    "companyName": "Stalliondist",
+    "location": "Seminole, Florida",
+    "industry": "Sporting & Recreational Equipment Retail, Retail",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.stallionmkt.com"
+  },
+  {
+    "companyName": "DreamCatcher",
+    "location": "Hallandale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$185,000",
+    "website": "www.dreamcatchermkt.com"
+  },
+  {
+    "companyName": "Avesca",
+    "location": "Deltona, Florida",
+    "industry": "Research & Development, Business Services",
+    "employees": "-",
+    "revenue": "$1.8M",
+    "website": "www.avesca.biz"
+  },
+  {
+    "companyName": "Digital Eye Candy",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$205,000",
+    "website": "www.digitaleyecandy.us"
+  },
+  {
+    "companyName": "CC",
+    "location": "Havana, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$250,000",
+    "website": "www.3cprintandpromo.com"
+  },
+  {
+    "companyName": "Content Mavericks",
+    "location": "Crestview, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$360,000",
+    "website": "www.contentmavericks.com"
+  },
+  {
+    "companyName": "Old City Pr",
+    "location": "Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.3M",
+    "website": "www.oldcitypr.com"
+  },
+  {
+    "companyName": "Idon Media",
+    "location": "Juno Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$205,000",
+    "website": "www.idonmedia.com"
+  },
+  {
+    "companyName": "Full Circle",
+    "location": "Jupiter, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$903,000",
+    "website": "www.fullcircleadvertisingusa.com"
+  },
+  {
+    "companyName": "Proton Signs",
+    "location": "Riviera Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$342,000",
+    "website": "www.protonsigns.net"
+  },
+  {
+    "companyName": "DO Marketing & Fundraising",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$210,000",
+    "website": "www.domarketingfundraising.com"
+  },
+  {
+    "companyName": "In My Arrogant Opinion",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.7M",
+    "website": "www.imao.us"
+  },
+  {
+    "companyName": "Thompson Marketing",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$204,000",
+    "website": "www.thompsonmarketing.com"
+  },
+  {
+    "companyName": "DigitalGrown.com",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$681,000",
+    "website": "www.digitalgrown.com"
+  },
+  {
+    "companyName": "YZ Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.yzmediausa.net"
+  },
+  {},
+  {
+    "companyName": "Acosta",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "10,000+",
+    "revenue": "$7.5B",
+    "website": "www.acosta.com"
+  },
+  {
+    "companyName": "Cisneros",
+    "location": "Miami, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "5,001 - 10,000",
+    "revenue": "$2.3B",
+    "website": "www.cisneros.com"
+  },
+  {
+    "companyName": "Comcast Advertising",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.7B",
+    "website": "www.comcastadvertising.com"
+  },
+  {
+    "companyName": "Web.com",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.4B",
+    "website": "www.web.com"
+  },
+  {},
+  {
+    "companyName": "Adfuel",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$1.2B",
+    "website": "www.goadfuel.com"
+  },
+  {
+    "companyName": "Newfold Digital",
+    "location": "Jacksonville, Florida",
+    "industry": "Custom Software & IT Services, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$1.1B",
+    "website": "www.newfold.com"
+  },
+  {
+    "companyName": "Apollo Retail Specialists",
+    "location": "Tampa, Florida",
+    "industry": "Grocery Retail, Retail",
+    "employees": "1,001 - 5,000",
+    "revenue": "$710.5M",
+    "website": "www.apolloretail.com"
+  },
+  {
+    "companyName": "Team Enterprises",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$689.3M",
+    "website": "www.teamenterprises.com"
+  },
+  {
+    "companyName": "Catalina",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$665M",
+    "website": "www.catalina.com"
+  },
+  {
+    "companyName": "IBOPE Media",
+    "location": "Miami, Florida",
+    "industry": "Media & Internet, Advertising & Marketing",
+    "employees": "1,001 - 5,000",
+    "revenue": "$591.7M",
+    "website": "www.ibopemedia.com"
+  },
+  {
+    "companyName": "Earl Enterprises",
+    "location": "Orlando, Florida",
+    "industry": "Holding Companies & Conglomerates, Advertising & Marketing",
+    "employees": "1,001 - 5,000",
+    "revenue": "$535.6M",
+    "website": "www.earlenterprise.com"
+  },
+  {
+    "companyName": "Growve",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$500M",
+    "website": "www.growve.com"
+  },
+  {
+    "companyName": "AKEMA Group",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$452.9M",
+    "website": "www.akemagroup.com"
+  },
+  {
+    "companyName": "Valpak",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$420.2M",
+    "website": "www.valpak.com"
+  },
+  {
+    "companyName": "Digital Media Solutions",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$409M",
+    "website": "www.digitalmediasolutions.com"
+  },
+  {
+    "companyName": "Consumer Source",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$332M",
+    "website": "www.consumersource.com"
+  },
+  {
+    "companyName": "Koozie Group",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1,001 - 5,000",
+    "revenue": "$301.9M",
+    "website": "www.kooziegroup.com"
+  },
+  {
+    "companyName": "OneTouch Direct",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$265.8M",
+    "website": "www.onetouchdirect.com"
+  },
+  {
+    "companyName": "Alma",
+    "location": "Coconut Grove, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$259.8M",
+    "website": "www.almaad.com"
+  },
+  {
+    "companyName": "Quick Test",
+    "location": "Jupiter, Florida",
+    "industry": "Data Collection & Internet Portals, Media & Internet",
+    "employees": "-",
+    "revenue": "$241M",
+    "website": "www.quicktest.com"
+  },
+  {
+    "companyName": "Palm Coast Data",
+    "location": "Palm Coast, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$231.3M",
+    "website": "www.palmcoastdata.com"
+  },
+  {
+    "companyName": "Hit Promotional Products",
+    "location": "Largo, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$223.3M",
+    "website": "www.hitpromo.net"
+  },
+  {
+    "companyName": "Ariadna Communications Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$221M",
+    "website": "www.ariadnacommunicationsgroup.com"
+  },
+  {
+    "companyName": "Cogint",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$210.2M",
+    "website": "www.cogint.com"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "companyName": "Cashback World",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$187M",
+    "website": "www.cashbackworld.com"
+  },
+  {
+    "companyName": "REVCONTENT",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$183.8M",
+    "website": "www.revcontent.com"
+  },
+  {
+    "companyName": "Transworld Business Advisors",
+    "location": "West Palm Beach, Florida",
+    "industry": "Management Consulting, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$179.6M",
+    "website": "www.tworld.com"
+  },
+  {
+    "companyName": "INFUSEmedia",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$170M",
+    "website": "www.infusemedia.com"
+  },
+  {
+    "companyName": "Welcome Wagon",
+    "location": "Crystal Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$168.2M",
+    "website": "www.welcomewagon.com"
+  },
+  {
+    "companyName": "JeffreyGroup",
+    "location": "Miami, Florida",
+    "industry": "Management Consulting, HR & Staffing",
+    "employees": "201 - 500",
+    "revenue": "$154.4M",
+    "website": "www.jeffreygroup.com"
+  },
+  {
+    "companyName": "Victory Marketing Agency",
+    "location": "Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$153.2M",
+    "website": "www.victory-agency.com"
+  },
+  {
+    "companyName": "Marco Mkt",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$153M",
+    "website": "www.marcomkt.com"
+  },
+  {
+    "companyName": "First Beat Media",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$145.2M",
+    "website": "www.firstbeatmedia.com"
+  },
+  {
+    "companyName": "Fully Promoted",
+    "location": "West Palm Beach, Florida",
+    "industry": "Commercial Printing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$136.1M",
+    "website": "www.fullypromoted.com"
+  },
+  {
+    "companyName": "PCI",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$136M",
+    "website": "www.pcibrands.com"
+  },
+  {
+    "companyName": "allContact",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$126.6M",
+    "website": "www.allcontact.com"
+  },
+  {
+    "companyName": "Zimmerman Advertising",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$126.3M",
+    "website": "www.zadv.com"
+  },
+  {
+    "companyName": "Miles Partnership",
+    "location": "Sarasota, Florida",
+    "industry": "Travel Agencies & Services, Hospitality",
+    "employees": "201 - 500",
+    "revenue": "$119.7M",
+    "website": "www.milespartnership.com"
+  },
+  {
+    "companyName": "Rock Content",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$116.3M",
+    "website": "www.rockcontent.com"
+  },
+  {
+    "companyName": "The Zimmerman Agency",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$115.2M",
+    "website": "www.zimmerman.com"
+  },
+  {
+    "companyName": "Aim Field Service",
+    "location": "Apopka, Florida",
+    "industry": "Research & Development, Business Services",
+    "employees": "-",
+    "revenue": "$106.4M",
+    "website": "www.patsaim.com"
+  },
+  {
+    "companyName": "Adsmovil",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$105.1M",
+    "website": "www.adsmovil.com"
+  },
+  {
+    "companyName": "Recurrent Ventures",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$102M",
+    "website": "www.recurrent.io"
+  },
+  {
+    "companyName": "Kobie Marketing",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$100M",
+    "website": "www.kobie.com"
+  },
+  {
+    "companyName": "EVOK Advertising",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$98.6M",
+    "website": "www.evokad.com"
+  },
+  {
+    "companyName": "ThinkDirect",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "501 - 1,000",
+    "revenue": "$97.8M",
+    "website": "www.tdmg.com"
+  },
+  {
+    "companyName": "Postcard Mania",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$97.2M",
+    "website": "www.postcardmania.com"
+  },
+  {
+    "companyName": "Aroma360",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$89.3M",
+    "website": "www.aroma360.com"
+  },
+  {
+    "companyName": "BrandStar",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "201 - 500",
+    "revenue": "$85M",
+    "website": "www.brandstar.com"
+  },
+  {},
+  {
+    "companyName": "Options Media Group Holdings",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$6,000",
+    "website": "www.optionsmedia.com"
+  },
+  {
+    "companyName": "Elettro",
+    "location": "Davie, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$120,000",
+    "website": "www.elettro.com"
+  },
+  {
+    "companyName": "Kinetic",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$122,000",
+    "website": "www.knitgrp.com"
+  },
+  {
+    "companyName": "More Than Just Mail",
+    "location": "Largo, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$126,000"
+  },
+  {},
+  {
+    "companyName": "Alternative Promotions",
+    "location": "Merritt Island, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$134,000"
+  },
+  {
+    "companyName": "Blue Sky Ads",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$164,000"
+  },
+  {
+    "companyName": "Kids Promo",
+    "location": "Palm Harbor, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$166,000",
+    "website": "www.twokidspromo.com"
+  },
+  {
+    "companyName": "Out of the Box Promotions",
+    "location": "Land O Lakes, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$167,000"
+  },
+  {
+    "companyName": "Russ Research Services",
+    "location": "Jacksonville Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$180,000"
+  },
+  {
+    "companyName": "Digital Art Concepts",
+    "location": "Port Orange, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$180,000",
+    "website": "www.maureenjarrell.com"
+  },
+  {
+    "companyName": "Complete Identity",
+    "location": "Coral Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$181,000"
+  },
+  {
+    "companyName": "Big Promotion",
+    "location": "Hialeah, Florida",
+    "industry": "Apparel & Accessories Retail, Retail",
+    "employees": "1 - 10",
+    "revenue": "$181,000",
+    "website": "www.bigpromotion.com"
+  },
+  {
+    "companyName": "Executive Circle Promotions",
+    "location": "Jacksonville, Florida",
+    "industry": "Business Services, Advertising & Marketing",
+    "employees": "-",
+    "revenue": "$181,000",
+    "website": "www.executive-circle.com"
+  },
+  {
+    "companyName": "Tino Marketing",
+    "location": "Coconut Creek, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$182,000",
+    "website": "www.crashcoursetraining.com"
+  },
+  {
+    "companyName": "SmartClicks",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$183,000",
+    "website": "smartclicks.tech"
+  },
+  {
+    "companyName": "Rosebud Advertising Productions",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$184,000",
+    "website": "www.rosebud2000.com"
+  },
+  {
+    "companyName": "DreamCatcher",
+    "location": "Hallandale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$185,000",
+    "website": "www.dreamcatchermkt.com"
+  },
+  {
+    "companyName": "Yare Group",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$185,000",
+    "website": "www.yaregroup.com"
+  },
+  {
+    "companyName": "League Promotions",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$186,000"
+  },
+  {
+    "companyName": "Atlas Marketing & Media",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$186,000",
+    "website": "www.atlasmarketingmedia.com"
+  },
+  {
+    "companyName": "Resort Property Promotions",
+    "location": "Saint Pete Beach, Florida",
+    "industry": "Hospitality, Advertising & Marketing",
+    "employees": "-",
+    "revenue": "$186,000",
+    "website": "www.resortpropertypromotions.com"
+  },
+  {
+    "companyName": "Aleph Marketing",
+    "location": "Ormond Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$187,000",
+    "website": "www.alephmarketing.com"
+  },
+  {
+    "companyName": "Dr David E Mullen",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$188,000",
+    "website": "www.drdavidemullen.com"
+  },
+  {
+    "companyName": "Pier 6 Promotions",
+    "location": "Valrico, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$190,000",
+    "website": "www.instagram.com/ivan813tampa/"
+  },
+  {},
+  {
+    "companyName": "Time Marketing & Advertising",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$190,000",
+    "website": "www.timemarketingad.com"
+  },
+  {
+    "companyName": "Value Plus",
+    "location": "Lakeland, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$191,000"
+  },
+  {
+    "companyName": "Diverse Marketing",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$192,000",
+    "website": "diverse.marketing"
+  },
+  {
+    "companyName": "Ren Media Group",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$192,000",
+    "website": "www.ajntv.com"
+  },
+  {},
+  {
+    "companyName": "Virtual Media & Associates",
+    "location": "Ocoee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$192,000",
+    "website": "www.vmawebhost.com"
+  },
+  {
+    "companyName": "SocialManas",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$193,000",
+    "website": "www.socialmanas.com"
+  },
+  {
+    "companyName": "Snob Media",
+    "location": "Palm Beach, Florida",
+    "industry": "Retail, Advertising & Marketing",
+    "employees": "1 - 10",
+    "revenue": "$193,000",
+    "website": "www.snobmedia.com"
+  },
+  {
+    "companyName": "Davis Data Solutions",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$195,000",
+    "website": "www.davisdatasolutions.com"
+  },
+  {
+    "companyName": "MajCo Group",
+    "location": "Pembroke Pines, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$195,000",
+    "website": "www.majcoinc.com"
+  },
+  {
+    "companyName": "DHI Advertising & Design",
+    "location": "Vero Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$195,000",
+    "website": "www.dhi.com"
+  },
+  {
+    "companyName": "Florida Organic Transport",
+    "location": "Sunrise, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$195,000",
+    "website": "www.crilex.com"
+  },
+  {
+    "companyName": "Sell It Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$196,000",
+    "website": "www.sellitmarketing.com"
+  },
+  {
+    "companyName": "Healthcare Performance Analytics",
+    "location": "Miami, Florida",
+    "industry": "Drug Stores & Pharmacies, Retail",
+    "employees": "1 - 10",
+    "revenue": "$196,000",
+    "website": "www.healthcare-performance.com"
+  },
+  {
+    "companyName": "M3 Branding",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$196,000",
+    "website": "www.m3branding.com"
+  },
+  {
+    "companyName": "Emedia Plex",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$196,000",
+    "website": "www.emediaplex.com"
+  },
+  {
+    "companyName": "Life Research",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$196,000",
+    "website": "www.liferesearchcorp.com"
+  },
+  {
+    "companyName": "Status Stalker",
+    "location": "Dania, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$196,000",
+    "website": "www.statusstalker.com"
+  },
+  {
+    "companyName": "Fast Computers",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.fastamerica.net"
+  },
+  {
+    "companyName": "Teicnic Industries",
+    "location": "Hollywood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$197,000",
+    "website": "www.teicnicindustries.com"
+  },
+  {
+    "companyName": "Apex Digital Strategies",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.apexdigitalstrategies.com"
+  },
+  {
+    "companyName": "Organic Ads",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.organicads.com"
+  },
+  {
+    "companyName": "Bullish Review",
+    "location": "Gulf Breeze, Florida",
+    "industry": "Advertising & Marketing, Newspapers & News Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.bullishreview.com"
+  },
+  {
+    "companyName": "White",
+    "location": "Englewood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.whiteandcompany.com"
+  },
+  {
+    "companyName": "Mats Are Us",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$197,000",
+    "website": "www.matsareus.com"
+  },
+  {},
+  {
+    "companyName": "Raven Rock Communications",
+    "location": "Winter Park, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.ravenrockcomms.com"
+  },
+  {
+    "companyName": "YZ Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.yzmediausa.net"
+  },
+  {
+    "companyName": "CS Marketing Solutions",
+    "location": "Jupiter, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.csmsolutionsllc.com"
+  },
+  {
+    "companyName": "Consensus",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.consensusagency.com"
+  },
+  {},
+  {
+    "companyName": "Prestige Marketing Solutions",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.prestigehq.com"
+  },
+  {
+    "companyName": "Superclean Distributors",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Manufacturing, Advertising & Marketing",
+    "employees": "1 - 10",
+    "revenue": "$198,000",
+    "website": "www.microhosting.com"
+  },
+  {
+    "companyName": "Biznaga Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$199,000",
+    "website": "www.biznagamedia.com"
+  },
+  {
+    "companyName": "BizPro Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$199,000",
+    "website": "www.nysupplements.com"
+  },
+  {
+    "companyName": "ValidClick",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$199,000",
+    "website": "www.validclick.com"
+  },
+  {
+    "companyName": "SFT Solutions",
+    "location": "Crystal Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$199,000",
+    "website": "www.sftsolutions.com"
+  },
+  {
+    "companyName": "ASAP Distributors",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$199,000",
+    "website": "www.asapdistributor.com"
+  },
+  {
+    "companyName": "Alfi",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$200,000",
+    "website": "www.getalfi.com"
+  },
+  {
+    "companyName": "Best Choice Promotion",
+    "location": "Hallandale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$200,000",
+    "website": "www.bestchoicepromotion.com"
+  },
+  {
+    "companyName": "Bellus Public Relations",
+    "location": "Cooper City, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$200,000",
+    "website": "www.belluspr.com"
+  },
+  {
+    "companyName": "Sapphire Moon",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$200,000",
+    "website": "www.sapphiremoon.com"
+  },
+  {
+    "companyName": "Global Focus Groups",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$201,000",
+    "website": "www.globalfocusgroups.com"
+  },
+  {
+    "companyName": "WeadU",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$201,000",
+    "website": "www.weadu.com"
+  },
+  {
+    "companyName": "Sua Advertising",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$201,000",
+    "website": "www.suaadvertising.com"
+  },
+  {
+    "companyName": "Lillian Monterrey",
+    "location": "Hialeah, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$201,000",
+    "website": "www.guieseporsusinstintos.net"
+  },
+  {
+    "companyName": "Premove Marketing",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$201,000",
+    "website": "www.premove.com"
+  },
+  {
+    "companyName": "Dawkins & Associates Marketing Group",
+    "location": "North Fort Myers, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$201,000",
+    "website": "www.damg75.com"
+  },
+  {
+    "companyName": "Island Virtual",
+    "location": "Lakeland, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$201,000",
+    "website": "www.islandvirtual.com"
+  },
+  {
+    "companyName": "Digital Media USA",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$202,000",
+    "website": "www.digitalmediausa.com"
+  },
+  {
+    "companyName": "X10 Creative",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$202,000",
+    "website": "www.x10inc.com"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "companyName": "Zyndio Holdings",
+    "location": "Delray Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$2.5M",
+    "website": "www.zyndio.com"
+  },
+  {
+    "companyName": "Zuniga Marketing",
+    "location": "Ruskin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zunigamarketing.com"
+  },
+  {
+    "companyName": "Zum Digital",
+    "location": "Miami, Florida",
+    "industry": "Broadcasting, Media & Internet",
+    "employees": "-",
+    "revenue": "$4.7M",
+    "website": "www.zumbrazilamericas.com"
+  },
+  {
+    "companyName": "Zu Group",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zugroup.net"
+  },
+  {},
+  {
+    "companyName": "Zucker Public Relations",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$5.2M",
+    "website": "www.zuckerpublicrelations.com"
+  },
+  {
+    "companyName": "Zucker",
+    "location": "Dunedin, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zuckerandzucker.com"
+  },
+  {
+    "companyName": "plana zubizarretA group",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zubizarretagroup.com"
+  },
+  {
+    "companyName": "Zubi Advertising Services",
+    "location": "Coral Gables, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$65.1M",
+    "website": "www.zubiad.com"
+  },
+  {
+    "companyName": "ZS Information Group",
+    "location": "Tampa, Florida",
+    "industry": "Information & Document Management, Business Services",
+    "employees": "-",
+    "revenue": "$5.1M",
+    "website": "www.zsinformationgroup.com"
+  },
+  {
+    "companyName": "Zrinity",
+    "location": "Orlando, Florida",
+    "industry": "Software, Advertising & Marketing",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.zrinity.com"
+  },
+  {
+    "companyName": "Zosap",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3M",
+    "website": "www.zosap.com"
+  },
+  {
+    "companyName": "Zo Promos",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.8M",
+    "website": "www.zopromos.com"
+  },
+  {
+    "companyName": "Zoom Promos",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$920,000",
+    "website": "www.zoompromos.com"
+  },
+  {
+    "companyName": "Zoom IQ",
+    "location": "Bal Harbour, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zoomiq.com"
+  },
+  {
+    "companyName": "Zone Advisors",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.7M",
+    "website": "www.zoneadvisors.com"
+  },
+  {
+    "companyName": "Zobily",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$3.9M",
+    "website": "www.zobily.com"
+  },
+  {
+    "companyName": "Z Media",
+    "location": "Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.3M",
+    "website": "www.zmedia-inc.com"
+  },
+  {
+    "companyName": "ZlataPR",
+    "location": "West Palm Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6.6M",
+    "website": "www.zlatapr.com"
+  },
+  {
+    "companyName": "Zizion",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$24.1M",
+    "website": "www.zizion.com"
+  },
+  {
+    "companyName": "Zitta Media Digital Solutions",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.5M",
+    "website": "www.zittamedia.tv"
+  },
+  {
+    "companyName": "Zitos Promotional Products",
+    "location": "North Miami Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zitosprom.com"
+  },
+  {
+    "companyName": "Zip Printing & Mailing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zipmailingflorida.com"
+  },
+  {
+    "companyName": "ZipLine",
+    "location": "Deerfield Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$9M",
+    "website": "www.zipline.biz"
+  },
+  {
+    "companyName": "Zip Code Target Marketing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.9M",
+    "website": "www.zipcodetargetmarketing.com"
+  },
+  {},
+  {
+    "companyName": "Zing Marketing",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$1.2M",
+    "website": "www.zingorlando.com"
+  },
+  {
+    "companyName": "Zindo",
+    "location": "Saint Petersburg, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.2M",
+    "website": "www.zindo.co"
+  },
+  {
+    "companyName": "ZINC Digital of Miami",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$1.3M",
+    "website": "www.zincmiami.com"
+  },
+  {
+    "companyName": "Zinata",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$16M",
+    "website": "www.zinata.com"
+  },
+  {},
+  {
+    "companyName": "The Zimmerman Agency",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$115.2M",
+    "website": "www.zimmerman.com"
+  },
+  {
+    "companyName": "Zilveti Communications",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zilveticomm.com"
+  },
+  {
+    "companyName": "Zigglio",
+    "location": "Miramar, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.1M",
+    "website": "www.zigglio.com"
+  },
+  {
+    "companyName": "Ziggi Marketing",
+    "location": "Clearwater, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$2.7M",
+    "website": "www.ziggimarketing.com"
+  },
+  {
+    "companyName": "Ziffer Stansberry",
+    "location": "Tallahassee, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.9M",
+    "website": "www.ziffberry.com"
+  },
+  {
+    "companyName": "Zidan Marketing & Media",
+    "location": "Lutz, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$7.7M",
+    "website": "www.zidanmarketing.com"
+  },
+  {
+    "companyName": "Zercom Infotech",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$991,000",
+    "website": "www.zercominfotech.com"
+  },
+  {
+    "companyName": "Zephoria",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$4.5M",
+    "website": "www.zephoria.com"
+  },
+  {
+    "companyName": "Zentrigue",
+    "location": "Longwood, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$5.1M",
+    "website": "www.zentrigue.com"
+  },
+  {
+    "companyName": "ZenScape Marketing",
+    "location": "Gainesville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.2M",
+    "website": "www.zenscapemarketing.com"
+  },
+  {
+    "companyName": "Zen Media",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$7.7M",
+    "website": "www.zenmedia.com"
+  },
+  {
+    "companyName": "Zenfox Media",
+    "location": "Lake Mary, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.7M",
+    "website": "www.zenfoxmedia.com"
+  },
+  {
+    "companyName": "Zenbound SEO",
+    "location": "Naples, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$575,000",
+    "website": "www.zenboundseo.com"
+  },
+  {
+    "companyName": "Zelen Communications",
+    "location": "Tampa, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M",
+    "website": "www.zelencommunications.com"
+  },
+  {
+    "companyName": "Zebra Advertisement",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$3.6M",
+    "website": "www.zebraadvertisement.com"
+  },
+  {
+    "companyName": "Zealousie",
+    "location": "Jacksonville, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "-",
+    "revenue": "$3.7M",
+    "website": "www.zealousie.com"
+  },
+  {
+    "companyName": "Zeszutko",
+    "location": "Melbourne, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6M",
+    "website": "www.zcorppr.com"
+  },
+  {
+    "companyName": "Zazz Events",
+    "location": "Coral Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$13.1M",
+    "website": "www.zazzevents.com"
+  },
+  {
+    "companyName": "ZaZa Events",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$3.3M",
+    "website": "www.zazaevents.com"
+  },
+  {
+    "companyName": "Zavee",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$6M",
+    "website": "www.zavee.com"
+  },
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {},
+  {
+    "companyName": "Cunningham Field Research",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$448,000"
+  },
+  {
+    "companyName": "A To Z Marketing",
+    "location": "Redington Shores, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$599,000"
+  },
+  {
+    "companyName": "Value Plus",
+    "location": "Lakeland, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$191,000"
+  },
+  {
+    "companyName": "Advertising Associates",
+    "location": "Boca Raton, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "51 - 200",
+    "revenue": "$25.9M"
+  },
+  {},
+  {
+    "companyName": "Biotics Research Services",
+    "location": "Orlando, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.4M"
+  },
+  {
+    "companyName": "Denali Marketing",
+    "location": "Winter Garden, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$333,000"
+  },
+  {
+    "companyName": "Marketing Research Institute",
+    "location": "Gulf Breeze, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1.6M"
+  },
+  {
+    "companyName": "Alliance Exhibit Services",
+    "location": "Coconut Creek, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$216,000"
+  },
+  {
+    "companyName": "Barbara Powers Promotions",
+    "location": "Plant City, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$220,000"
+  },
+  {
+    "companyName": "Arel Distributors",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$1M"
+  },
+  {
+    "companyName": "Public Sector Research",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "11 - 50",
+    "revenue": "$681,000"
+  },
+  {
+    "companyName": "Diane Mack Advertising",
+    "location": "Pensacola, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$529,000"
+  },
+  {
+    "companyName": "Tws Marketing Group",
+    "location": "Heathrow, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$934,000"
+  },
+  {
+    "companyName": "High Motif",
+    "location": "Sarasota, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$440,000"
+  },
+  {
+    "companyName": "One Way Advertising",
+    "location": "Doral, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$274,000"
+  },
+  {
+    "companyName": "Niche Marketing Consultants",
+    "location": "Sunrise, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$346,000"
+  },
+  {
+    "companyName": "Complete Identity",
+    "location": "Coral Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$181,000"
+  },
+  {
+    "companyName": "Tropical Mailing",
+    "location": "Fort Lauderdale, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$446,000"
+  },
+  {
+    "companyName": "E Marketing Group",
+    "location": "Pompano Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$546,000"
+  },
+  {
+    "companyName": "Xp Marketing",
+    "location": "Weston, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$304,000"
+  },
+  {
+    "companyName": "Russ Research Services",
+    "location": "Jacksonville Beach, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$180,000"
+  },
+  {
+    "companyName": "Ultimate Concepts Marketing",
+    "location": "North Bay Village, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$730,000"
+  },
+  {
+    "companyName": "Technology Marketing Services",
+    "location": "Altamonte Springs, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$309,000"
+  },
+  {
+    "companyName": "Bodner Advertising",
+    "location": "Miami, Florida",
+    "industry": "Advertising & Marketing, Business Services",
+    "employees": "1 - 10",
+    "revenue": "$587,000"
+  }
+]
