@@ -1,0 +1,3124 @@
+[
+  {
+    "name": "Scrubs Shoes & Chef",
+    "description": "Clothing Stores",
+    "phone": "(941) 795-1100",
+    "address": "1002 Manatee Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Simply Sexy Beauty Supply.",
+    "description": "Clothing Stores",
+    "phone": "(941) 251-4925",
+    "address": "628 Martin Luther King Jr Ave W  bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(941) 744-9360",
+    "address": "303 301 Blvd W Ste 464a  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-9573",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "DD's Discounts",
+    "description": "Clothing Stores",
+    "phone": "(941) 745-5759",
+    "address": "3611 1st St  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(941) 750-9911",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "1 OFF TEE",
+    "description": "Clothing Stores",
+    "phone": "(941) 807-2741",
+    "address": "2214 14th Ave W  bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fashion Looks",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-1144",
+    "address": "303 301 Blvd W Ste 237  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "House Of Fine",
+    "description": "Clothing Stores",
+    "phone": "(941) 748-8111",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(941) 745-5300",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bunulu",
+    "description": "Clothing Stores",
+    "phone": "(844) 507-5374",
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Street Scences",
+    "description": "Clothing Stores",
+    "phone": "(941) 746-4511",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Designs by Hafapea Gift Shop",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-6345",
+    "address": "PO Box 10660  Bradenton, FL 34282",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(941) 714-0573",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(941) 877-2001",
+    "address": "5108 15th St E Ste 501A  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Echo Park Traders",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-0508",
+    "address": "807 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Loshande",
+    "description": "Clothing Stores",
+    "phone": "(941) 212-4041",
+    "address": "1020 10th Ave W Unit 115  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Consign-IT",
+    "description": "Clothing Stores",
+    "phone": "(941) 580-9961",
+    "address": "3717 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 756-1546",
+    "address": "1205 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fresh Inc.",
+    "description": "Clothing Stores",
+    "phone": "(855) 787-5059",
+    "address": "4916 21st St W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-7571",
+    "address": "6250 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-6327",
+    "address": "5281 Factory Shops Blvd Spc 770A  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-5379",
+    "address": "5461 Factory Shops Blvd Suite 585  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-4418",
+    "address": "5189 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-6272",
+    "address": "5185 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Quiksilver",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-8507",
+    "address": "5131 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Haggar Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-7985",
+    "address": "5183 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Levi's Outlet Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-7578",
+    "address": "5177 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "These Quiet Sounds",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-0700",
+    "address": "5147 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-1992",
+    "address": "5141 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-6306",
+    "address": "5109 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Clothing Stores",
+    "phone": "(941) 723-6123",
+    "address": "5201 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jockey",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-3166",
+    "address": "5225 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-0954",
+    "address": "5401 Factory Shops Blvd Spc 100  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "J. Crew Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-0954",
+    "address": "5401 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "VF Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-4533",
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Calvin Klein",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-6218",
+    "address": "5387 Factory Shops Blvd # 570  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hurley",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-6951",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lacoste",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-7900",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Nautica",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-7740",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Under Armour Factory House",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-6705",
+    "address": "5553 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jones Apparel Group USA",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-3133",
+    "address": "5571 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jones New York",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-7276",
+    "address": "5591 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "US Polo Association",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-9230",
+    "address": "5585 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-3210",
+    "address": "5657 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-0695",
+    "address": "5665 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "LOFT Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-8391",
+    "address": "5707 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(941) 212-4122",
+    "address": "6142 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-1606",
+    "address": "6355 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Manatee"
+  },
+  {
+    "name": "Burkes Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2516",
+    "address": "6355 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Manatee"
+  },
+  {
+    "name": "Raffle Mike",
+    "description": "Clothing Stores",
+    "phone": "(941) 962-4711",
+    "address": "6208 26th St W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Prayers Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 773-2291",
+    "address": "4676 72nd Ct E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Naughty Paula Jo Sexy Custom Clothing",
+    "description": "Clothing Stores",
+    "phone": "(386) 864-1188",
+    "address": "16 Meadowlark Cir  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Andi's List",
+    "description": "Clothing Stores",
+    "phone": "(941) 284-2020",
+    "address": "553 Magellan Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Elle La Peche",
+    "description": "Clothing Stores",
+    "phone": "(847) 340-6382",
+    "address": "372 Montgomery Ave  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Purabell House of Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-0202",
+    "address": "5002 Lena Rd  Bradenton, FL 34211",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fifi's Fine Resale Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 758-7222",
+    "address": "7343 52nd Pl E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jalal Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 924-4600",
+    "address": "8201 Tamiami Trl  Sarasota, FL 34238",
+    "location": "Manatee"
+  },
+  {
+    "name": "Topaz Design Group",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-7939",
+    "address": "1870 University Pkwy  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Souzou Design House",
+    "description": "Clothing Stores",
+    "phone": "(941) 376-3468",
+    "address": "5891 Milton Ave  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "J S Macdonald Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 792-4156",
+    "address": "4105 129th St W  Cortez, FL 34215",
+    "location": "Manatee"
+  },
+  {
+    "name": "Poshy",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2893",
+    "address": "7718 Edmonston Cir  Bradenton, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Print My T's",
+    "description": "Clothing Stores",
+    "phone": "(941) 225-9809",
+    "address": "2040 Dr Martin Luther King Way  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Free People",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1175",
+    "address": "140 University Town Center Dr Unit 246  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "We Make Custom Teez - Custom T-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(941) 479-0559",
+    "address": "11161 State Road 70 E Unit 110-801  Lakewood Ranch, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Queen Custom Creations",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-4230",
+    "address": "1026 Colleton Dr  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "5.11 Tactical",
+    "description": "Clothing Stores",
+    "phone": "(941) 538-5402",
+    "address": "5231 University Pkwy Unit 101  University Park, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rip Current",
+    "description": "Clothing Stores",
+    "phone": "(941) 554-4388",
+    "address": "6850 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "Monetti Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 713-3947",
+    "address": "119 Bridge St Unit 100  Bradenton Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Mister Roberts Resortwear",
+    "description": "Clothing Stores",
+    "phone": "(941) 778-4505",
+    "address": "103 Gulf Dr S  Bradenton Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Alvin's Island",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-0135",
+    "address": "3602 E Bay Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fada Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-5354",
+    "address": "2000 N Washington Blvd Ste B  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-1300",
+    "address": "125 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Saltair",
+    "description": "Clothing Stores",
+    "phone": "(941) 281-2934",
+    "address": "5508 Marina Dr  Holmes beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "David Yurman at Saks Fifth Avenue",
+    "description": "Clothing Stores",
+    "phone": "(941) 364-5300",
+    "address": "120 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "American Eagle & Aerie",
+    "description": "Clothing Stores",
+    "phone": "(941) 256-0200",
+    "address": "140 University Town Center Dr Unit 187  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-2503",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Charlotte Tilbury",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9491",
+    "address": "140 University Town Center Dr Unit 279  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(941) 296-7046",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(941) 925-0458",
+    "address": "140 University Town Center Dr Unit 190  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Urban Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(941) 213-1426",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "UNTUCKit",
+    "description": "Clothing Stores",
+    "phone": "(941) 724-8844",
+    "address": "140 University Town Center Dr Unit 143  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(941) 231-1251",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "J. Crew",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-3664",
+    "address": "140 University Town Center Dr Unit 271  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(941) 866-6614",
+    "address": "140 University Town Center Dr Unit 164  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Calypso St Barth",
+    "description": "Clothing Stores",
+    "phone": "(941) 306-1414",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1148",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "H&M (Hennes & Mauritz)",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hugo Boss",
+    "description": "Clothing Stores",
+    "phone": "(941) 536-9000",
+    "address": "140 University Town Center Dr Unit 261  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Vineyard Vines",
+    "description": "Clothing Stores",
+    "phone": "(941) 926-6085",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Boden",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-3458",
+    "address": "6290 Lake Osprey Dr  Lakewood Ranch, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Look at Me Now Urban Wear & Beauty Supply",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-5989",
+    "address": "3251 17th St  Sarasota, FL 34235",
+    "location": "Manatee"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(941) 277-6000",
+    "address": "117 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oh My Gauze!",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1964",
+    "address": "374 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Closet Divas",
+    "description": "Clothing Stores",
+    "phone": "(941) 927-7467",
+    "address": "3576 Webber St  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Island Pursuit",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2849",
+    "address": "400 Madison Dr Ste 206  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Breezin' Up Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2950",
+    "address": "362 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eliett's On Palm",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-2999",
+    "address": "45 S Palm Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ivory Coast",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1999",
+    "address": "15 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Go Fish Clothing & Jewelry",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-5730",
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tiara Trading",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-4554",
+    "address": "1620 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "The DanceWEAR Shoppe",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-6312",
+    "address": "315 Interstate Blvd  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Stockyard-Feed & Western Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 444-1771",
+    "address": "1010 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "McMahon Fur Storage",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6041",
+    "address": "233 Avant St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sahara",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0587",
+    "address": "362 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "King James Big and Tall",
+    "description": "Clothing Stores",
+    "phone": "(941) 922-1873",
+    "address": "4333 S Tamiami Trl Ste D  Sarasota, FL 34231",
+    "location": "Manatee"
+  },
+  {
+    "name": "Everything But Water",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1205",
+    "address": "331 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "I Tesori",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-9296",
+    "address": "1405 1st St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Darci",
+    "description": "Clothing Stores",
+    "phone": "(941) 330-2800",
+    "address": "1441 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Mercantile",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-2457",
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Greiners Fine Mens Clothing",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2143",
+    "address": "45 S Palm Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "La Femme Fatale",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-5100",
+    "address": "80 S Palm Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rollo Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(941) 349-4372",
+    "address": "1685 Laurel St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Olivia",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1677",
+    "address": "9 S Blvd Of Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Butterfly Beach",
+    "description": "Clothing Stores",
+    "phone": "(941) 346-6785",
+    "address": "313 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tommy Bahama Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-2446",
+    "address": "371 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Foxy Lady Siesta Key Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-4611",
+    "address": "14 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "LuLaRoe by Cathy L.",
+    "description": "Clothing Stores",
+    "phone": "(941) 216-6126",
+    "address": "2128 Hyde Park Cir  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jenn's Personalized Impressions",
+    "description": "Clothing Stores",
+    "phone": "(941) 915-3896",
+    "address": "5207 Indian Mound St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eddy Dick & Jean",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-2750",
+    "address": "5248 Manz Pl  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Floridafied HD",
+    "description": "Clothing Stores",
+    "phone": "(941) 961-3471",
+    "address": "905 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Srq Lady Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 208-8128",
+    "address": "PO Box 5942  Sarasota, FL 34277",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fashion Room",
+    "description": "Clothing Stores",
+    "phone": "(941) 952-3170",
+    "address": "2083 Siesta Dr  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tom Co",
+    "description": "Clothing Stores",
+    "phone": "(941) 306-4028",
+    "address": "3625 Webber St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Stitchin' Kitty",
+    "description": "Clothing Stores",
+    "phone": "(941) 545-8591",
+    "address": "2035 Linwood Way  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eddie Bauer",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-4536",
+    "address": "747 Southgate Mall  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "On the Trashy Side",
+    "description": "Clothing Stores",
+    "phone": "(941) 302-7003",
+    "address": "3221 Vesper Ave  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Blaklader",
+    "description": "Clothing Stores",
+    "phone": "(941) 342-4936",
+    "address": "6311 Porter Rd  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Muse Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 312-4066",
+    "address": "3809 McIntosh Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "New Beginnings Childrens Consignment LLC.",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-8187",
+    "address": "4952 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bold & Beautiful",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-9109",
+    "address": "2063 Fruitville Rd  Sarasota, FL 34237",
+    "location": "Manatee"
+  },
+  {
+    "name": "Johnson Marketing Group",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-3200",
+    "address": "1727 Hyde Park St  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "We Are One World",
+    "description": "Clothing Stores",
+    "phone": "(941) 718-3258",
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Custom Designs by Victoria LLC",
+    "description": "Clothing Stores",
+    "phone": "(941) 225-9678",
+    "address": "529 13th St W Ste 106  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "S & R Uniforms",
+    "description": "Clothing Stores",
+    "phone": "(941) 748-1245",
+    "address": "1833 Tamiami Trl  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sunshine Thrifts Stores of Bradenton, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(941) 281-2940",
+    "address": "3611 1st St Ste 230  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sasshole Clothing",
+    "description": "Clothing Stores",
+    "phone": "(800) 518-2615",
+    "address": "1201 6th Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Madeline's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 242-5924",
+    "address": "1304 6th Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-0103",
+    "address": "3611 1st St  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(941) 746-9106",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Gentlemen's Choice",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-4170",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Creations D K D A",
+    "description": "Clothing Stores",
+    "phone": "(941) 746-1698",
+    "address": "303 301 Blvd W Ste E  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Outlet Centrl Fulfill",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-8987",
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Team Edition Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-5300",
+    "address": "4208 19th Street Ct E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-6411",
+    "address": "303 301 Blvd W Ste 701  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(941) 745-3313",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Chameleon",
+    "description": "Clothing Stores",
+    "phone": "(941) 747-4477",
+    "address": "2801 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Beachy Boho Life By Elizabeth",
+    "description": "Clothing Stores",
+    "phone": "(941) 400-5188",
+    "address": "302 28th St W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(941) 752-0331",
+    "address": "201 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sand Dollar Gift Shop Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 778-2024",
+    "address": "1806 28th St W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(941) 727-7441",
+    "address": "865 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(941) 746-3288",
+    "address": "3905 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Russell's Western Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 621-6607",
+    "address": "4422 E State Road 64  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tip Toe Designs",
+    "description": "Clothing Stores",
+    "phone": "(813) 359-7222",
+    "address": "135 12th Street Ct W  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "One Way Apparel Promotions",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-3660",
+    "address": "1500 15th Avenue Dr E Unit 105  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "One Source Medical Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-7003",
+    "address": "1407 20th Ave E  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(941) 739-6616",
+    "address": "835 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Teez By Design",
+    "description": "Clothing Stores",
+    "phone": "(941) 745-2257",
+    "address": "5266 Office Park Blvd  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2519",
+    "address": "4902 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-2519",
+    "address": "4902 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lily Bliss Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 567-4093",
+    "address": "5917 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Manatee"
+  },
+  {
+    "name": "Latino's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-2132",
+    "address": "1239 60th Ave W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Nike Factory Store - Ellenton",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-0096",
+    "address": "5195 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aerie",
+    "description": "Clothing Stores",
+    "phone": "(941) 981-6310",
+    "address": "5173 Factory Shops Blvd Spc 850  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "PacSun Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-4418",
+    "address": "5189 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Gap Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-1992",
+    "address": "5141 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Puma Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-7999",
+    "address": "5157 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-6306",
+    "address": "5109 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Haggar Outlet Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-7985",
+    "address": "5183 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Skechers Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-6700",
+    "address": "5125 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(941) 538-5377",
+    "address": "5113 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Van Heusen",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-0573",
+    "address": "5165 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-3085",
+    "address": "5233 Factory Shops Blvd Unit 730  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-1278",
+    "address": "5303 Factory Shops Blvd Ste 500  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hurley Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-1606",
+    "address": "5405 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Outlet Market Place",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-4533",
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Izod",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-6218",
+    "address": "5387 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lee Wrangler Clearance Center",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-4533",
+    "address": "5391 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-1081",
+    "address": "5431 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(941) 723-1511",
+    "address": "5455 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Polo Ralph Lauren Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-0695",
+    "address": "5461 Factory Shops Blvd Ste 480  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-9400",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dkny",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-4763",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 531-2990",
+    "address": "5503 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-5244",
+    "address": "5525 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cole Haan Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-8329",
+    "address": "5569 Factory Shops Blvd Spc 285  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cole Haan",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-8329",
+    "address": "5569 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-8944",
+    "address": "5593 Factory Shops Blvd Spc 325  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "COACH Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-7702",
+    "address": "5601 Factory Shops Blvd Spc 400  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Brooks Brothers Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-8944",
+    "address": "5593 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Coach Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-7702",
+    "address": "5601 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lucky Brand",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-8103",
+    "address": "5625 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-3793",
+    "address": "5621 Factory Shops Blvd Ste B425  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "GUESS Factory",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-1955",
+    "address": "5645 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Clarks Bostonian Outlet",
+    "description": "Clothing Stores",
+    "phone": "(941) 722-2828",
+    "address": "5629 Factory Shops Blvd Ste 108  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Columbia Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-6481",
+    "address": "5661 Factory Shops Blvd # 470  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Swim Mart",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-8924",
+    "address": "5923 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(941) 723-6713",
+    "address": "5460 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-3711",
+    "address": "6126 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Creative Native",
+    "description": "Clothing Stores",
+    "phone": "(941) 756-5659",
+    "address": "6160 15th St E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(941) 761-1972",
+    "address": "7250 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eye Care Family Vision Center",
+    "description": "Clothing Stores",
+    "phone": "(941) 753-2020",
+    "address": "6156 State Road 70 E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ocean Breezes Design",
+    "description": "Clothing Stores",
+    "phone": "(941) 792-9700",
+    "address": "7832 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Better Vision Family Eye Care",
+    "description": "Clothing Stores",
+    "phone": "(941) 744-0791",
+    "address": "8457 Heritage Green Way  Bradenton, FL 34212",
+    "location": "Manatee"
+  },
+  {
+    "name": "Premier Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 751-0919",
+    "address": "1176 Whitfield Ave  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Natural Discoveries Sales Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-0611",
+    "address": "1281 Tallevast Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-8657",
+    "address": "7369 52nd Pl E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Kickz N Lidz",
+    "description": "Clothing Stores",
+    "phone": "(941) 748-5455",
+    "address": "6710 71st St E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Scrub Club",
+    "description": "Clothing Stores",
+    "phone": "(941) 755-9669",
+    "address": "8527 State Road 70 E  Bradenton, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "CaribeHeart",
+    "description": "Clothing Stores",
+    "phone": "(754) 600-1337",
+    "address": "8051 N Tamiami Trl Ste E6  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Contempo Casuals",
+    "description": "Clothing Stores",
+    "phone": "(941) 923-6749",
+    "address": "8201 Tamiami Trl  Sarasota, FL 34238",
+    "location": "Manatee"
+  },
+  {
+    "name": "Longboat Resort Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 383-9320",
+    "address": "5380 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "N Y Connection",
+    "description": "Clothing Stores",
+    "phone": "(941) 358-9203",
+    "address": "3333 N Tamiami Trl  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(941) 355-9074",
+    "address": "5205 University Pkwy  University Park, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Howluckyami",
+    "description": "Clothing Stores",
+    "phone": "(941) 896-5598",
+    "address": "119 Bridge St  Bradenton Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lola Monroe",
+    "description": "Clothing Stores",
+    "phone": "(888) 822-5652",
+    "address": "5429 University Pkwy # 1059  University Park, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Nifty Thrifty",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2372",
+    "address": "2101 19th St  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(941) 960-2071",
+    "address": "515 Bay Isles Pkwy  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "XTC Super Center of Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-6969",
+    "address": "2092 17th St  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Mister Roberts Resort Wear",
+    "description": "Clothing Stores",
+    "phone": "(941) 778-4505",
+    "address": "5330 Gulf Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(941) 232-7300",
+    "address": "110 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rock Bottom Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 365-8922",
+    "address": "2590 17th St  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Calzedonia",
+    "description": "Clothing Stores",
+    "phone": "(941) 667-2396",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(941) 554-5481",
+    "address": "140 University Town Center Dr Unit 215  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oakley Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9932",
+    "address": "140 University Town Center Dr Unit 214  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(941) 702-9660",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Athleta",
+    "description": "Clothing Stores",
+    "phone": "(941) 667-2052",
+    "address": "140 University Town Center Dr Unit 136  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lucky Brand Jeans",
+    "description": "Clothing Stores",
+    "phone": "(941) 893-1180",
+    "address": "140 University Town Center Dr Unit 266  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(941) 313-7144",
+    "address": "140 University Town Center Dr Unit 144  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Robert Graham Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 529-1911",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "BOSS Menswear Store",
+    "description": "Clothing Stores",
+    "phone": "(941) 536-9000",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cotton On Kids",
+    "description": "Clothing Stores",
+    "phone": "(941) 278-8882",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "FP Movement",
+    "description": "Clothing Stores",
+    "phone": "(941) 279-3979",
+    "address": "140 University Town Center Dr Unit 248  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Main Street Bazaar",
+    "description": "Clothing Stores",
+    "phone": "(941) 907-3456",
+    "address": "8111 Lakewood Main St  Lakewood Ranch, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Crazy Shirts",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-1105",
+    "address": "359 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3354",
+    "address": "28 N Blvd Of Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Royal-Tee's Screen Printing & Embroidery",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-8112",
+    "address": "5556 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aquarius Silk Screen Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-3059",
+    "address": "5931 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "India Artisans",
+    "description": "Clothing Stores",
+    "phone": "(941) 203-8913",
+    "address": "1899 Fruitville Rd Unit A  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Scout and Molly's of Sarasota",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-2170",
+    "address": "1413 1st St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Swim City",
+    "description": "Clothing Stores",
+    "phone": "(941) 954-8800",
+    "address": "50 N Tamiami Trl  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Clothesline Co",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-1764",
+    "address": "2250 2nd St  Sarasota, FL 34237",
+    "location": "Manatee"
+  },
+  {
+    "name": "Brooks Brothers Country Club",
+    "description": "Clothing Stores",
+    "phone": "(941) 954-7545",
+    "address": "1500 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Martin Freeman",
+    "description": "Clothing Stores",
+    "phone": "(941) 953-2948",
+    "address": "75 S Palm Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Andeansun Corp",
+    "description": "Clothing Stores",
+    "phone": "(239) 277-1877",
+    "address": "242 S Washington Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Pineapple Lain Boutique",
+    "description": "Clothing Stores",
+    "phone": "(941) 330-8771",
+    "address": "407 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "SL Printwear",
+    "description": "Clothing Stores",
+    "phone": "(941) 780-0061",
+    "address": "2876 Ringling Blvd  Sarasota, FL 34237",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Exchange Inc.",
+    "description": "Clothing Stores",
+    "phone": "(941) 955-7859",
+    "address": "539 S Orange Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Island Fresh",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-0011",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Reagan Paige",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-0011",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Two Sides of Nature",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-2432",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Just Cruizin",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-2150",
+    "address": "21 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cariloha",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-0412",
+    "address": "478 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Environeers",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6208",
+    "address": "5373 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tracht Brothers Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 371-6208",
+    "address": "5373 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Marcello Sport St. Armands",
+    "description": "Clothing Stores",
+    "phone": "(941) 706-1357",
+    "address": "18 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Pinos II P",
+    "description": "Clothing Stores",
+    "phone": "(941) 366-2666",
+    "address": "1849 Hillview St  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aquarius Graphics",
+    "description": "Clothing Stores",
+    "phone": "(941) 981-2623",
+    "address": "5931 Palmer Blvd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Suncoast Embroidery & Tees",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-3111",
+    "address": "5405 Cork Oak St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Veith & Associates Apparel",
+    "description": "Clothing Stores",
+    "phone": "(941) 378-5694",
+    "address": "201 Field End St  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sarah Louise Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 377-9656",
+    "address": "128 Sarasota Center Blvd  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Stark Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 341-0319",
+    "address": "2555 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Influence",
+    "description": "Clothing Stores",
+    "phone": "(941) 343-2315",
+    "address": "474 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Binjara Traders Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 388-3335",
+    "address": "327 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Victoria's Fashions",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(941) 750-9609",
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Okyo Fashions",
+    "description": "Women's Clothing",
+    "phone": "(941) 748-7230",
+    "address": "1707 1st St  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "RMS All Star Sports",
+    "description": "Sportswear",
+    "phone": "(941) 746-3292",
+    "address": "1707 1st St E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Burke's Outlet Stores",
+    "description": "Variety Stores",
+    "phone": "(941) 747-2355",
+    "address": "700 13th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "EJ Wedding & Beyond LLC",
+    "description": "Wedding Planning & Consultants",
+    "phone": "(941) 580-0907",
+    "address": "230 Martin Luther King Jr Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sporting Goods",
+    "phone": "(941) 748-0577",
+    "address": "311 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(941) 750-0610",
+    "address": "313 Manatee Ave W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Island Cabana",
+    "description": "Gift Shops",
+    "phone": "(941) 896-4946",
+    "address": "403 C Pine Avenue  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "All Dressed Up",
+    "description": "Women's Clothing",
+    "phone": "(941) 748-8807",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Hearts Desire",
+    "description": "Women's Clothing",
+    "phone": "(941) 302-1069",
+    "address": "1221 12th St W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(941) 357-1657",
+    "address": "3622 1st St W  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Play It Again Sports - Bradenton",
+    "description": "Sporting Goods",
+    "phone": "(941) 896-9684",
+    "address": "3611 1st St E Ste 710  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "RAW Wheels & Tires",
+    "description": "Tire Dealers",
+    "phone": "(941) 412-2900",
+    "address": "2919 14th St W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dollar General Market",
+    "description": "Discount Stores",
+    "phone": "(941) 357-4622",
+    "address": "3611 1st St Ste 1100  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Plus Sizes & More",
+    "description": "Women's Clothing",
+    "phone": "(941) 753-3695",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(941) 746-1444",
+    "address": "303 301 Blvd W Ste 635  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(941) 747-6350",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(941) 749-5572",
+    "address": "303 301 Blvd W Ste 449  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 746-1075",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(941) 747-8883",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jenny's One Dollar Plus",
+    "description": "Discount Stores",
+    "phone": "(941) 748-7301",
+    "address": "303 301 Blvd W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls Westgate Corp",
+    "description": "Department Stores",
+    "phone": "(941) 747-2355",
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(941) 723-2199",
+    "address": "508 10th St E  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Global Protection Products",
+    "description": "General Merchandise",
+    "phone": "(941) 723-3100",
+    "address": "1610 12th St E  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Beall's Corporate Offices",
+    "description": "Department Stores",
+    "phone": "(941) 747-2355",
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(941) 751-6900",
+    "address": "4108 14th St W  Bradenton, FL 34205",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(941) 752-8987",
+    "address": "1806 38th Ave E  Bradenton, FL 34208",
+    "location": "Manatee"
+  },
+  {
+    "name": "Optical Outlet",
+    "description": "Optical Goods",
+    "phone": "(941) 727-0345",
+    "address": "1105 Cortez Rd W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Supermatt",
+    "description": "Department Stores",
+    "phone": "(941) 226-2321",
+    "address": "5026 15th St E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Lace Buckle Boutique",
+    "description": "Boutique Items",
+    "phone": "(941) 417-7007",
+    "address": "1003 10th Ave W  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Auto Care Center",
+    "description": "General Merchandise",
+    "phone": "(941) 752-0025",
+    "address": "2911 53rd Ave E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bradenton Fashion And Cap City",
+    "description": "Women's Clothing",
+    "phone": "(941) 753-1555",
+    "address": "1427 57th Ave E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Charley's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(941) 345-4603",
+    "address": "5761 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Manatee"
+  },
+  {
+    "name": "SKECHERS Factory Outlet",
+    "description": "Shoe Stores",
+    "phone": "(941) 722-6700",
+    "address": "5173 Factory Shops Blvd # 850  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Columbia Sportswear",
+    "description": "Sportswear",
+    "phone": "(941) 721-6481",
+    "address": "5661 Factory Shops Blvd Ste 470  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(941) 752-0025",
+    "address": "2911 53rd Ave E  Braden River, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Adidas Outlet Store",
+    "description": "Outlet Stores",
+    "phone": "(941) 723-3901",
+    "address": "5151 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(941) 705-5086",
+    "address": "5105 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Reebok",
+    "description": "Shoe Stores",
+    "phone": "(941) 721-3404",
+    "address": "5135 Factory Shops Blvd # 970  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "The PUMA Store",
+    "description": "Shoe Stores",
+    "phone": "(941) 722-7999",
+    "address": "5157 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lane Bryant Outlet",
+    "description": "Shoe Stores",
+    "phone": "(941) 722-3553",
+    "address": "5245 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(941) 722-0106",
+    "address": "5253 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Johnston & Murphy",
+    "description": "Shoe Stores",
+    "phone": "(941) 729-6706",
+    "address": "5315 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Motherhood Maternity Outlet",
+    "description": "Maternity Clothes",
+    "phone": "(941) 723-6429",
+    "address": "5295 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Easy Spirit",
+    "description": "Shoe Stores",
+    "phone": "(941) 729-6292",
+    "address": "5319 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(941) 729-0848",
+    "address": "5339 Factory Shops Blvd #  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(941) 803-3001",
+    "address": "5419 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Women's Clothing",
+    "phone": "(941) 729-3704",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(941) 803-7857",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(941) 723-7541",
+    "address": "5461 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(941) 722-2508",
+    "address": "5513 Factory Shops Blvd # 215  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "ASICS Outlet",
+    "description": "Shoe Stores",
+    "phone": "(941) 729-2519",
+    "address": "5529 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Nine West",
+    "description": "Shoe Stores",
+    "phone": "(941) 722-3133",
+    "address": "5571 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(941) 729-7422",
+    "address": "5541 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Michael Kors Outlet",
+    "description": "Women's Clothing",
+    "phone": "(941) 722-6699",
+    "address": "5597 Factory Shops Blvd Ste 335  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Juicy Couture",
+    "description": "Women's Clothing",
+    "phone": "(941) 721-7052",
+    "address": "5597 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Nike",
+    "description": "Sportswear",
+    "phone": "(941) 722-0096",
+    "address": "5665 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Kate Spade Outlet",
+    "description": "Women's Clothing",
+    "phone": "(941) 722-2093",
+    "address": "5703 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "description": "Department Stores",
+    "phone": "(941) 729-2600",
+    "address": "5709 Factory Shops Blvd  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bulk Food Superstore Ellenton",
+    "description": "Department Stores",
+    "phone": "(941) 721-4349",
+    "address": "6234 Us Highway 301 N  Ellenton, FL 34222",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(941) 798-9341",
+    "address": "5315 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Total Aluminum Inc",
+    "description": "Aluminum Products",
+    "phone": "(941) 896-3119",
+    "address": "3103 81st Ct E Ste 110  Bradenton, FL 34211",
+    "location": "Manatee"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(941) 795-8133",
+    "address": "6363 Manatee Ave W  Bradenton, FL 34209",
+    "location": "Manatee"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(941) 756-2700",
+    "address": "6150 14th St W  Bradenton, FL 34207",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Grocery Pickup",
+    "description": "Department Stores",
+    "phone": "(941) 374-0539",
+    "address": "4536 53rd Ave E  Bradenton, FL 34203",
+    "location": "Manatee"
+  },
+  {
+    "name": "Loyaltyfitsportwear",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(941) 666-4273",
+    "address": "4880 51st St W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fore Some Sports",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 794-2345",
+    "address": "8104 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Discount Beverage",
+    "description": "Discount Stores",
+    "phone": "(941) 729-9366",
+    "address": "5207 Us Highway 19  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sun & Starsouls Inc",
+    "description": "General Merchandise",
+    "phone": "(941) 752-8039",
+    "address": "6477 Parkland Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Unique Wholesale Distr Inc",
+    "description": "General Merchandise",
+    "phone": "(941) 355-1719",
+    "address": "7509 Pennsylvania Ave  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Montgomery Ward",
+    "description": "Department Stores",
+    "phone": "(941) 360-9262",
+    "address": "1703 Tallevast Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(941) 981-9447",
+    "address": "7809 36th Ave E  Palmetto, FL 34221",
+    "location": "Manatee"
+  },
+  {
+    "name": "HR Sportswear",
+    "description": "Sportswear",
+    "phone": "(941) 209-1790",
+    "address": "5002 Lena Rd Unit 112  Bradenton, FL 34211",
+    "location": "Manatee"
+  },
+  {
+    "name": "Family Dollar Stores",
+    "description": "Variety Stores",
+    "phone": "(941) 761-1598",
+    "address": "9516 Cortez Rd W  Bradenton, FL 34210",
+    "location": "Manatee"
+  },
+  {
+    "name": "Walmart Wireless Services",
+    "description": "General Merchandise",
+    "phone": "(941) 799-5546",
+    "address": "5810 Ranch Lake Blvd  Bradenton, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Your CBD Store",
+    "description": "Department Stores",
+    "phone": "(941) 782-8191",
+    "address": "8724 State Road 70 E  Bradenton, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Short Par 4",
+    "description": "Men's Clothing",
+    "phone": "(941) 251-4083",
+    "address": "3125 Lakewood Ranch Blvd Ste 101  Bradenton, FL 34211",
+    "location": "Manatee"
+  },
+  {
+    "name": "Butterfly Boutique",
+    "description": "Boutique Items",
+    "phone": "(941) 706-1333",
+    "address": "7652 Lockwood Ridge Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(941) 355-8331",
+    "address": "8333 Lockwood Ridge Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sunshine Apparel Of Sarasota",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(941) 351-3308",
+    "address": "1816 57th St  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eilieen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(941) 952-3605",
+    "address": "5033 Eastchester Dr  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "J & J Apparel",
+    "description": "Women's Clothing",
+    "phone": "(941) 360-6685",
+    "address": "2201 Industrial Blvd  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Town & Country Industries",
+    "description": "Aluminum Products",
+    "phone": "(941) 355-7627",
+    "address": "2320 Industrial Blvd  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Azuma",
+    "description": "Women's Clothing",
+    "phone": "(941) 358-3388",
+    "address": "4366 Independence Ct  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "American Shore Trading Company",
+    "description": "Men's Clothing",
+    "phone": "(941) 907-1122",
+    "address": "8131 Lakewood Main St Ste 106  Lakewood Ranch, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Scout & Molly's",
+    "description": "Women's Clothing",
+    "phone": "(941) 210-4686",
+    "address": "5275 University Pkwy  University Park, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Art Attack 2",
+    "description": "Gift Shops",
+    "phone": "(941) 778-7369",
+    "address": "105 Bridge St  Bradenton Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lane Bryant - Closed",
+    "description": "Women's Clothing",
+    "phone": "(941) 351-3013",
+    "address": "8129 Cooper Creek Blvd  University Park, FL 34201",
+    "location": "Manatee"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 351-7945",
+    "address": "143 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(941) 351-1631",
+    "address": "243 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rei",
+    "description": "Sporting Goods",
+    "phone": "(941) 899-0138",
+    "address": "161 N Cattlemen Rd  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "West Coast Surf Shop",
+    "description": "Surfboards",
+    "phone": "(941) 778-1001",
+    "address": "3902 Gulf Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(941) 387-0146",
+    "address": "525 Bay Isles Pkwy  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "T R L Enterprises Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 387-3733",
+    "address": "525 Bay Isles Pkwy  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(941) 358-9540",
+    "address": "215 N Cattlemen Rd Ste 56  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Attitudes On Maine Street",
+    "description": "Women's Clothing",
+    "phone": "(941) 929-2928",
+    "address": "8141 Lakewood Ranch Blvd  Lakewood Ranch, FL 34202",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oh My Gauze",
+    "description": "Women's Clothing",
+    "phone": "(941) 342-4992",
+    "address": "2446 19th St  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(941) 527-4878",
+    "address": "200 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Designing Women Boutique",
+    "description": "Consignment Service",
+    "phone": "(941) 366-5293",
+    "address": "1226 N Tamiami Trl Ste 101  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Irene's Resort Wear",
+    "description": "Women's Clothing",
+    "phone": "(941) 778-1161",
+    "address": "5308 Marina Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sun & Surf Lifestyle Apparel",
+    "description": "Sportswear",
+    "phone": "(941) 778-2169",
+    "address": "5418 Marina Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Sun and Surf Beach Shop",
+    "description": "Sportswear",
+    "phone": "(941) 778-2169",
+    "address": "5418 Marina Dr  Holmes Beach, FL 34217",
+    "location": "Manatee"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(215) 555-1212",
+    "address": "110 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "ZAGG University Town Center",
+    "description": "Shoe Stores",
+    "phone": "(941) 667-0934",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Madewell",
+    "description": "Women's Clothing",
+    "phone": "(941) 299-0190",
+    "address": "140 University Town Center Dr Unit 266  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(941) 909-3431",
+    "address": "140 University Town Center Dr Unit 275  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Anthropologie",
+    "description": "Women's Clothing",
+    "phone": "(941) 306-4513",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(941) 893-3935",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-1060",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "bebe",
+    "description": "Women's Clothing",
+    "phone": "(941) 702-9926",
+    "address": "140 University Town Center Dr Unit 168  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Clarks",
+    "description": "Women's Clothing",
+    "phone": "(941) 893-1080",
+    "address": "140 University Town Center Dr Unit 290  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(941) 866-6591",
+    "address": "140 University Town Center Dr Unit 237  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fabletics",
+    "description": "Women's Clothing",
+    "phone": "(941) 263-1320",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "Soft Surroundings",
+    "description": "Women's Clothing",
+    "phone": "(941) 444-3550",
+    "address": "140 University Town Center Dr  Sarasota, FL 34243",
+    "location": "Manatee"
+  },
+  {
+    "name": "J Phillip Apparel",
+    "description": "Women's Clothing",
+    "phone": "(941) 954-8933",
+    "address": "2401 15th St  Sarasota, FL 34237",
+    "location": "Manatee"
+  },
+  {
+    "name": "First Lady Botique",
+    "description": "Boutique Items",
+    "phone": "(941) 312-5565",
+    "address": "1709 Chrysler Ave  Sarasota, FL 34234",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dollar Daze of Sarasota Inc",
+    "description": "Variety Stores",
+    "phone": "(941) 217-6549",
+    "address": "1175 N Washington Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Mary's Discount Inc",
+    "description": "Discount Stores",
+    "phone": "(941) 366-1762",
+    "address": "1155 N Washington Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Colony Beach Shop",
+    "description": "Sportswear",
+    "phone": "(941) 383-6431",
+    "address": "1620 Gulf Of Mexico Dr  Longboat Key, FL 34228",
+    "location": "Manatee"
+  },
+  {
+    "name": "Samba",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-3505",
+    "address": "1652 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Laura Jean's",
+    "description": "Consignment Service",
+    "phone": "(941) 922-5535",
+    "address": "3830 S Tuttle Ave  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Expression of Fashion",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-9440",
+    "address": "3327 Ramblewood Way  Sarasota, FL 34237",
+    "location": "Manatee"
+  },
+  {
+    "name": "LaBella Intimates & Boutique",
+    "description": "Bras",
+    "phone": "(941) 366-4477",
+    "address": "1415 1st St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Juno & Jove",
+    "description": "Department Stores",
+    "phone": "(941) 957-0000",
+    "address": "1425 1st St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "PJ's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-3900",
+    "address": "1443 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Lotus",
+    "description": "Boutique Items",
+    "phone": "(941) 906-7080",
+    "address": "1451 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Jake's Downtown",
+    "description": "Department Stores",
+    "phone": "(941) 955-5253",
+    "address": "1463 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2435",
+    "address": "1501 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Eileen Fisher Store",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2435",
+    "address": "1501 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Evelyn & Arthur",
+    "description": "Women's Clothing",
+    "phone": "(941) 365-2210",
+    "address": "1480 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "The Girl From Brazil",
+    "description": "Women's Clothing",
+    "phone": "(941) 350-4633",
+    "address": "1650 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aliki Yamani Creations",
+    "description": "Women's Clothing",
+    "phone": "(941) 957-6499",
+    "address": "1662 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Juno & Jove Inc",
+    "description": "Department Stores",
+    "phone": "(941) 953-9500",
+    "address": "1343 Main St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Wearable Art",
+    "description": "Women's Clothing",
+    "phone": "(941) 957-0105",
+    "address": "1424 State St  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Martin Aluminum",
+    "description": "Aluminum Products",
+    "phone": "(941) 953-9890",
+    "address": "1701 Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Rahelia Couture",
+    "description": "Boutique Items",
+    "phone": "(941) 300-1600",
+    "address": "1420 Ringling Blvd,  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Apricot Lane Boutique",
+    "description": "Women's Clothing",
+    "phone": "(941) 960-1435",
+    "address": "464 John Ringling Boulevard St. Armand S Circle  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dr. Ann Taylor Roman, Counseling and Clinical Psychology",
+    "description": "Women's Clothing",
+    "phone": "(941) 951-7516",
+    "address": "315 Julia Pl  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Latelier F",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-1000",
+    "address": "538 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Clever Rose",
+    "description": "Women's Clothing",
+    "phone": "(941) 321-4628",
+    "address": "533 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fleet Feet Sports",
+    "description": "Shoe Stores",
+    "phone": "(941) 894-3338",
+    "address": "711 S Osprey Ave Ste 1  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ami Sport Zone",
+    "description": "Sportswear",
+    "phone": "(941) 251-3927",
+    "address": "9801 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ann Taylor Roman",
+    "description": "Women's Clothing",
+    "phone": "(941) 735-4975",
+    "address": "766 S Osprey Ave  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Pineapple Marketplace",
+    "description": "Department Stores",
+    "phone": "(941) 216-4226",
+    "address": "425 Pine Ave  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Ami Beach Hut",
+    "description": "Department Stores",
+    "phone": "(941) 281-2124",
+    "address": "9901 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Egrets Nest",
+    "description": "Women's Clothing",
+    "phone": "(941) 778-8406",
+    "address": "10008 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Manatee"
+  },
+  {
+    "name": "Velella Reasearch Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-1948",
+    "address": "2750 Bahia Vista St Ste 134  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Foxy Lady-West",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-5239",
+    "address": "481 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "European Alteration By Toni",
+    "description": "Clothing Alterations",
+    "phone": "(941) 388-1917",
+    "address": "20 S Adams Dr  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Flow N Roll Jiu Jitsu Custom Apparel",
+    "description": "Sportswear",
+    "phone": "(941) 544-8799",
+    "address": "5317 Fruitville Rd Ste 110  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fresh Produce Sportswear",
+    "description": "Sportswear",
+    "phone": "(941) 388-1883",
+    "address": "1 N Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(941) 378-1477",
+    "address": "5407 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Fantasea Coastal Home Inc",
+    "description": "Home Furnishings",
+    "phone": "(941) 388-3031",
+    "address": "378 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Dream Weaver",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-3706",
+    "address": "364 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Destination Florida",
+    "description": "Sportswear",
+    "phone": "(941) 388-2119",
+    "address": "370 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Terra Nova",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-0410",
+    "address": "353 Saint Armands Cir  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Gia Ventola",
+    "description": "Women's Clothing",
+    "phone": "(941) 706-0423",
+    "address": "14 S Blvd Of The Presidents  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Natural Discoveries",
+    "description": "Women's Clothing",
+    "phone": "(941) 388-1600",
+    "address": "320 John Ringling Blvd  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Mindful Medicinal CBD Dispensary and Spa",
+    "description": "Department Stores",
+    "phone": "(941) 388-7289",
+    "address": "5483 Fruitville Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oh My Gauze of Wisconsin Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 953-9046",
+    "address": "502 N Spoonbill Dr  Sarasota, FL 34236",
+    "location": "Manatee"
+  },
+  {
+    "name": "Willow506",
+    "description": "Women's Clothing",
+    "phone": "(941) 955-5506",
+    "address": "1821 Hillview St  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Tina's On Osprey",
+    "description": "Boutique Items",
+    "phone": "(941) 366-1555",
+    "address": "1907 S Osprey Ave  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Designer Consigner of Sarasota",
+    "description": "Consignment Service",
+    "phone": "(941) 953-5995",
+    "address": "3639 Bahia Vista St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Pine Craft Discount Market",
+    "description": "Department Stores",
+    "phone": "(941) 260-9046",
+    "address": "3667 Bahia Vista St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Good As New Consignment & Brdl",
+    "description": "Consignment Service",
+    "phone": "(941) 366-1234",
+    "address": "1273 Beneva Rd Fl 34232  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "GOOD AS NEW CONSIGNMENT AND BRIDAL SHOPPE",
+    "description": "Bridal Shops",
+    "phone": "(941) 366-1234",
+    "address": "1273 Beneva Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Stylish Benefactor",
+    "description": "Women's Clothing",
+    "phone": "(877) 310-3817",
+    "address": "4785 Maid Marian Ln  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Juraci's Place",
+    "description": "Women's Clothing",
+    "phone": "(941) 217-5327",
+    "address": "3631 Webber St  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Alexander's",
+    "description": "Women's Clothing",
+    "phone": "(941) 366-5400",
+    "address": "3501 S Tamiami Trl  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Daisy Cotton Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 925-5833",
+    "address": "3847 S School Ave  Sarasota, FL 34239",
+    "location": "Manatee"
+  },
+  {
+    "name": "Imagination & Company",
+    "description": "Department Stores",
+    "phone": "(941) 371-5238",
+    "address": "1575 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(941) 922-1006",
+    "address": "4014 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Manatee"
+  },
+  {
+    "name": "Best Buy Awards",
+    "description": "Department Stores",
+    "phone": "(941) 377-6307",
+    "address": "1655 Cattlemen Rd  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "CK DANCE SHOES & ACCESSORIES",
+    "description": "Dancing Supplies",
+    "phone": "(239) 826-6089",
+    "address": "1985 Cattlemen Rd Unit 3  Sarasota, FL 34232",
+    "location": "Manatee"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(941) 924-3239",
+    "address": "4130 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Manatee"
+  },
+  {
+    "name": "King James Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 922-1873",
+    "address": "4333 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Manatee"
+  },
+  {
+    "name": "Oh My Gauze Inc",
+    "description": "Women's Clothing",
+    "phone": "(941) 377-6560",
+    "address": "2123 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Wurkin Stiffs",
+    "description": "Men's Clothing",
+    "phone": "(941) 379-8163",
+    "address": "2177 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Adam & Eve",
+    "description": "Department Stores",
+    "phone": "(941) 203-8651",
+    "address": "4400 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Manatee"
+  },
+  {
+    "name": "Aluminum Specialties Wholesale",
+    "description": "Aluminum Products",
+    "phone": "(941) 371-3380",
+    "address": "2245 Porter Lake Dr  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Southside Sports Inc",
+    "description": "Sporting Goods",
+    "phone": "(941) 379-5688",
+    "address": "2427 Porter Lake Dr Ste 106  Sarasota, FL 34240",
+    "location": "Manatee"
+  },
+  {
+    "name": "Libra Usa",
+    "description": "Department Stores",
+    "phone": "(941) 371-2992",
+    "address": "4081 Taggart Cay N  Sarasota, FL 34233",
+    "location": "Manatee"
+  }
+]

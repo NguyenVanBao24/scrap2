@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Free Expressions By Kimberly",
+    "description": "Advertising Agencies",
+    "phone": "(386) 462-7114",
+    "address": " 6822 NW 126th Ave Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "DM Creative Studios",
+    "description": "Advertising Agencies",
+    "phone": "(352) 219-4571",
+    "address": " 5531 NW 81st Ave  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Sign PRO of North Florida",
+    "description": "Advertising Specialties",
+    "phone": "(386) 518-6887",
+    "address": " 14838 Main St  Alachua, FL 32615",
+    "location": "Alachua"
+  },
+  {
+    "name": "Ad Pros Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(352) 373-0214",
+    "address": " 5200 NW 43rd St  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Revgrowth Email Agency",
+    "description": "Advertising Agencies",
+    "phone": "(813) 495-0564",
+    "address": " 5200 NW 43rd St  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Gator Town Daily Deals",
+    "description": "Advertising Agencies",
+    "phone": "(352) 264-0068",
+    "address": " 5200 NW 43rd St Ste 102-182  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Premier Marketing Experts LLC",
+    "description": "Advertising Agencies",
+    "phone": "(352) 356-8711",
+    "address": " 9200 NW 39th Ave Ste 130-40  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Online Potential Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 234-4372",
+    "address": " 5126 NW 59th Ln  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Jeremy Lee Designs, LLC",
+    "description": "Graphic Designers",
+    "phone": "(352) 256-0797",
+    "address": " 4823 NW 79th Rd  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Blu Dove Designs",
+    "description": "Web Site Design & Services",
+    "phone": "(800) 875-0380",
+    "address": " 4635 NW 53rd Ave Suite 205-e  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Spotlight Website Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 359-7827",
+    "address": " 5200 NW 43rd St Ste 102-213  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Skullasticaffairs.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(716) 866-7672",
+    "address": " Nw 86th Blvd  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Signs By Tomorrow",
+    "description": "Signs",
+    "phone": "(352) 367-4645",
+    "address": " 210 NW 10th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Quality Quality Web Printing & Mailings",
+    "description": "Printing Services",
+    "phone": "(352) 377-8400",
+    "address": " 2401 NW 66th Ct  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Three Fifty Two, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 374-9657",
+    "address": " 133 SW 130th Way  Newberry, FL 32669",
+    "location": "Alachua"
+  },
+  {
+    "name": "Primary Color",
+    "description": "Advertising Agencies",
+    "phone": "(352) 331-8860",
+    "address": " 2251 Nw 41st St Ste 60  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Curtis John",
+    "description": "Advertising Agencies",
+    "phone": "(352) 332-0840",
+    "address": " 11635 NW 1st Ave  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Worth Advertising Group",
+    "description": "Advertising Agencies",
+    "phone": "(352) 519-5842",
+    "address": " 625 W University Ave  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Gator Greenbacks - Print Advertising Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(352) 448-1621",
+    "address": " 5127 NW 39th Ave  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "North Florida Care & Comfort Service",
+    "description": "Advertising Agencies",
+    "phone": "(352) 336-9794",
+    "address": " 3643 NW 46th Pl  Gainesville, FL 32605",
+    "location": "Alachua"
+  },
+  {
+    "name": "Ad & Associates",
+    "description": "Advertising Agencies",
+    "phone": "(844) 672-5733",
+    "address": " Tower Ctr  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Frankel Media Group",
+    "description": "Advertising Agencies",
+    "phone": "(352) 331-5558",
+    "address": " 105 SW 128th St Ste 200  Newberry, FL 32669",
+    "location": "Alachua"
+  },
+  {
+    "name": "Data Management Support Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 376-6522",
+    "address": " 2603 NW 13th St  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Jag Agency",
+    "description": "Advertising Agencies",
+    "phone": "(352) 240-3542",
+    "address": " 1902 SW 83rd Ct  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Insite Magazines",
+    "description": "Advertising Agencies",
+    "phone": "(352) 377-1402",
+    "address": " 1330 NW 6th St Ste B  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "ASAP Screen Printing Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 505-7574",
+    "address": " 4641 NW 6th St  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Bob White Productions",
+    "description": "Advertising Agencies",
+    "phone": "(352) 376-4469",
+    "address": " 2772 NW 43rd St  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Parisleaf",
+    "description": "Advertising Agencies",
+    "phone": "(352) 377-5560",
+    "address": " 107 SW 7th St  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Cardinal Signs Inc",
+    "description": "Truck Painting & Lettering",
+    "phone": "(352) 376-8494",
+    "address": " 6342 NW 18th Dr  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Swamp Signs",
+    "description": "Signs",
+    "phone": "(352) 327-8763",
+    "address": " 6519 W Newberry Rd  Gainesville, FL 32605",
+    "location": "Alachua"
+  },
+  {
+    "name": "Renaissance Printing Co",
+    "description": "Copying & Duplicating Service",
+    "phone": "(352) 372-2233",
+    "address": " 4130 NW 16th Blvd  Gainesville, FL 32605",
+    "location": "Alachua"
+  },
+  {
+    "name": "Gainesville Neon & Signs",
+    "description": "Signs",
+    "phone": "(352) 376-2750",
+    "address": " 1405 NW 53rd Ave  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Dowling Signs",
+    "description": "Signs",
+    "phone": "(352) 376-0456",
+    "address": " 2834 N Main St  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "PHOS Creative",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 505-3626",
+    "address": " 2131 NW 40th Ter Ste B  Gainesville, FL 32605",
+    "location": "Alachua"
+  },
+  {
+    "name": "TNT Graphics",
+    "description": "Decals",
+    "phone": "(352) 378-8300",
+    "address": " 4031 NW 6th St  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(352) 374-9900",
+    "address": " 110 SW 34th St  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Insty-Prints",
+    "description": "Copying & Duplicating Service",
+    "phone": "(352) 373-7547",
+    "address": " 327 NW 23rd Ave  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Quality Mailing",
+    "description": "Mail & Shipping Services",
+    "phone": "(352) 377-8400",
+    "address": " 2401 NW 66th Ct  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Florida Awards & Trophy Co",
+    "description": "Trophies, Plaques & Medals",
+    "phone": "(352) 378-8111",
+    "address": " 2300 NW 6th St  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Allegra",
+    "description": "Direct Mail Advertising",
+    "phone": "(352) 373-7547",
+    "address": " 327 NW 23rd Ave  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Target Copy",
+    "description": "Copying & Duplicating Service",
+    "phone": "(352) 376-3826",
+    "address": " 1412 W University Ave  Gainesville, FL 32603",
+    "location": "Alachua"
+  },
+  {
+    "name": "Abl Architectural Corp",
+    "description": "Signs",
+    "phone": "(352) 378-9934",
+    "address": " 6510 NW 16th St  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Highway Signs Plus",
+    "description": "Signs",
+    "phone": "(352) 224-5543",
+    "address": " 1354 NW 53rd Ave  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Wgs Engraving & Graphics",
+    "description": "Engraving",
+    "phone": "(352) 379-5534",
+    "address": " 4615 NW 6th St Ste E  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Sign Masters",
+    "description": "Signs",
+    "phone": "(352) 335-7000",
+    "address": " 2530 SW 34th St Ste B  Gainesville, FL 32608",
+    "location": "Alachua"
+  },
+  {
+    "name": "Florida Mint Inc",
+    "description": "Direct Mail Advertising",
+    "phone": "(352) 371-3106",
+    "address": " 2421 NW 41st St Ste A2  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Mini Mint Magazine",
+    "description": "Direct Mail Advertising",
+    "phone": "(352) 371-3106",
+    "address": " 5200 Newberry Rd  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "University of Florida Mail & Document Services",
+    "description": "Mail & Shipping Services",
+    "phone": "(352) 392-0629",
+    "address": " 3030 Radio Rd  Gainesville, FL 32611",
+    "location": "Alachua"
+  },
+  {
+    "name": "Retyp LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 247-5395",
+    "address": " 5127 NW 24th Dr  Gainesville, FL 32605",
+    "location": "Alachua"
+  },
+  {
+    "name": "Pdhlibrary.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 367-2526",
+    "address": " 4566 NW 5th Blvd  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Shitcha SEO Gainesville",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(386) 315-1353",
+    "address": " 2103 SW 75th Ter  gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "The Versatile Group of Hollywood, Inc,.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 274-7538",
+    "address": " 7070 SW 24th Ave  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Amber Innana-Plug In Profit",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(352) 328-0929",
+    "address": " 1120 NW  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Tower Publication",
+    "description": "Advertising Specialties",
+    "phone": "(352) 372-5468",
+    "address": " 4400 NW 36th Ave  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Association Advertising of America Inc",
+    "description": "Advertising Specialties",
+    "phone": "(352) 371-4933",
+    "address": " 4626 NW 33rd Ct  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Bee Persuasive",
+    "description": "Advertising-Broadcast & Film",
+    "phone": "(352) 246-3969",
+    "address": " 3534 NW 40th Ter  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Clear Image Signs",
+    "description": "Printing Services-Commercial",
+    "phone": "(352) 872-5737",
+    "address": " 1901 NW 67th Pl  Gainesville, FL 32653",
+    "location": "Alachua"
+  },
+  {
+    "name": "Primary Color Advertising Design",
+    "description": "Advertising Specialties",
+    "phone": "(352) 331-8860",
+    "address": " 10214 NW 13th Ave  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Edge Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(352) 672-6810",
+    "address": " 1226 NW 120th Way  Gainesville, FL 32606",
+    "location": "Alachua"
+  },
+  {
+    "name": "Strictly Embroidery",
+    "description": "Embroidery",
+    "phone": "(352) 375-6767",
+    "address": " 3501 SW 2nd Ave  Gainesville, FL 32607",
+    "location": "Alachua"
+  },
+  {
+    "name": "Premier Design",
+    "description": "Graphic Designers",
+    "phone": "(352) 375-8950",
+    "address": " 805 NW 13th St  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "The Trophy Shop",
+    "description": "Trophies, Plaques & Medals",
+    "phone": "(352) 372-8551",
+    "address": " 707 NW 13th St  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Double Eagle Graphics",
+    "description": "Graphic Designers",
+    "phone": "(352) 367-4645",
+    "address": " 210 NW 10th Ave  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Creative Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(352) 372-1095",
+    "address": " 1108 SW 2nd Ave  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Engraving Universe",
+    "description": "Signs-Maintenance & Repair",
+    "phone": "(352) 872-5363",
+    "address": " 3210 SW 40th Blvd  Gainesville, FL 32608",
+    "location": "Alachua"
+  },
+  {
+    "name": "Westside T-shirt",
+    "description": "Embroidery",
+    "phone": "(352) 375-4263",
+    "address": " 4445 SW 35th Ter  Gainesville, FL 32608",
+    "location": "Alachua"
+  },
+  {
+    "name": "Liquid Creative",
+    "description": "Advertising Agencies",
+    "phone": "(352) 600-5050",
+    "address": " 1314 S Main St  Gainesville, FL 32601",
+    "location": "Alachua"
+  },
+  {
+    "name": "Town Radar",
+    "description": "Advertising Agencies",
+    "phone": "(352) 872-5678",
+    "address": " 5216 SW 91st Dr  Gainesville, FL 32608",
+    "location": "Alachua"
+  },
+  {
+    "name": "Departure Media",
+    "description": "Advertising Agencies",
+    "phone": "(352) 338-1158",
+    "address": " 3880 NE 39th Ave  Gainesville, FL 32609",
+    "location": "Alachua"
+  },
+  {
+    "name": "Kelly, John",
+    "description": "Advertising Agencies",
+    "phone": "(352) 495-2673",
+    "address": " 3520 SW 162nd St  Archer, FL 32618",
+    "location": "Alachua"
+  },
+  {
+    "name": "Kms Media Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(352) 258-0193",
+    "address": " PO Box 580  High Springs, FL 32655",
+    "location": "Alachua"
+  },
+  {
+    "name": "Pledge 5 Foundation",
+    "description": "Advertising Agencies",
+    "phone": "(352) 505-0414",
+    "address": " 18b SW 2nd Ave  Gainesville, FL 32601",
+    "location": "Alachua"
+  }
+]

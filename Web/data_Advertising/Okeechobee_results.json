@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Digitek Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 444-7005",
+    "address": " Castinet Ln  Port Saint Lucie, FL 34953",
+    "location": "Okeechobee"
+  },
+  {
+    "name": "Our Hometown Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(772) 785-9558",
+    "address": " 105 SE Castana Ct  Port Saint Lucie, FL 34983",
+    "location": "Okeechobee"
+  },
+  {
+    "name": "Chris R Anicich Advertising",
+    "description": "Internet Consultants",
+    "phone": "(772) 571-6306",
+    "address": " 386 SW Twig Ave  Port Saint Lucie, FL 34983",
+    "location": "Okeechobee"
+  },
+  {
+    "name": "Tas Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(772) 489-2502",
+    "address": " 400 Torpey Rd  Fort Pierce, FL 34946",
+    "location": "Okeechobee"
+  },
+  {
+    "name": "Dr.one Aerial Photography",
+    "description": "Wedding Photography & Videography",
+    "phone": "(772) 353-4931",
+    "address": " 1498 SW Hunnicut Ave  Port Saint Lucie, FL 34953",
+    "location": "Okeechobee"
+  },
+  {
+    "name": "Glomaster Sign Co. Inc.",
+    "description": "Outdoor Advertising",
+    "phone": "(772) 242-4317",
+    "address": " 2527 Okeechobee Rd  Fort Pierce, FL 34947",
+    "location": "Okeechobee"
+  }
+]

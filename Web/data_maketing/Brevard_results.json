@@ -1,0 +1,359 @@
+[
+  {
+    "name": "PAIN BE GONE",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 403-8225",
+    "address": "1107 Linda Ave  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "Circle E Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 267-4824",
+    "address": "2352 Armour Ct  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "Top Shop Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 385-3886",
+    "address": "849 Trailwood Ave  Titusville, FL 32796",
+    "location": "Brevard"
+  },
+  {
+    "name": "Marketing Holders",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 607-2121",
+    "address": "3320 W Main St  Mims, FL 32754",
+    "location": "Brevard"
+  },
+  {
+    "name": "Ronald Proffitt/R & D Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 480-1795",
+    "address": "3410 Groah Ave  Mims, FL 32754",
+    "location": "Brevard"
+  },
+  {
+    "name": "Buzz Local",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 819-4736",
+    "address": "6411 Cable Ave  Cocoa, FL 32927",
+    "location": "Brevard"
+  },
+  {
+    "name": "Jones & Trevor Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 986-8501",
+    "address": "4774 Navaho Trl  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Roswell US",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 639-0893",
+    "address": "3370 Grissom Pkwy  Cocoa, FL 32926",
+    "location": "Brevard"
+  },
+  {
+    "name": "Microwave Component Marketing Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 452-0358",
+    "address": "750 Venetian Way  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "M B Marketing & Manufacturing Co",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 631-7688",
+    "address": "322 Clearlake Rd  Cocoa, FL 32922",
+    "location": "Brevard"
+  },
+  {
+    "name": "Advanced Marketing & Consulting",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 205-7117",
+    "address": "317 Stacy Grove Rd  Oak Hill, FL 32759",
+    "location": "Brevard"
+  },
+  {
+    "name": "Oso Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(847) 922-3994",
+    "address": "600 Florida Ave  Cocoa, FL 32923",
+    "location": "Brevard"
+  },
+  {
+    "name": "Lead Machine",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 373-3536",
+    "address": "234 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Brevard"
+  },
+  {
+    "name": "GYB Marketing Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 392-3132",
+    "address": "8501 Astronaut Blvd Ste 5  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "Gregg Hill",
+    "description": "Marketing Programs & Services",
+    "phone": "(407) 542-4330",
+    "address": "3018 Kingfisher Pt  Chuluota, FL 32766",
+    "location": "Brevard"
+  },
+  {
+    "name": "Jack the SEO Guy",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 355-2250",
+    "address": "4416 Sherwood Forest Dr  Titusville, FL 32796",
+    "location": "Brevard"
+  },
+  {
+    "name": "Mds Vacation Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 305-6969",
+    "address": "273 Crockett Blvd  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Video Display Corporation",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 784-4427",
+    "address": "5155 King St  Cocoa, FL 32926",
+    "location": "Brevard"
+  },
+  {
+    "name": "Brandt Ronat & Company",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 453-3101",
+    "address": "60 McLeod St  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Crowder and Company, LLC",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 216-3112",
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "SPACE COAST COUPONS Inc.",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 268-7667",
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "Space Coast City Guide",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 544-3440",
+    "address": "8934 Puerto Del Rio Dr Unit 204  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "SPACE COAST SMS Inc. TEXT MESSAGE MARKETING",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 438-7325",
+    "address": "8501 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "Ward & Comp",
+    "description": "Marketing Consultants",
+    "phone": "(321) 289-1490",
+    "address": "2323 S Washington Ave Ste 102  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "Gerald White Internationa",
+    "description": "Marketing Consultants",
+    "phone": "(321) 607-6753",
+    "address": "305 S Washington Ave  Titusville, FL 32796",
+    "location": "Brevard"
+  },
+  {
+    "name": "The Print Alien",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 837-9569",
+    "address": "224 Cheney Hwy  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "Reuben Marketing Services",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 593-0346",
+    "address": "4990 Sharlene Dr  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "GraphicXperts",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 328-0755",
+    "address": "215 N Hilltop Dr  Titusville, FL 32796",
+    "location": "Brevard"
+  },
+  {
+    "name": "Laura Sasaninejad",
+    "description": "Marketing Consultants",
+    "phone": "(540) 915-2874",
+    "address": "5305 Wendy Lee Dr  Titusville, FL 32780",
+    "location": "Brevard"
+  },
+  {
+    "name": "Qwiklight Digital Marketing Agency",
+    "description": "Marketing Consultants",
+    "phone": "(321) 505-3649",
+    "address": "7065 Kaylor Ave  Cocoa, FL 32927",
+    "location": "Brevard"
+  },
+  {
+    "name": "V Enterprises",
+    "description": "Direct Marketing Services",
+    "phone": "(321) 632-6642",
+    "address": "6380 Aberfoyle Ave  Cocoa, FL 32927",
+    "location": "Brevard"
+  },
+  {
+    "name": "Matchmaker Business Brokers",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 452-3462",
+    "address": "435 Woodland St  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "My Island Designs",
+    "description": "Internet Consultants",
+    "phone": "(321) 301-4797",
+    "address": "517 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Shawk Technology Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 506-9345",
+    "address": "330 Alabama Ave  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Adfactor, Inc.",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(877) 328-7552",
+    "address": "1129 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Onsite123.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 392-0697",
+    "address": "2552 Meadow Ln  Cocoa, FL 32926",
+    "location": "Brevard"
+  },
+  {
+    "name": "Cmfmc Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 454-6814",
+    "address": "3765 Sierra Dr  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Mtrb Inc",
+    "description": "Marketing Consultants",
+    "phone": "(321) 453-6068",
+    "address": "3585 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "The Timeless CEO",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 408-7612",
+    "address": "1175 N Courtenay Pkwy Ste 4A  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "Florida Digital Media",
+    "description": "Web Site Design & Services",
+    "phone": "(321) 757-2788",
+    "address": "222 Teal Drive  Cocoa, FL 32926",
+    "location": "Brevard"
+  },
+  {
+    "name": "Nuance",
+    "description": "Marketing Consultants",
+    "phone": "(321) 349-2562",
+    "address": "1960 Porpoise St  Merritt Island, FL 32952",
+    "location": "Brevard"
+  },
+  {
+    "name": "Moetto Mobile Marketing",
+    "description": "Coupon Advertising",
+    "phone": "(321) 345-6630",
+    "address": "915 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Brevard"
+  },
+  {
+    "name": "765 Media LLC",
+    "description": "Print Advertising",
+    "phone": "(321) 735-9842",
+    "address": "252 Brevard Ave  Cocoa, FL 32922",
+    "location": "Brevard"
+  },
+  {
+    "name": "Ferrell James G And Associates",
+    "description": "Marketing Consultants",
+    "phone": "(321) 632-4374",
+    "address": "120 Harrison St  Cocoa, FL 32922",
+    "location": "Brevard"
+  },
+  {
+    "name": "Digi Donkey Web Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 433-0801",
+    "address": "315 Brevard Ave  Cocoa, FL 32922",
+    "location": "Brevard"
+  },
+  {
+    "name": "TYPE AB CREATIVE",
+    "description": "Graphic Designers",
+    "phone": "(321) 266-9222",
+    "address": "633 Brevard Ave Ste B  Cocoa, FL 32922",
+    "location": "Brevard"
+  },
+  {
+    "name": "Hmbaccounting.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 433-1191",
+    "address": "976 Brevard Ave  Rockledge, FL 32955",
+    "location": "Brevard"
+  },
+  {
+    "name": "PIP Marketing, Signs, Print",
+    "description": "Printing Services",
+    "phone": "(321) 452-2800",
+    "address": "275 Magnolia Ave Ste 2  Merritt Island, FL 32952",
+    "location": "Brevard"
+  },
+  {
+    "name": "Just Face It Media",
+    "description": "Marketing Consultants",
+    "phone": "(321) 474-7409",
+    "address": "137 S Courtenay Pkwy # 604  Merritt Island, FL 32952",
+    "location": "Brevard"
+  },
+  {
+    "name": "Digimarcon",
+    "description": "Marketing Consultants",
+    "phone": "(800) 805-5385",
+    "address": "9050 Discovery Rd  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  },
+  {
+    "name": "Cocoa Beach Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(321) 868-6536",
+    "address": "8699 Astronaut Blvd  Cape Canaveral, FL 32920",
+    "location": "Brevard"
+  }
+]

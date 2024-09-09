@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Keila & Vincent Foundation",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 332-2256",
+    "address": "812 Caro St  Chattahoochee, FL 32324",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Lacy Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 663-5000",
+    "address": "201 W Washington St  Chattahoochee, FL 32324",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Main St Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 663-3939",
+    "address": "33 W Washington St  Chattahoochee, FL 32324",
+    "location": "Gadsden"
+  }
+]

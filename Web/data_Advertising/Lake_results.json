@@ -1,0 +1,65 @@
+[
+  {
+    "name": "The Enterprise Recorder",
+    "description": "Advertising Agencies",
+    "phone": "(850) 973-4143",
+    "address": " 1695 S State Road 53  Madison, FL 32340",
+    "location": "Lake"
+  },
+  {
+    "name": "Enterprise Recorder",
+    "description": "Advertising Agencies",
+    "phone": "(850) 973-4143",
+    "address": " 1695 N State Road 53  Madison, FL 32340",
+    "location": "Lake"
+  },
+  {
+    "name": "The Swapper",
+    "description": "Advertising Agencies",
+    "phone": "(850) 973-6653",
+    "address": " 115 SE Madison St  Madison, FL 32340",
+    "location": "Lake"
+  },
+  {
+    "name": "Digitized Visions",
+    "description": "T-Shirts",
+    "phone": "(866) 642-8114",
+    "address": " 186 SW Rutledge St  Madison, FL 32340",
+    "location": "Lake"
+  },
+  {
+    "name": "Digital Enterprises",
+    "description": "Signs",
+    "phone": "(386) 362-1753",
+    "address": " 19740 Us Highway 90  Live Oak, FL 32060",
+    "location": "Lake"
+  },
+  {
+    "name": "Express Sign Company",
+    "description": "Signs",
+    "phone": "(850) 929-7446",
+    "address": " 2886 Ne Cir Ice 150 Pinetta Fl  Madison, FL 32340",
+    "location": "Lake"
+  },
+  {
+    "name": "The Cellular Advantage",
+    "description": "Coupon Advertising",
+    "phone": "(386) 249-0615",
+    "address": " 16575 County Road 132  Live Oak, FL 32060",
+    "location": "Lake"
+  },
+  {
+    "name": "Advanced Cutting Systems",
+    "description": "Signs",
+    "phone": "(386) 330-6889",
+    "address": " 17578 76th St  Live Oak, FL 32060",
+    "location": "Lake"
+  },
+  {
+    "name": "Express Printing, Mailing & Copying",
+    "description": "Printing Services-Commercial",
+    "phone": "(850) 222-9777",
+    "address": " 927 N Monroe St  Tallahassee, FL 32303",
+    "location": "Lake"
+  }
+]

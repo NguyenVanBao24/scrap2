@@ -2,7 +2,7 @@ const scrapes = require('./scraper');
 const dotenv = require('dotenv');
 dotenv.config();
 const StorePath = require('./storePath');
-const { names } = require('./nameOfSearch');
+const { deleteDuplicate } = require('./FillterInner/FillterData');
 
 const scrapeControllers = async (browserInstance) => {
   const url = process.env.URL_ZOOMINFO_PAGE;
@@ -10,8 +10,9 @@ const scrapeControllers = async (browserInstance) => {
   try {
     let browser = await browserInstance;
 
-    const categories = await scrapes.scrapeCategory(browser, url);
-    StorePath('zoominfo', categories);
+    const data = await scrapes.scrapeCategory(browser, url);
+    // const dataByDeleteDublicate = deleteDuplicate(data, 'companyName');
+    StorePath(data, 'data', 'zoominfo');
   } catch (error) {
     console.log('lỗi ở scrape controllers', error);
   }

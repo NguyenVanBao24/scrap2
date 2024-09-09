@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Orlando Sentinel Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(386) 851-7900",
+    "address": " 2730 Enterprise Rd  Orange City, FL 32763",
+    "location": "Jackson"
+  },
+  {
+    "name": "i4 Advertising Agency LLC",
+    "description": "Advertising Agencies",
+    "phone": "(407) 416-1515",
+    "address": " 610 Deltona Blvd, Ste D  Deltona, FL 32725",
+    "location": "Jackson"
+  },
+  {
+    "name": "A7 Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(386) 453-1464",
+    "address": " 603 Elkhorn Fern Ln  Deland, FL 32720",
+    "location": "Jackson"
+  },
+  {
+    "name": "West Volusia Tourism & Advertising Au",
+    "description": "Advertising Specialties",
+    "phone": "(386) 734-0162",
+    "address": " 116 W New York Ave  Deland, FL 32720",
+    "location": "Jackson"
+  },
+  {
+    "name": "Backseat Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 915-7006",
+    "address": " 485 Specialty Pt  Sanford, FL 32771",
+    "location": "Jackson"
+  },
+  {
+    "name": "Liberty Advertising & Flag Co",
+    "description": "Advertising Specialties",
+    "phone": "(386) 985-2050",
+    "address": " 1515 Arredondo Grant Rd  De Leon Springs, FL 32130",
+    "location": "Jackson"
+  },
+  {
+    "name": "Marketleverage Interactive Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 268-7648",
+    "address": " 1515 International Pkwy  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Evok Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 302-4416",
+    "address": " 152 N 4th St  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Iceberg Advertising",
+    "description": "Print Advertising",
+    "phone": "(407) 486-8478",
+    "address": " 3415 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advertising Specialty Institute",
+    "description": "Advertising Agencies",
+    "phone": "(407) 430-3698",
+    "address": " 4300 W Lake Mary Blvd  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Blue Skies Advertising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 687-2961",
+    "address": " 204 Teakwood Ct  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advertising Networks of Florida",
+    "description": "Advertising-Shoppers Publications",
+    "phone": "(866) 742-1373",
+    "address": " 610 Crescent Executive Ct Ste 112  Lake Mary, FL 32746",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advantage Signs & Advertising",
+    "description": "Signs",
+    "phone": "(407) 339-7446",
+    "address": " 1983 Corporate Sq  Longwood, FL 32750",
+    "location": "Jackson"
+  },
+  {
+    "name": "Gilbert Manjura Marketing and Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 261-5739",
+    "address": " 346 Freeman St  Longwood, FL 32750",
+    "location": "Jackson"
+  },
+  {
+    "name": "Captree Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(386) 871-2080",
+    "address": " 555 Maribella Ct  New Smyrna Beach, FL 32168",
+    "location": "Jackson"
+  },
+  {
+    "name": "DeFalco Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 551-0303",
+    "address": " 1441 S Grant St  Longwood, FL 32750",
+    "location": "Jackson"
+  },
+  {
+    "name": "Fax IT Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 339-4555",
+    "address": " 1499 Robert St  Longwood, FL 32750",
+    "location": "Jackson"
+  },
+  {
+    "name": "Lamar Advertising Co",
+    "description": "Transit Advertising",
+    "phone": "(386) 258-0206",
+    "address": " 475 Fentress Blvd Ste L  Daytona Beach, FL 32114",
+    "location": "Jackson"
+  },
+  {
+    "name": "Barlow Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(386) 423-1320",
+    "address": " 1792 Persimmon Cir  Edgewater, FL 32132",
+    "location": "Jackson"
+  },
+  {
+    "name": "JKR Advertising & Marketings",
+    "description": "Advertising Agencies",
+    "phone": "(321) 397-0777",
+    "address": " 195 Wekiva Springs Rd  Longwood, FL 32779",
+    "location": "Jackson"
+  },
+  {
+    "name": "Go Digital Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 497-7198",
+    "address": " 2735 W State Road 434  Longwood, FL 32779",
+    "location": "Jackson"
+  },
+  {
+    "name": "Genius Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(407) 682-3037",
+    "address": " 864 Little Bend Rd  Altamonte Springs, FL 32714",
+    "location": "Jackson"
+  },
+  {
+    "name": "Signal Out Door Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 856-7079",
+    "address": " 101 Sunnytown Rd Ste 312  Casselberry, FL 32707",
+    "location": "Jackson"
+  },
+  {
+    "name": "Gillman Advertising Specialties",
+    "description": "Advertising Specialties",
+    "phone": "(407) 331-5111",
+    "address": " 498 Palm Springs Dr Ste 350  Altamonte Springs, FL 32701",
+    "location": "Jackson"
+  },
+  {
+    "name": "Tc Commercial Advertising Sales",
+    "description": "Advertising Specialties",
+    "phone": "(888) 224-4836",
+    "address": " 911 N State Road 434  Altamonte Springs, FL 32714",
+    "location": "Jackson"
+  },
+  {
+    "name": "A L C H Advertising & Mail Inc",
+    "description": "Advertising Agencies",
+    "phone": "(386) 322-3737",
+    "address": " 6 Cormorant Cir  Daytona Beach, FL 32119",
+    "location": "Jackson"
+  },
+  {
+    "name": "Quick Advertising, Inc.",
+    "description": "Signs",
+    "phone": "(407) 774-0003",
+    "address": " 3030 E Semoran Blvd Ste 156  Apopka, FL 32703",
+    "location": "Jackson"
+  },
+  {
+    "name": "Frank Murphy Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 539-2771",
+    "address": " 9029 Lake Hope Dr  Maitland, FL 32751",
+    "location": "Jackson"
+  },
+  {
+    "name": "Bernard Hodes Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 740-5002",
+    "address": " 1101 N Lake Destiny Rd Ste 300  Maitland, FL 32751",
+    "location": "Jackson"
+  },
+  {
+    "name": "Innovative Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 814-7800",
+    "address": " 2436 Cedar Knoll Dr  Apopka, FL 32712",
+    "location": "Jackson"
+  },
+  {
+    "name": "Jerry Defalco Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 661-3131",
+    "address": " 1060 Maitland Center Commons Blvd Ste 410  Maitland, FL 32751",
+    "location": "Jackson"
+  },
+  {
+    "name": "Chance Advertising Agency",
+    "description": "Advertising Agencies",
+    "phone": "(321) 946-0666",
+    "address": " 803 Trailwood Dr Suite 100  Apopka, FL 32712",
+    "location": "Jackson"
+  },
+  {
+    "name": "Maxmeda Outdoor Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 716-6547",
+    "address": " 847 Golfview Ter  Winter Park, FL 32789",
+    "location": "Jackson"
+  },
+  {
+    "name": "MP advertising.com",
+    "description": "Advertising Agencies",
+    "phone": "(407) 324-3255",
+    "address": " PO Box 3052 E. Jefferson Street  Orlando, FL 32802",
+    "location": "Jackson"
+  },
+  {
+    "name": "DeHarris Advertising & Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 202-2370",
+    "address": " 934 S Central Ave  Apopka, FL 32703",
+    "location": "Jackson"
+  },
+  {
+    "name": "Stadler-Green Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 667-4800",
+    "address": " 1800 Pembrook Dr  Orlando, FL 32810",
+    "location": "Jackson"
+  },
+  {
+    "name": "No Limit Marketing and Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 400-6116",
+    "address": " 2789 Wrights Rd Ste 1009  Oviedo, FL 32765",
+    "location": "Jackson"
+  },
+  {
+    "name": "Sid Paterson Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(407) 542-6008",
+    "address": " 2937 Ashford Park Pl  Oviedo, FL 32765",
+    "location": "Jackson"
+  },
+  {
+    "name": "Alan & Bob McGarity Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(386) 252-6655",
+    "address": " 401 Skyview Ln  Daytona Beach, FL 32114",
+    "location": "Jackson"
+  },
+  {
+    "name": "Nationwide Marketing and Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 814-3929",
+    "address": " 1077 W Orange Blossom Trl  Apopka, FL 32712",
+    "location": "Jackson"
+  },
+  {
+    "name": "JKR Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(321) 397-0777",
+    "address": " 298 S Lake Destiny Dr  Orlando, FL 32810",
+    "location": "Jackson"
+  },
+  {
+    "name": "Health Insurance & Retire Advertise Inc",
+    "description": "Health Insurance",
+    "phone": "(352) 735-7795",
+    "address": " 428 E 5th Ave  Mount Dora, FL 32757",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advertising Communications Inc",
+    "description": "Advertising Agencies",
+    "phone": "(352) 383-0040",
+    "address": " 440 N Donnelly St  Mount Dora, FL 32757",
+    "location": "Jackson"
+  },
+  {
+    "name": "Husebo Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(352) 787-5777",
+    "address": " 411 N Donnelly St Ste 302  Mount Dora, FL 32757",
+    "location": "Jackson"
+  },
+  {
+    "name": "Lawyers Group Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(321) 972-5620",
+    "address": " 2431 Aloma Ave  Winter Park, FL 32792",
+    "location": "Jackson"
+  },
+  {
+    "name": "Shiver Outdoor Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 889-7734",
+    "address": " 3367 N Washington St  Zellwood, FL 32798",
+    "location": "Jackson"
+  },
+  {
+    "name": "Continental Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 628-9988",
+    "address": " 2250 Lee Rd  Winter Park, FL 32789",
+    "location": "Jackson"
+  },
+  {
+    "name": "Image Makers Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(386) 236-1200",
+    "address": " 140 Beach St  Ponce Inlet, FL 32127",
+    "location": "Jackson"
+  },
+  {
+    "name": "Benedict Advertising & Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(386) 255-1222",
+    "address": " 59 Dunlawton Ave  Port Orange, FL 32127",
+    "location": "Jackson"
+  },
+  {
+    "name": "My Advertising Pays",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(386) 523-6650",
+    "address": " 3721 S Atlantic Ave  Daytona Beach, FL 32118",
+    "location": "Jackson"
+  },
+  {
+    "name": "Stalder Green Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 645-1113",
+    "address": " 1101 N Kentucky Ave  Winter Park, FL 32789",
+    "location": "Jackson"
+  },
+  {
+    "name": "Image Makers Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(386) 236-1200",
+    "address": " 140 S Beach St Ste 202  Daytona Beach, FL 32114",
+    "location": "Jackson"
+  },
+  {
+    "name": "CGS Advertising Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 644-8070",
+    "address": " 2008 Natalen Rd  Winter Park, FL 32792",
+    "location": "Jackson"
+  },
+  {
+    "name": "Coastline Advertising Specialties",
+    "description": "Advertising Agencies",
+    "phone": "(386) 238-7703",
+    "address": " 370 N Nova Rd  Daytona Beach, FL 32114",
+    "location": "Jackson"
+  },
+  {
+    "name": "Community Services Advertising",
+    "description": "Social Service Organizations",
+    "phone": "(407) 644-2699",
+    "address": " 533 W New England Ave  Winter Park, FL 32789",
+    "location": "Jackson"
+  },
+  {
+    "name": "S 2 Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(386) 672-3150",
+    "address": " 533 N Nova Rd Ste 213B  Ormond Beach, FL 32174",
+    "location": "Jackson"
+  },
+  {
+    "name": "Florida Newspaper Advertising Network",
+    "description": "Newspapers",
+    "phone": "(407) 420-6100",
+    "address": " 633 N Orange Ave  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Royall Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(407) 401-7479",
+    "address": " 14 E Washington St  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Bright Rain Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 440-3017",
+    "address": " 733 W Smith St  Orlando, FL 32804",
+    "location": "Jackson"
+  },
+  {
+    "name": "D2 Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(866) 275-5108",
+    "address": " 307 W Granada Blvd  Ormond Beach, FL 32174",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advertising In Florida",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 675-3515",
+    "address": " 111 N Orange Ave, 8th Floor, Suite 800  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Benedict Advertising",
+    "description": "Direct Mail Advertising",
+    "phone": "(386) 255-1222",
+    "address": " 640 N Peninsula Dr  Daytona Beach, FL 32118",
+    "location": "Jackson"
+  },
+  {
+    "name": "Lamar Outdoor Advertising",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 316-0036",
+    "address": " 1468 N Goldenrod Rd  Orlando, FL 32807",
+    "location": "Jackson"
+  },
+  {
+    "name": "Free Online Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(866) 238-5791",
+    "address": " 1875 Knight Ave  Orlando, FL 32826",
+    "location": "Jackson"
+  },
+  {
+    "name": "Jackson Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 849-9995",
+    "address": " 912 Highland Ave  Orlando, FL 32803",
+    "location": "Jackson"
+  },
+  {
+    "name": "Kelso Outdoor Advertising",
+    "description": "Transit Advertising",
+    "phone": "(407) 648-7001",
+    "address": " 212 Pasadena Pl  Orlando, FL 32803",
+    "location": "Jackson"
+  },
+  {
+    "name": "Promoteme Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(386) 320-9999",
+    "address": " 1 N Beach St  Ormond Beach, FL 32174",
+    "location": "Jackson"
+  },
+  {
+    "name": "Central Florida Mobile Advertisement",
+    "description": "Advertising Specialties",
+    "phone": "(407) 883-3169",
+    "address": " 344 Canoe Trail Ln  Orlando, FL 32825",
+    "location": "Jackson"
+  },
+  {
+    "name": "A Plus Advertisement and Body Rental",
+    "description": "Rental Service Stores & Yards",
+    "phone": "(407) 250-6397",
+    "address": " 10632 Jane Eyre Dr  Orlando, FL 32825",
+    "location": "Jackson"
+  },
+  {
+    "name": "WHOISCARRUS Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 477-2528",
+    "address": " 416 N Ferncreek Ave Ste A  Orlando, FL 32803",
+    "location": "Jackson"
+  },
+  {
+    "name": "Su Advertising Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 737-3605",
+    "address": " 1417 Sherman St Ste 202  Orlando, FL 32828",
+    "location": "Jackson"
+  },
+  {
+    "name": "Dayner Hall Marketing & Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(407) 206-1630",
+    "address": " 621 E Pine St  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "VCI & Associates Advertising",
+    "description": "Vacation Time Sharing Plans",
+    "phone": "(866) 678-3204",
+    "address": " 37 N Orange Ave Ste 617  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Aura Advertising and Modeling Agency",
+    "description": "Advertising Agencies",
+    "phone": "(321) 230-9751",
+    "address": " 37 N Orange Ave Ste 500  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Creative Advertising Network",
+    "description": "Advertising Agencies",
+    "phone": "(407) 210-6566",
+    "address": " 301 E Pine St  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Higher Advertising & Pr Inc",
+    "description": "Advertising Specialties",
+    "phone": "(407) 447-1340",
+    "address": " 30 S Magnolia Ave Ste 250  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "The Group Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(407) 898-2409",
+    "address": " 1221 N Mills Ave Suite B  Orlando, FL 32803",
+    "location": "Jackson"
+  },
+  {
+    "name": "United Advertising Agency Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 422-2818",
+    "address": " 612 N Orange Ave  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "Push Button Productions-Radio Advertising",
+    "description": "Buttons-Advertising",
+    "phone": "(888) 494-7874",
+    "address": " 1 S Orange Ave Ste 306  Orlando, FL 32801",
+    "location": "Jackson"
+  },
+  {
+    "name": "MakeSense Advertising",
+    "description": "Directory & Guide Advertising",
+    "phone": "(407) 255-2515",
+    "address": " 5027 Commander Dr  Orlando, FL 32822",
+    "location": "Jackson"
+  },
+  {
+    "name": "Allure Advertising",
+    "description": "Product Design, Development & Marketing",
+    "phone": "(407) 719-4567",
+    "address": " 5517 Hansel Ave Ste B  Orlando, FL 32809",
+    "location": "Jackson"
+  },
+  {
+    "name": "A & A Advertising Specialties",
+    "description": "Advertising-Promotional Products",
+    "phone": "(407) 381-5799",
+    "address": " 2414 Teton Stone Run  Orlando, FL 32828",
+    "location": "Jackson"
+  },
+  {
+    "name": "Grand Design Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(407) 599-0759",
+    "address": " 7516 Old Winter Garden Rd  Orlando, FL 32835",
+    "location": "Jackson"
+  },
+  {
+    "name": "Astonish Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(321) 202-5949",
+    "address": " 5301 Rosegay Ct  Orlando, FL 32811",
+    "location": "Jackson"
+  },
+  {
+    "name": "Radio Advertising 407-704-3271",
+    "description": "Entertainment Agencies & Bureaus",
+    "phone": "(407) 704-3282",
+    "address": " 5530 Chrishire Way  Orlando, FL 32822",
+    "location": "Jackson"
+  },
+  {
+    "name": "Advantage Advertising and Marketing",
+    "description": "Copy Writers",
+    "phone": "(407) 730-4172",
+    "address": " 5132 Dockside Dr  Orlando, FL 32822",
+    "location": "Jackson"
+  },
+  {
+    "name": "Evok Advertising & Design Inc - CLOSED",
+    "description": "Advertising Agencies",
+    "phone": "(321) 281-8105",
+    "address": " 2500 Kunze Ave  Orlando, FL 32806",
+    "location": "Jackson"
+  },
+  {
+    "name": "Mobile Designs Inc",
+    "description": "T-Shirts",
+    "phone": "(386) 327-2159",
+    "address": " 1607 S. State Road 15 A Suite 6  Deland, FL 32720",
+    "location": "Jackson"
+  },
+  {
+    "name": "Custom Graphic Designs",
+    "description": "Copying & Duplicating Service",
+    "phone": "(386) 229-3832",
+    "address": " 4462 Highway 17  DeLand, FL 32720",
+    "location": "Jackson"
+  },
+  {
+    "name": "Sunstate Awnings",
+    "description": "Building Contractors-Commercial & Industrial",
+    "phone": "(386) 868-4507",
+    "address": " 50 Keyes Ave  Sanford, FL 32773",
+    "location": "Jackson"
+  },
+  {
+    "name": "Signal Outdoor Advertisin",
+    "description": "Outdoor Advertising",
+    "phone": "(407) 856-7079",
+    "address": " 3740 All American Blvd  Orlando, FL 32810",
+    "location": "Jackson"
+  },
+  {
+    "name": "Outdoor Images Inc",
+    "description": "Signs",
+    "phone": "(321) 270-0560",
+    "address": " 4061 Forrestal Ave Unit 2  Orlando, FL 32806",
+    "location": "Jackson"
+  }
+]

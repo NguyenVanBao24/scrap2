@@ -1,0 +1,863 @@
+[
+  {
+    "name": "Worldwide Marketing Techs Corp",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 567-9824",
+    "address": "3690 N Us Highway 1  Fort Pierce, FL 34946",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Ccibuildings.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 318-6700",
+    "address": "6099 N Us  Fort Pierce, FL 34946",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Technical Marketing Services",
+    "description": "Marketing Consultants",
+    "phone": "(772) 466-3113",
+    "address": "3313 Industrial 25th St  Fort Pierce, FL 34946",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "BXM Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(888) 510-2521",
+    "address": "2276 N Us Highway 1  Fort Pierce, FL 34946",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Ballylhou",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 242-8484",
+    "address": "4995 Conley Pl  Fort Pierce, FL 34951",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Impact Custom Marketing Solution",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 465-5552",
+    "address": "201 S 2nd St Ste 209  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Reas Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 882-9441",
+    "address": "601 N 7th St  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Hardhead Marketing LLC",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 577-8288",
+    "address": "Po Box 13254  Fort Pierce, FL 34979",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Website Management Plus",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 405-7230",
+    "address": "131 N 2nd St  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Pirate Advertising",
+    "description": "Directory & Guide Advertising",
+    "phone": "(321) 300-6775",
+    "address": "131 N 2nd St Ste 208  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Media Giant Design",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 205-3584",
+    "address": "108 N Depot Dr  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Blue Creek Digital",
+    "description": "Web Site Design & Services",
+    "phone": "(561) 203-3847",
+    "address": "130 S Indian River Dr Ste 202  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Limitless Social Media Management & Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 418-4691",
+    "address": "PO Box 13662  Fort Pierce, FL 34979",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Leverage Marketing Enterprises",
+    "description": "Advertising Agencies",
+    "phone": "(772) 577-6467",
+    "address": "200 S Indian River Dr Ste 309  Fort Pierce, FL 34950",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Small Business Development Center @ Indian River State College",
+    "description": "Professional Organizations",
+    "phone": "(772) 462-4942",
+    "address": "3209 Virginia Ave  Fort Pierce, FL 34981",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "All the Leads",
+    "description": "Marketing Consultants",
+    "phone": "(844) 532-3369",
+    "address": "2400 S Ocean Dr Apt V1026  Fort Pierce, FL 34949",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Int Marketing Network",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 460-6000",
+    "address": "819 S Kings Hwy  Fort Pierce, FL 34945",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Ara Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 257-5522",
+    "address": "2024 S Us Highway 1  Vero Beach, FL 32962",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Indian River Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 226-5852",
+    "address": "837 Old Dixie Hwy  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Localadlink",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 468-3052",
+    "address": "9460 Meadowood Dr Apt 205  Fort Pierce, FL 34951",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Marketing Division",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 468-3917",
+    "address": "3479 S Us Highway 1  Fort Pierce, FL 34982",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Brickway Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 905-7600",
+    "address": "6135 NW Helmsdale Way  Port Saint Lucie, FL 34983",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Downs Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 492-8030",
+    "address": "405 22nd Ave SW  Vero Beach, FL 32962",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Strategic Internet Marketing Corp",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 237-3880",
+    "address": "2040 Old Dixie Hwy SE Ste 1  Vero Beach, FL 32962",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "WebSuited",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 266-3226",
+    "address": "3259 River Drive  Fort Pierce, FL 34981",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Websuited",
+    "description": "Advertising Agencies",
+    "phone": "(772) 266-3226",
+    "address": "3259 River Dr  Fort Pierce, FL 34981",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "CoverWrap Communications LLC",
+    "description": "Print Advertising",
+    "phone": "(772) 231-7288",
+    "address": "1401 Highway A1a Ste 204  Vero Beach, FL 32963",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Hypertext Systems Internet Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 672-3642",
+    "address": "9460 Meadowood Dr Apt 205  Fort Pierce, FL 34951",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "PD/GO Digital Marketing",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 770-4077",
+    "address": "445 27th Ave SW Suite C103  Vero Beach, FL 32968",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "South Florida Savers",
+    "description": "Directory & Guide Advertising",
+    "phone": "(772) 577-8894",
+    "address": "6015 Seagrape Dr  Fort Pierce, FL 34982",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Bugs.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 871-2561",
+    "address": "5201 Okeechobee Rd  Fort Pierce, FL 34947",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Offmarketwholesalehomes.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 218-9988",
+    "address": "4804 Palmetto Dr  Fort Pierce, FL 34982",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "All Things Treasure Coast",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 475-3883",
+    "address": "5428 Stately Oaks St  Fort Pierce, FL 34981",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Flhip.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 231-5826",
+    "address": "1101 Admirals Walk  Vero Beach, FL 32963",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "SurroundSoundSpeakersforTV.com",
+    "description": "Home Theater Systems",
+    "phone": "(772) 299-1515",
+    "address": "2442 4th pl  Vero Beach, FL 32962",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Authentic Marketing Solution",
+    "description": "Marketing Consultants",
+    "phone": "(561) 309-8239",
+    "address": "5235 NW Jake ct  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "ARA Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(772) 213-3164",
+    "address": "2950 9th St SW  Vero Beach, FL 32968",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Magnolia Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(772) 564-6907",
+    "address": "181 22nd Ave  Vero Beach, FL 32962",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "TAS Advertising & Integrated Communications",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 489-2502",
+    "address": "601 21st St Ste 300  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "katie kryceski",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 285-3723",
+    "address": "2021 SE Lennard Rd  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Ironside Press",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 569-8484",
+    "address": "1323 21st St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Techmediainc",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 230-4379",
+    "address": "505 Beachland Blvd  Vero Beach, FL 32963",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Sun Up Advantage",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 569-7777",
+    "address": "1515 Indian River Blvd Ste A236  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "The Brandit Agency",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 492-8658",
+    "address": "1130 19th St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Pegasus Media",
+    "description": "Marketing Programs & Services",
+    "phone": "(855) 708-1355",
+    "address": "601 21st St Ste 300  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Reuter Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 999-2139",
+    "address": "4825 Lafayette Pl  Vero Beach, FL 32966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "RJP Marketing Associates Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(877) 233-9055",
+    "address": "106 NW Berkeley Ave  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Hi Speed Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 249-4386",
+    "address": "1680 SW Bayshore Blvd  Port Saint Lucie, FL 34984",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Digitek Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 444-7005",
+    "address": "Castinet Ln  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Digital Marketing Experts",
+    "description": "Marketing Programs & Services",
+    "phone": "(321) 594-4441",
+    "address": "601 21st St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Barefoot Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 562-1235",
+    "address": "2086 32nd Ave  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Social-Cindy.com",
+    "description": "Marketing Programs & Services",
+    "phone": "(949) 813-3860",
+    "address": "1 Toshiba Laptop  Vero Beach, FL 32963",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Minuteman Press",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 567-4645",
+    "address": "983 12th St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Digital Slingshot Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 344-1115",
+    "address": "103 SW Peacock Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Northstar Media",
+    "description": "Marketing Programs & Services",
+    "phone": "(561) 614-5581",
+    "address": "1713 se elkhart terrace  port st lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Treasure Coast Marketing & Consulting",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 834-7298",
+    "address": "1771 SE Lorraine St  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Green Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 361-6137",
+    "address": "601 21st St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "TCoast Studios",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 245-3036",
+    "address": "540 NW University Blvd Ste 202  Port St Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Backman Business Solutions",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 249-1635",
+    "address": "5986 NW Wolverine Rd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Adams Media Group",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 492-6570",
+    "address": "2801 Ocean Dr Ste 204  Vero Beach, FL 32963",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Recovery Center Consultants of South Florida",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 212-3622",
+    "address": "109 SE Calmoso Dr  Port Saint Lucie, FL 34983",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Assent360",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 507-0592",
+    "address": "17200 Pineapple Ln  Fort Pierce, FL 34945",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "WebMediaFX",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 340-6069",
+    "address": "1131 SW Forest Hill Cv  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "LinkBlaze Marketing",
+    "description": "Internet Directories",
+    "phone": "(888) 255-9315",
+    "address": "8433 S Us Highway 1 Ste 4  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "SutrinDesign",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 865-4941",
+    "address": "8531 S Us Highway 1  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "413 Media",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(321) 536-0200",
+    "address": "1842 SW Cycle St  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Branding Arc",
+    "description": "Marketing Consultants",
+    "phone": "(561) 408-0992",
+    "address": "1680 SW Saint Lucie West Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Effectv",
+    "description": "Advertising Agencies",
+    "phone": "(888) 877-9799",
+    "address": "1850 SW Fountainview Blvd Ste 102  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Elle Marketing",
+    "description": "Business Coaches & Consultants",
+    "phone": "(772) 202-3558",
+    "address": "2155 15th Ave Suite D-1  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Bright Signal Media",
+    "description": "Web Site Hosting",
+    "phone": "(682) 472-4994",
+    "address": "1558 SE South Niemeyer Cir  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Metrixlab",
+    "description": "Market Research & Analysis",
+    "phone": "(772) 453-2757",
+    "address": "601 21st St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Aids Research and Treatment Center of Treasure Coast",
+    "description": "Market Research & Analysis",
+    "phone": "(772) 257-5785",
+    "address": "981 37th Pl  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "eCatalogs USA, LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 294-4334",
+    "address": "6008 NW Wolverine RD  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Emarketing Robots",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 283-1571",
+    "address": "10 Del Prado St  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Amirkhat Computer Repair and Web Design",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 559-2597",
+    "address": "8433 S US Highway 1  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Kathygates.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(904) 966-6167",
+    "address": "1762 SW Saint Lucie West Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Construction Wave",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 344-4522",
+    "address": "1485 SW Cashmere Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Special Touch Graphics",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 410-4959",
+    "address": "PO Box 7103  Port Saint Lucie, FL 34985",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Intermedia Network",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(305) 794-9092",
+    "address": "888 First Tee Rd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Voice Search Local",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(844) 420-1082",
+    "address": "1701 SE Tiffany Ave Ste 105  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Tradelandsauto.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(888) 685-8875",
+    "address": "2186 SW Devon Ave  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Arctezo Visions LLC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 621-8273",
+    "address": "1741 SW Commerce Ave  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "in Vero Beach, Florida",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 217-0546",
+    "address": "916 16th PL  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "BJS of Vero Beach",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 359-2945",
+    "address": "1858 Old Dixie Hwy  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Vero Web Consulting",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 268-2072",
+    "address": "1150 19th St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Main Street Media Partners",
+    "description": "Internet Consultants",
+    "phone": "(772) 494-5112",
+    "address": "1836 71st Ave  Vero Beach, FL 32966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Innovative Capital Payments",
+    "description": "Marketing Consultants",
+    "phone": "(772) 204-2189",
+    "address": "540 NW University Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Usa Pro Inc",
+    "description": "Marketing Consultants",
+    "phone": "(561) 722-6820",
+    "address": "731 SE Carnival Ave Ste A  Port Saint Lucie, FL 34983",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "F C Edge",
+    "description": "Product Design, Development & Marketing",
+    "phone": "(772) 905-8111",
+    "address": "1850 SW Fountainview Blvd  Port Saint Lucie, FL 34986",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Diversified Management and Marketing Corporation O",
+    "description": "Marketing Consultants",
+    "phone": "(772) 999-2739",
+    "address": "1110 Old Dixie Hwy Ste A1  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Paul Palistrini",
+    "description": "Marketing Consultants",
+    "phone": "(772) 539-9602",
+    "address": "333 17th St Ste A  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Drake Associates",
+    "description": "Marketing Consultants",
+    "phone": "(631) 749-1100",
+    "address": "1130 19th St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "The Alexis Agaency",
+    "description": "Marketing Consultants",
+    "phone": "(772) 231-5999",
+    "address": "1201 19th Place B-401  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Atlantic Enterprises Of The Treasure Coast Inc Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(772) 978-0165",
+    "address": "1432 21st St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Jones & Jones Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(772) 778-9797",
+    "address": "1015 28th St  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Vector Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(772) 646-0508",
+    "address": "1850 43rd Ave Ste C10  Vero Beach, FL 32960",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Freitag Marketing Services",
+    "description": "Marketing Consultants",
+    "phone": "(772) 217-2290",
+    "address": "2055 55th Ave  Vero Beach, FL 32966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Stratworx LLC",
+    "description": "Marketing Consultants",
+    "phone": "(772) 770-2910",
+    "address": "5976 20th St Suite 127  Vero Beach, FL 32966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Risdon Associates",
+    "description": "Marketing Consultants",
+    "phone": "(772) 569-8009",
+    "address": "3425 58th Ct  Vero Beach, FL 32966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "River One International Marketing Inc",
+    "description": "Marketing Consultants",
+    "phone": "(772) 770-0432",
+    "address": "4425 US Highway 1  Vero Beach, FL 32967",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Crystal Creative Solutions",
+    "description": "Marketing Consultants",
+    "phone": "(508) 505-4227",
+    "address": "7850 15th street  Vero Beach, FL 33966",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Caterfly Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 405-2742",
+    "address": "2420 SE Trail Ave  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "G B Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 777-3297",
+    "address": "1774 SE Berkshire Blvd  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Earning Business",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 361-2754",
+    "address": "2581 sw choctaw st  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "J & J Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 873-2372",
+    "address": "602 SW Old Briar Ave  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Atomic Marketing Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 257-1901",
+    "address": "10552 S Us Highway 1  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Reign Medical Marketing",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 361-5366",
+    "address": "2049 SW Savage Blvd  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "West Marketing Service",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 281-2400",
+    "address": "1842 SW Inlander Ave  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "OptioSystems",
+    "description": "Marketing Programs & Services",
+    "phone": "(631) 651-1167",
+    "address": "3620 NW Mediterranean Ln  Jensen Beach, FL 34957",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Ares Business Strategies INC",
+    "description": "Marketing Programs & Services",
+    "phone": "(561) 446-4247",
+    "address": "11640 SW Roma Way  Port Saint Lucie, FL 34987",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Valpak",
+    "description": "Marketing Programs & Services",
+    "phone": "(772) 224-6922",
+    "address": "1787 SW Newport Isles Blvd  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Meridian TC",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(912) 532-9106",
+    "address": "2081 SW Pruitt St  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Busy Social Media LLC",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 242-6673",
+    "address": "137 SW Evans Ave  Port Saint Lucie, FL 34984",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Moving Co Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(855) 886-1247",
+    "address": "2489 SW Galiano Rd  Port Saint Lucie, FL 34987",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Altered Edge Social Media Solutions",
+    "description": "Computer Online Services",
+    "phone": "(772) 240-5842",
+    "address": "1572 SE Sunshine Ave  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Titanium Marketing LLC",
+    "description": "Marketing Consultants",
+    "phone": "(772) 800-2525",
+    "address": "1193 SE Port St. Lucie Blvd #118  Port Saint Lucie, FL 66101",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Usana",
+    "description": "Health & Wellness Products",
+    "phone": "(772) 285-4555",
+    "address": "2371 se Floresta Dr  Port Saint Lucie, FL 34984",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Clear Sem Solutions",
+    "description": "Web Site Design & Services",
+    "phone": "(772) 224-3734",
+    "address": "704 SW Port St Lucie Blvd  Port Saint Lucie, FL 34953",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "My Treasure Coast Online",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(772) 398-4234",
+    "address": "10878 S Us Highway 1  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "TreasureCoastBusinessMarketing",
+    "description": "Marketing Consultants",
+    "phone": "(772) 237-0510",
+    "address": "265 SW Port St Lucie Blvd # 105  Port Saint Lucie, FL 34984",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "PSLBRAG (Port St Lucie Business Resource Alliance Group )",
+    "description": "Financial Planning Consultants",
+    "phone": "(772) 444-7751",
+    "address": "725 SE Port St Lucie Blvd Ste 204  Port Saint Lucie, FL 34984",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "Impressive Promotions",
+    "description": "Advertising-Promotional Products",
+    "phone": "(772) 323-0093",
+    "address": "2326 SE Beechwood Ter  Port Saint Lucie, FL 34952",
+    "location": "St._Lucie"
+  },
+  {
+    "name": "McCuaig",
+    "description": "Marketing Consultants",
+    "phone": "(772) 217-5300",
+    "address": "2871 Saint Barts Sq  Vero Beach, FL 32967",
+    "location": "St._Lucie"
+  }
+]

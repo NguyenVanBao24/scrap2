@@ -4,7 +4,7 @@ const path = require('path');
 const processUrl = require('./processUrl');
 
 // Đọc file JSON chứa các URL
-const data = require('../data/data_results.json');
+const data = require('../data/zoominfo_results.json');
 
 // Hàm để đảm bảo thư mục tồn tại
 function ensureDirectoryExistence(filePath) {

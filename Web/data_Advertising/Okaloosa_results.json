@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Mark Smith Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 374-2009",
+    "address": " 98 Miracle Strip Pkwy SE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "A 2 Z Specialty Advertising",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(850) 654-3080",
+    "address": " 13 Eglin Parkway NE Suite B  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "April Showers Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 226-7640",
+    "address": " 226 Andalusia St NE  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Specialty Advertising Concepts",
+    "description": "Advertising Specialties",
+    "phone": "(850) 244-1726",
+    "address": " 219 Crewilla Dr NW  Fort Walton Beach, FL 32548",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Woerner Outdoor & Advertising",
+    "description": "Signs",
+    "phone": "(850) 863-2670",
+    "address": " 234 Racetrack Rd NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Apex Advertising",
+    "description": "Advertising Specialties",
+    "phone": "(850) 244-5866",
+    "address": " 151 Mary Esther Blvd  Mary Esther, FL 32569",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Lamar Outdoor Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 862-4343",
+    "address": " 223 Green Acres Rd  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Think Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(850) 837-3352",
+    "address": " 401 Mountain Dr  Destin, FL 32541",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Advertiser The",
+    "description": "Newspapers",
+    "phone": "(850) 678-8000",
+    "address": " 1613 23rd St  Niceville, FL 32578",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Eternal Advertising Solutions",
+    "description": "Advertising Specialties",
+    "phone": "(850) 269-1830",
+    "address": " 119 Snowdrift Rd  Miramar Beach, FL 32550",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "One Stop Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(850) 939-9550",
+    "address": " 7596 Frankfort St  Navarre, FL 32566",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Cornerstone Marketing & Advertising Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 231-3087",
+    "address": " 114 Logan Ln Ste 4  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Blue32 Advertising",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 855-9585",
+    "address": " 174 Watercolor Way  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Gulfstar Advertising Brochure Distribution",
+    "description": "Advertising Specialties",
+    "phone": "(850) 983-0018",
+    "address": " 5914 Hogans Aly  Milton, FL 32570",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Bill Salter Advertising Inc",
+    "description": "Outdoor Advertising",
+    "phone": "(850) 994-4611",
+    "address": " 5547 Highway 90  Milton, FL 32571",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Bill Salter Advertise",
+    "description": "Advertising Agencies",
+    "phone": "(850) 994-4611",
+    "address": " 5692 Trevino Dr  Milton, FL 32570",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Boomer Aviation Inc",
+    "description": "Directory & Guide Advertising",
+    "phone": "(850) 244-1313",
+    "address": " 40 Lincoln Dr NW  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Trophy Center Inc",
+    "description": "Awards",
+    "phone": "(850) 862-8413",
+    "address": " 529 Eglin Pkwy NE  Fort Walton Beach, FL 32547",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Copy Systems Business Center",
+    "description": "Commercial Artists",
+    "phone": "(850) 279-9100",
+    "address": " 4821 Us Hwy 98 W  Santa Rosa Beach, FL 32459",
+    "location": "Okaloosa"
+  },
+  {
+    "name": "Printers of Pensacola",
+    "description": "Printing Services",
+    "phone": "(850) 434-2588",
+    "address": " 1207 W Garden St  Pensacola, FL 32502",
+    "location": "Okaloosa"
+  }
+]

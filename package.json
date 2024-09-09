@@ -6,7 +6,8 @@
     "lodash": "^4.17.21",
     "puppeteer": "^23.2.0",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "xlsx": "^0.18.5"
   },
   "name": "scape",
   "version": "1.0.0",

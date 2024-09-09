@@ -25,7 +25,7 @@ const scrapeCategory = async (browser, url) => {
     console.log(' >> Page loaded');
 
     // Enter location
-    await page.waitForSelector('#zic-input-text-0', { timeout: 60000 });
+    await page.waitForSelector('#zic-input-text-0', { timeout: 600000 });
     await page.type('#zic-input-text-0', locations[0]);
     console.log(' >> Entered location:', locations[0]);
 
@@ -38,7 +38,6 @@ const scrapeCategory = async (browser, url) => {
         firstDiv?.click();
       }
     });
-    console.log(' >> Location selected');
 
     // Open industry filter popup
     await page.waitForSelector('div[data-onboarding="filter-wrapper:industry"]', { timeout: 60000 });
@@ -63,12 +62,19 @@ const scrapeCategory = async (browser, url) => {
     }
 
     // Wait for results to load
-    await page.waitForSelector('.p-element.p-datatable-tbody', { timeout: 60000 });
+
+    await page.waitForSelector('label.zic-counter-badge__label', { timeout: 60000 });
+
     const totalOfCompany = await page.evaluate(() => {
       const label = document.querySelector('label.zic-counter-badge__label');
       return label ? parseInt(label.textContent.trim().replace(/,/g, ''), 10) : 0;
     });
+
+    console.log(totalOfCompany); // In ra giá trị tổng công ty
+
     console.log(' >> Total companies found:', totalOfCompany);
+
+    await new Promise((resolve) => setTimeout(resolve, 2000));
 
     const allData = [];
 
@@ -87,6 +93,7 @@ const scrapeCategory = async (browser, url) => {
 
     const numOfLoop = Math.min(Math.ceil(totalOfCompany / 25), 99); // Limit to 99 pages
 
+    console.log('number of loop is ', totalOfCompany, ' / 25', numOfLoop);
     // Pagination loop
     for (let j = -1; j < arrFilter.length; j++) {
       if (j > -1) {
@@ -117,17 +124,45 @@ const scrapeCategory = async (browser, url) => {
               employees,
               revenue,
               website,
+              phone: '',
+              description: '',
             });
           });
+
           return result;
         });
+
+        for (let k = 1; k < data.length; k++) {
+          const companyRowIndex = k;
+          await page.evaluate((index) => {
+            const rows = document.querySelectorAll('tr[zi-ax-table-row]');
+            if (rows[index]) {
+              rows[index].click();
+            }
+          }, companyRowIndex);
+
+          await page.waitForSelector('div[data-onboarding="profile-side-pane-container"]', { timeout: 3000000 });
+          await new Promise((resolve) => setTimeout(resolve, 1000));
+
+          const phone = await page.evaluate(() => {
+            const phoneElement = document.querySelector('div[data-onboarding="profile-side-pane-container"] p[_ngcontent-ng-c618450157]');
+            return phoneElement ? phoneElement.textContent.trim() : 'No data found';
+          });
+
+          const description = await page.evaluate(() => {
+            const phoneElement = document.querySelector('div[data-onboarding="profile-side-pane-container"] div[_ngcontent-ng-c3205106403]');
+            return phoneElement ? phoneElement.textContent.trim() : 'No data found';
+          });
+
+          data[k].phone = phone;
+          data[k].description = description;
+        }
 
         allData.push(...data);
         await page.click('button.p-paginator-next');
       }
     }
 
-    // Wait before closing
     await new Promise((resolve) => setTimeout(resolve, 3000));
 
     await page.close();

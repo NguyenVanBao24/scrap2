@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-0996",
+    "address": "2830 54th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(727) 866-1829",
+    "address": "2930 54th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Shoetrapper",
+    "description": "Clothing Stores",
+    "phone": "(727) 400-5282",
+    "address": "897 65th Ave S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(727) 371-4975",
+    "address": "1101 62nd Ave S  St Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-5900",
+    "address": "1031 62nd Ave S  St Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6423",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(727) 797-3236",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "On Point Fashion Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 592-1955",
+    "address": "2132 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Step In Style",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-1200",
+    "address": "2940 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "August",
+    "description": "Clothing Stores",
+    "phone": "(941) 894-1648",
+    "address": "2250 20th St S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Beautifully Defined",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-6956",
+    "address": "520 26th Ave S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Clothes to Kids",
+    "description": "Clothing Stores",
+    "phone": "(727) 327-7100",
+    "address": "2168 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fresh Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 201-8307",
+    "address": "1400 18th Ave S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "D'klaze",
+    "description": "Clothing Stores",
+    "phone": "(727) 488-5062",
+    "address": "1601 22nd St S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Racks727",
+    "description": "Clothing Stores",
+    "phone": "(727) 318-8663",
+    "address": "1512 16th St S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Trinas Fashion & Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 256-8383",
+    "address": "1103 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Jeffy Tees",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-6210",
+    "address": "5012 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Uzuri Kente",
+    "description": "Clothing Stores",
+    "phone": "(727) 329-6848",
+    "address": "1834 49th St S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 322-6492",
+    "address": "3270 Central Ave  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-4083",
+    "address": "163 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "J & K Custom Ma De Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4278",
+    "address": "4750 10th Ave S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Watersister Dry Goods",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-9987",
+    "address": "2259 2nd Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Trunk Stylists",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6861",
+    "address": "651 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Second Chances Thrift Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2948",
+    "address": "174 13th St N  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Florida Jean",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6922",
+    "address": "169 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "In Search of Balance",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-0320",
+    "address": "104 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tracy Negoshian & His",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7913",
+    "address": "113 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Juxtapose Apparel Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2831",
+    "address": "111 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Good Karma Trading",
+    "description": "Clothing Stores",
+    "phone": "(727) 895-1900",
+    "address": "800 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fashion Scrub Depot St Petersburg",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8892",
+    "address": "5329 Central Ave  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Girl Talk",
+    "description": "Clothing Stores",
+    "phone": "(727) 685-7422",
+    "address": "2510 20th Ave N Apt 2  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Paradiso Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-8831",
+    "address": "104 8th Ave  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Fashion Spot",
+    "description": "Clothing Stores",
+    "phone": "(850) 687-5076",
+    "address": "1010 Central Ave Apt 103  St Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Birch International Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-9184",
+    "address": "190 N Tessier Dr  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Outrageous Styles by Taye",
+    "description": "Clothing Stores",
+    "phone": "(833) 453-1862",
+    "address": "138 49th St S  St Petersburg, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Elizabeth's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-9526",
+    "address": "4765 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Freaky Tiki Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2958",
+    "address": "5210 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Seyler Angelia",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7279",
+    "address": "7907 Sailboat Key Blvd S  South Pasadena, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-3336",
+    "address": "7500 Bayshore Dr  Treasure Island, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Gs Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 420-4860",
+    "address": "118 49th St S  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Frumenda Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-7873",
+    "address": "620 28th St N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "2399 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-3229",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The pants towne Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8804",
+    "address": "6000 49th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Avalon Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3662",
+    "address": "2963 44th Ave N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-8907",
+    "address": "6752 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Looking Good Alterations, Repairs, and Tailoring",
+    "description": "Clothing Stores",
+    "phone": "(727) 551-9061",
+    "address": "1125 38th Ave NE  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-1789",
+    "address": "2281 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0123",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Undergound by Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2230",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Snipes",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6276",
+    "address": "6901 22nd Ave N Spc 854B  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Elizabeth Bargain Bin Corp",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-2299",
+    "address": "6901 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lularoe Leggings",
+    "description": "Clothing Stores",
+    "phone": "(937) 838-1288",
+    "address": "5101 Dover St NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Flaming Pearl Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-5683",
+    "address": "8016 31st Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "lularoe.cathyadams.Find your UNICORN with the CAT",
+    "description": "Clothing Stores",
+    "phone": "(727) 804-9958",
+    "address": "8045 13th Ave S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 292-1755",
+    "address": "1900 Tyrone Blvd N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-2004",
+    "address": "2105 66th St N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0720",
+    "address": "6901 Tyrone Sq Ste 230  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6484",
+    "address": "6933 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-9701",
+    "address": "6969 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Retail For Cause LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-3595",
+    "address": "495 43rd Ave N  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tilly's",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6484",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6401",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8814",
+    "address": "218 37th Ave N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-3066",
+    "address": "6826 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-8311",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-6800",
+    "address": "6901 22nd Ave N Ste 476A  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "T.J.Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 577-1350",
+    "address": "7701 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Pants Towne",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-0099",
+    "address": "6000 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bay Pines Bait & Tackle",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2687",
+    "address": "9385 Bay Pines Blvd  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Get Reel Get Fish",
+    "description": "Clothing Stores",
+    "phone": "(727) 528-2111",
+    "address": "4590 62nd Ave N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tarpon Bay Trading Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-6191",
+    "address": "180 Johns Pass Boardwalk W  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Wild Style USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 391-8800",
+    "address": "12801 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Embrace Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 424-9446",
+    "address": "7124 49th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Wild Time Island Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "12932 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Gjiapparel",
+    "description": "Clothing Stores",
+    "phone": "(858) 886-8658",
+    "address": "7901 4th St N Ste 300  St Petersburg, FL 33702",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ayeeshas African Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-0310",
+    "address": "5800 87th Ave N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Orvis",
+    "description": "Clothing Stores",
+    "phone": "(727) 576-4169",
+    "address": "9501 Us Highway 19 N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Beautiful & Big",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2646",
+    "address": "6996 66th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Vonda's Passion For Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 623-0952",
+    "address": "6651 49th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 527-2672",
+    "address": "7328 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "rue21- Closed",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-4163",
+    "address": "10500 Ulmerton Rd Ste 706-710  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Slimers Value Center",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-7409",
+    "address": "257 Valencia Cir  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Attitudes Dancewear Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-0447",
+    "address": "13002 Seminole Blvd  Largo, FL 33778",
+    "location": "Pinellas"
+  },
+  {
+    "name": "ValRich Sports Paradise Golf",
+    "description": "Clothing Stores",
+    "phone": "(727) 240-0288",
+    "address": "7500 Ulmerton Rd Ste 30  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Florida Jean Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 365-8440",
+    "address": "6418 107th Ter N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Your CBD Store - Seminole, FL",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-4223",
+    "address": "7182 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": ".B.",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-0421",
+    "address": "11201 Park Blvd Ste N  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "12315 62nd St  Largo, FL 33773",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Hydro Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 289-5619",
+    "address": "4505 131st Ave N  Clearwater, FL 33762",
+    "location": "Pinellas"
+  },
+  {
+    "name": "After Hour Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-5752",
+    "address": "12880 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Jas-Lin's LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 313-4542",
+    "address": "7500 Ulmerton Rd Ste 10  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Patchington",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3561",
+    "address": "6399 142nd Ave N  Clearwater, FL 33760",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Niles Dresses",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7602",
+    "address": "3703 141st Ave  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Great White Cus Tom Appare",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-5388",
+    "address": "13090 91st St  Largo, FL 33773",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Avon Largo Independent Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(727) 410-3224",
+    "address": "12100 Seminole Blvd Lot 205  Largo, FL 33778",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sweet Lexi",
+    "description": "Clothing Stores",
+    "phone": "(813) 425-4637",
+    "address": "1641 Bonita Bluff Ct  Ruskin, FL 33570",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Loshande",
+    "description": "Clothing Stores",
+    "phone": "(941) 212-4041",
+    "address": "1020 10th Ave W Unit 115  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "T & J Ministries and Thrift Store Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-0353",
+    "address": "5125 Seminole Blvd  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Wallstwear.com",
+    "description": "Clothing Stores",
+    "phone": "(727) 530-5901",
+    "address": "12600 Belcher Rd S  Largo, FL 33773",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Snowdonia",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "14100 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 865-3413",
+    "address": "5123 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 865-3413",
+    "address": "5123 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-0543",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-2160",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(727) 726-5214",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 723-3860",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Miami Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-8775",
+    "address": "2950 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Clothing Stores",
+    "phone": "(727) 328-8535",
+    "address": "2201 34th St S  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Little Llamas Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-5216",
+    "address": "2319 Dr Martin Luther King Jr St S Fl 33704  St Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "St Pete Threads",
+    "description": "Clothing Stores",
+    "phone": "(727) 502-6850",
+    "address": "2622 Fairfield Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Botiki Ladies Apparel & Gifts",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8757",
+    "address": "3015 Beach Blvd S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Revolve Clothing Exchange",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-7788",
+    "address": "2000 4th St N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-4246",
+    "address": "107 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Suzette's On Central",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-8404",
+    "address": "2109 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Matter of Fact",
+    "description": "Clothing Stores",
+    "phone": "(727) 826-0416",
+    "address": "1029 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ashe Couture Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9925",
+    "address": "1027 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-2244",
+    "address": "662 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Freshly Squeezed",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-2197",
+    "address": "900 1st Ave N  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Anglo Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-5800",
+    "address": "689 Central Ave # 100-101  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-6905",
+    "address": "821 1st Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Adventures in Paradise Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-4943",
+    "address": "40 Beach Dr NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "NautiGirl Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9380",
+    "address": "216 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Jackie Z Style Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4849",
+    "address": "113 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8727",
+    "address": "103 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fit 2 Run",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-2786",
+    "address": "256 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sweet Rebel",
+    "description": "Clothing Stores",
+    "phone": "(727) 280-6239",
+    "address": "1106 34th St N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Far Out Groovy & Kool",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-7600",
+    "address": "1032 4th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Agora Leather Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-0707",
+    "address": "2101 28th St N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "On Pointe Dancewear & More",
+    "description": "Clothing Stores",
+    "phone": "(855) 238-6784",
+    "address": "2113 Central Ave  St Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bamboozle Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 360-1166",
+    "address": "103 8th Ave Fl 33706  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Swim & Play",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-1713",
+    "address": "4677 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Breeza Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-1617",
+    "address": "6705 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "McB's",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4932",
+    "address": "1045 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-8111",
+    "address": "2050 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Stellie Bellies",
+    "description": "Clothing Stores",
+    "phone": "(727) 894-0906",
+    "address": "3475 4th St N  Saint Petersburg, FL 33704",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Whitehouse Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-7398",
+    "address": "7183 30th Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cranial Creations",
+    "description": "Clothing Stores",
+    "phone": "(970) 390-5015",
+    "address": "PO Box 48643  Saint Petersburg, FL 33743",
+    "location": "Pinellas"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "6797 Tyrone Sq 22nd Ave  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Clothing Stores",
+    "phone": "(727) 522-1287",
+    "address": "3615 49th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-5426",
+    "address": "6665 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Oxford Clothing Compa",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-3740",
+    "address": "4336 4th St N  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Pj Design Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-0599",
+    "address": "2830 46th Ave N  Saint Petersburg, FL 33714",
+    "location": "Pinellas"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-5434",
+    "address": "2288 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Designers Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9080",
+    "address": "2278 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(727) 346-2300",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Shoe Palace",
+    "description": "Clothing Stores",
+    "phone": "(727) 456-1182",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Blu Spero",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-4119",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3239",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9585",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4114",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-2611",
+    "address": "7000 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-2578",
+    "address": "4501 66th St N  Kenneth City, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-1170",
+    "address": "2036 66th St N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-7888",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Surf Style 117: Surf, Swimwear, Sporting Goods in Treasure Island",
+    "description": "Clothing Stores",
+    "phone": "(954) 924-9779",
+    "address": "10701 Gulf Blvd  Treasure Island, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Latin Touch Salon",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-5161",
+    "address": "5791 54th Ave N  Kenneth City, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-1717",
+    "address": "2008 66th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6401",
+    "address": "6901 22nd Ave N # 230  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6003",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4691",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "1st Dance Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 490-1746",
+    "address": "5098 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bella Babies Consignment",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2229",
+    "address": "7187 66th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2088",
+    "address": "3700 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Dollar Discount",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-1639",
+    "address": "5208 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Scrubs N Stuff",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6750",
+    "address": "3993 Tyrone Blvd N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8004",
+    "address": "6000 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(800) 469-4663",
+    "address": "4600 Park St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Supera-Tec Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-1294",
+    "address": "4491 62nd Ave N Ste 110  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "John's Pass Trading Co.",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-6910",
+    "address": "12901 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Alligator Alley",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-2789",
+    "address": "12901 Gulf Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Wild Time Surf Shop",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "12930 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Island Attitudes",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-7966",
+    "address": "13003 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Paris Isabella Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-4900",
+    "address": "4930 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Gator Haven",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-9809",
+    "address": "6280 66th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-1531",
+    "address": "4820 Park St N  St Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fresh Rags",
+    "description": "Clothing Stores",
+    "phone": "(727) 803-6878",
+    "address": "7620 49th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Off The Rack",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-5508",
+    "address": "7500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fantasy Planet Beach Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2776",
+    "address": "11235 Kapok Grand Cir  Saint Petersburg, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Deko Source",
+    "description": "Clothing Stores",
+    "phone": "(800) 517-7780",
+    "address": "2810 Scherer Dr N Ste 135  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Nilla Shields",
+    "description": "Clothing Stores",
+    "phone": "(727) 489-0305",
+    "address": "3051 Tech Dr N  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bridals and Tux",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-9926",
+    "address": "7250 Ulmerton Rd Suite A  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-5824",
+    "address": "7400 66th St N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Surf West",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-0211",
+    "address": "15327 Gulf Blvd  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bronze Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-9500",
+    "address": "6190 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "the unKAGEd Shop",
+    "description": "Clothing Stores",
+    "phone": "(813) 326-7383",
+    "address": "115 112th Ave NE  St Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Island Traders Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "10490 75th St Ste A  Seminole, FL 33777",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Manatee Bay Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(800) 444-6231",
+    "address": "6911 Bryan Dairy Rd  Seminole, FL 33777",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Next Gifts",
+    "description": "Clothing Stores",
+    "phone": "(619) 274-3987",
+    "address": "10751 75th St  Seminole, FL 33777",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Talbots Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 214-1013",
+    "address": "7927 113th St  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cottonseed Casual Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-2437",
+    "address": "8920 118th St  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Apparel World II Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 533-9331",
+    "address": "2101 34th Way  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Tee Hive",
+    "description": "Clothing Stores",
+    "phone": "(727) 601-4604",
+    "address": "9310 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(727) 250-5192",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(727) 585-5587",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bonworth",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0639",
+    "address": "10500 Ulmerton Rd Ste 698  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Liberty Creative | Screen Printing, Embroidery, Design, & Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-0444",
+    "address": "1299 Starkey Rd Ste 103  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Island Fresh",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-0011",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Reagan Paige",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-0011",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Two Sides of Nature",
+    "description": "Clothing Stores",
+    "phone": "(941) 779-2432",
+    "address": "101 S Bay Blvd  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tip Toe Designs",
+    "description": "Clothing Stores",
+    "phone": "(813) 359-7222",
+    "address": "135 12th Street Ct W  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "One Way Apparel Promotions",
+    "description": "Clothing Stores",
+    "phone": "(941) 729-3660",
+    "address": "1500 15th Avenue Dr E Unit 105  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "One Source Medical Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 721-7003",
+    "address": "1407 20th Ave E  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(727) 866-0996",
+    "address": "2830 54th Ave S  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(727) 796-3020",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fashion Imports",
+    "description": "Women's Clothing",
+    "phone": "(727) 584-7905",
+    "address": "3995 South Cir  Largo, FL 33774",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Karoll Brazil Sportswear",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(727) 432-7145",
+    "address": "220 43rd Ave SE  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Body'kon Fash'yon",
+    "description": "Women's Clothing",
+    "phone": "(727) 600-3210",
+    "address": "United States  Saint Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(727) 906-4647",
+    "address": "3501 34th St S  St Petersburg, FL 33711",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Gooddess Closet",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-0303",
+    "address": "1558 16th St S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "LottoBoat Club & Rental",
+    "description": "Amusement Places & Arcades",
+    "phone": "(727) 230-0990",
+    "address": "100 14th Ave S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Luv Ya Style",
+    "description": "Women's Clothing",
+    "phone": "(727) 895-8642",
+    "address": "1558 16th St S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Miss Too Much",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-6919",
+    "address": "1554 16th St S  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "description": "Sportswear",
+    "phone": "(727) 825-3487",
+    "address": "1 Tropicana Dr  Saint Petersburg, FL 33705",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Avon South Tampa",
+    "description": "Hair Supplies & Accessories",
+    "phone": "(727) 641-3390",
+    "address": "4941 29th Ave S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Yes Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 323-0363",
+    "address": "5005 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Designer Exchange",
+    "description": "Consignment Service",
+    "phone": "(727) 345-1400",
+    "address": "7038 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "K Hendrix",
+    "description": "Women's Clothing",
+    "phone": "(727) 822-0902",
+    "address": "349 Grey Eagle Ct S  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bohemian Reves",
+    "description": "Department Stores",
+    "phone": "(727) 873-6864",
+    "address": "1620 Central Ave  Saint Petersburg, FL 33712",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Violet's Vanity",
+    "description": "Women's Clothing",
+    "phone": "(727) 329-8685",
+    "address": "2327 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 323-8672",
+    "address": "3301 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bartique",
+    "description": "Women's Clothing",
+    "phone": "(727) 290-6829",
+    "address": "648 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Kingdom Stylz",
+    "description": "Men's Clothing",
+    "phone": "(727) 277-2199",
+    "address": "Po Box 11343  Saint Petersburg, FL 33733",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Merchant",
+    "description": "Department Stores",
+    "phone": "(727) 954-0117",
+    "address": "633 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Superior Group of Companies, Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 397-9611",
+    "address": "200 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Central Station Owner",
+    "description": "Department Stores",
+    "phone": "(727) 821-0147",
+    "address": "100 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 822-6565",
+    "address": "119 1st Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(727) 820-4309",
+    "address": "175 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Talk Of The Town Shopping",
+    "description": "Department Stores",
+    "phone": "(727) 896-5400",
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Daniels",
+    "description": "Men's Clothing",
+    "phone": "(727) 498-8805",
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tampa Bay Team Fan Shop",
+    "description": "Caps",
+    "phone": "(727) 302-1600",
+    "address": "203 1st St NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bucs Stuff's Sports City",
+    "description": "Sportswear",
+    "phone": "(727) 209-2827",
+    "address": "211 1st St NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Five Fish",
+    "description": "Women's Clothing",
+    "phone": "(727) 823-3030",
+    "address": "300 Beach Dr NE  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sartorial Inc",
+    "description": "Men's Clothing",
+    "phone": "(727) 290-6783",
+    "address": "400 Beach Dr NE Ste 169  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Marion's",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-2345",
+    "address": "1301 4th St N  Saint Petersburg, FL 33701",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Clothezline",
+    "description": "Department Stores",
+    "phone": "(727) 346-9000",
+    "address": "940 58th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cerulean Blu",
+    "description": "Department Stores",
+    "phone": "(727) 498-8984",
+    "address": "3725 26th Ave N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bargain Basement",
+    "description": "Discount Stores",
+    "phone": "(727) 527-3553",
+    "address": "2890 34th St N  Saint Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Shopbymale.com",
+    "description": "Men's Clothing",
+    "phone": "(844) 420-6253",
+    "address": "PO Box 56535  St Petersburg, FL 33732",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 327-5701",
+    "address": "3235 Central Ave  St Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 803-4961",
+    "address": "201 34th St N  St Petersburg, FL 33713",
+    "location": "Pinellas"
+  },
+  {
+    "name": "New Charisma Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 363-0228",
+    "address": "4227 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 528-1115",
+    "address": "200 Avenue Des Palais Suite 226  South Pasadena, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Annabel's & Annabel's Petites",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-1534",
+    "address": "347 Corey Ave  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lu'nique Bridal & Fashion Boutique",
+    "description": "Bridal Shops",
+    "phone": "(727) 223-6498",
+    "address": "7230 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(727) 381-3133",
+    "address": "2287 Tyrone Blvd N Ste 110  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Retail Marketing Group Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 520-1210",
+    "address": "3127 Bayshore Blvd NE  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-9833",
+    "address": "2480 66th St N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Locker Room By Lids",
+    "description": "Sporting Goods",
+    "phone": "(727) 347-3595",
+    "address": "2367 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 347-3595",
+    "address": "2367 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(727) 344-6156",
+    "address": "2468 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sports Fan-Attic",
+    "description": "Sportswear",
+    "phone": "(727) 347-3595",
+    "address": "2367 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Kickz N Lidz",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-8330",
+    "address": "2353 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 347-4996",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 343-0179",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(727) 345-9520",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(727) 343-3478",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "L M T D",
+    "description": "Men's Clothing",
+    "phone": "(727) 346-9200",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-6003",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sports Fan Attic",
+    "description": "Sporting Goods",
+    "phone": "(727) 347-3595",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The 802 Gypsy",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-1980",
+    "address": "10365 Paradise Blvd  Saint Petersburg, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "St Pete Running Company",
+    "description": "Sporting Goods",
+    "phone": "(727) 800-5043",
+    "address": "6986 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "SKECHERS Retail",
+    "description": "Shoe Stores",
+    "phone": "(727) 345-1061",
+    "address": "6901 22nd Ave N # 492a  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(727) 346-2300",
+    "address": "6899 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-0491",
+    "address": "6901 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "6924 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Feet First",
+    "description": "Sporting Goods",
+    "phone": "(727) 898-1130",
+    "address": "4949 4th St N  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(727) 344-4611",
+    "address": "6990 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(727) 527-9161",
+    "address": "5004 4th St N  Saint Petersburg, FL 33703",
+    "location": "Pinellas"
+  },
+  {
+    "name": "La Panache",
+    "description": "Boutique Items",
+    "phone": "(727) 367-6188",
+    "address": "9524 Blind Pass Rd Ste 4  St Pete Beach, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(727) 347-6748",
+    "address": "6901 22nd Ave N Spc 812  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 344-8550",
+    "address": "6714 Tyrone Sq Ste 288  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-3345",
+    "address": "6754 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "6924 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Palms-Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-5400",
+    "address": "10671 Gulf Blvd  Treasure Island, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Warm Weather Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 367-7120",
+    "address": "845 115th Ave  Treasure Island, FL 33706",
+    "location": "Pinellas"
+  },
+  {
+    "name": "JIM&apos;S BICYCLE SHOP",
+    "description": "Sporting Goods",
+    "phone": "(727) 263-4133",
+    "address": "5018 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 548-0400",
+    "address": "4450 Park St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(727) 513-8871",
+    "address": "4600 Park St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Group USA",
+    "description": "Women's Clothing",
+    "phone": "(727) 685-5595",
+    "address": "4940 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 347-7190",
+    "address": "6901 22nd St N  Saint Petersburg, FL 33702",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Lush Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 914-3503",
+    "address": "5526 66th St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 544-1819",
+    "address": "4990 Park St N  Saint Petersburg, FL 33709",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sam's Club",
+    "description": "Department Stores",
+    "phone": "(727) 547-8955",
+    "address": "7001 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Eye Doctor's Optical Outlets",
+    "description": "Optical Goods",
+    "phone": "(727) 547-4856",
+    "address": "3740 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Bucs Stuff",
+    "description": "Sportswear",
+    "phone": "(727) 525-2827",
+    "address": "7101 US Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 522-2836",
+    "address": "7170 US Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sabella Boutique",
+    "description": "Boutique Items",
+    "phone": "(727) 800-9955",
+    "address": "4500 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Walmart Health Center",
+    "description": "General Merchandise",
+    "phone": "(727) 369-2677",
+    "address": "8001 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Best Price Deals",
+    "description": "Discount Stores",
+    "phone": "(727) 954-8859",
+    "address": "9151 Us Highway 19 N  Pinellas Park, FL 33782",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Solomon's Casual Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 541-1606",
+    "address": "7801 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Madrag 67",
+    "description": "Women's Clothing",
+    "phone": "(727) 525-8080",
+    "address": "7332 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Studs and Stones 4 U",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-5609",
+    "address": "10410 1st St N Unit 8  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Tom James Company Tampa Bay",
+    "description": "Men's Clothing",
+    "phone": "(727) 916-7848",
+    "address": "12100 31st Ct N Suite A  Saint Petersburg, FL 33716",
+    "location": "Pinellas"
+  },
+  {
+    "name": "T J's Unique Boutique",
+    "description": "Consignment Service",
+    "phone": "(727) 397-1073",
+    "address": "9148 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Colette's Fashions & Swimwear",
+    "description": "Women's Clothing",
+    "phone": "(727) 392-2796",
+    "address": "15033 Madeira Way  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Pheeney's Boutique",
+    "description": "Candles",
+    "phone": "(727) 565-0207",
+    "address": "14953 Gulf Blvd Ste A  Madeira Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(727) 291-0015",
+    "address": "5251 110th Ave N Ste 120  Clearwater, FL 33760",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Pamela M",
+    "description": "Women's Clothing",
+    "phone": "(727) 319-2088",
+    "address": "16701 Gulf Blvd  North Redington Beach, FL 33708",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Half Moon Direct Yoga Apparel & Accessories",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-2701",
+    "address": "P.O. Box 8007  Seminole, FL 33775",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Sil-O-Ette International Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 571-3338",
+    "address": "12890 Automobile Blvd  Clearwater, FL 33762",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Discount Palms & Plants",
+    "description": "Department Stores",
+    "phone": "(727) 385-7913",
+    "address": "9009 Seminole Blvd  Seminole, FL 33772",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Simply Fab Dress",
+    "description": "Bridal Shops",
+    "phone": "(754) 260-8244",
+    "address": "13575 58th Street North #287  Clearwater, FL 33760",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fast Frontier",
+    "description": "Department Stores",
+    "phone": "(727) 601-5673",
+    "address": "13920 58th St N  Clearwater, FL 33760",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Hunt",
+    "description": "Department Stores",
+    "phone": "(727) 506-3200",
+    "address": "12690 Starkey Rd  Largo, FL 33773",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Fashionista Trendy Thrifty",
+    "description": "Men's Clothing",
+    "phone": "(727) 641-9970",
+    "address": "14099 Belcher Rd S Lot 1152  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(727) 585-5485",
+    "address": "10357 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Handbags",
+    "phone": "(727) 585-7548",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Discount Beverage",
+    "description": "Discount Stores",
+    "phone": "(941) 729-9366",
+    "address": "5207 Us Highway 19  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Pineapple Marketplace",
+    "description": "Department Stores",
+    "phone": "(941) 216-4226",
+    "address": "425 Pine Ave  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ami Beach Hut",
+    "description": "Department Stores",
+    "phone": "(941) 281-2124",
+    "address": "9901 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Egrets Nest",
+    "description": "Women's Clothing",
+    "phone": "(941) 778-8406",
+    "address": "10008 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Ami Sport Zone",
+    "description": "Sportswear",
+    "phone": "(941) 251-3927",
+    "address": "9801 Gulf Dr  Anna Maria, FL 34216",
+    "location": "Pinellas"
+  },
+  {
+    "name": "The Lace Buckle Boutique",
+    "description": "Boutique Items",
+    "phone": "(941) 417-7007",
+    "address": "1003 10th Ave W  Palmetto, FL 34221",
+    "location": "Pinellas"
+  },
+  {
+    "name": "Global Protection Products",
+    "description": "General Merchandise",
+    "phone": "(941) 723-3100",
+    "address": "1610 12th St E  Palmetto, FL 34221",
+    "location": "Pinellas"
+  }
+]

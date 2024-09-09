@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Davis Marketing Group",
+    "description": "Marketing Programs & Services",
+    "phone": "(850) 673-9533",
+    "address": "128 E Base St  Madison, FL 32340",
+    "location": "Lee"
+  },
+  {
+    "name": "Plante Marketing Group Inc",
+    "description": "Marketing Programs & Services",
+    "phone": "(386) 658-3945",
+    "address": "7686 207th Rd  Dowling Park, FL 32060",
+    "location": "Lee"
+  },
+  {
+    "name": "Clark's Marketing",
+    "description": "Marketing Consultants",
+    "phone": "(386) 219-0579",
+    "address": "13339 County Road 136  Live Oak, FL 32060",
+    "location": "Lee"
+  },
+  {
+    "name": "1804 Entertainment Alliance",
+    "description": "Web Site Hosting",
+    "phone": "(866) 937-1804",
+    "address": "PO Box 0000  Valdosta, GA 31603",
+    "location": "Lee"
+  }
+]

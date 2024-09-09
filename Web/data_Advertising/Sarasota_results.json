@@ -1,0 +1,408 @@
+[
+  {
+    "name": "Owens Electric",
+    "description": "Professional Engineers",
+    "phone": "(941) 210-0205",
+    "address": " 2242 Industrial Blvd Fl 34234  Sarasota, FL 34234",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Wayne Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(941) 702-2126",
+    "address": " 1962 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Get Found In Town",
+    "description": "Advertising Agencies",
+    "phone": "(941) 312-1130",
+    "address": " 1922 Oak St Unit A  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Ad Nerds Media",
+    "description": "Advertising Agencies",
+    "phone": "(941) 244-5015",
+    "address": " 1990 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Cheetah Agency",
+    "description": "Advertising Agencies",
+    "phone": "(941) 662-4242",
+    "address": " 1990 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Nextiny Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(941) 870-0623",
+    "address": " 1819 Main St Ste 235  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Localyze Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(941) 500-4045",
+    "address": " 1680 Fruitville Rd  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Hub Media",
+    "description": "Advertising Agencies",
+    "phone": "(941) 914-0117",
+    "address": " 227 Central Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Spredx",
+    "description": "Advertising Agencies",
+    "phone": "(941) 227-4857",
+    "address": " 1343 Main St Ste 312  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "RevSurge Digital",
+    "description": "Advertising Agencies",
+    "phone": "(941) 402-7442",
+    "address": " 1343 Main St Ste 705  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Admart Media",
+    "description": "Advertising Agencies",
+    "phone": "(941) 487-8825",
+    "address": " 15 Paradise Plz Fl 34239  Sarasota, FL 34239",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Brown Pine Cone",
+    "description": "Advertising Agencies",
+    "phone": "(941) 999-1399",
+    "address": " 6321 Porter Rd Ste 4  Sarasota, FL 34240",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Anderson Group Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(941) 921-5942",
+    "address": " 7535 Curtiss Ave  Sarasota, FL 34231",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Modus Direct",
+    "description": "Advertising Agencies",
+    "phone": "(941) 552-6770",
+    "address": " 40 Sarasota Center Blvd Ste 104  Sarasota, FL 34240",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Nuevo Advertising Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 752-4433",
+    "address": " 677 N Washington Blvd  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "New Vision Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-3757",
+    "address": " 1751 Mound St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Adgals Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 554-8245",
+    "address": " 533 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Positively Main Street Graphics Advertising Art & Design",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-4959",
+    "address": " 1460 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Smith And Associates Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 355-7900",
+    "address": " 33 S Palm Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Where Is Ricky",
+    "description": "Advertising Agencies",
+    "phone": "(941) 822-5153",
+    "address": " 1500 N Lockwood Ridge Rd Apt 24  Sarasota, FL 34237",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Lifejackets Productions",
+    "description": "Advertising Agencies",
+    "phone": "(941) 927-6500",
+    "address": " 3250 Espanola Dr  Sarasota, FL 34239",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Positively Mainstreet Graphics Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 360-6839",
+    "address": " 1225 39th St  Sarasota, FL 34234",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Advertising Delivery Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(941) 922-3398",
+    "address": " 5045 S Tamiami Trl  Sarasota, FL 34231",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Glass Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 351-4516",
+    "address": " 8051 N Tamiami Trl  Sarasota, FL 34243",
+    "location": "Sarasota"
+  },
+  {
+    "name": "P Taylor McHone Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 923-2285",
+    "address": " 5610 Saint Louis Ave  Sarasota, FL 34233",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Valpak",
+    "description": "Advertising Agencies",
+    "phone": "(941) 378-2266",
+    "address": " 5875 Bahia Vista St  Sarasota, FL 34232",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Key Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 377-3488",
+    "address": " 1415 Ranchero Dr  Sarasota, FL 34240",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Special Impressions",
+    "description": "Advertising Agencies",
+    "phone": "(941) 921-5807",
+    "address": " 127 Jeffrey Cir  Sarasota, FL 34238",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Cpg World",
+    "description": "Advertising Agencies",
+    "phone": "(941) 929-0633",
+    "address": " 7420 Pearlbush Ln  Sarasota, FL 34241",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Premium Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(941) 702-8607",
+    "address": " 1235 Sarasota Center Blvd  Sarasota, FL 34240",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Acrobatrix Worldwide",
+    "description": "Advertising Agencies",
+    "phone": "(941) 953-9155",
+    "address": " 1962 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Genuity Group",
+    "description": "Advertising Agencies",
+    "phone": "(941) 955-1800",
+    "address": " 1991 Main St Ste 248  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Links Management Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-2086",
+    "address": " 22 S Links Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Infinity Designs & The Logo Shop",
+    "description": "Advertising Agencies",
+    "phone": "(941) 373-9797",
+    "address": " 1938 Adams Ln  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Atlarge Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 365-9233",
+    "address": " 238 Links Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Gulf Rayz Media",
+    "description": "Advertising Agencies",
+    "phone": "(941) 364-4300",
+    "address": " 2170 Main St Ste 103  Sarasota, FL 34237",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Baskerville Swirles & Ward",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-3888",
+    "address": " 1740 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Logan & Long Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-0995",
+    "address": " 1902 Oak St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Spot Link",
+    "description": "Advertising Agencies",
+    "phone": "(941) 366-6281",
+    "address": " 1605 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "On Ideas",
+    "description": "Advertising Agencies",
+    "phone": "(941) 365-2710",
+    "address": " 1605 Main St  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Wilde Productions",
+    "description": "Advertising Agencies",
+    "phone": "(941) 316-9888",
+    "address": " 461 N Orange Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Next-Mark",
+    "description": "Advertising Agencies",
+    "phone": "(941) 544-2765",
+    "address": " 40 S Pineapple Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Inter Ad Agency",
+    "description": "Advertising Agencies",
+    "phone": "(941) 365-5200",
+    "address": " 45 S Palm Ave  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Smith Advertising & Associates",
+    "description": "Advertising Agencies",
+    "phone": "(941) 955-7094",
+    "address": " 1133 4th St Ste 205  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Green Gem Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(833) 787-5724",
+    "address": " 1058 N Tamiami Trl  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Knight Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(941) 361-3070",
+    "address": " 2032 Hawthorne St  Sarasota, FL 34239",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Fahrenheit 10 Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 955-0151",
+    "address": " 1161 N Tamiami Trl  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Simply Strategy",
+    "description": "Advertising Agencies",
+    "phone": "(941) 320-3182",
+    "address": " 1837 Mid Ocean Cir  Sarasota, FL 34239",
+    "location": "Sarasota"
+  },
+  {
+    "name": "SEO Counselors",
+    "description": "Advertising Agencies",
+    "phone": "(941) 444-6099",
+    "address": " 3230 Southgate Circle Suite #102  Sarasota, FL 34236",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Leedom Group",
+    "description": "Advertising Agencies",
+    "phone": "(941) 955-1597",
+    "address": " 3700 S Tamiami Trl Ste 1  Sarasota, FL 34239",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Healthcare Management Dcsns",
+    "description": "Advertising Agencies",
+    "phone": "(941) 346-1030",
+    "address": " 3336 Higel Ave  Sarasota, FL 34242",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Nielubowicz & Associates Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 924-5077",
+    "address": " 1900 Glengary St  Sarasota, FL 34231",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Vision PRM",
+    "description": "Advertising Agencies",
+    "phone": "(941) 587-9217",
+    "address": " 2701 Nassau St  Sarasota, FL 34231",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Jennings & Company",
+    "description": "Advertising Agencies",
+    "phone": "(941) 351-1005",
+    "address": " 436 Woodland Dr  Sarasota, FL 34234",
+    "location": "Sarasota"
+  },
+  {
+    "name": "MS Billib Enterprises",
+    "description": "Advertising Agencies",
+    "phone": "(941) 924-3412",
+    "address": " 4717 Oak Forest Dr W  Sarasota, FL 34231",
+    "location": "Sarasota"
+  },
+  {
+    "name": "M & M Group Enterprises Inc",
+    "description": "Advertising Agencies",
+    "phone": "(941) 360-9397",
+    "address": " 5015 Habana Dr  Sarasota, FL 34235",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Den Bone Barbeque",
+    "description": "Advertising Agencies",
+    "phone": "(941) 359-1587",
+    "address": " 5312 Durango Ave  Sarasota, FL 34235",
+    "location": "Sarasota"
+  },
+  {
+    "name": "Signs Marketing & Advertisi",
+    "description": "Signs",
+    "phone": "(941) 727-2901",
+    "address": " 5421 15th St E  Bradenton, FL 34203",
+    "location": "Sarasota"
+  }
+]

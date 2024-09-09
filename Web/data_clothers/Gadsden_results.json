@@ -1,0 +1,170 @@
+[
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-6831",
+    "address": "1616 W Jefferson St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(850) 253-7411",
+    "address": "1323 W Crawford St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Kim's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 875-2023",
+    "address": "6 N Adams St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Ice Age Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 933-9331",
+    "address": "1 W Jefferson St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Distinguished Young Gentlemen of America",
+    "description": "Clothing Stores",
+    "phone": "(850) 662-4182",
+    "address": "18290 Blue Star Hwy  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Shoe Show",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-1805",
+    "address": "1954 Pat Thomas Pkwy  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Ivy Shop",
+    "description": "Clothing Stores",
+    "phone": "(850) 627-6661",
+    "address": "1327 W Jefferson St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Classic Shirts",
+    "description": "Clothing Stores",
+    "phone": "(850) 875-2200",
+    "address": "110 Zeta St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "MsBre'",
+    "description": "Clothing Stores",
+    "phone": "(844) 526-9297",
+    "address": "91 Kelly Ave  Quincy, FL 32352",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(850) 875-1661",
+    "address": "1940 Pat Thomas Pkwy  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(850) 491-3055",
+    "address": "1604 W Jefferson St # 7A  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(850) 627-0734",
+    "address": "1972 Pat Thomas Pkwy  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "G Q Fashions",
+    "description": "Men's Clothing",
+    "phone": "(850) 627-6699",
+    "address": "22 E Washington St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Dynasty Sportswear USA",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(850) 629-8834",
+    "address": "110 Zeta St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Just 99 Cents",
+    "description": "Discount Stores",
+    "phone": "(850) 627-3402",
+    "address": "108 E Jefferson St  Quincy, FL 32351",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Country Store",
+    "description": "Women's Clothing",
+    "phone": "(850) 875-1978",
+    "address": "5667 Bainbridge Hwy  Quincy, FL 32352",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Becky's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(850) 663-3700",
+    "address": "303 W Washington St  Chattahoochee, FL 32324",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Bryan's",
+    "description": "Clothing Stores",
+    "phone": "(850) 663-9798",
+    "address": "513 W Washington St  Chattahoochee, FL 32324",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Wanderings",
+    "description": "Clothing Stores",
+    "phone": "(850) 539-7711",
+    "address": "312 NW 1st St  Havana, FL 32333",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Uneek Dvingns",
+    "description": "Clothing Stores",
+    "phone": "(850) 350-0034",
+    "address": "212 Joyner Rd  Midway, FL 32343",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Fly Beautie Chic",
+    "description": "Beauty Salons",
+    "phone": "(844) 322-9328",
+    "address": "329 Seminole Cir  Havana, FL 32333",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Alco",
+    "description": "Department Stores",
+    "phone": "(850) 539-9054",
+    "address": "1548 Beaver Creek Dr  Havana, FL 32333",
+    "location": "Gadsden"
+  },
+  {
+    "name": "Havana's General Store",
+    "description": "Variety Stores",
+    "phone": "(850) 539-6900",
+    "address": "308 N Main St  Havana, FL 32333",
+    "location": "Gadsden"
+  },
+  {
+    "name": "A.C.E Of Spade 1K Corporation",
+    "description": "Women's Clothing",
+    "phone": "(850) 251-0037",
+    "address": "170 Tranquility Ln  Havana, FL 32333",
+    "location": "Gadsden"
+  }
+]

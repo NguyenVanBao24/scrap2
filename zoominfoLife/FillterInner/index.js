@@ -1,0 +1,13 @@
+const data = require('../data/zoominfo_results.json');
+const StorePath = require('../storePath');
+const { deleteNA, filter, addLocation, findElementsDup, removeDuplicates } = require('./FillterData');
+const { findElementsDuplicate } = require('./filter');
+// deleteNA("n/a", "data_promotional", "address");
+// deleteNA("n/a", "data_maketing", "address");
+// deleteNA("n/a", "data_clothers", "address");
+// deleteNA("n/a", "data_Advertising", "address");
+// deleteDuplicate("data_maketing");
+const result = removeDuplicates(data, 'companyName');
+console.log(result);
+StorePath(result, 'data', 'zoominfo');
+// const result = findElementsDup(data, 'companyName');

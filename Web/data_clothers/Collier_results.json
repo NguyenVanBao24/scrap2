@@ -1,0 +1,3089 @@
+[
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(239) 514-0535",
+    "address": "8811 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Lujo Collections",
+    "description": "Clothing Stores",
+    "phone": "(239) 631-8188",
+    "address": "9331 Tamiami Trl N Ste 21  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Rebel",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-3830",
+    "address": "9115 Strada Pl Unit 5150  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(239) 513-1013",
+    "address": "9115 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(239) 659-5214",
+    "address": "9100 Strada Pl Ste 2125  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "J. Crew Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 659-5214",
+    "address": "9100 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-1600",
+    "address": "Suite L0005 1900 Tamiami Trail North  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Signatures",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-5800",
+    "address": "9100 Strada Pl Ste 2135  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Source Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(239) 260-1855",
+    "address": "2700 Immokalee Rd Ste 6  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(239) 431-7083",
+    "address": "9051 Tamiami Trl N Ste 101  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Free People",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-1272",
+    "address": "5435 Tamiami Trail N Waterside Shops  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Awaken the Source",
+    "description": "Clothing Stores",
+    "phone": "(773) 882-7799",
+    "address": "2430 Vanderbilt Beach Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Wallaby Trading Co",
+    "description": "Clothing Stores",
+    "phone": "(239) 593-1098",
+    "address": "7935 Airport Rd N  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "WODSuperStore.com",
+    "description": "Clothing Stores",
+    "phone": "(239) 451-6915",
+    "address": "1474 Rail Head Blvd  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Authentic Cotton",
+    "description": "Clothing Stores",
+    "phone": "(857) 222-3212",
+    "address": "2790 Cypress Trace Cir  Naples, FL 34119",
+    "location": "Collier"
+  },
+  {
+    "name": "Coming & Going Designs Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 594-7065",
+    "address": "7687 Santa Margherita Way  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-3161",
+    "address": "5555 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Victoria's Place",
+    "description": "Clothing Stores",
+    "phone": "(239) 498-3107",
+    "address": "3690 Bonita Beach Rd  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Burberry Limited",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-9164",
+    "address": "5475 Tamiami Trl N Ste 11  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Florida Fashions",
+    "description": "Clothing Stores",
+    "phone": "(239) 566-0680",
+    "address": "5555 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Vince.",
+    "description": "Clothing Stores",
+    "phone": "(239) 325-6100",
+    "address": "5489 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-1417",
+    "address": "5485 Tamiami Trl N Ste D-1  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Alo",
+    "description": "Clothing Stores",
+    "phone": "(239) 799-1197",
+    "address": "5485 Tamiami Trl N Unit D-101  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Countrywide Spiritwear",
+    "description": "Clothing Stores",
+    "phone": "(888) 889-9985",
+    "address": "28790 S Diesel Dr Ste 8  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Men's Castle",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-0231",
+    "address": "3300 Bonita Beach Rd  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Adventure Action Sports Apprl",
+    "description": "Clothing Stores",
+    "phone": "(239) 498-2272",
+    "address": "27771 Tennessee St  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(239) 598-1175",
+    "address": "5495 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Lacoste",
+    "description": "Clothing Stores",
+    "phone": "(239) 593-1315",
+    "address": "5495 Tamiami Trl N Ste 13  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Calypso St Barth",
+    "description": "Clothing Stores",
+    "phone": "(239) 513-2227",
+    "address": "5435 Tamiami Trl N Ste 21  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Naples Fashion House",
+    "description": "Clothing Stores",
+    "phone": "(239) 250-1020",
+    "address": "4320 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Snyderman's Shoes Of Naples",
+    "description": "Clothing Stores",
+    "phone": "(239) 963-4955",
+    "address": "4910 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-1553",
+    "address": "5018 Airport Rd N  Naples, FL 34105",
+    "location": "Collier"
+  },
+  {
+    "name": "Vineyard Vines",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-3765",
+    "address": "5415 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Calypso",
+    "description": "Clothing Stores",
+    "phone": "(239) 513-2227",
+    "address": "5415 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Dior",
+    "description": "Clothing Stores",
+    "phone": "(239) 592-5900",
+    "address": "5395 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-8791",
+    "address": "2368 Pine Ridge Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "J & K Collections",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-4945",
+    "address": "5051 Castello Dr  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Love That Sport",
+    "description": "Clothing Stores",
+    "phone": "(239) 213-0065",
+    "address": "4910 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Mondo Uomo",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-7005",
+    "address": "4530 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-0390",
+    "address": "4383 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Saks Fifth Avenue",
+    "description": "Clothing Stores",
+    "phone": "(239) 207-3714",
+    "address": "4135 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "SUNDAY TROPEZ",
+    "description": "Clothing Stores",
+    "phone": "(239) 331-4862",
+    "address": "4250 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Something Else Clothing",
+    "description": "Clothing Stores",
+    "phone": "(239) 390-0267",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Cindy's Photography",
+    "description": "Clothing Stores",
+    "phone": "(714) 318-8104",
+    "address": "27252 Barbarosa St  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "John Craig Clothier",
+    "description": "Clothing Stores",
+    "phone": "(239) 301-2080",
+    "address": "26831 S Bay Dr Ste 106  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Green Twine",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-5645",
+    "address": "Po Box 366548  Bonita Springs, FL 34136",
+    "location": "Collier"
+  },
+  {
+    "name": "Corner Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 405-7540",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Tennis R US",
+    "description": "Clothing Stores",
+    "phone": "(239) 221-7147",
+    "address": "25987 S Tamiami Trl  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Sexy Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-7600",
+    "address": "1954 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(239) 663-3959",
+    "address": "1910 Tamiami Trl N # M5-M6  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-3682",
+    "address": "1960 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "La Principal Inc.",
+    "description": "Clothing Stores",
+    "phone": "(239) 580-6624",
+    "address": "5580 19th Ct SW #4  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Gabriela's Fairytale Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 353-5746",
+    "address": "5570 19th Ct SW  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "J. Crew",
+    "description": "Clothing Stores",
+    "phone": "(239) 593-4079",
+    "address": "5435 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-0770",
+    "address": "2010 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-3140",
+    "address": "1932 Tamiami Trl N # J6  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-2275",
+    "address": "1912 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-2275",
+    "address": "1912 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Firstlook Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-4109",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-0183",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-2379",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-0353",
+    "address": "1764 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-1245",
+    "address": "1800 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-7927",
+    "address": "1784 Tamiami Trl N # K0004  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-0178",
+    "address": "1752 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Delia's Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 659-6444",
+    "address": "1718 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Glc's Bling Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 784-3581",
+    "address": "1200 Goodlette Rd N  Naples, FL 34101",
+    "location": "Collier"
+  },
+  {
+    "name": "fans of Amazon",
+    "description": "Clothing Stores",
+    "phone": "(239) 234-8692",
+    "address": "5383 24th Ave SW  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Fashion2Love Inc.",
+    "description": "Clothing Stores",
+    "phone": "(239) 331-7082",
+    "address": "4110 Enterprise Ave #108  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Beast Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-8300",
+    "address": "3673 Exchange Ave Ste 3  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Nooo Igual Que En Miami",
+    "description": "Clothing Stores",
+    "phone": "(239) 348-0727",
+    "address": "12555 Collier Blvd Ste 4  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Carotec Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 331-7112",
+    "address": "315 Airport Pulling Rd N  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Back of the Bay",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-7695",
+    "address": "614 5th Ave N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Del Sol",
+    "description": "Clothing Stores",
+    "phone": "(239) 234-5278",
+    "address": "739 5th Ave N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Tina's Fashion & Accessories",
+    "description": "Clothing Stores",
+    "phone": "(239) 963-9376",
+    "address": "271 10th St N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Thoughtful Threads",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-0469",
+    "address": "2142 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-0216",
+    "address": "1762 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-2969",
+    "address": "1814 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-0226",
+    "address": "2018 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Oh My Gauze!",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-8556",
+    "address": "505 5th Ave S Ste A  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Wear In The World",
+    "description": "Clothing Stores",
+    "phone": "(239) 920-2750",
+    "address": "859 4th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Snikwah Worldwide",
+    "description": "Clothing Stores",
+    "phone": "(239) 302-6146",
+    "address": "271 Airport Rd S  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Jungle Fever",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-0235",
+    "address": "1200 5th Ave S Ste 202  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Fashion & Swim",
+    "description": "Clothing Stores",
+    "phone": "(239) 963-9791",
+    "address": "779 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Fresh Produce Retail",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-5654",
+    "address": "691 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Naples Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-7695",
+    "address": "616 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Joseph Wendt Custom Clothiers",
+    "description": "Clothing Stores",
+    "phone": "(239) 530-0070",
+    "address": "400 5th Ave S Ste 100  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "African Clothing Online",
+    "description": "Clothing Stores",
+    "phone": "(239) 529-7604",
+    "address": "2800 Davis Blvd Ste 100  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Elevee Fine Clothing",
+    "description": "Clothing Stores",
+    "phone": "(239) 280-0266",
+    "address": "281 Broad Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Elevee Custom Wardrobe",
+    "description": "Clothing Stores",
+    "phone": "(239) 280-0266",
+    "address": "281 Broad Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Josephs Clothiers",
+    "description": "Clothing Stores",
+    "phone": "(239) 530-0070",
+    "address": "386 Broad Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Purple Poppy",
+    "description": "Clothing Stores",
+    "phone": "(239) 529-3071",
+    "address": "361 12th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Gretchen Scott",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-7500",
+    "address": "1300 3rd St S Ste 103C  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Sara Campbell",
+    "description": "Clothing Stores",
+    "phone": "(239) 331-2953",
+    "address": "1300 3rd St S Ste 103B  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Johnny Was",
+    "description": "Clothing Stores",
+    "phone": "(239) 382-6802",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Copper Closet SWSL",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-0773",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Tommy Bahama Marlin Bar & Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-2203",
+    "address": "23150 Fashion Drive, Suite 101  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Hems & Fitz",
+    "description": "Clothing Stores",
+    "phone": "(609) 226-0056",
+    "address": "3661 Sunland Ln  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Leggiadro",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-4454",
+    "address": "1209 3rd St S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Sharp Dressed Man",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-1827",
+    "address": "1200 5th Ave S Ste 305  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "J & S Retail",
+    "description": "Clothing Stores",
+    "phone": "(239) 529-2304",
+    "address": "2808 Thomasson Dr  Naples, FL 34112",
+    "location": "Collier"
+  },
+  {
+    "name": "Aley Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 304-9899",
+    "address": "13260 Immokalee Rd  Naples, FL 34120",
+    "location": "Collier"
+  },
+  {
+    "name": "Varity Store la cubana",
+    "description": "Clothing Stores",
+    "phone": "(239) 732-0298",
+    "address": "11263 Tamiami Trl E  Naples, FL 34113",
+    "location": "Collier"
+  },
+  {
+    "name": "Clean Clothes III",
+    "description": "Clothing Stores",
+    "phone": "(239) 331-8656",
+    "address": "11572 Tamiami Trl E  Naples, FL 34113",
+    "location": "Collier"
+  },
+  {
+    "name": "Hoof Life",
+    "description": "Clothing Stores",
+    "phone": "(239) 231-1834",
+    "address": "2271 28th Ave SE  Naples, FL 34117",
+    "location": "Collier"
+  },
+  {
+    "name": "Turf & Surf Golf &Swim",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-4653",
+    "address": "6060 Collier Blvd Ste 100  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Hanesbrands",
+    "description": "Clothing Stores",
+    "phone": "(239) 732-1933",
+    "address": "6050 Collier Blvd Suite 168  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "GQ'z",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-0191",
+    "address": "9918 Gulf Coast Main St  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Armani Exchange",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-6959",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Eddie Bauer",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-9188",
+    "address": "10801 Corkscrew Rd Ste 82  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Quiksilver",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-1075",
+    "address": "10801 Corkscrew Rd Ste 618  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Greg Norman",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-4653",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-3477",
+    "address": "10801 Corkscrew Rd Ste 61  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Last Call",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-0465",
+    "address": "10801 Corkscrew Rd Ste 50  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Ross, Lynn",
+    "description": "Clothing Stores",
+    "phone": "(352) 237-0009",
+    "address": "20985 Country Barn Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "American Eagle & Aerie",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-1078",
+    "address": "10801 Corkscrew Rd Ste 511  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Nautica",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-0871",
+    "address": "10801 Corkscrew Rd Ste Y-77  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 676-3283",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Columbia Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 390-2319",
+    "address": "10801 Corkscrew Rd Ste 78  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Lacoste *Closed*",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-0707",
+    "address": "10801 Corkscrew Rd Ste 502  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Haggar Outlet Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-2721",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Naples Co Str",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-8175",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Calvin Klein",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-7737",
+    "address": "10801 Corkscrew Rd Ste 411  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Hurley International",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-0454",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "In Living Color studio of Tattoo & Piercing",
+    "description": "Clothing Stores",
+    "phone": "(239) 301-2391",
+    "address": "20416 S Tamiami Trl  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Mokie Burns Inc",
+    "description": "Clothing Stores",
+    "phone": "(904) 254-8151",
+    "address": "6061 Tidewater Island Cir  Fort Myers, FL 33908",
+    "location": "Collier"
+  },
+  {
+    "name": "Cool Stuff Sale",
+    "description": "Clothing Stores",
+    "phone": "(972) 362-1486",
+    "address": "6289 Key Biscayne Blvd  Fort Myers, FL 33908",
+    "location": "Collier"
+  },
+  {
+    "name": "Tunaskin Aquatic Apparel",
+    "description": "Clothing Stores",
+    "phone": "(239) 314-5339",
+    "address": "1300 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "Going Wild",
+    "description": "Clothing Stores",
+    "phone": "(239) 224-4171",
+    "address": "118 Crescent St  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "Turf & Stuff",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-4653",
+    "address": "6060 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Forema Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 690-9507",
+    "address": "9903 Gulf Coast Main St  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Sherrys Sew Perfect",
+    "description": "Clothing Stores",
+    "phone": "(239) 394-1577",
+    "address": "406 San Juan Ave  Naples, FL 34113",
+    "location": "Collier"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-5150",
+    "address": "1000 Immokalee Rd  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(239) 382-7356",
+    "address": "1000 Immokalee Rd Ste 35A  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Charming Charlie",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-1702",
+    "address": "9105 Strada Pl Ste 3135  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Nordstrom Rack Mercato",
+    "description": "Clothing Stores",
+    "phone": "(239) 449-7444",
+    "address": "9100 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Rebeccas Ladies Fashions & Accessories",
+    "description": "Clothing Stores",
+    "phone": "(239) 591-1234",
+    "address": "9123 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Lu Lu Belle",
+    "description": "Clothing Stores",
+    "phone": "(239) 598-1217",
+    "address": "9123 Strada Pl #7106  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Gigis",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-0800",
+    "address": "9128 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Millstead Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-0800",
+    "address": "8935 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Sportalm Fashion",
+    "description": "Clothing Stores",
+    "phone": "(239) 513-2255",
+    "address": "9115 Strada Pl Unit 5135  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Stacy's Golden Hanger",
+    "description": "Clothing Stores",
+    "phone": "(239) 431-8440",
+    "address": "2355 Vanderbilt Beach Rd Ste 168  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "SkyStruk",
+    "description": "Clothing Stores",
+    "phone": "(973) 896-8550",
+    "address": "140 Corsea Del Fontana Way #110 Ste B  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Max Mara",
+    "description": "Clothing Stores",
+    "phone": "(239) 566-7000",
+    "address": "919 Pelican Bay Tamiami Trail  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Evereve",
+    "description": "Clothing Stores",
+    "phone": "(239) 963-8373",
+    "address": "5435-3 Tamiami Trail N. Waterside Shops  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Designer Divas",
+    "description": "Clothing Stores",
+    "phone": "(239) 431-6341",
+    "address": "2355 Vanderbilt Beach Rd Ste 136  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "John Creig",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-0995",
+    "address": "280 Vanderbilt Beach Rd  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Casual Connection",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-2662",
+    "address": "2464 Vanderbilt Beach Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Sassis",
+    "description": "Clothing Stores",
+    "phone": "(239) 449-8417",
+    "address": "2068 J And C Blvd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(239) 591-0300",
+    "address": "5555 Tamiami Trl N Ste 15  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Ferragamo",
+    "description": "Clothing Stores",
+    "phone": "(239) 438-3056",
+    "address": "5495 Tamiami Trl N Ste 19  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Athleta",
+    "description": "Clothing Stores",
+    "phone": "(239) 597-8950",
+    "address": "5495 Tamiami Trl N Ste 7  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-3356",
+    "address": "5485 Tamiami Trl N Ste 9  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Everything But Water",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-1377",
+    "address": "5485 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(239) 513-1123",
+    "address": "5475 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Indigo Mountain Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-0023",
+    "address": "28380 Old 41 Rd Ste 7  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-7198",
+    "address": "8951 Bonita Beach Rd SE Ste 350  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Anthony's Ladies Apparel",
+    "description": "Clothing Stores",
+    "phone": "(239) 676-7477",
+    "address": "3300 Bonita Beach Rd Ste 148  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-1019",
+    "address": "3306 Bonita Beach Rd  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-1054",
+    "address": "5475 Tamiami Trl N Ste 1  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(239) 514-0184",
+    "address": "6381 Naples Blvd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-7900",
+    "address": "5054 Airport Pulling Rd N  Naples, FL 34105",
+    "location": "Collier"
+  },
+  {
+    "name": "Teruzzi Mens Wear",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-2252",
+    "address": "4330 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Tory Burch",
+    "description": "Clothing Stores",
+    "phone": "(239) 598-0243",
+    "address": "5435 Tamiami Trl N Ste 5  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(239) 592-1108",
+    "address": "5435 Tamiami Trl N Ste 404  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "John Craig",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-5374",
+    "address": "5435 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Hermès",
+    "description": "Clothing Stores",
+    "phone": "(239) 299-4370",
+    "address": "5355 Tamiami Trl N Ste 1  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Escales",
+    "description": "Clothing Stores",
+    "phone": "(239) 254-1122",
+    "address": "5375 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "120 Percent Lino",
+    "description": "Clothing Stores",
+    "phone": "(239) 596-7699",
+    "address": "5375 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(239) 598-5054",
+    "address": "2505 Pine Ridge Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Fully Promoted Naples, FL",
+    "description": "Clothing Stores",
+    "phone": "(239) 593-2193",
+    "address": "4966 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "DSW Designer Shoe Warehouse",
+    "description": "Clothing Stores",
+    "phone": "(239) 231-7847",
+    "address": "5056 Airport Rd N  Naples, FL 34105",
+    "location": "Collier"
+  },
+  {
+    "name": "Bealls Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-0025",
+    "address": "5052 Airport Pulling Rd N  Naples, FL 34105",
+    "location": "Collier"
+  },
+  {
+    "name": "Lux Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-2557",
+    "address": "4262 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(239) 776-7772",
+    "address": "4260 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "The B Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 919-3446",
+    "address": "4250 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "H T Chittum & Co",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-5150",
+    "address": "4242 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Pratts Shoe Salon",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-6342",
+    "address": "4206 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Promote",
+    "description": "Clothing Stores",
+    "phone": "(667) 766-6838",
+    "address": "8820 Walter Way Unit 1319  Naples, FL 34120",
+    "location": "Collier"
+  },
+  {
+    "name": "Susy Fashion & Kids",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-5406",
+    "address": "26801 Old 41 Rd  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Rural King Supply",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-3850",
+    "address": "26831 S Tamiami Trl  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Kelly Chase Couture",
+    "description": "Clothing Stores",
+    "phone": "(239) 690-7379",
+    "address": "26795 S Bay Dr Suite #160  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Mondo Uomo & Donna",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-3312",
+    "address": "26831 S Bay Dr Ste 106  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Kay's On the Beach",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-5551",
+    "address": "26821 S Bay Dr Ste 116  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Jami's Promenade",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-1210",
+    "address": "26811 S Bay Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Eden's Closet",
+    "description": "Clothing Stores",
+    "phone": "(239) 676-1156",
+    "address": "26811 S Bay Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Little Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 390-1740",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "T-Shirt Express",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-2149",
+    "address": "961 3rd Ave N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-1300",
+    "address": "1800 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Monogram Styles",
+    "description": "Clothing Stores",
+    "phone": "(239) 228-7965",
+    "address": "1460 Golden Gate Pkwy Ste 101  Naples, FL 34105",
+    "location": "Collier"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-6010",
+    "address": "2076 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Men's Palace",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-2773",
+    "address": "2018 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-9300",
+    "address": "2000 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "abercrombie kids",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-8112",
+    "address": "1962 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-2555",
+    "address": "1916 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(239) 963-0428",
+    "address": "1900 Tamiami Trl N # A19  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-0028",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "1900 Tamiami Trl N Spc L0005  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Men's Palace Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-2773",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-0226",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-3849",
+    "address": "1840 Tamiami Trl N # L13  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-7661",
+    "address": "1828 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(239) 403-4312",
+    "address": "1824 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-9886",
+    "address": "1822 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-5501",
+    "address": "1798 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(239) 434-8200",
+    "address": "1788 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Sticky Holsters, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(844) 416-1844",
+    "address": "4306 Arnold Ave  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "US Post Office",
+    "description": "Clothing Stores",
+    "phone": "(800) 275-8777",
+    "address": "4863 Golden Gate Pkwy  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(239) 353-9555",
+    "address": "4955 Golden Gate Pkwy  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "New Sajaris",
+    "description": "Clothing Stores",
+    "phone": "(239) 304-0351",
+    "address": "1802 40th Ter SW Ste 6  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Wardrobe Wagon",
+    "description": "Clothing Stores",
+    "phone": "(239) 919-3341",
+    "address": "3737 Domestic Ave  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Tropical Storm",
+    "description": "Clothing Stores",
+    "phone": "(239) 649-6647",
+    "address": "961 3rd Ave N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Tommy Bahama Restaurant, Bar & Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-6889",
+    "address": "1220 3rd St S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Maus & Hoffman",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-7611",
+    "address": "292 14th Ave S Fl 1  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Shadyandkatie Apparel & Home",
+    "description": "Clothing Stores",
+    "phone": "(239) 529-2751",
+    "address": "945 Central Ave  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "City Slickers Western Wear",
+    "description": "Clothing Stores",
+    "phone": "(239) 304-9455",
+    "address": "2305davis Belville Blvd  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Captain's Closet",
+    "description": "Clothing Stores",
+    "phone": "(239) 261-5125",
+    "address": "1200 5th Ave S Ste 6  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Alice Simone Curated Merchandise",
+    "description": "Clothing Stores",
+    "phone": "(239) 330-7208",
+    "address": "797 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Bastiat Naples Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 241-2169",
+    "address": "555 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Altered Elements",
+    "description": "Clothing Stores",
+    "phone": "(239) 430-0654",
+    "address": "532 Park St  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Alvins Island",
+    "description": "Clothing Stores",
+    "phone": "(904) 461-4445",
+    "address": "998 6th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Casanova's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 450-6844",
+    "address": "1500 5th Ave S Unit 107  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Korban Custom Mens Wear",
+    "description": "Clothing Stores",
+    "phone": "(239) 302-6076",
+    "address": "2072 Mills Ln  Naples, FL 34112",
+    "location": "Collier"
+  },
+  {
+    "name": "Marissa Collections",
+    "description": "Clothing Stores",
+    "phone": "(239) 263-4333",
+    "address": "1167 3rd St S Ste 207  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Olde Naples Surf Shop",
+    "description": "Clothing Stores",
+    "phone": "(239) 262-1877",
+    "address": "1311 3rd St S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Handshake Guru Technologies",
+    "description": "Clothing Stores",
+    "phone": "(239) 234-6784",
+    "address": "3900 Mannix Dr Ste 117  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "UNTUCKit",
+    "description": "Clothing Stores",
+    "phone": "(239) 744-2825",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Lucky Brand Jeans",
+    "description": "Clothing Stores",
+    "phone": "(239) 992-8611",
+    "address": "23150 Fashion Dr Ste 103  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Altar'd State Coconut Pointe",
+    "description": "Clothing Stores",
+    "phone": "(941) 800-3500",
+    "address": "23140 Fashion Dr Ste 105  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Tullabee Coconut Point",
+    "description": "Clothing Stores",
+    "phone": "(941) 800-3500",
+    "address": "23140 Fashion Dr Ste 105  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Arula",
+    "description": "Clothing Stores",
+    "phone": "(941) 800-3500",
+    "address": "23140 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "PINK by VS",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-3102",
+    "address": "23131 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Fit 2 Run",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-2786",
+    "address": "23106 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Lucky Brand",
+    "description": "Clothing Stores",
+    "phone": "(239) 992-8611",
+    "address": "23106 Fashion Dr Ste 107  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Gq'z",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-0191",
+    "address": "23101 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Screen Printing Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(239) 643-5699",
+    "address": "3419 Westview Dr  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Tropical Treasures",
+    "description": "Clothing Stores",
+    "phone": "(239) 765-4868",
+    "address": "7205 Estero Blvd Ste 734  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "First Class Boutique",
+    "description": "Clothing Stores",
+    "phone": "(855) 231-6830",
+    "address": "3863 Tamiami Trl E  Naples, FL 34112",
+    "location": "Collier"
+  },
+  {
+    "name": "Elesa's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 228-5368",
+    "address": "4270 Tamiami Trl E  Naples, FL 34112",
+    "location": "Collier"
+  },
+  {
+    "name": "Brandworx",
+    "description": "Clothing Stores",
+    "phone": "(239) 793-3441",
+    "address": "104 Bordeaux Cir  Naples, FL 34112",
+    "location": "Collier"
+  },
+  {
+    "name": "Best Of Stella",
+    "description": "Clothing Stores",
+    "phone": "(239) 775-8724",
+    "address": "5267 Collins Ct  Naples, FL 34113",
+    "location": "Collier"
+  },
+  {
+    "name": "Izod",
+    "description": "Clothing Stores",
+    "phone": "(239) 774-3204",
+    "address": "6060 Collier Blvd Ste 92  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Van Heusen",
+    "description": "Clothing Stores",
+    "phone": "(239) 774-7732",
+    "address": "6060 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Coach Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 732-5009",
+    "address": "6060 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "LOFT Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 417-0813",
+    "address": "6040 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Puma Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-7111",
+    "address": "Miromar Outlets 10801 Corkscrew Road  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-1098",
+    "address": "10801 Corkscrew Rd Ste 130  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Gap Factory",
+    "description": "Clothing Stores",
+    "phone": "(239) 498-1301",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Brooks Brothers Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-2177",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-3020",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-7957",
+    "address": "10801 Corkscrew Rd Ste 505  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 947-5040",
+    "address": "10801 Corkscrew Rd Ste 510  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Cole Haan Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 498-5990",
+    "address": "10801 Corkscrew Rd Ste 165  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Nike Factory Store - Estero",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-4100",
+    "address": "10801 Corkscrew Rd Ste 177  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-2177",
+    "address": "10801 Corkscrew Rd Ste 82  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "GUESS Factory",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-2462",
+    "address": "10801 Corkscrew Rd Ste 301  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Polo Ralph Lauren Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-0053",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "COACH Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 390-9589",
+    "address": "10801 Corkscrew Rd Ste 322  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Karl Lagerfeld Paris",
+    "description": "Clothing Stores",
+    "phone": "(239) 774-7998",
+    "address": "10801 Corkscrew Rd Ste 309  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Dkny",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-6006",
+    "address": "10801 Corkscrew Rd Ste 158  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Levi's",
+    "description": "Clothing Stores",
+    "phone": "(239) 948-5384",
+    "address": "10801 Corkscrew Rd Ste 318  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Oakley",
+    "description": "Clothing Stores",
+    "phone": "(239) 992-2768",
+    "address": "10801 Corkscrew Rd Ste 157  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Old Navy Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 268-8011",
+    "address": "10801 Corkscrew Rd Ste 404  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(239) 495-8123",
+    "address": "10801 Corkscrew Rd Ste 168  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Perry Ellis",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-5424",
+    "address": "10801 Corkscrew Rd Ste 308  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Santini Marina Shopping Plaza",
+    "description": "Clothing Stores",
+    "phone": "(239) 463-2838",
+    "address": "7205 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "St. John Knits Outlet",
+    "description": "Clothing Stores",
+    "phone": "(239) 433-1288",
+    "address": "9903 Gulf Coast Main St Ste 145  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Mens Palace Inc",
+    "description": "Clothing Stores",
+    "phone": "(239) 466-0040",
+    "address": "9918 Gulf Coast Main St  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Life's A Logo Express Yourself",
+    "description": "Clothing Stores",
+    "phone": "(239) 218-3762",
+    "address": "17431 Alico Center Rd  Fort Myers, FL 33967",
+    "location": "Collier"
+  },
+  {
+    "name": "DXL Big + Tall",
+    "description": "Clothing Stores",
+    "phone": "(239) 433-4270",
+    "address": "10041 University Plaza Dr  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Sharons Beach Boutique",
+    "description": "Clothing Stores",
+    "phone": "(239) 949-5540",
+    "address": "1400 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "On the Sand",
+    "description": "Clothing Stores",
+    "phone": "(239) 765-6675",
+    "address": "1270 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(239) 591-4311",
+    "address": "11225 Tamiami Trl N  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(239) 593-1121",
+    "address": "1000 Immokalee Rd  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "For The Love of Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(239) 566-3395",
+    "address": "9765 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(239) 513-9372",
+    "address": "9105 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Simply Natural",
+    "description": "Women's Clothing",
+    "phone": "(239) 596-1700",
+    "address": "9115 Strada Pl  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(239) 254-1517",
+    "address": "Suite C-5 5435 Tamiami Trail North  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "John Antonucci",
+    "description": "Department Stores",
+    "phone": "(239) 431-7567",
+    "address": "184 Seabreeze Ave  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Vanderbilt Galleria",
+    "description": "Department Stores",
+    "phone": "(239) 592-0684",
+    "address": "9045 Strada Stell Ct  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "True Fashionistas",
+    "description": "Consignment Service",
+    "phone": "(239) 596-5044",
+    "address": "2355 Vanderbilt Beach Rd Ste 104  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Bombay Bangles",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 631-6842",
+    "address": "2355 Vanderbilt Beach Rd Ste 177  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Kathryn's Collection",
+    "description": "Women's Clothing",
+    "phone": "(239) 434-1885",
+    "address": "2355 Vanderbilt Beach Rd Ste 126  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Zazou",
+    "description": "Women's Clothing",
+    "phone": "(239) 594-8265",
+    "address": "2355 Vanderbilt Beach Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Casanova Boutique Inc",
+    "description": "Boutique Items",
+    "phone": "(239) 571-1610",
+    "address": "2363 Vanderbilt Beach Road  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Justennis",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 514-8700",
+    "address": "7700 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Florida Backyard",
+    "description": "Department Stores",
+    "phone": "(239) 596-0040",
+    "address": "15465 Tamiami Trl N  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "KBR Ventures",
+    "description": "Department Stores",
+    "phone": "(239) 631-6126",
+    "address": "7593 Cordoba Cir  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Do Me A Favor Boutique",
+    "description": "Women's Clothing",
+    "phone": "(239) 594-7223",
+    "address": "16396 Aberdeen Way  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Churchill & Turen Ltd",
+    "description": "Women's Clothing",
+    "phone": "(239) 249-8642",
+    "address": "17010 Porta Vecchio Way  Naples, FL 34110",
+    "location": "Collier"
+  },
+  {
+    "name": "Beals",
+    "description": "Discount Stores",
+    "phone": "(239) 325-8741",
+    "address": "2590 Northbrooke Plaza Dr Ste 107  Naples, FL 34119",
+    "location": "Collier"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(239) 552-1100",
+    "address": "2415 Tarpon Bay Blvd  Naples, FL 34119",
+    "location": "Collier"
+  },
+  {
+    "name": "Wild Stallion Apparel",
+    "description": "Men's Clothing",
+    "phone": "(844) 752-0135",
+    "address": "2016 Trade Center Way  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Simply Me Boutique",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 203-3801",
+    "address": "1826 Trade Center Way Ste B  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(239) 325-6456",
+    "address": "5955 Naples Blvd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(239) 597-2330",
+    "address": "5555 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Kirsten's Boutique",
+    "description": "Boutique Items",
+    "phone": "(239) 598-3233",
+    "address": "5535 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Sportswear",
+    "phone": "(239) 254-0483",
+    "address": "6428 Hollywood Blvd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Anthropologie",
+    "description": "Women's Clothing",
+    "phone": "(239) 594-0317",
+    "address": "5495 Tamiami Trl N Ste 1  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Peserico",
+    "description": "Women's Clothing",
+    "phone": "(239) 592-0025",
+    "address": "5495 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(239) 594-8504",
+    "address": "5485 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Juicy Couture",
+    "description": "Women's Clothing",
+    "phone": "(239) 597-3555",
+    "address": "5485 Tamiami Trl N Ste 3  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(239) 598-4454",
+    "address": "5475 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(239) 947-7666",
+    "address": "28520 Bonita Crossings Blvd Ste 1  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Bikini Barn",
+    "description": "Women's Clothing",
+    "phone": "(239) 403-7118",
+    "address": "4200 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Beach House of Naples",
+    "description": "Women's Clothing",
+    "phone": "(239) 598-4144",
+    "address": "5455 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Women's Clothing",
+    "phone": "(239) 513-0310",
+    "address": "5555 Tamiami Trl N Suite G-14  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Gucci - Waterside Shops",
+    "description": "Women's Clothing",
+    "phone": "(239) 254-1453",
+    "address": "5435 Tamiami Trl N Ste 17  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Veronica Beard Naples",
+    "description": "Women's Clothing",
+    "phone": "(239) 944-5433",
+    "address": "5435 Tamiami Trl N Ste C11  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(239) 653-7301",
+    "address": "5415 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Fendi Naples Saks",
+    "description": "Department Stores",
+    "phone": "(239) 254-0432",
+    "address": "5395 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(239) 594-6871",
+    "address": "5375 Tamiami Trl N Ste 11  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Hermes",
+    "description": "Department Stores",
+    "phone": "(239) 299-4370",
+    "address": "5355 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Anne Fontaine",
+    "description": "Women's Clothing",
+    "phone": "(239) 597-7111",
+    "address": "5375 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Mondi of America",
+    "description": "Women's Clothing",
+    "phone": "(239) 591-3411",
+    "address": "5375 Tamiami Trl N  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Intimates Lingerie Naples, Inc.",
+    "description": "Lingerie",
+    "phone": "(239) 598-2838",
+    "address": "2083 Pine Ridge Rd  Naples, FL 34109",
+    "location": "Collier"
+  },
+  {
+    "name": "Heart and Soul Boutique",
+    "description": "Women's Clothing",
+    "phone": "(239) 919-3990",
+    "address": "1190 Pine Ridge Rd Ste 3  Naples, FL 34108",
+    "location": "Collier"
+  },
+  {
+    "name": "Kari's Kreations, Inc",
+    "description": "Women's Clothing",
+    "phone": "(239) 261-5355",
+    "address": "4910 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Kay's on the Beach",
+    "description": "Women's Clothing",
+    "phone": "(239) 261-3619",
+    "address": "802 Neapolitan Way  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Drapers & Damons",
+    "description": "Women's Clothing",
+    "phone": "(239) 434-5342",
+    "address": "770 Neapolitan Way  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Jeans Identity",
+    "description": "Women's Clothing",
+    "phone": "(855) 458-7569",
+    "address": "8747 Ibis Cove Cir  Naples, FL 34119",
+    "location": "Collier"
+  },
+  {
+    "name": "ASKP Group",
+    "description": "Women's Clothing",
+    "phone": "(239) 403-7118",
+    "address": "4202 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(239) 434-2444",
+    "address": "4380 Gulf Shore Blvd N Ste 818  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(239) 403-0615",
+    "address": "3980 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Anavlad",
+    "description": "Women's Clothing",
+    "phone": "(239) 263-9955",
+    "address": "4260 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(239) 434-7182",
+    "address": "4200 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Diane's Fine Fashions Inc",
+    "description": "Women's Clothing",
+    "phone": "(239) 213-4202",
+    "address": "4202 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Alberto Pants",
+    "description": "Men's Clothing",
+    "phone": "(877) 856-4364",
+    "address": "4232 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Wildflower",
+    "description": "Women's Clothing",
+    "phone": "(239) 793-2583",
+    "address": "4222 Gulf Shore Blvd N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(239) 263-6996",
+    "address": "3666 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "All Things Pretty",
+    "description": "Women's Clothing",
+    "phone": "(239) 262-7777",
+    "address": "3652 Tamiami Trl N  Naples, FL 34103",
+    "location": "Collier"
+  },
+  {
+    "name": "Blueprint Apparel",
+    "description": "Women's Clothing",
+    "phone": "(239) 352-0362",
+    "address": "15205 Collier Blvd  Naples, FL 34119",
+    "location": "Collier"
+  },
+  {
+    "name": "Looks Better on You",
+    "description": "Resale Shops",
+    "phone": "(239) 390-0496",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Daniel G Acosta, LDO",
+    "description": "Women's Clothing",
+    "phone": "(239) 565-6342",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Ceci Global Brands",
+    "description": "Women's Clothing",
+    "phone": "(239) 316-4909",
+    "address": "11902 Bonita Beach Rd SE  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "BonWorth",
+    "description": "Women's Clothing",
+    "phone": "(239) 495-3157",
+    "address": "12870 Trade Way Four Ste 105  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Well Read Department Store",
+    "description": "Department Stores",
+    "phone": "(239) 221-3282",
+    "address": "26841 S Bay Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Evelyn & Arthur",
+    "description": "Women's Clothing",
+    "phone": "(239) 949-4110",
+    "address": "26811 S Bay Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Taylor",
+    "description": "Women's Clothing",
+    "phone": "(239) 248-6650",
+    "address": "26811 S Bay Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "Bunulu",
+    "description": "Department Stores",
+    "phone": "(239) 949-0264",
+    "address": "3101 Pga Blvd  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Shoppes at Hawthorne",
+    "description": "General Merchandise",
+    "phone": "(239) 947-0731",
+    "address": "26455 Old 41 Rd  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "The Bike Route",
+    "description": "Sporting Goods",
+    "phone": "(239) 351-2091",
+    "address": "655 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(239) 261-4100",
+    "address": "1798 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Marshall Law Office",
+    "description": "Department Stores",
+    "phone": "(239) 213-1311",
+    "address": "2075 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(239) 261-7316",
+    "address": "2054 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Avon Ind. Sales Rep",
+    "description": "Bras",
+    "phone": "(239) 692-0485",
+    "address": "5220 16th Pl SW Apt 1  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Nine West",
+    "description": "Shoe Stores",
+    "phone": "(239) 261-3380",
+    "address": "1966 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(239) 403-9113",
+    "address": "1946 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(239) 272-2070",
+    "address": "1900 Tamiami Trl N Spc L0007  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Trendy With A Twist Boutique",
+    "description": "Boutique Items",
+    "phone": "(239) 403-8264",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "SKECHERS Retail",
+    "description": "Shoe Stores",
+    "phone": "(239) 261-3449",
+    "address": "1900 Tamiami Trl N # H5  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(239) 263-0335",
+    "address": "1900 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(239) 643-2930",
+    "address": "1900 Tamiami Trl N # J-9  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(239) 403-0441",
+    "address": "1886 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(239) 263-8037",
+    "address": "1876 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(239) 403-3849",
+    "address": "1840 Tamiami Trl N # L13  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(239) 263-0629",
+    "address": "1824 Tamiami Trl N Spc L0007  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(239) 263-0602",
+    "address": "1766 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(239) 263-0646",
+    "address": "1770 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Coastland Center",
+    "description": "Women's Clothing",
+    "phone": "(239) 403-0459",
+    "address": "1750 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Loksak Inc",
+    "description": "Department Stores",
+    "phone": "(239) 331-5550",
+    "address": "3050 N Horseshoe Dr  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Eom Sports",
+    "description": "Sportswear",
+    "phone": "(239) 234-5960",
+    "address": "3737 Domestic Ave  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "iPrint Graphix Vehicle Wraps",
+    "description": "Shirts-Custom Made",
+    "phone": "(239) 963-9319",
+    "address": "4573 Enterprise Ave Ste 5  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Seraphim Boutique",
+    "description": "Boutique Items",
+    "phone": "(239) 261-8494",
+    "address": "912 Briarwood Blvd  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "What's In Danielle's Bag",
+    "description": "Fashion Designers",
+    "phone": "(239) 645-2958",
+    "address": "000 5th Ave SW  Naples, FL 34117",
+    "location": "Collier"
+  },
+  {
+    "name": "Onette Discount Store",
+    "description": "Discount Stores",
+    "phone": "(239) 352-8222",
+    "address": "4748 Golden Gate Pkwy  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "DJY.APPLIANCES STORE",
+    "description": "Department Stores",
+    "phone": "(239) 530-8400",
+    "address": "1842 40th Ter SW Ste 3  Naples, FL 34116",
+    "location": "Collier"
+  },
+  {
+    "name": "Expressions in Design, Inc.",
+    "description": "Home Furnishings",
+    "phone": "(239) 434-2227",
+    "address": "3905 Radio Rd  Naples, FL 34104",
+    "location": "Collier"
+  },
+  {
+    "name": "Bonita Acquisitions, Inc",
+    "description": "Online & Mail Order Shopping",
+    "phone": "(239) 273-1697",
+    "address": "3791 Bay Creek Dr  Bonita Springs, FL 34134",
+    "location": "Collier"
+  },
+  {
+    "name": "That Special Dress",
+    "description": "Bridal Shops",
+    "phone": "(239) 498-0022",
+    "address": "25161 Chamber Of Commerce Dr  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "D' Galy Stores Inc",
+    "description": "Department Stores",
+    "phone": "(239) 676-5364",
+    "address": "24850 Old 41 Rd  Bonita Springs, FL 34135",
+    "location": "Collier"
+  },
+  {
+    "name": "Manny's Fine Menswear",
+    "description": "Men's Clothing",
+    "phone": "(239) 649-4660",
+    "address": "2166 Tamiami Trl N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Abigail Starr",
+    "description": "Women's Clothing",
+    "phone": "(239) 649-4999",
+    "address": "361 12th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Osprey",
+    "description": "Sportswear",
+    "phone": "(239) 263-4015",
+    "address": "1200 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Twice As Nice Consignment Shop",
+    "description": "Consignment Service",
+    "phone": "(239) 263-2992",
+    "address": "997 2nd Ave N  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Caribongo",
+    "description": "Department Stores",
+    "phone": "(239) 435-9539",
+    "address": "1200 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "The Wind in the Willows",
+    "description": "Women's Clothing",
+    "phone": "(239) 643-0663",
+    "address": "793 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Beth's Boutique",
+    "description": "Boutique Items",
+    "phone": "(239) 643-0663",
+    "address": "793 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Petunias of Naples",
+    "description": "Women's Clothing",
+    "phone": "(239) 403-3550",
+    "address": "852 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Oh My Gauze Inc",
+    "description": "Women's Clothing",
+    "phone": "(239) 643-8556",
+    "address": "720 5th Ave S Ste 103  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Vogue Petite Shoppe",
+    "description": "Women's Clothing",
+    "phone": "(239) 261-7812",
+    "address": "634 5th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Rouze",
+    "description": "Department Stores",
+    "phone": "(239) 692-8253",
+    "address": "494 5th St S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Brigadoon Wmns Apparel",
+    "description": "Women's Clothing",
+    "phone": "(239) 263-0696",
+    "address": "719 12th Ave S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Island Company - Naples",
+    "description": "Men's Clothing",
+    "phone": "(239) 262-0200",
+    "address": "1290 3rd St S  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Tickled Pink",
+    "description": "Women's Clothing",
+    "phone": "(239) 435-0004",
+    "address": "1300 3rd St S Ste 202B  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Beach House Of Naples",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 261-1366",
+    "address": "1300 3rd St S Ste 203a  Naples, FL 34102",
+    "location": "Collier"
+  },
+  {
+    "name": "Coconut Point Dillards",
+    "description": "Department Stores",
+    "phone": "(239) 947-4158",
+    "address": "8017 Via Sardinia Way  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(239) 949-1959",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Fresh Produce Coconut Point",
+    "description": "Women's Clothing",
+    "phone": "(239) 390-9696",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Natural Comfort Footwear",
+    "description": "Shoe Stores",
+    "phone": "(239) 949-1114",
+    "address": "23161 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "bebe",
+    "description": "Women's Clothing",
+    "phone": "(239) 992-3380",
+    "address": "23151 Fashion Dr Ste 117  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Soft Surroundings",
+    "description": "Women's Clothing",
+    "phone": "(239) 221-6159",
+    "address": "23151 Fashion Dr Ste 117  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "AS Revival",
+    "description": "Sportswear",
+    "phone": "(941) 800-3500",
+    "address": "23140 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(239) 949-3102",
+    "address": "23131 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Versona",
+    "description": "Women's Clothing",
+    "phone": "(239) 949-1255",
+    "address": "23106 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Sports Spree",
+    "description": "Sportswear",
+    "phone": "(239) 495-9000",
+    "address": "23106 Fashion Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(239) 676-3682",
+    "address": "8024 Mediterranean Dr  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Matarazzo Joseph",
+    "description": "Women's Clothing",
+    "phone": "(239) 676-5365",
+    "address": "22029 Seashore Cir  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(239) 417-1252",
+    "address": "6650 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(239) 793-1883",
+    "address": "6060 Collier Blvd Ste 44  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(239) 774-5404",
+    "address": "6060 Collier Blvd Ste 36  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(239) 793-6632",
+    "address": "6050 Collier Blvd # 156  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Look A Likes",
+    "description": "Department Stores",
+    "phone": "(407) 846-3712",
+    "address": "6050 Collier Blvd  Naples, FL 34114",
+    "location": "Collier"
+  },
+  {
+    "name": "Miromar Outlets",
+    "description": "Outlet Malls",
+    "phone": "(239) 948-3766",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Jockey",
+    "description": "Women's Clothing",
+    "phone": "(239) 390-0660",
+    "address": "10801 Corkscrew Rd Ste 310  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Columbia Sportswear",
+    "description": "Sportswear",
+    "phone": "(239) 390-2319",
+    "address": "10801 Corkscrew Rd Ste X-76  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Neiman Marcus",
+    "description": "Department Stores",
+    "phone": "(239) 947-0465",
+    "address": "10801 Corkscrew Rd Ste 50  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Easy Spirit",
+    "description": "Shoe Stores",
+    "phone": "(239) 948-4260",
+    "address": "10801 Corkscrew Rd Ste 134  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Bloomingdale's",
+    "description": "Department Stores",
+    "phone": "(239) 271-3455",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "ASICS Outlet",
+    "description": "Shoe Stores",
+    "phone": "(239) 495-3134",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Kate Spade Outlet",
+    "description": "Women's Clothing",
+    "phone": "(239) 498-2001",
+    "address": "10801 Corkscrew Rd Ste 178  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Michael Kors Outlet",
+    "description": "Women's Clothing",
+    "phone": "(239) 498-4038",
+    "address": "10801 Corkscrew Rd Ste 312  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "SKECHERS Factory Outlet",
+    "description": "Shoe Stores",
+    "phone": "(239) 495-5300",
+    "address": "10801 Corkscrew Rd Ste 349  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Adidas Outlet Store",
+    "description": "Outlet Stores",
+    "phone": "(239) 390-4121",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Under Armour Factory House",
+    "description": "Sportswear",
+    "phone": "(239) 390-9008",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Jny",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 390-7609",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Anne Klein",
+    "description": "Women's Clothing",
+    "phone": "(239) 948-8861",
+    "address": "10801 Corkscrew Rd Ste 401  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Johnston & Murphy",
+    "description": "Shoe Stores",
+    "phone": "(239) 949-6853",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Reebok",
+    "description": "Shoe Stores",
+    "phone": "(239) 949-3370",
+    "address": "10801 Corkscrew Rd # G-124  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Juicy Couture Outlet",
+    "description": "Women's Clothing",
+    "phone": "(239) 495-1093",
+    "address": "10801 Corkscrew Rd Ste 167  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Doncastero Outlet",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 949-9300",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "The PUMA Store",
+    "description": "Shoe Stores",
+    "phone": "(239) 947-7111",
+    "address": "10801 Corkscrew Rd Ste 512  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(239) 317-3059",
+    "address": "10801 Corkscrew Rd Ste 158  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Pink",
+    "description": "Women's Clothing",
+    "phone": "(239) 403-0145",
+    "address": "10801 Corkscrew Rd  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "GlamVault Boutique",
+    "description": "Fashion Designers",
+    "phone": "(954) 873-1861",
+    "address": "20405 cypress shadows blvd  estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Masons Jar of Deals",
+    "description": "Department Stores",
+    "phone": "(239) 676-9503",
+    "address": "8121 Rosies Ct Ste 29  Estero, FL 33928",
+    "location": "Collier"
+  },
+  {
+    "name": "Homesense",
+    "description": "Housewares",
+    "phone": "(239) 432-0471",
+    "address": "10033 Gulf Center Dr  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(239) 433-0216",
+    "address": "10011 Gulf Center Dr  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Giacomo Battaglia for Men",
+    "description": "Men's Clothing",
+    "phone": "(239) 437-3888",
+    "address": "9903 Gulf Coast Main St  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "The Tuxxman",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(239) 482-4500",
+    "address": "9924 Gulf Coast Main St # A110  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Apricot Lane Boutique",
+    "description": "Boutique Items",
+    "phone": "(239) 437-1075",
+    "address": "9908 Gulf Coast Main St Ste 110  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(239) 415-1015",
+    "address": "10069 Gulf Center Dr  Fort Myers, FL 33913",
+    "location": "Collier"
+  },
+  {
+    "name": "Renegades Sportswear-Embroidery & Silk Screen",
+    "description": "Sporting Goods",
+    "phone": "(239) 275-6720",
+    "address": "17051 Jean St Ste 10  Fort Myers, FL 33967",
+    "location": "Collier"
+  },
+  {
+    "name": "Beach Connection Ft Myers",
+    "description": "Sportswear",
+    "phone": "(239) 765-1345",
+    "address": "2401 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "The Island Jewel",
+    "description": "Women's Fashion Accessories",
+    "phone": "(239) 314-5057",
+    "address": "1133 Estero Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "Pelican Sportswear Inc",
+    "description": "Sportswear",
+    "phone": "(239) 463-3339",
+    "address": "1133 Estero Blvd Unit 101  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "East Winds",
+    "description": "Women's Clothing",
+    "phone": "(239) 463-3232",
+    "address": "159 Old San Carlos Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "South Seas Trader",
+    "description": "Women's Clothing",
+    "phone": "(239) 765-0700",
+    "address": "163 Old San Carlos Blvd  Fort Myers Beach, FL 33931",
+    "location": "Collier"
+  },
+  {
+    "name": "Custom Rhinestones & Graphics",
+    "description": "Women's Clothing",
+    "phone": "(239) 340-8313",
+    "address": "16951 Colony Lakes Blvd  Fort Myers, FL 33908",
+    "location": "Collier"
+  },
+  {
+    "name": "Kari's Kreations",
+    "description": "Women's Clothing",
+    "phone": "(239) 963-9559",
+    "address": "220 Basik Dr  Naples, FL 34114",
+    "location": "Collier"
+  }
+]

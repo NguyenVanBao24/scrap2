@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Dragon's Leathers",
+    "description": "Clothing Stores",
+    "phone": "(352) 634-4849",
+    "address": "2536 N Florida Ave  Hernando, FL 34442",
+    "location": "Hernando"
+  },
+  {
+    "name": "Valrich Sports Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(352) 765-4909",
+    "address": "3451 E Louise Ln Ste 106  Hernando, FL 34442",
+    "location": "Hernando"
+  },
+  {
+    "name": "Color Me Wicked",
+    "description": "Clothing Stores",
+    "phone": "(352) 410-6171",
+    "address": "3850 E Gulf To Lake Hwy Ste 7  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Gators Apparel and Accesories",
+    "description": "Clothing Stores",
+    "phone": "(352) 419-4956",
+    "address": "1783 W Main St  Inverness, FL 34450",
+    "location": "Hernando"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(352) 344-2315",
+    "address": "2675 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-6250",
+    "address": "2851 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-6250",
+    "address": "2851 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(352) 726-5294",
+    "address": "1430 Highway 41 N  Inverness, FL 34450",
+    "location": "Hernando"
+  },
+  {
+    "name": "Wear To Go",
+    "description": "Clothing Stores",
+    "phone": "(352) 344-9327",
+    "address": "3802 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Baby Bargains",
+    "description": "Clothing Stores",
+    "phone": "(352) 637-5437",
+    "address": "162 N Florida Ave  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(352) 637-2300",
+    "address": "2461 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Walmart - Pharmacy",
+    "description": "General Merchandise",
+    "phone": "(352) 637-2400",
+    "address": "2461 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(352) 344-1120",
+    "address": "2669 E Gulf To Lake Hwy  Inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Esmithenterprizes",
+    "description": "Jewelry Buyers",
+    "phone": "(813) 425-2339",
+    "address": "3870 e ryan st  inverness, FL 34453",
+    "location": "Hernando"
+  },
+  {
+    "name": "Pride Sports And Apparel",
+    "description": "Sporting Goods",
+    "phone": "(352) 527-1441",
+    "address": "43 S Columbus St  Beverly Hills, FL 34465",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(352) 341-1591",
+    "address": "1488 Highway 41 N  Inverness, FL 34450",
+    "location": "Hernando"
+  },
+  {
+    "name": "Heaven On Earth",
+    "description": "Clothing Stores",
+    "phone": "(352) 527-7727",
+    "address": "5220 W Gulf To Lake Hwy  Lecanto, FL 34461",
+    "location": "Hernando"
+  },
+  {
+    "name": "Sgt's Bargain Outlet",
+    "description": "Clothing Stores",
+    "phone": "(352) 419-7920",
+    "address": "4535 S Florida Ave  Inverness, FL 34450",
+    "location": "Hernando"
+  },
+  {
+    "name": "Shirtin Around",
+    "description": "Clothing Stores",
+    "phone": "(352) 842-8854",
+    "address": "5700 S Luray Ter  Inverness, FL 34452",
+    "location": "Hernando"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(352) 527-9519",
+    "address": "1194 N Commerce Ter  Lecanto, FL 34461",
+    "location": "Hernando"
+  },
+  {
+    "name": "Chic Shack",
+    "description": "Women's Clothing",
+    "phone": "(352) 419-8900",
+    "address": "310 W Main St  Inverness, FL 34450",
+    "location": "Hernando"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(352) 237-0233",
+    "address": "4300 SW Highway 484  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Citrus Sports & Apparel",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-9402",
+    "address": "6843 N Citrus Ave Unit W  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Fusion-Wrap",
+    "description": "Clothing Stores",
+    "phone": "(352) 220-9496",
+    "address": "1005 NE 4th Ave  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Forever Young Clothing",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-3800",
+    "address": "1801 NW Us Highway 19 Ste 467  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bollywood Fashion",
+    "description": "Clothing Stores",
+    "phone": "(352) 693-5055",
+    "address": "166 Marion Oaks Blvd  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Military Outlet Inc",
+    "description": "Clothing Stores",
+    "phone": "(352) 795-2330",
+    "address": "550 N Citrus Ave  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Fashion Line",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-3892",
+    "address": "8010 W Gulf To Lake Hwy  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "La-Te-Da Boutique",
+    "description": "Clothing Stores",
+    "phone": "(352) 563-2572",
+    "address": "707 N Citrus Ave Ste E  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Alpaca Magic USA",
+    "description": "Clothing Stores",
+    "phone": "(352) 628-0156",
+    "address": "4920 W Grover Cleveland Blvd  Homosassa, FL 34446",
+    "location": "Hernando"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(352) 563-5899",
+    "address": "1801 NW US Highway 19  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(352) 522-0861",
+    "address": "11223 N Williams St  Dunnellon, FL 34432",
+    "location": "Hernando"
+  },
+  {
+    "name": "Clementine Children's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-6146",
+    "address": "521 W Fort Island Trl  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(352) 564-4100",
+    "address": "10131 N Citrus Ave  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Rural King Supply",
+    "description": "Clothing Stores",
+    "phone": "(352) 794-0039",
+    "address": "1801 NW Us Highway 19  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Just Kids School Clothing",
+    "description": "Clothing Stores",
+    "phone": "(352) 347-8847",
+    "address": "17267 SW 17th Cir  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Longrider Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(352) 628-3635",
+    "address": "7342 W Grover Cleveland Blvd  Homosassa, FL 34446",
+    "location": "Hernando"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(352) 503-2005",
+    "address": "3936 S Suncoast Blvd  Homosassa, FL 34448",
+    "location": "Hernando"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(352) 563-1414",
+    "address": "1801 NW Us Highway 19 Ste 101  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(352) 795-7900",
+    "address": "346 N Suncoast Blvd  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(352) 563-0003",
+    "address": "160 SE Us Highway 19  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "Murtaza Group",
+    "description": "Gloves",
+    "phone": "(909) 529-2347",
+    "address": "14991 SW 37th Ter  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Odd Shop",
+    "description": "Department Stores",
+    "phone": "(352) 462-7002",
+    "address": "20553 W Pennsylvania Ave  Dunnellon, FL 34431",
+    "location": "Hernando"
+  },
+  {
+    "name": "Citrus Sports and Apparel",
+    "description": "Sportswear",
+    "phone": "(352) 564-9402",
+    "address": "903 NE Us Highway 19  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "Pawsha Lopez Retail",
+    "description": "Department Stores",
+    "phone": "(352) 364-6709",
+    "address": "3460 S Suncoast Blvd  Homosassa Springs, FL 34448",
+    "location": "Hernando"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(352) 795-8753",
+    "address": "1801 NW Us Highway 19  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(352) 563-5262",
+    "address": "1801 NW Us Highway 19  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Crystal River Mall",
+    "description": "Department Stores",
+    "phone": "(352) 795-1885",
+    "address": "1801 NW Us Highway 19  Crystal River, FL 34428",
+    "location": "Hernando"
+  },
+  {
+    "name": "Gloria's Golf Apparel",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(352) 236-0423",
+    "address": "128 Marion Oaks Blvd  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Papaw's Country Store",
+    "description": "Variety Stores",
+    "phone": "(352) 793-1080",
+    "address": "8271 W C 48  Bushnell, FL 33513",
+    "location": "Hernando"
+  },
+  {
+    "name": "WalMart SuperCenter",
+    "description": "General Merchandise",
+    "phone": "(352) 489-4210",
+    "address": "11012 N Williams St  Dunnellon, FL 34432",
+    "location": "Hernando"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(352) 291-7512",
+    "address": "9570 SW Highway 200  Ocala, FL 34481",
+    "location": "Hernando"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(352) 512-6628",
+    "address": "7855 SW Highway 200  Ocala, FL 34476",
+    "location": "Hernando"
+  },
+  {
+    "name": "Vals Boutique",
+    "description": "Boutique Items",
+    "phone": "(352) 563-1234",
+    "address": "600 SE Us Highway 19  Crystal River, FL 34429",
+    "location": "Hernando"
+  },
+  {
+    "name": "Rdccollection",
+    "description": "Women's Clothing",
+    "phone": "(877) 515-3866",
+    "address": "14490 SW 41st Ter  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "Dempsey Charlotte",
+    "description": "Women's Clothing",
+    "phone": "(352) 347-0449",
+    "address": "1741 SW 157th Place Rd  Ocala, FL 34473",
+    "location": "Hernando"
+  },
+  {
+    "name": "R & D Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(877) 926-9604",
+    "address": "367 NW 85th Blvd  Wildwood, FL 34785",
+    "location": "Hernando"
+  },
+  {
+    "name": "Cordelia Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(954) 543-2565",
+    "address": "3834 SW 103rd Ln  Ocala, FL 34476",
+    "location": "Hernando"
+  },
+  {
+    "name": "Lake Pan Biker Apparel & More",
+    "description": "Clothing Stores",
+    "phone": "(352) 569-4710",
+    "address": "2004 N C 470  Lake Panasoffkee, FL 33538",
+    "location": "Hernando"
+  }
+]

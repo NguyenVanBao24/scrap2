@@ -1,0 +1,6015 @@
+[
+  {
+    "name": "Via Moda",
+    "description": "Clothing Stores",
+    "phone": "(954) 217-1475",
+    "address": "1720 Main St  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Marcella's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 217-7272",
+    "address": "1729 Main St  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Mariane Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 888-6575",
+    "address": "124 Danielle Ct  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Blessings Released Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(754) 332-2022",
+    "address": "2200 N Commerce Pkwy Ste 200  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Wholesaleskingdom",
+    "description": "Clothing Stores",
+    "phone": "(954) 383-7017",
+    "address": "4262 Fox Ridge Dr  Weston, FL 33331",
+    "location": "Walton"
+  },
+  {
+    "name": "Vaultxv",
+    "description": "Clothing Stores",
+    "phone": "(954) 830-3167",
+    "address": "2700 Glades Cir  Weston, FL 33327",
+    "location": "Walton"
+  },
+  {
+    "name": "From Collars to Cuffs",
+    "description": "Clothing Stores",
+    "phone": "(954) 389-7353",
+    "address": "1180 Fairfax Ln  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Isabel Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 915-3030",
+    "address": "4531 Weston Rd  Weston, FL 33331",
+    "location": "Walton"
+  },
+  {
+    "name": "One Hottie Mama",
+    "description": "Clothing Stores",
+    "phone": "(754) 300-0343",
+    "address": "PO Box 267171  Fort Lauderdale, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Wholesale",
+    "description": "Clothing Stores",
+    "phone": "(708) 401-7496",
+    "address": "135 Weston Rd  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "I G Retail Management",
+    "description": "Clothing Stores",
+    "phone": "(954) 659-1352",
+    "address": "1700 N Commerce Pkwy  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(754) 229-5533",
+    "address": "1170 Weston Rd  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Levi's",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-8200",
+    "address": "2700 S Commerce Pkwy  Weston, FL 33331",
+    "location": "Walton"
+  },
+  {
+    "name": "Luca Merchandise",
+    "description": "Clothing Stores",
+    "phone": "(954) 696-0763",
+    "address": "140 Bonaventure Blvd  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Flex Flo USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 384-4784",
+    "address": "2850 Glades Cir Ste 1  Weston, FL 33327",
+    "location": "Walton"
+  },
+  {
+    "name": "Turnstyle",
+    "description": "Clothing Stores",
+    "phone": "(954) 217-8644",
+    "address": "4571 Weston Rd  Weston, FL 33331",
+    "location": "Walton"
+  },
+  {
+    "name": "Doubnia Dressmaker",
+    "description": "Sewing Contractors",
+    "phone": "(754) 551-1849",
+    "address": "2246 NE 123rd St  North Miami, FL 33181",
+    "location": "Walton"
+  },
+  {
+    "name": "KSMM Sportswear",
+    "description": "Sportswear",
+    "phone": "(954) 217-1003",
+    "address": "762 Verona Lake Dr  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "A Nose for Clothes",
+    "description": "Women's Clothing",
+    "phone": "(954) 617-6993",
+    "address": "1732 Main St  Weston, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Peel and Heel",
+    "description": "Fashion Designers",
+    "phone": "(954) 465-4258",
+    "address": "PO Box 266661  Fort Lauderdale, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "NancyGabriella's",
+    "description": "Women's Clothing",
+    "phone": "(954) 306-0011",
+    "address": "4145 Briar Ln  Weston, FL 33332",
+    "location": "Walton"
+  },
+  {
+    "name": "Fallas",
+    "description": "Clothing Stores",
+    "phone": "(954) 958-1498",
+    "address": "997 E Commerce Blvd  Oakland Park, FL 33334",
+    "location": "Walton"
+  },
+  {
+    "name": "Cheri's Closet Inc",
+    "description": "Clothing Stores",
+    "phone": "(941) 447-6708",
+    "address": "15974 W State Road 84  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Merlin Trading",
+    "description": "Clothing Stores",
+    "phone": "(754) 701-4937",
+    "address": "801 Shotgun Rd  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Florida Clothing Recycling",
+    "description": "Clothing Stores",
+    "phone": "(954) 326-5159",
+    "address": "5301 SW 199th Ave  Fort Lauderdale, FL 33332",
+    "location": "Walton"
+  },
+  {
+    "name": "Diesel",
+    "description": "Clothing Stores",
+    "phone": "(954) 368-9955",
+    "address": "12801 W Sunrise Blvd C/o Sawgrass Mills Store 1035 & 1037  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lord Daniels Sports",
+    "description": "Clothing Stores",
+    "phone": "(954) 318-6000",
+    "address": "801 Shotgun Rd  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Androbel Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 660-4220",
+    "address": "1398 SW 160th Ave  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Isy's Boutique",
+    "description": "Women's Fashion Accessories",
+    "phone": "(305) 215-6750",
+    "address": "943 SW 149th Way  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Lots of Great Deals",
+    "description": "Department Stores",
+    "phone": "(954) 337-9225",
+    "address": "13762 W State Road 84  Davie, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "Bellefit, Inc.",
+    "description": "Corsets & Girdles",
+    "phone": "(888) 894-2951",
+    "address": "1379 Shotgun Rd  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Black Cotton Apparel",
+    "description": "Women's Clothing",
+    "phone": "(954) 850-1675",
+    "address": "15710 Woodgate Pl  Sunrise, FL 33326",
+    "location": "Walton"
+  },
+  {
+    "name": "Curvylicious Fashions",
+    "description": "Women's Clothing",
+    "phone": "(786) 440-8417",
+    "address": "Oakland Park & Pine Island  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(954) 756-6082",
+    "address": "14528 SW 2nd St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(954) 438-1675",
+    "address": "14567 SW 5th St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(954) 370-2318",
+    "address": "8944 W State Road 84  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Timberland Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-7203",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(954) 689-0818",
+    "address": "5800 S Flamingo Rd  Cooper City, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "Calvin Klein",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-8841",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-7825",
+    "address": "12801 W Sunrise Blvd Ste 441  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Under Armour Factory House",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0184",
+    "address": "12801 W Sunrise Blvd Ste 429  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nautica",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9888",
+    "address": "12801 W Sunrise Blvd Ste 1029  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Burberry Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-1550",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(754) 239-2179",
+    "address": "11860 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "BOSS Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-9120",
+    "address": "1800 Sawgrass Mills Cir Ste 2600  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Karl Lagerfeld Paris",
+    "description": "Clothing Stores",
+    "phone": "(954) 890-0687",
+    "address": "12801 W Sunrise Blvd Ste 523  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Columbia Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 233-3749",
+    "address": "12801 W Sunrise Blvd Ste 5010  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Gucci Sawgrass Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-5130",
+    "address": "1700 Sawgrass Mills Cir Ste 3601  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0276",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-7169",
+    "address": "12801 W Sunrise Blvd Ste 453  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9006",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Polo Ralph Lauren Children's Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0904",
+    "address": "12801 W Sunrise Blvd Ste 1517  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "J. Crew Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-9989",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-9236",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "rag & bone Outlet",
+    "description": "Clothing Stores",
+    "phone": "(754) 200-7650",
+    "address": "1800 Sawgrass Mills Cir Ste 4085  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Vilebrequin",
+    "description": "Clothing Stores",
+    "phone": "(954) 837-0882",
+    "address": "1800 Sawgrass Mills Cir Ste 2420  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Primark",
+    "description": "Clothing Stores",
+    "phone": "(561) 449-2561",
+    "address": "Sawgrass Mills 12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-2351",
+    "address": "2612 Sawgrass Mills Cir Ste 1511A  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Johnny Was",
+    "description": "Clothing Stores",
+    "phone": "(954) 666-9294",
+    "address": "1700 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Tory Burch Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-8973",
+    "address": "1840 Sawgrass Mills Cir Ste 4130  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-1390",
+    "address": "2602 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "LT Dunnies Clothing company",
+    "description": "Clothing Stores",
+    "phone": "(813) 486-9117",
+    "address": "16343 NW 17th ct  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Balenciaga",
+    "description": "Clothing Stores",
+    "phone": "(954) 233-6161",
+    "address": "12801 W Sunrise Blvd Ste 4155  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Armani Exchange",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0627",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Saint Laurent",
+    "description": "Clothing Stores",
+    "phone": "(954) 945-3300",
+    "address": "1840 Sawgrass Mills Cir Spc 4165SUNRISE  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Original Penguin",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9228",
+    "address": "12801 W Sunrise Blvd Ste 5050  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Last Call",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9777",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Theory",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-9595",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Hugo Boss",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-7711",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Club Monaco",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-9761",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Elie Tahari",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-4611",
+    "address": "1800 Sawgrass Mills Cir Ste 2550  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ted Baker",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0145",
+    "address": "1840 Sawgrass Mills Cir Ste 4123  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-2272",
+    "address": "2604 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "I 595 Express",
+    "description": "Clothing Stores",
+    "phone": "(954) 236-8550",
+    "address": "10368 W State Road 84  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(954) 382-1200",
+    "address": "8470 W State Road 84  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "D' Gaci Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-7271",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Quiksilver Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0045",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Escada Company Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-1329",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "St. John Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8221",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Hukihuki of Fort Lauderdale",
+    "description": "Clothing Stores",
+    "phone": "(954) 483-8014",
+    "address": "6841 SW 185th Way  Southwest Ranches, FL 33332",
+    "location": "Walton"
+  },
+  {
+    "name": "Big League Sports Productions",
+    "description": "Clothing Stores",
+    "phone": "(954) 588-6571",
+    "address": "12700 SW 15th Mnr  Davie, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "Thomas McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(954) 434-0517",
+    "address": "6431 Crossbow Ct  Davie, FL 33331",
+    "location": "Walton"
+  },
+  {
+    "name": "Lacoste",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-2311",
+    "address": "12801 W Sunrise Blvd Ste 1041  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Laws Jeans",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-1319",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Mango New York Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 858-1475",
+    "address": "12801 W Sunrise Blvd Ste 673  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nts IT Is Not the Same USA",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-8844",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "J Lindeberg",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0900",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Allsaints Usa Retail Ltd",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0621",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Jockey",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0417",
+    "address": "12801 W Sunrise Blvd Ste 935  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Quiksilver",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0045",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Sandro Paris",
+    "description": "Clothing Stores",
+    "phone": "(954) 233-6739",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Montcler",
+    "description": "Clothing Stores",
+    "phone": "(954) 809-6565",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "F F Of Bayside",
+    "description": "Clothing Stores",
+    "phone": "(954) 999-0162",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Zadig & Voltaire",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0400",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Dockers",
+    "description": "Clothing Stores",
+    "phone": "(754) 336-2929",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Bling Couture",
+    "description": "Clothing Stores",
+    "phone": "(954) 701-8294",
+    "address": "12509 NW 10th Pl  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "D Vs",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-9443",
+    "address": "1700 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "DVF (Diane von Furstenberg)",
+    "description": "Clothing Stores",
+    "phone": "(954) 356-2762",
+    "address": "1700 Sawgrass Mills Cir Ste 3525  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Brunello Cucinelli",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0055",
+    "address": "1700 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "The Kooples",
+    "description": "Clothing Stores",
+    "phone": "(954) 858-2275",
+    "address": "1840 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Iorane",
+    "description": "Clothing Stores",
+    "phone": "(954) 633-9407",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Monnalisa Sawgrass",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0910",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Helmut Lang",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0020",
+    "address": "1840 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Clothes That Care",
+    "description": "Clothing Stores",
+    "phone": "(954) 254-1137",
+    "address": "11941 NW 26th St  Plantation, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Gina S More For Less Fashions",
+    "description": "Clothing Stores",
+    "phone": "(954) 476-8833",
+    "address": "11840 NW 27th Ct  Plantation, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Divas With Style",
+    "description": "Clothing Stores",
+    "phone": "(954) 741-5220",
+    "address": "11751 NW 31st Pl  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Como Te Llama",
+    "description": "Clothing Stores",
+    "phone": "(877) 450-7276",
+    "address": "10097 Cleary Blvd  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "El Kiosko de La Pioja LLC",
+    "description": "Clothing Stores",
+    "phone": "(786) 216-3008",
+    "address": "9917 NW 6th Ct  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "For Our Troops Collage Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 918-3033",
+    "address": "1844 N Nob Hill Rd  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "World Slack Industries",
+    "description": "Clothing Stores",
+    "phone": "(954) 370-0180",
+    "address": "650 Lake Dasha Cir  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Le Belle Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 906-0949",
+    "address": "384 NW 87th Ter  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Iconwearit Apparel",
+    "description": "Clothing Stores",
+    "phone": "(786) 787-0393",
+    "address": "18459 Pines Blvd  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Rehoboth International Enterprise",
+    "description": "Clothing Stores",
+    "phone": "(305) 951-7339",
+    "address": "19620 Pines Blvd  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Tropi Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 770-6014",
+    "address": "500 SW 176th Ave  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Divine Wedding Shop",
+    "description": "Clothing Stores",
+    "phone": "(305) 244-6277",
+    "address": "13651 NW 4th St  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Barneys New York",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-1260",
+    "address": "1840 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-2125",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "American Apparel",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-7401",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(954) 644-8888",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Pristin Gowns Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 636-9168",
+    "address": "11891 Green Oak Dr  Davie, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "Farivi Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 649-9815",
+    "address": "1345 NW 143rd Ave  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Runways Usa",
+    "description": "Clothing Stores",
+    "phone": "(954) 837-0555",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-1379",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(954) 442-8671",
+    "address": "18501 Pines Blvd  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Disgruntled Designs",
+    "description": "Clothing Stores",
+    "phone": "(775) 954-3939",
+    "address": "632 SW 132nd Ave  Davie, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-1056",
+    "address": "12680 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(954) 443-6237",
+    "address": "526 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(847) 286-2500",
+    "address": "12055 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Discovery Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(954) 704-2393",
+    "address": "11830 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0881",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(954) 438-2500",
+    "address": "13640 Pines Blvd  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(954) 433-2445",
+    "address": "11725 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-9236",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "DXL Big + Tall",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-1051",
+    "address": "13001 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Cole Haan Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-0020",
+    "address": "12801 W Sunrise Blvd Ste 565  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Calzedonia",
+    "description": "Clothing Stores",
+    "phone": "(954) 999-5508",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9511",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Prada Sunrise Sawgrass Mills",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-5544",
+    "address": "1700 Sawgrass Mills Cir Ste 3615  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Marc Jacobs - Sawgrass Mills Premium Outlets",
+    "description": "Clothing Stores",
+    "phone": "(954) 603-9150",
+    "address": "1840 Sawgrass Mills Cir Ste 4140  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-8674",
+    "address": "12801 W Sunrise Blvd Ste 627  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Brooks Brothers Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0404",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nike Factory Store - Sawgrass Mills",
+    "description": "Clothing Stores",
+    "phone": "(954) 837-0329",
+    "address": "12801 W Sunrise Blvd Ste 1005  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Champion Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-0260",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Christian Louboutin Sawgrass Mills Outlet",
+    "description": "Clothing Stores",
+    "phone": "(904) 593-9057",
+    "address": "1800 Sawgrass Mills Cir # 4135  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nordstrom Rack The Oasis at Sawgrass Mills",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-3960",
+    "address": "2604 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "7 For All Mankind",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9871",
+    "address": "12801 W Sunrise Blvd Ste 1045  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0404",
+    "address": "12801 W Sunrise Blvd Ste 513  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Gap Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-2115",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Superdry Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 278-9954",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "COACH Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 837-0298",
+    "address": "1800 Sawgrass Mills Cir Ste 2530  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Hurley",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-0546",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Jc's 5 Star Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8340",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(561) 489-5601",
+    "address": "12801 W Sunrise Blvd Ste 931  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(954) 577-5606",
+    "address": "8864 W State Road 84  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Athleta",
+    "description": "Clothing Stores",
+    "phone": "(954) 824-0360",
+    "address": "400 SW 145th Ter Ste 13200  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-8885",
+    "address": "12801 W Sunrise Blvd Ste 1031  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nine West",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-2586",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 519-2174",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Intimissimi",
+    "description": "Clothing Stores",
+    "phone": "(754) 223-7444",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Michael Kors Mens Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-0717",
+    "address": "1800 Sawgrass Mills Cir Ste 2660  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ariat Outlet",
+    "description": "Clothing Stores",
+    "phone": "(754) 203-0900",
+    "address": "2612 Sawgrass Mills Cir Ste 1513  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lisa's Closet",
+    "description": "Clothing Stores",
+    "phone": "(954) 689-4104",
+    "address": "5730 S Flamingo Rd  Cooper City, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(954) 436-2380",
+    "address": "428 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(954) 392-3983",
+    "address": "430 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(954) 438-8013",
+    "address": "527 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-7953",
+    "address": "12801 W Sunrise Blvd Ste 875  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Uniform Advantage",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-8919",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Polo Ralph Lauren Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-2272",
+    "address": "12801 W Sunrise Blvd Ste 1109  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "abercrombie kids",
+    "description": "Clothing Stores",
+    "phone": "(954) 200-6206",
+    "address": "12801 W Sunrise Blvd Ste 527  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Puma Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8333",
+    "address": "Sawgrass Mills 12801 West Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Old Navy Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 376-4108",
+    "address": "2610 Sawgrass Mills Cir Ste 1415  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "New Dawn Nutrition South Florida",
+    "description": "Clothing Stores",
+    "phone": "(954) 589-2143",
+    "address": "21011 Johnson St  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "YUSIMI THE BRAND LLC",
+    "description": "Clothing Stores",
+    "phone": "(954) 906-2032",
+    "address": "18503 Pines Blvd STE 310,  Hollywood, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Boot Barn",
+    "description": "Clothing Stores",
+    "phone": "(754) 283-8400",
+    "address": "11870 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "UGG Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 416-2600",
+    "address": "12801 W Sunrise Blvd Ste 273A  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9395",
+    "address": "12801 W Sunrise Blvd Ste 257  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lacoste Sawgrass Footwear",
+    "description": "Clothing Stores",
+    "phone": "(954) 514-5929",
+    "address": "12801 W Sunrise Blvd Ste 543  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Perry Ellis",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-9516",
+    "address": "12801 W Sunrise Blvd Ste 1023  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Arula",
+    "description": "Clothing Stores",
+    "phone": "(903) 350-4706",
+    "address": "14560 SW 5th St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Kasper",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-9796",
+    "address": "12801 W Sunrise Blvd Ste 424  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-9236",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Van Heusen",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8204",
+    "address": "12801 W Sunrise Blvd Ste 523  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "The Webster",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0095",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Versace",
+    "description": "Clothing Stores",
+    "phone": "(954) 200-6600",
+    "address": "1700 Sawgrass Mills Cir Ste 3530  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Fendi Sawgrass Mills Outlet",
+    "description": "Clothing Stores",
+    "phone": "(786) 323-6612",
+    "address": "1700 Sawgrass Mills Cir Ste 3525  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Salvatore Ferragamo",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-7117",
+    "address": "1800 Sawgrass Mills Cir Ste 2400  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Dolce & Gabbana",
+    "description": "Clothing Stores",
+    "phone": "(954) 377-7800",
+    "address": "C/O Sunrise Sawgrass Outlet - Suite 2670 1800 Sawgrass Circle  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Loropiana",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-9160",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-0895",
+    "address": "12801 W Sunrise Blvd Ste 819  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Everblue Casual",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-8990",
+    "address": "12801 W Sunrise Blvd Ste 517  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0895",
+    "address": "12801 W Sunrise Blvd Ste 5060  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Rampage",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-2144",
+    "address": "12801 W Sunrise Blvd Ste 621  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Dkny",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8349",
+    "address": "12801 W Sunrise Blvd Ste 5070  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "St. John Knits Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8221",
+    "address": "12801 W Sunrise Blvd Unit 2370  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ashley Stewart",
+    "description": "Clothing Stores",
+    "phone": "(786) 833-9258",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lacoste Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-2311",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Giorgio Armani",
+    "description": "Clothing Stores",
+    "phone": "(954) 845-0579",
+    "address": "1700 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ermenegildo Zegna Corporation",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-1502",
+    "address": "1700 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Greg Norman",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-7879",
+    "address": "2612 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(954) 433-3293",
+    "address": "417 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Altar'd State",
+    "description": "Clothing Stores",
+    "phone": "(903) 350-4706",
+    "address": "14560 SW 5th St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "En Pointe Dancewear Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 707-0001",
+    "address": "13081 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-1122",
+    "address": "12801 W Sunrise Blvd Ste 827  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Solaris",
+    "description": "Clothing Stores",
+    "phone": "(754) 551-7932",
+    "address": "12801 W Sunrise Blvd Ste 442  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Izod",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-8841",
+    "address": "12801 W Sunrise Blvd Ste 725  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-9214",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Desigual",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8233",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(800) 536-2653",
+    "address": "12801 W Sunrise Blvd Ste 505  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Oakley",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-2279",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Animations Shops",
+    "description": "Clothing Stores",
+    "phone": "(888) 852-9996",
+    "address": "11870 W State Road 84  Davie, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "True Religion Jeans",
+    "description": "Clothing Stores",
+    "phone": "(954) 838-7531",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Colasso",
+    "description": "Clothing Stores",
+    "phone": "(347) 774-4235",
+    "address": "3829 NW 121st Ave  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Majestik Printing & Promotional",
+    "description": "Clothing Stores",
+    "phone": "(954) 424-4040",
+    "address": "2741 Lake Park Cir W  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Polo Unique",
+    "description": "Clothing Stores",
+    "phone": "(850) 781-0207",
+    "address": "2220 SW 85th Ave  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "All Uniform Wear",
+    "description": "Clothing Stores",
+    "phone": "(954) 318-3007",
+    "address": "15879 Pines Blvd  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "ClothingFitz",
+    "description": "Clothing Stores",
+    "phone": "(305) 927-4769",
+    "address": "11651 Northwest 11th St  Hollywood, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-3086",
+    "address": "12801 W Sunrise Blvd Ste 555  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lucky Brand",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-1421",
+    "address": "12801 W Sunrise Blvd Ste 1038  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lucky Brand Jeans",
+    "description": "Clothing Stores",
+    "phone": "(954) 437-5525",
+    "address": "421 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Camille La Vie at Sawgrass Mills",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-9810",
+    "address": "12801 W Sunrise Blvd Ste 831  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Silver Lakes",
+    "description": "Charities",
+    "phone": "(954) 441-1631",
+    "address": "18221 Pines Blvd  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Pembroke Pines 3 -Flamingo Pines Shopping Center",
+    "description": "General Merchandise",
+    "phone": "(954) 541-8224",
+    "address": "12594 Pines Blvd  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Davie Ridge Plaza",
+    "description": "General Merchandise",
+    "phone": "(954) 472-2367",
+    "address": "9160 W State Road 84  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(954) 450-8661",
+    "address": "11945 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Bloomingdale's",
+    "description": "Department Stores",
+    "phone": "(954) 835-2800",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(954) 846-2600",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Juicy Couture",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-1247",
+    "address": "1800 Sawgrass Mills Cir Ste 2610  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Steps Pembroke Gardens Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 431-5050",
+    "address": "531 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Wal-Mart SuperCenter-Pembroke Pines",
+    "description": "General Merchandise",
+    "phone": "(954) 442-5569",
+    "address": "151 SW 184th Ave  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Wal-Mart-West Sunrise",
+    "description": "General Merchandise",
+    "phone": "(954) 845-9745",
+    "address": "12555 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(954) 443-5483",
+    "address": "12202 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Sam's Club",
+    "description": "Automobile Parts & Supplies",
+    "phone": "(954) 846-7001",
+    "address": "13550 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(954) 835-9357",
+    "address": "2612 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Urban Planet",
+    "description": "Women's Clothing",
+    "phone": "(954) 838-0490",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(954) 846-8067",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(954) 846-9253",
+    "address": "12801 W Sunrise Blvd Ste 293  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Nike - Sunrise",
+    "description": "Shoe Stores",
+    "phone": "(954) 837-0329",
+    "address": "12801 W Sunrise Blvd Suite. 1005  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Sporting Goods",
+    "phone": "(954) 342-1000",
+    "address": "14530 SW 2nd St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(954) 430-5873",
+    "address": "11940 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Kate Spade Outlet",
+    "description": "Women's Clothing",
+    "phone": "(954) 838-9268",
+    "address": "1800 Sawgrass Mills Cir Ste 2610  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(954) 561-2755",
+    "address": "13001 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(954) 838-7370",
+    "address": "12801 W Sunrise Blvd Ste 885  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "One Medical: Shops at Pembroke Gardens",
+    "description": "Women's Clothing",
+    "phone": "(888) 663-6331",
+    "address": "309 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(954) 432-1624",
+    "address": "11920 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(954) 846-9886",
+    "address": "12801 W Sunrise Blvd Ste 717  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(954) 838-1030",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Adidas Outlet Store",
+    "description": "Outlet Stores",
+    "phone": "(954) 846-7097",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(954) 838-8674",
+    "address": "12801 W Sunrise Blvd Ste 627  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Wal-Mart-Cooper City",
+    "description": "General Merchandise",
+    "phone": "(954) 680-3684",
+    "address": "4700 S Flamingo Rd  Cooper City, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(954) 908-8829",
+    "address": "1800 Sawgrass Mills Cir Ste 4075  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "The PUMA Store",
+    "description": "Shoe Stores",
+    "phone": "(954) 846-8333",
+    "address": "Sawgrass Mills 12801 West Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(954) 846-8196",
+    "address": "2600 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(954) 916-6565",
+    "address": "12001 W Sunrise Blvd  Plantation, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(954) 378-1542",
+    "address": "12800 Pines Blvd  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(954) 838-8958",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-8223",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Michael Kors Outlet",
+    "description": "Women's Clothing",
+    "phone": "(954) 835-9292",
+    "address": "1800 Sawgrass Mills Cir Ste 2696  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Closet Canvas",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(786) 426-3909",
+    "address": "17036 NW 10th St  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(954) 704-8002",
+    "address": "302 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(954) 538-9580",
+    "address": "331 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Neiman Marcus",
+    "description": "Department Stores",
+    "phone": "(954) 846-9777",
+    "address": "12801 W Sunrise Blvd Ste A  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Motherhood Maternity Outlet",
+    "description": "Maternity Clothes",
+    "phone": "(954) 846-2155",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(954) 499-0041",
+    "address": "309 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Workoutwear Com",
+    "description": "Sportswear",
+    "phone": "(954) 835-0909",
+    "address": "13444 NW 6th Dr  Plantation, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "Abr Trading Corp",
+    "description": "Department Stores",
+    "phone": "(954) 399-8954",
+    "address": "20910 Sheridan St  Fort Lauderdale, FL 33332",
+    "location": "Walton"
+  },
+  {
+    "name": "Sears Hometown Stores",
+    "description": "Department Stores",
+    "phone": "(847) 286-2500",
+    "address": "13141 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Kapital S Investments Inc",
+    "description": "Boys Clothing",
+    "phone": "(754) 779-7755",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(954) 851-0770",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "ASICS Outlet",
+    "description": "Shoe Stores",
+    "phone": "(954) 846-9565",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Columbia Sportswear",
+    "description": "Sportswear",
+    "phone": "(954) 846-8454",
+    "address": "12801 W Sunrise Blvd Ste 101  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Volcom Outlet",
+    "description": "Discount Stores",
+    "phone": "(954) 838-9900",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Old Navy At Sawgrass Mls Kiosk",
+    "description": "Sportswear",
+    "phone": "(954) 846-8121",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ecko Unlimited Company Annex",
+    "description": "Department Stores",
+    "phone": "(954) 838-0578",
+    "address": "12801 W Sunrise Blvd Ste 283  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "SKECHERS Factory Outlet",
+    "description": "Shoe Stores",
+    "phone": "(954) 838-9337",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "La Jolla Group",
+    "description": "Sportswear",
+    "phone": "(954) 533-6556",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Hanesbrands",
+    "description": "Outlet Malls",
+    "phone": "(954) 846-9551",
+    "address": "12801 W Sunrise Blvd Ste 1009  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Globall Sports",
+    "description": "Sportswear",
+    "phone": "(954) 838-0860",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Century 21 Department Store",
+    "description": "Department Stores",
+    "phone": "(954) 846-2120",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Locker Room By Lids",
+    "description": "Sportswear",
+    "phone": "(786) 417-9637",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Etro Usa",
+    "description": "Department Stores",
+    "phone": "(954) 514-1174",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Soqut International",
+    "description": "General Merchandise-Wholesale",
+    "phone": "(954) 991-0416",
+    "address": "5078 SW 121st Ave  Cooper City, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "Sawgrass Lifestyles",
+    "description": "Sportswear",
+    "phone": "(954) 846-7879",
+    "address": "2612 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Reebok",
+    "description": "Shoe Stores",
+    "phone": "(954) 835-0877",
+    "address": "2612 Sawgrass Mills Cir Ste 1517A  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Skechers",
+    "description": "Shoe Stores",
+    "phone": "(954) 370-7275",
+    "address": "886 NW 110th Ave  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Cronos Trade Inc",
+    "description": "General Merchandise-Wholesale",
+    "phone": "(954) 724-5829",
+    "address": "3736 NW 107th Ter  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Tjr Sportswear",
+    "description": "Sportswear",
+    "phone": "(954) 450-1450",
+    "address": "18451 NW 24th St  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Mwarehouse Inc",
+    "description": "General Merchandise",
+    "phone": "(954) 435-0088",
+    "address": "20871 Johnson St  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Herons Plaza",
+    "description": "General Merchandise",
+    "phone": "(954) 441-0704",
+    "address": "17503 Pines Blvd  Pembroke Pines, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "VZW at WA Costco #742 Pembroke",
+    "description": "Department Stores",
+    "phone": "(954) 266-3460",
+    "address": "Pines  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "AS Revival",
+    "description": "Sportswear",
+    "phone": "(903) 350-4706",
+    "address": "14560 SW 5th St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Lizard Thicket",
+    "description": "Department Stores",
+    "phone": "(954) 391-9018",
+    "address": "506 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Compass Office Solutions",
+    "description": "Department Stores",
+    "phone": "(954) 430-4590",
+    "address": "13031 NW 1st St  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Oxigeno Swimwear & Activewear",
+    "description": "Swimwear & Accessories",
+    "phone": "(754) 204-7261",
+    "address": "2896 SW 195th Ter  Miramar, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Burdines Departmental Stores",
+    "description": "Department Stores",
+    "phone": "(954) 438-2352",
+    "address": "11701 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Going N Style",
+    "description": "Women's Clothing",
+    "phone": "(954) 838-8128",
+    "address": "711 NW 135th Way  Plantation, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "Mdc Trading",
+    "description": "Women's Clothing",
+    "phone": "(954) 404-7383",
+    "address": "20902 Sheridan St  Fort Lauderdale, FL 33332",
+    "location": "Walton"
+  },
+  {
+    "name": "Kadollu Designs",
+    "description": "Women's Clothing",
+    "phone": "(954) 260-9208",
+    "address": "12757 NW 11th Ct  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(954) 838-9653",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-9246",
+    "address": "12801 W Sunrise Blvd Ste 4040  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-2574",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Anne Klein",
+    "description": "Women's Clothing",
+    "phone": "(954) 837-0238",
+    "address": "12801 W Sunrise Blvd Ste 1033  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Erdos Cashmere",
+    "description": "Women's Clothing",
+    "phone": "(954) 845-9937",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "bebe",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-2323",
+    "address": "12801 W Sunrise Blvd Ste 451  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Sean John",
+    "description": "Men's Clothing",
+    "phone": "(954) 846-2548",
+    "address": "12801 W Sunrise Blvd Ste 133  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Ermenegildo Zegna",
+    "description": "Men's Clothing",
+    "phone": "(954) 835-0962",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Armani Exchange (A/X)",
+    "description": "Women's Clothing",
+    "phone": "(954) 846-0511",
+    "address": "12801 W Sunrise Blvd Ste 415  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Roshelle",
+    "description": "Women's Clothing",
+    "phone": "(954) 835-0906",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Maje Outlet",
+    "description": "Women's Clothing",
+    "phone": "(954) 233-6743",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Peserico",
+    "description": "Women's Clothing",
+    "phone": "(954) 851-0959",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(954) 332-3158",
+    "address": "12801 W Sunrise Blvd  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Canali",
+    "description": "Men's Clothing",
+    "phone": "(954) 838-0300",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "John Varvatos",
+    "description": "Men's Clothing",
+    "phone": "(754) 229-2380",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Tory Burch",
+    "description": "Women's Clothing",
+    "phone": "(954) 858-1727",
+    "address": "1800 Sawgrass Mills Cir  Sunrise, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "Glaja Mayne Inc",
+    "description": "Women's Clothing",
+    "phone": "(786) 317-6270",
+    "address": "11621 NW 6th St  Plantation, FL 33325",
+    "location": "Walton"
+  },
+  {
+    "name": "LookMiami.com",
+    "description": "Fashion Designers",
+    "phone": "(954) 663-8304",
+    "address": "5722 S Flamingo Rd # 2180  Cooper City, FL 33330",
+    "location": "Walton"
+  },
+  {
+    "name": "Intrigue Couture Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 564-1121",
+    "address": "2681 N Flamingo Rd Apt 103  Plantation, FL 33323",
+    "location": "Walton"
+  },
+  {
+    "name": "A Nose For Clothes",
+    "description": "Women's Clothing",
+    "phone": "(954) 423-9888",
+    "address": "975 N Nob Hill Rd  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(954) 370-8100",
+    "address": "9633 W Broward Blvd Ste 11  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Select Screenprinting Inc",
+    "description": "Screen Printing",
+    "phone": "(954) 680-8496",
+    "address": "10036 Griffin Rd  Cooper City, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Soflafashions",
+    "description": "Women's Clothing",
+    "phone": "(954) 666-4594",
+    "address": "10156 NW 31st Ct  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Royal Bods",
+    "description": "Women's Clothing",
+    "phone": "(866) 795-2637",
+    "address": "950 S Pine Island Rd Ste 150  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Mamasmarts, Inc",
+    "description": "Corsets & Girdles",
+    "phone": "(954) 732-6498",
+    "address": "1961 NW 150th Ave Ste 204  pembroke pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Figure Twenty Five",
+    "description": "Women's Clothing",
+    "phone": "(954) 842-2360",
+    "address": "15959 Pines Blvd  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Turkesa Turkesa",
+    "description": "Men's Clothing",
+    "phone": "(954) 391-9608",
+    "address": "13942 NW 13th St  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "Splurge Clothier",
+    "description": "Women's Clothing",
+    "phone": "(954) 450-0091",
+    "address": "2120 N Flamingo Rd  Pembroke Pines, FL 33028",
+    "location": "Walton"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(954) 432-0050",
+    "address": "308 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Coldwater Creek the Spa",
+    "description": "Women's Clothing",
+    "phone": "(954) 436-1251",
+    "address": "322 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(954) 436-3403",
+    "address": "300 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Love Culture",
+    "description": "Women's Clothing",
+    "phone": "(954) 442-6709",
+    "address": "14560 SW 5th St  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Steps Pembroke",
+    "description": "Women's Clothing",
+    "phone": "(954) 431-5050",
+    "address": "610 SW 145th Ter  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Green Sewn",
+    "description": "Women's Clothing",
+    "phone": "(954) 874-5224",
+    "address": "10527 Zurich St  Hollywood, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "ChaBra",
+    "description": "Women's Clothing",
+    "phone": "(717) 376-8340",
+    "address": "850 SW 133rd Terrace  Pembroke Pines, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(954) 613-0451",
+    "address": "9941 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Kurt Jone Kollection.com",
+    "description": "Clothing Stores",
+    "phone": "(954) 667-9084",
+    "address": "33011 NW 101st Ave  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Shirts R Us",
+    "description": "Clothing Stores",
+    "phone": "(954) 533-4695",
+    "address": "1861 S State Road 7  Davie, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Discovery Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 370-7979",
+    "address": "1964 S University Dr  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Teeque Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 404-8913",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "American Thrift Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 962-4983",
+    "address": "5051 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(954) 436-9252",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "EBAY: lslmedical3",
+    "description": "Clothing Stores",
+    "phone": "(954) 857-4288",
+    "address": "4339 NW 42nd Terrace Ebay Boutique  Fort Lauderdale, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Ten Dance Jeans",
+    "description": "Clothing Stores",
+    "phone": "(954) 514-7116",
+    "address": "5051 S State Road 7  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "DD's Discounts",
+    "description": "Clothing Stores",
+    "phone": "(954) 726-3807",
+    "address": "7104 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "American Eagle & Aerie",
+    "description": "Clothing Stores",
+    "phone": "(954) 885-8651",
+    "address": "11401 Pines Blvd Ste 560  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(954) 613-9810",
+    "address": "11401 Pines Blvd Ste 182  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Size You Slimmer",
+    "description": "Clothing Stores",
+    "phone": "(954) 290-1843",
+    "address": "Po Box 246291  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Citi Trends - Closed",
+    "description": "Clothing Stores",
+    "phone": "(954) 613-2450",
+    "address": "7480 W Commercial Blvd  Lauderhill, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "LuxC Closet Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 613-7184",
+    "address": "9956 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "USA Fight Store",
+    "description": "Clothing Stores",
+    "phone": "(754) 263-3861",
+    "address": "9821 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Rent2Wear",
+    "description": "Clothing Stores",
+    "phone": "(954) 597-6806",
+    "address": "7027 WoodMont Way  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Beauty 4 You",
+    "description": "Clothing Stores",
+    "phone": "(786) 973-2981",
+    "address": "1834 N University Dr  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Your CBD Store - Sunrise, FL",
+    "description": "Clothing Stores",
+    "phone": "(954) 999-0808",
+    "address": "3801 N University Dr  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Chhabras Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 578-0093",
+    "address": "7232 W Oakland Park Blvd  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Lularoe Trish Delgado",
+    "description": "Clothing Stores",
+    "phone": "(754) 244-2609",
+    "address": "7809 nw 70th ct  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "House of Moneeque Mueller",
+    "description": "Clothing Stores",
+    "phone": "(877) 237-8862",
+    "address": "1377 NW 40th Ave #1035  Fort Lauderdale, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(954) 430-8823",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(954) 435-0811",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Aqua Express Restoration",
+    "description": "Clothing Stores",
+    "phone": "(866) 245-1211",
+    "address": "7951 Riviera Blvd Ste 410  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Off Madison Inc",
+    "description": "Clothing Stores",
+    "phone": "(833) 633-6462",
+    "address": "7911 Tuscany Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Mikes Big Man & Tall",
+    "description": "Clothing Stores",
+    "phone": "(954) 747-1073",
+    "address": "5442 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Natles Style Store Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 306-3214",
+    "address": "7389 NW 49th Ct  Lauderhill, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Kirlews",
+    "description": "Clothing Stores",
+    "phone": "(954) 205-3576",
+    "address": "4890 NW 73rd Ave  Lauderhill, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Drea's Intimates",
+    "description": "Clothing Stores",
+    "phone": "(312) 305-6467",
+    "address": "5255 NW 74th Ter  Lauderhill, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Twerk Awards Inc.",
+    "description": "Clothing Stores",
+    "phone": "(888) 458-9367",
+    "address": "5871 NW 19th Ct  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Tracy'shottrends.Com",
+    "description": "Clothing Stores",
+    "phone": "(773) 916-6608",
+    "address": "PO Box 190411  Fort Lauderdale, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Natural Mystic Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 746-9007",
+    "address": "6230 W Oakland Park Blvd  Sunrise, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Bohemi Chic",
+    "description": "Clothing Stores",
+    "phone": "(754) 216-2139",
+    "address": "29 E Acre Dr  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Ricketts Daniels Service Inc",
+    "description": "Clothing Stores",
+    "phone": "(754) 234-2851",
+    "address": "2401 NW 56th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Mainlands of TMRC",
+    "description": "Clothing Stores",
+    "phone": "(954) 722-7762",
+    "address": "7112 NW 58th St  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "K & B Clothing Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 777-9989",
+    "address": "5558 W Oakland Park Blvd  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Dorval Jeans",
+    "description": "Clothing Stores",
+    "phone": "(954) 530-4437",
+    "address": "5436 NW 27th St  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Corner",
+    "description": "Clothing Stores",
+    "phone": "(954) 909-4424",
+    "address": "1347 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Edge Look",
+    "description": "Clothing Stores",
+    "phone": "(954) 587-3005",
+    "address": "1503 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Rubi's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(954) 321-3399",
+    "address": "1507 N State Road 7  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Finstergram United",
+    "description": "Clothing Stores",
+    "phone": "(877) 597-0566",
+    "address": "6001 Shakerwood Cir  Tamarac, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Jade Affordable Fashions",
+    "description": "Clothing Stores",
+    "phone": "(954) 485-5808",
+    "address": "2425 NW 39th Ter  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "A and A Exclusive Wear",
+    "description": "Clothing Stores",
+    "phone": "(954) 440-0240",
+    "address": "3425 Davie Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "LUX Moda",
+    "description": "Clothing Stores",
+    "phone": "(954) 602-1617",
+    "address": "11401 Pines Blvd Ste 114  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Reality Cotour",
+    "description": "Clothing Stores",
+    "phone": "(954) 443-5414",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Yoshini",
+    "description": "Clothing Stores",
+    "phone": "(786) 486-7141",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Shawtwfwe Apparel",
+    "description": "Clothing Stores",
+    "phone": "(800) 484-7073",
+    "address": "3350 SW 148th Ave Ste 110  Miramar, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Trufitmom",
+    "description": "Clothing Stores",
+    "phone": "(786) 453-1431",
+    "address": "14359 Miramar Pkwy  Miramar, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Michel Be luxury apparel",
+    "description": "Clothing Stores",
+    "phone": "(786) 326-7439",
+    "address": "711 sw 111th way  pembroke pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Seven to Seven",
+    "description": "Clothing Stores",
+    "phone": "(954) 299-3108",
+    "address": "11322 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Turkswear",
+    "description": "Clothing Stores",
+    "phone": "(954) 399-8796",
+    "address": "1910 SW 100th Ter  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Palm Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 842-3252",
+    "address": "2101 SW 101st Ave  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Regina Behar Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 557-5212",
+    "address": "11440 Interchange Cir N  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Sunshine Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 204-9155",
+    "address": "389 Lakeview Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Couture Revolution",
+    "description": "Clothing Stores",
+    "phone": "(754) 400-8857",
+    "address": "6812 Stirling Rd  Hollywood, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Fratt Nation Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 842-4182",
+    "address": "8910 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "G's Up Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 437-7300",
+    "address": "8844 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Urban Exposure",
+    "description": "Clothing Stores",
+    "phone": "(305) 821-3995",
+    "address": "6550 NW 186th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Cem's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(786) 709-6856",
+    "address": "3430 NW 213th St  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "The Plug",
+    "description": "Clothing Stores",
+    "phone": "(954) 505-4845",
+    "address": "7512 Pembroke Rd  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "BDahzzled",
+    "description": "Clothing Stores",
+    "phone": "(786) 808-2717",
+    "address": "5901 NW 183rd St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Manizza E-Commerce LLC",
+    "description": "Clothing Stores",
+    "phone": "(888) 505-1797",
+    "address": "9609 Riverside Dr Apt B7  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(954) 472-8809",
+    "address": "8000 W Broward Blvd Ste 812  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(954) 331-2988",
+    "address": "2150 S University Dr  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Desirable Designs by L&C",
+    "description": "Clothing Stores",
+    "phone": "(754) 366-8993",
+    "address": "282 S University Dr  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Sexy Leggins",
+    "description": "Clothing Stores",
+    "phone": "(954) 538-8560",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Big Girls Are Beautiful Ll",
+    "description": "Clothing Stores",
+    "phone": "(954) 638-5715",
+    "address": "100 SW 83rd Way Apt 203  Pembroke Pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Express Plus Pharmacy",
+    "description": "Clothing Stores",
+    "phone": "(954) 589-0683",
+    "address": "6688 Stirling Rd  Hollywood, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Uniforms For America",
+    "description": "Clothing Stores",
+    "phone": "(954) 316-7051",
+    "address": "7051 W Broward Blvd  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(954) 431-1560",
+    "address": "12200 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "India Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 239-8751",
+    "address": "3006 SW 138th Ave  Miramar, FL 33027",
+    "location": "Walton"
+  },
+  {
+    "name": "Hollywood Chrysler Jeep",
+    "description": "Clothing Stores",
+    "phone": "(954) 342-5070",
+    "address": "2100 N State Road 7  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Patricia South's The Bride's Choice",
+    "description": "Clothing Stores",
+    "phone": "(954) 791-6007",
+    "address": "4066 W Broward Blvd  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Susan Rose",
+    "description": "Clothing Stores",
+    "phone": "(954) 472-2120",
+    "address": "1773 N University Dr  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Opti Cool Headgear",
+    "description": "Clothing Stores",
+    "phone": "(954) 254-5799",
+    "address": "6115 Stirling Rd Ste 210  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Flora's African Queen & Much More",
+    "description": "Clothing Stores",
+    "phone": "(954) 632-6190",
+    "address": "5239 W Broward Blvd  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Uniform City",
+    "description": "Clothing Stores",
+    "phone": "(954) 718-7818",
+    "address": "7110 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Florida T-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(954) 749-9610",
+    "address": "5405 NW 102nd Ave  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(954) 726-9276",
+    "address": "5837 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Marshalls & HomeGoods",
+    "description": "Clothing Stores",
+    "phone": "(954) 476-0505",
+    "address": "801 S University Dr  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "CanesWear at Miami FanWear",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-5597",
+    "address": "2635 S University Dr  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Oakley Store",
+    "description": "Clothing Stores",
+    "phone": "(954) 438-0866",
+    "address": "11401 Pines Blvd Ste 538  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Runner's Depot",
+    "description": "Clothing Stores",
+    "phone": "(954) 474-4074",
+    "address": "2233 S University Dr  Davie, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Sirens",
+    "description": "Clothing Stores",
+    "phone": "(954) 577-0061",
+    "address": "8000 W Broward Blvd Ste 1208  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Mike's Bigger Guys CLOTHING & FOOTWEAR SHOP",
+    "description": "Clothing Stores",
+    "phone": "(954) 747-1073",
+    "address": "5442 North university drive  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Bodycontours Fajas",
+    "description": "Clothing Stores",
+    "phone": "(954) 366-1505",
+    "address": "5729 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Camille La Vie at Pembroke Lakes Mall",
+    "description": "Clothing Stores",
+    "phone": "(754) 263-5530",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Gnarley Gear",
+    "description": "Clothing Stores",
+    "phone": "(404) 482-3735",
+    "address": "5401 NW 102nd Ave Ste 133  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Fully Promoted",
+    "description": "Clothing Stores",
+    "phone": "(954) 452-0600",
+    "address": "7080 W State Road 84  Davie, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Money Sports Wear",
+    "description": "Clothing Stores",
+    "phone": "(954) 701-6251",
+    "address": "4946 N Pine Island Rd  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Delva and Co",
+    "description": "Clothing Stores",
+    "phone": "(772) 882-0282",
+    "address": "9490 Stanley Ln  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Angie Bridal Boutique Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 600-2856",
+    "address": "7834 NW 44th St  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Build That Brand",
+    "description": "Clothing Stores",
+    "phone": "(833) 369-8767",
+    "address": "4846 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Klipped Kippahs",
+    "description": "Clothing Stores",
+    "phone": "(954) 228-3518",
+    "address": "5051 S State Road 7  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Buybuybaby",
+    "description": "Clothing Stores",
+    "phone": "(954) 450-6257",
+    "address": "11360 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Work 'N Gear",
+    "description": "Clothing Stores",
+    "phone": "(954) 370-2800",
+    "address": "8000 W Broward Blvd Ste 100  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(754) 223-7900",
+    "address": "8000 W Broward Blvd  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(954) 236-6515",
+    "address": "801 S University Dr  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "La Mexicanita Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 327-4224",
+    "address": "3927 Davie Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Cool J's",
+    "description": "Clothing Stores",
+    "phone": "(954) 797-0640",
+    "address": "1435 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "SEARS HEARING CENTER - MIRACLE EAR",
+    "description": "Clothing Stores",
+    "phone": "(954) 577-0012",
+    "address": "8000 W Broward Blvd  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Bealls Outlet",
+    "description": "Clothing Stores",
+    "phone": "(954) 432-3383",
+    "address": "10004 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Hot Miami Styles Inc",
+    "description": "Clothing Stores",
+    "phone": "(866) 464-2641",
+    "address": "10301 NW 50th St Ste 109  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(954) 476-8530",
+    "address": "8000 W Broward Blvd Ste 220  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Players Closet",
+    "description": "Clothing Stores",
+    "phone": "(954) 424-4488",
+    "address": "8000 W Broward Blvd  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Caneswear",
+    "description": "Clothing Stores",
+    "phone": "(954) 835-5597",
+    "address": "2635 S University Dr  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Sizes Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(954) 236-6515",
+    "address": "801 S University Dr  Plantation, FL 33324",
+    "location": "Walton"
+  },
+  {
+    "name": "Hijabs Queen",
+    "description": "Clothing Stores",
+    "phone": "(954) 533-9251",
+    "address": "1789 N University Dr  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Middle Eastern Fashion Center",
+    "description": "Clothing Stores",
+    "phone": "(954) 472-4499",
+    "address": "1834 N University Dr  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Barbaras Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 533-6398",
+    "address": "1888 N University Dr  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Fast Asleep",
+    "description": "Clothing Stores",
+    "phone": "(954) 791-2220",
+    "address": "6971 W Sunrise Blvd  Plantation, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Mike's Big Man & Tall",
+    "description": "Clothing Stores",
+    "phone": "(954) 747-1073",
+    "address": "4978 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "B'yond Flawless Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 993-1245",
+    "address": "5878 NW 19th Ct  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Maccimo",
+    "description": "Clothing Stores",
+    "phone": "(954) 584-7763",
+    "address": "5753 Seminole Way  Fort Lauderdale, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Tempo Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 587-8525",
+    "address": "1323 N State Road 7  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Clothing Furnishings",
+    "description": "Clothing Stores",
+    "phone": "(954) 792-8031",
+    "address": "1421 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Kiwi",
+    "description": "Clothing Stores",
+    "phone": "(954) 584-6245",
+    "address": "1319 N State Road 7  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "The Basement",
+    "description": "Clothing Stores",
+    "phone": "(954) 530-1534",
+    "address": "3600 W Broward Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Buy For Less",
+    "description": "Clothing Stores",
+    "phone": "(954) 735-3655",
+    "address": "2930 N State Road 7  Lauderdale Lakes, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "The Mvmnt",
+    "description": "Clothing Stores",
+    "phone": "(954) 322-1000",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Stepping Out",
+    "description": "Clothing Stores",
+    "phone": "(954) 392-0053",
+    "address": "604 N University Dr  Hollywood, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Queens Closet Boutique",
+    "description": "Clothing Stores",
+    "phone": "(754) 301-2253",
+    "address": "1915 N Pine Island Rd  Sunrise, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Palm Harbour Clothing Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 572-8485",
+    "address": "10210 NW 50th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Werk IT Girl",
+    "description": "Clothing Stores",
+    "phone": "(954) 880-0437",
+    "address": "8767 Stirling Rd  Cooper City, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Zelinka & Zelinka Sales",
+    "description": "Clothing Stores",
+    "phone": "(954) 578-1310",
+    "address": "10314 NW 55th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion & Collectibles & Collectibles",
+    "description": "Clothing Stores",
+    "phone": "(954) 747-9521",
+    "address": "8640 NW 47th St  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Hook 360",
+    "description": "Clothing Stores",
+    "phone": "(888) 512-4665",
+    "address": "499 NW 70th Ave Ste 309  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "G J C International Of Florida",
+    "description": "Clothing Stores",
+    "phone": "(954) 581-4646",
+    "address": "6761 W Sunrise Blvd  Plantation, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Is My DNA",
+    "description": "Clothing Stores",
+    "phone": "(954) 716-6945",
+    "address": "4480 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Kushara Collections",
+    "description": "Clothing Stores",
+    "phone": "(754) 222-9075",
+    "address": "6325 W Commercial Blvd  Tamarac, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Tropical Printing",
+    "description": "Clothing Stores",
+    "phone": "(954) 316-6549",
+    "address": "3907 Davie Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Profits Plus Enterprise Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 730-9228",
+    "address": "4200 W Oakland Park Blvd  Lauderdale Lakes, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "My Kids Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(954) 497-4746",
+    "address": "3887 NW 19th St  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Collections By La Class",
+    "description": "Clothing Stores",
+    "phone": "(954) 367-6294",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "JonathanDaniel Apparel Printing",
+    "description": "Clothing Stores",
+    "phone": "(786) 251-0692",
+    "address": "5432 SW 185th Ter  Miramar, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "About Love Bridal & Formal",
+    "description": "Clothing Stores",
+    "phone": "(754) 263-3480",
+    "address": "1749 N University Dr  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Bcf Sports",
+    "description": "Clothing Stores",
+    "phone": "(954) 842-4078",
+    "address": "8345 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Boutique Reign",
+    "description": "Clothing Stores",
+    "phone": "(954) 367-5317",
+    "address": "200 N University Dr  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Unique Boutique Consignment",
+    "description": "Clothing Stores",
+    "phone": "(754) 210-3937",
+    "address": "7195 Pembroke Rd  Pembroke Pines, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Sondro Boutique",
+    "description": "Clothing Stores",
+    "phone": "(954) 739-5037",
+    "address": "5547 W Oakland Park Blvd  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(305) 828-2505",
+    "address": "6448 NW 186th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Delta Apparel",
+    "description": "Department Stores",
+    "phone": "(954) 438-1190",
+    "address": "11500 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Lauderhill",
+    "description": "General Merchandise",
+    "phone": "(954) 316-9484",
+    "address": "1529 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Pembroke Pines",
+    "description": "Associations",
+    "phone": "(954) 538-1482",
+    "address": "154 N University Dr  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Hollywood",
+    "description": "General Merchandise",
+    "phone": "(954) 966-3555",
+    "address": "6819 Taft St  Hollywood, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Dress Rehearsal",
+    "description": "Girls Clothing",
+    "phone": "(954) 538-1009",
+    "address": "1500 N University Dr  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "GOT TEES",
+    "description": "Men's Clothing",
+    "phone": "(954) 667-9122",
+    "address": "6500 NW 16th Street Suite 3  Fort Lauderdale, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Shoe Fashions (Women's Shoes)",
+    "description": "Shoe Stores",
+    "phone": "(954) 792-9988",
+    "address": "1465 N State Road 7  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Bowlero Tamarac",
+    "description": "Bowling",
+    "phone": "(954) 722-2700",
+    "address": "8501 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Designer consigner",
+    "description": "Consignment Service",
+    "phone": "(954) 791-8320",
+    "address": "6906 Cypress Rd  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Simply Fashion",
+    "description": "Women's Clothing",
+    "phone": "(954) 486-8980",
+    "address": "5821 W Oakland Park Blvd  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Beya",
+    "description": "Women's Clothing",
+    "phone": "(954) 443-4096",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "99 Cents Plus Fashion Discount",
+    "description": "Women's Clothing",
+    "phone": "(305) 622-8433",
+    "address": "4685 NW 199th St  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Red Wing Shoe Store",
+    "description": "Boot Stores",
+    "phone": "(954) 748-3399",
+    "address": "2828 N University Dr  Sunrise, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Awesome Sports",
+    "description": "Sporting Goods",
+    "phone": "(954) 587-9898",
+    "address": "3921 SW 47th Ave Ste 1009  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(954) 370-9876",
+    "address": "8000 W Broward Blvd Ste 412  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "Macy's Backstage",
+    "description": "Men's Clothing",
+    "phone": "(954) 438-2400",
+    "address": "11605 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Play Hard Athletics Inc",
+    "description": "Sportswear",
+    "phone": "(954) 252-7555",
+    "address": "4767 S University Dr  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Wal-Mart-Sunrise",
+    "description": "General Merchandise",
+    "phone": "(954) 749-0517",
+    "address": "3306 N University Dr  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Star Brite Distributing Inc",
+    "description": "Tire Dealers",
+    "phone": "(954) 587-6280",
+    "address": "4041 SW 47th Ave  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "GWE Corp",
+    "description": "Department Stores",
+    "phone": "(954) 585-6262",
+    "address": "2003 S State Road 7  Davie, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(954) 442-3200",
+    "address": "11401 Pines Blvd Ste 768  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(754) 900-5501",
+    "address": "10350 Pines Blvd Ste D106  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "LeStop Gallery",
+    "description": "Variety Stores",
+    "phone": "(754) 900-5417",
+    "address": "3621 NW 94th Ave  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Black Lion Boutique",
+    "description": "Boutique Items",
+    "phone": "(954) 330-8627",
+    "address": "8255 W Sunrise Blvd # 152  Plantation, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Boutique Stylistique",
+    "description": "Women's Clothing",
+    "phone": "(954) 908-1744",
+    "address": "4725 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Ceci Collections",
+    "description": "Handbags",
+    "phone": "(954) 900-2535",
+    "address": "6807 Stirling Rd  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Cameo Rouge",
+    "description": "Women's Clothing",
+    "phone": "(954) 951-2872",
+    "address": "4846 N University Dr  Lauderhill, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Keanna Couture",
+    "description": "Women's Clothing",
+    "phone": "(786) 803-7376",
+    "address": "P.O. Box 120983  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Movement",
+    "description": "Men's Clothing",
+    "phone": "(954) 322-1000",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Chic 83 Boutique",
+    "description": "Online & Mail Order Shopping",
+    "phone": "(754) 444-8876",
+    "address": "8100 SW 22nd St Apt 301  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Universal Love Company, LLC",
+    "description": "Women's Clothing",
+    "phone": "(917) 361-2754",
+    "address": "Three Locations (Fl And Ny) Coral Square Mall 9469 West Atlantic Boulevard  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "The Fashion Trend",
+    "description": "Women's Clothing",
+    "phone": "(786) 352-4718",
+    "address": "331 NW 78th Ter Unit 31202  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Fragola Fashion",
+    "description": "Women's Fashion Accessories",
+    "phone": "(786) 703-1893",
+    "address": "7580 NW 186th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Grifs Western",
+    "description": "Western Apparel & Supplies",
+    "phone": "(954) 587-9000",
+    "address": "6211 Orange Dr  Davie, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Voga Style",
+    "description": "Women's Clothing",
+    "phone": "(305) 829-3805",
+    "address": "8591 NW 186th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "K & G Fashion Superstore",
+    "description": "Clothing Stores",
+    "phone": "(954) 977-5087",
+    "address": "5301 W Atlantic Blvd  Margate, FL 33063",
+    "location": "Walton"
+  },
+  {
+    "name": "Ki's Vogue Cliche",
+    "description": "Clothing Stores",
+    "phone": "(954) 580-3324",
+    "address": "Miami Dade  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "5th & Ocean Clothing",
+    "description": "Clothing Stores",
+    "phone": "(305) 822-4606",
+    "address": "590 W 83rd St  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Mad Rag",
+    "description": "Clothing Stores",
+    "phone": "(954) 925-0058",
+    "address": "3721 Oakwood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Centra Lcloseout",
+    "description": "Clothing Stores",
+    "phone": "(954) 391-5124",
+    "address": "5501 SW 25th Ct  West Park, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Joshe Boutique",
+    "description": "Clothing Stores",
+    "phone": "(561) 666-8709",
+    "address": "Po Box 5383  Fort Lauderdale, FL 33310",
+    "location": "Walton"
+  },
+  {
+    "name": "Maggie's Clergy Design",
+    "description": "Clothing Stores",
+    "phone": "(954) 245-8015",
+    "address": "5724 SW 19th St  West Park, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Stars Fashions Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 628-5307",
+    "address": "4882 NW 167th St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "SKECHERS Retail",
+    "description": "Shoe Stores",
+    "phone": "(954) 447-1449",
+    "address": "11401 Pines Blvd Ste 426  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Island Carousel",
+    "description": "Department Stores",
+    "phone": "(954) 430-3700",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Cica Kanan",
+    "description": "Department Stores",
+    "phone": "(954) 435-6125",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Gusika",
+    "description": "Department Stores",
+    "phone": "(308) 672-5047",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Miami Heat LP",
+    "description": "Sportswear",
+    "phone": "(786) 570-9513",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Buy 4 Les",
+    "description": "Discount Stores",
+    "phone": "(954) 433-7000",
+    "address": "4546 SW 186th Way  Miramar, FL 33029",
+    "location": "Walton"
+  },
+  {
+    "name": "Bella Supa Star Kidz",
+    "description": "Department Stores",
+    "phone": "(954) 430-6200",
+    "address": "8367 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar D'oro",
+    "description": "Discount Stores",
+    "phone": "(305) 829-2705",
+    "address": "18600 NW 87th Ave  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Lucky Dollar Plus Inc",
+    "description": "Discount Stores",
+    "phone": "(954) 986-8448",
+    "address": "7863 Pines Blvd  Pembroke Pines, FL 33024",
+    "location": "Walton"
+  },
+  {
+    "name": "Jolinknet Corp",
+    "description": "General Merchandise",
+    "phone": "(954) 534-9431",
+    "address": "9590 W Daffodil Ln  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Miami Composite Shop Inc",
+    "description": "Department Stores",
+    "phone": "(305) 725-7564",
+    "address": "6749 NW 192nd Ln  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollars Plus",
+    "description": "Discount Stores",
+    "phone": "(954) 367-3242",
+    "address": "8814 Miramar Pkwy  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Mercy Super Discount",
+    "description": "Department Stores",
+    "phone": "(305) 456-6776",
+    "address": "18505 NW 75th Pl  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar Store",
+    "description": "Discount Stores",
+    "phone": "(305) 819-6772",
+    "address": "18488 NW 67th Ave  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "99 Cents Plus Store",
+    "description": "Variety Stores",
+    "phone": "(305) 622-9800",
+    "address": "4683 NW 199th St  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Sofia of Miami Inc",
+    "description": "Department Stores",
+    "phone": "(954) 894-0069",
+    "address": "2319 N State Road 7  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "B & Y of Ocean Drive Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 741-1505",
+    "address": "4576 N Hiatus Rd  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "D B of Ocean Drive Enterprises",
+    "description": "Women's Clothing",
+    "phone": "(954) 741-1505",
+    "address": "4598 N Hiatus Rd  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Gucci",
+    "description": "Women's Clothing",
+    "phone": "(954) 765-6878",
+    "address": "10873 NW 52nd St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Kloth Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 578-5687",
+    "address": "10111 NW 46th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Alfa Concepts",
+    "description": "Women's Clothing",
+    "phone": "(954) 572-4758",
+    "address": "4737 NW 103rd Ave  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Birger Christensen USA",
+    "description": "Women's Clothing",
+    "phone": "(954) 578-6823",
+    "address": "10301 NW 50th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Sunshine Joy Boutique",
+    "description": "Boutique Items",
+    "phone": "(954) 314-7103",
+    "address": "8000 W Broward Blvd  Plantation, FL 33388",
+    "location": "Walton"
+  },
+  {
+    "name": "J P C Apparel",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(954) 746-0090",
+    "address": "10001 NW 50th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Hot Miami Styles",
+    "description": "Women's Clothing",
+    "phone": "(954) 368-7776",
+    "address": "10001 NW 50th St  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "Dr. Shirts",
+    "description": "Men's Clothing",
+    "phone": "(305) 741-6306",
+    "address": "2946 S University Dr  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Club Miami",
+    "description": "Men's Clothing",
+    "phone": "(754) 216-9418",
+    "address": "2540 N University Dr  Sunrise, FL 33322",
+    "location": "Walton"
+  },
+  {
+    "name": "Aysia's Boutique",
+    "description": "Boutique Items",
+    "phone": "(954) 533-1081",
+    "address": "5360 S University Dr  Davie, FL 33328",
+    "location": "Walton"
+  },
+  {
+    "name": "4sisters1closet",
+    "description": "Women's Clothing",
+    "phone": "(754) 216-9587",
+    "address": "7080 NW 4th St  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow Apparel Co",
+    "description": "Women's Clothing",
+    "phone": "(954) 741-1309",
+    "address": "3360 N University Dr  Sunrise, FL 33351",
+    "location": "Walton"
+  },
+  {
+    "name": "HK Trading & Company Inc",
+    "description": "Women's Clothing",
+    "phone": "(754) 223-4608",
+    "address": "6851 W Sunrise Blvd  Plantation, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Catchygirl online boutique",
+    "description": "Women's Clothing",
+    "phone": "(954) 860-2860",
+    "address": "8901 NW 78th St Apt 215  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Dresses for Less",
+    "description": "Women's Clothing",
+    "phone": "(954) 721-4170",
+    "address": "5733 N University Dr  Tamarac, FL 33321",
+    "location": "Walton"
+  },
+  {
+    "name": "Me Boutique Outlet",
+    "description": "Women's Clothing",
+    "phone": "(954) 731-8800",
+    "address": "5555 W Oakland Park Blvd  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Mjc Express",
+    "description": "Women's Clothing",
+    "phone": "(954) 530-7286",
+    "address": "4357 Peters Rd  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Ellis, Perry",
+    "description": "Men's Clothing",
+    "phone": "(954) 587-5695",
+    "address": "5771 Seminole Way  Fort Lauderdale, FL 33314",
+    "location": "Walton"
+  },
+  {
+    "name": "Great Units of Sf",
+    "description": "Women's Clothing",
+    "phone": "(954) 327-1831",
+    "address": "4251 NW 5th St  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Accessories By Shae",
+    "description": "Women's Fashion Accessories",
+    "phone": "(954) 909-0099",
+    "address": "551 NW 42nd Ave  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Grace Community Store",
+    "description": "Women's Clothing",
+    "phone": "(954) 530-5032",
+    "address": "21 N State Road 7  Plantation, FL 33317",
+    "location": "Walton"
+  },
+  {
+    "name": "Theperfectshoes4u.com",
+    "description": "Shoes-Wholesale & Manufacturers",
+    "phone": "(754) 900-6383",
+    "address": "5881 NW 57th Ct  Tamarac, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Shoval 33 Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 797-9894",
+    "address": "1331 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Simply Fashions-182",
+    "description": "Women's Clothing",
+    "phone": "(954) 587-2859",
+    "address": "1341 NW 40th Ave  Lauderhill, FL 33313",
+    "location": "Walton"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(954) 704-1668",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Bijoux Nouveau",
+    "description": "Women's Clothing",
+    "phone": "(954) 381-3902",
+    "address": "11401 Pines Blvd  Pembroke Pines, FL 33026",
+    "location": "Walton"
+  },
+  {
+    "name": "Livette Bridal Accessories",
+    "description": "Bridal Shops",
+    "phone": "(954) 889-0557",
+    "address": "12293 Pembroke Rd  Pembroke Pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Madame Couture Boutique Inc.",
+    "description": "Women's Clothing",
+    "phone": "(786) 565-8145",
+    "address": "10945 SW 16th St  Pembroke Pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Ms. Prim",
+    "description": "Women's Clothing",
+    "phone": "(954) 993-9319",
+    "address": "11750 Canal St  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Toyonda Simone Enterprise LLC",
+    "description": "Women's Clothing",
+    "phone": "(305) 803-1325",
+    "address": "1255 Southwest 101 Terrace Unit 207  Hollywood, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "PartyTheKing",
+    "description": "Men's Clothing",
+    "phone": "(954) 391-7943",
+    "address": "10215 SW 16th St  Pembroke Pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Pink Feather Shoes",
+    "description": "Women's Clothing",
+    "phone": "(954) 391-8484",
+    "address": "1476 S Palm Ave  Pembroke Pines, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Dalia's Studio",
+    "description": "Women's Fashion Accessories",
+    "phone": "(954) 399-9051",
+    "address": "3600 Red Rd  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Bertigo",
+    "description": "Men's Clothing",
+    "phone": "(786) 516-2828",
+    "address": "11521 Interchange Cir S  Miramar, FL 33025",
+    "location": "Walton"
+  },
+  {
+    "name": "Bbc",
+    "description": "Men's Clothing",
+    "phone": "(305) 557-3665",
+    "address": "18590 NW 67th Ave Ste 201  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "We R Everything Retail",
+    "description": "Women's Clothing",
+    "phone": "(954) 907-0766",
+    "address": "2080 North Lauderdale Ave #107  Pompano Beach, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Shuart Enterprises Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 344-6011",
+    "address": "1843 NW 124th Ave  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Cher's Boutique",
+    "description": "Boutique Items",
+    "phone": "(754) 222-2657",
+    "address": "1810 N Lauderdale Ave  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Tosh",
+    "description": "Women's Clothing",
+    "phone": "(954) 989-9600",
+    "address": "7966 Miramar Pkwy  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Kacz Production",
+    "description": "Boutique Items",
+    "phone": "(954) 248-9065",
+    "address": "9900 Riverside Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Urban Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(754) 231-8659",
+    "address": "161 N Pointe Dr  Dania Beach, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "W2 Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(305) 653-8544",
+    "address": "5935 Ravenswood Rd Ste 13E  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "305moda",
+    "description": "Clothing Stores",
+    "phone": "(954) 829-6516",
+    "address": "6811 NW 32nd Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Diamond Girl Inc.",
+    "description": "Clothing Stores",
+    "phone": "(305) 910-3560",
+    "address": "1760 S State Road 7 Apt 110  north lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Jody Bee",
+    "description": "Clothing Stores",
+    "phone": "(800) 656-0720",
+    "address": "2844 Stirling Rd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Dhtk",
+    "description": "Clothing Stores",
+    "phone": "(305) 316-3302",
+    "address": "2850 Greene St Suite 100  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "COS",
+    "description": "Clothing Stores",
+    "phone": "(305) 749-6153",
+    "address": "18470 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Men & Women Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 530-2915",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "R F C Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 486-4096",
+    "address": "2722 NW 30th Ave  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Shop So Real",
+    "description": "Clothing Stores",
+    "phone": "(954) 909-5234",
+    "address": "5237 NW 33rd Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Cho'Zen Closet",
+    "description": "Clothing Stores",
+    "phone": "(954) 851-2763",
+    "address": "Online Only  Hollywood, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion House",
+    "description": "Clothing Stores",
+    "phone": "(305) 820-0187",
+    "address": "7329 Miami Lakes Dr  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Grand Bazar, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(305) 623-8496",
+    "address": "5303 NW 165th St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "EDEN BOUTIQUE",
+    "description": "Clothing Stores",
+    "phone": "(305) 560-3974",
+    "address": "7210 Southgate Blvd  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Skin Tight Boutique",
+    "description": "Clothing Stores",
+    "phone": "(786) 683-5289",
+    "address": "6447 Miami Lakes Dr E Ste 203j  miami lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Ocean Rider Manufacturing",
+    "description": "Clothing Stores",
+    "phone": "(305) 740-5320",
+    "address": "16201 NW 49th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "US Tops",
+    "description": "Clothing Stores",
+    "phone": "(305) 822-3481",
+    "address": "2630 W 81st St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Risks LLC",
+    "description": "Clothing Stores",
+    "phone": "(954) 213-4668",
+    "address": "2905 Arthur St  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Ellen Kay Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(954) 465-9259",
+    "address": "4960 E Sabal Palm Blvd  Tamarac, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "My Edgeco Shop",
+    "description": "Clothing Stores",
+    "phone": "(754) 265-3864",
+    "address": "3475 NW 30th St Apt 213  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "JLF Fashion No 2",
+    "description": "Clothing Stores",
+    "phone": "(954) 485-7756",
+    "address": "3431 W Oakland Park Blvd  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Dare to Be Vintage",
+    "description": "Clothing Stores",
+    "phone": "(954) 530-5010",
+    "address": "3896 W Commercial Blvd  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "TLF Apparel",
+    "description": "Clothing Stores",
+    "phone": "(561) 206-6043",
+    "address": "3931 SW 30th Ave  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Clothes For You",
+    "description": "Clothing Stores",
+    "phone": "(954) 530-8613",
+    "address": "3888 W Commercial Blvd  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Dratus, Inc",
+    "description": "Clothing Stores",
+    "phone": "(561) 506-0742",
+    "address": "3550 NW 34th Ave  Lauderdale Lakes, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Tasa Couture",
+    "description": "Clothing Stores",
+    "phone": "(954) 533-1571",
+    "address": "2614 NW 4th St  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Aqua Beach Wear",
+    "description": "Clothing Stores",
+    "phone": "(954) 395-8902",
+    "address": "4101 Ravenswood Rd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "St John Knits International Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 846-8221",
+    "address": "1800 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "French",
+    "description": "Clothing Stores",
+    "phone": "(754) 779-7767",
+    "address": "1453 W State Road 84  Fort Lauderdale, FL 33315",
+    "location": "Walton"
+  },
+  {
+    "name": "Alexanderestore",
+    "description": "Clothing Stores",
+    "phone": "(754) 800-8639",
+    "address": "4221 NW 11th Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Mi4 African Clothing & Accessories",
+    "description": "Clothing Stores",
+    "phone": "(786) 633-9483",
+    "address": "6768 Pembroke Rd  Pembroke Pines, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(954) 922-7686",
+    "address": "3800 Oakwood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "You Beautiful Thing You",
+    "description": "Clothing Stores",
+    "phone": "(954) 237-1706",
+    "address": "PO Box 813736  Hollywood, FL 33081",
+    "location": "Walton"
+  },
+  {
+    "name": "Shoe Palace",
+    "description": "Clothing Stores",
+    "phone": "(954) 656-3999",
+    "address": "9469 W Atlantic Blvd Ste 9342A  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Mashikos No Limits",
+    "description": "Clothing Stores",
+    "phone": "(954) 792-0791",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Hidden Secret Meeting Place",
+    "description": "Clothing Stores",
+    "phone": "(954) 613-7690",
+    "address": "6260 Miramar Pkwy  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Chriscay Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 263-0644",
+    "address": "3900 W Commercial Blvd Ste 236  Tamarac, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Fiberbuilt Umbrellas",
+    "description": "Clothing Stores",
+    "phone": "(954) 484-9139",
+    "address": "2782 NW 29th Ter  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Wizard Creations, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(888) 217-4084",
+    "address": "2765 NW 62nd St Ste B  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Group Nexus",
+    "description": "Clothing Stores",
+    "phone": "(305) 621-5437",
+    "address": "18216 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Brand and Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(786) 558-9848",
+    "address": "7951 W 28th Ave  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Famly Printng of South Florida",
+    "description": "Clothing Stores",
+    "phone": "(305) 558-0507",
+    "address": "7971 W 28th Ave  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Dr Katina Health & Wellness, Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 231-8700",
+    "address": "2901 Coral Hills Dr  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Exclusive Boutique",
+    "description": "Clothing Stores",
+    "phone": "(305) 965-1809",
+    "address": "3185 W 76th St  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Darkside Boutique",
+    "description": "Clothing Stores",
+    "phone": "(786) 315-7083",
+    "address": "3420 NW 170th St  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Deonarine Inc",
+    "description": "Clothing Stores",
+    "phone": "(754) 210-9101",
+    "address": "4000 Hollywood Blvd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Mogul Clothing",
+    "description": "Clothing Stores",
+    "phone": "(786) 953-7401",
+    "address": "2231 W 80th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Endangered WildLife Prints",
+    "description": "Clothing Stores",
+    "phone": "(754) 264-8418",
+    "address": "4855 Pembroke Rd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Next General Brand",
+    "description": "Clothing Stores",
+    "phone": "(754) 307-3126",
+    "address": "300 S State Road 7  Margate, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "CP Apparel",
+    "description": "Clothing Stores",
+    "phone": "(786) 704-3311",
+    "address": "2832 Stirling Road  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "M & P Clothing",
+    "description": "Clothing Stores",
+    "phone": "(305) 657-2573",
+    "address": "16926 NW 27th Ave # 4  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "K & K Bohemian Souls",
+    "description": "Clothing Stores",
+    "phone": "(305) 720-5815",
+    "address": "1940 N 30th Rd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "M & F Boutique Inc",
+    "description": "Clothing Stores",
+    "phone": "(786) 879-0283",
+    "address": "2794 W 68th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "La Rampa Fashion Shop Corp",
+    "description": "Clothing Stores",
+    "phone": "(786) 975-8020",
+    "address": "2750 W 68th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Skyline Shirts",
+    "description": "Clothing Stores",
+    "phone": "(786) 464-5344",
+    "address": "15221 NW 33rd Pl  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Joday Fashion Store",
+    "description": "Clothing Stores",
+    "phone": "(786) 693-3451",
+    "address": "929 NE 214th Ln  Miami, FL 33179",
+    "location": "Walton"
+  },
+  {
+    "name": "Diva01 Creations",
+    "description": "Clothing Stores",
+    "phone": "(754) 702-3340",
+    "address": "2719 Hollywood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Taj Fashion",
+    "description": "Clothing Stores",
+    "phone": "(754) 263-2233",
+    "address": "2930 SW 30th Ave  Hallandale, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Dope Store",
+    "description": "Clothing Stores",
+    "phone": "(305) 570-6340",
+    "address": "4520 NW 191st St  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Profits Plus",
+    "description": "Clothing Stores",
+    "phone": "(954) 730-9228",
+    "address": "5253 NW 33rd Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(954) 757-0709",
+    "address": "9477 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "R J Max Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 628-8168",
+    "address": "16495 NW 49th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Pamela's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(954) 367-2323",
+    "address": "5813 Dawson St  Hollywood, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Suzi O Clothing",
+    "description": "Clothing Stores",
+    "phone": "(305) 558-2212",
+    "address": "2481 W 80th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Diane's Fashions Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 821-0111",
+    "address": "7250 W 24th Ave  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashions Leos",
+    "description": "Clothing Stores",
+    "phone": "(305) 820-6007",
+    "address": "2360 W 68th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Fed USA Retail Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 239-8652",
+    "address": "2980 Griffin Rd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Hiz N Herz Fashions",
+    "description": "Clothing Stores",
+    "phone": "(954) 478-6606",
+    "address": "5500 Washington St Apt 311  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Exxtreme Athletics LLC",
+    "description": "Clothing Stores",
+    "phone": "(954) 652-1380",
+    "address": "2728 Davie Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Atlas Embroidery & Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(954) 922-2242",
+    "address": "2300 SW 34th St  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Flatspot Board Shop",
+    "description": "Clothing Stores",
+    "phone": "(954) 344-5200",
+    "address": "1267 N University Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Buy Buy Baby",
+    "description": "Clothing Stores",
+    "phone": "(954) 575-7449",
+    "address": "2035 N University Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Basix of America",
+    "description": "Clothing Stores",
+    "phone": "(954) 486-6580",
+    "address": "2778 NW 31st Ave  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "American Eagle, Aerie & OFFLINE",
+    "description": "Clothing Stores",
+    "phone": "(954) 628-1788",
+    "address": "160 N Pointe Dr  Dania Beach, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "Logotastic USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 332-4171",
+    "address": "1751 NW 62nd St  Ft Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Zomee",
+    "description": "Clothing Stores",
+    "phone": "(888) 662-7159",
+    "address": "2700 Gateway Dr Unit A  Pompano Beach, FL 33069",
+    "location": "Walton"
+  },
+  {
+    "name": "Idealonline",
+    "description": "Clothing Stores",
+    "phone": "(954) 531-7098",
+    "address": "11388 Royal Palm Blvd  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Argus International",
+    "description": "Clothing Stores",
+    "phone": "(305) 888-4881",
+    "address": "15025 NW 77th Ave Ste 129  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "SeeMore Shirts & Tees",
+    "description": "Clothing Stores",
+    "phone": "(954) 708-1100",
+    "address": "1829 N University Dr  Pompano Beach, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "ST Business By Shirt Time",
+    "description": "Clothing Stores",
+    "phone": "(786) 992-9011",
+    "address": "2450 W 80th St Unit 3  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Temptations Shoes Corp.",
+    "description": "Clothing Stores",
+    "phone": "(786) 312-0904",
+    "address": "12994 NW 42nd Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "viobenstore",
+    "description": "Clothing Stores",
+    "phone": "(973) 553-0482",
+    "address": "Hollywood 33023  Hollywood, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Scales Gear",
+    "description": "Clothing Stores",
+    "phone": "(954) 745-4738",
+    "address": "3015 Ravenswood Rd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Ross Dress For Less Stores",
+    "description": "Clothing Stores",
+    "phone": "(305) 625-1471",
+    "address": "17962 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Surfstyle",
+    "description": "Clothing Stores",
+    "phone": "(954) 362-4216",
+    "address": "4100 N 28th Ter  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Merci Martha Men's Clothing",
+    "description": "Clothing Stores",
+    "phone": "(954) 588-5577",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "J & A Menswear",
+    "description": "Clothing Stores",
+    "phone": "(954) 735-4956",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Yatil's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(954) 687-1704",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Kamtex USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 733-1044",
+    "address": "2916 NW 28th St  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Anita International Corporation",
+    "description": "Clothing Stores",
+    "phone": "(954) 730-8189",
+    "address": "3540 NW 56th St Ste 204  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "La Epoca Fashion Corp",
+    "description": "Clothing Stores",
+    "phone": "(305) 820-2990",
+    "address": "1300d NW 87th Ct  Miami Lakes, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "The Tom James Company",
+    "description": "Clothing Stores",
+    "phone": "(954) 894-3400",
+    "address": "4601 Sheridan St Ste 410  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Darling Hoops & Slips",
+    "description": "Clothing Stores",
+    "phone": "(954) 753-6732",
+    "address": "3762 NW 124th Ave  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Three Hundred Eight Y Fashions",
+    "description": "Clothing Stores",
+    "phone": "(305) 623-0950",
+    "address": "19410 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Hengda",
+    "description": "Clothing Stores",
+    "phone": "(305) 621-2555",
+    "address": "5406 NW 163rd St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Muse Luxury Group",
+    "description": "Clothing Stores",
+    "phone": "(754) 217-4571",
+    "address": "1917 Tigertail Blvd  Dania, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "Structure 27",
+    "description": "Clothing Stores",
+    "phone": "(786) 360-4003",
+    "address": "2100 W 76th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow Apparel Company",
+    "description": "Clothing Stores",
+    "phone": "(305) 625-0236",
+    "address": "17215 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Kenneth David Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 620-7229",
+    "address": "16178 NW 27th Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Yuka Beach",
+    "description": "Clothing Stores",
+    "phone": "(800) 229-7501",
+    "address": "2930 SW 30th Ave  Hallandale, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "P Creations Fashions Design Services",
+    "description": "Clothing Stores",
+    "phone": "(954) 916-7195",
+    "address": "3683 NW 19th St  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Davis Cassandra",
+    "description": "Clothing Stores",
+    "phone": "(954) 451-5521",
+    "address": "3417 W Oakland Park Blvd  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Fresh Prints Miami",
+    "description": "Clothing Stores",
+    "phone": "(305) 903-1939",
+    "address": "1464 SW 28th Ter  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Yon Design Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 973-7771",
+    "address": "6057 NW 31st Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Bags by Pinky",
+    "description": "Clothing Stores",
+    "phone": "(954) 966-1560",
+    "address": "2320 SW 60th Way  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Four Seasons Apparel",
+    "description": "Clothing Stores",
+    "phone": "(305) 621-1373",
+    "address": "5154 NW 165th St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "A and C T Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 454-9496",
+    "address": "5512 NW 161st St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Point Accessories",
+    "description": "Clothing Stores",
+    "phone": "(305) 623-6839",
+    "address": "16493 NW 49th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Roochi Traders",
+    "description": "Clothing Stores",
+    "phone": "(305) 623-1947",
+    "address": "16300 NW 49th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Coral Club Tee Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 828-6939",
+    "address": "3192 W 81st St  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Saggarific",
+    "description": "Clothing Stores",
+    "phone": "(305) 624-7277",
+    "address": "4112 NW 167th St  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "RIP Pictures",
+    "description": "Clothing Stores",
+    "phone": "(305) 624-3576",
+    "address": "18200 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Friends Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(305) 828-5507",
+    "address": "9921 W 80th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Island Planet",
+    "description": "Clothing Stores",
+    "phone": "(954) 927-9915",
+    "address": "3290 N 29th Ct  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Fully Promoted Hollywood FL",
+    "description": "Clothing Stores",
+    "phone": "(786) 609-8212",
+    "address": "3440 Hollywood Blvd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Jodee Inc",
+    "description": "Clothing Stores",
+    "phone": "(954) 926-1900",
+    "address": "3100 N 29th Ave  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Triumph Hosiery",
+    "description": "Clothing Stores",
+    "phone": "(954) 929-6021",
+    "address": "2750 N 29th Ave Ste 126  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Miami Impressions",
+    "description": "Clothing Stores",
+    "phone": "(305) 558-7138",
+    "address": "2140 W 73rd St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Movin On Tee's",
+    "description": "Clothing Stores",
+    "phone": "(305) 474-3200",
+    "address": "15978 NW 27th Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Analia & Maikel Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(305) 456-7380",
+    "address": "7105 W 12th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Custom Screen Printing of Florida",
+    "description": "Clothing Stores",
+    "phone": "(305) 685-9822",
+    "address": "1150 Ali Baba Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "380 Fashion",
+    "description": "Clothing Stores",
+    "phone": "(305) 623-0950",
+    "address": "19410 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Simons Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(305) 622-9995",
+    "address": "19652 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Exist Inc.",
+    "description": "Clothing Stores",
+    "phone": "(954) 635-2354",
+    "address": "1650 NW 23rd Ave  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Swago T Shirts",
+    "description": "Clothing Stores",
+    "phone": "(954) 563-8250",
+    "address": "1020 NW 1st Ct  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Vanlex Clothing",
+    "description": "Clothing Stores",
+    "phone": "(305) 819-2667",
+    "address": "5850 Miami Lakes Dr E  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Salvation Army The",
+    "description": "Clothing Stores",
+    "phone": "(954) 463-3725",
+    "address": "1901 W Broward Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion",
+    "description": "Women's Clothing",
+    "phone": "(305) 974-2932",
+    "address": "17960 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "D & N Sports",
+    "description": "Sporting Goods",
+    "phone": "(305) 628-4408",
+    "address": "17201 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "J P SON Investment",
+    "description": "Men's Clothing",
+    "phone": "(305) 624-2288",
+    "address": "18200 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Fort Lauderdale Outlet",
+    "description": "General Merchandise",
+    "phone": "(954) 977-7043",
+    "address": "2104 W Commercial Blvd  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Lauderdale Lakes",
+    "description": "General Merchandise",
+    "phone": "(954) 739-8755",
+    "address": "3282 N State Road 7 Unit Left  Lauderdale Lakes, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Coral Springs",
+    "description": "General Merchandise",
+    "phone": "(954) 755-5880",
+    "address": "10369 Royal Palm Blvd  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Miami Gardens Stadium",
+    "description": "Records Management Consulting & Service",
+    "phone": "(305) 621-0914",
+    "address": "19300 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Goodwill Hallandale Superstore",
+    "description": "General Merchandise",
+    "phone": "(954) 989-2405",
+    "address": "3149 W Hallandale Beach Blvd  Hallandale, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "The De Luxe Boutique",
+    "description": "Women's Clothing",
+    "phone": "(305) 901-4120",
+    "address": "Po Box 540854  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Shoe Stores",
+    "phone": "(305) 556-7630",
+    "address": "16749 NW 67th Ave  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Mr Eds Sportwear",
+    "description": "Sportswear",
+    "phone": "(954) 981-3270",
+    "address": "5966 Pembroke Rd  West Park, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Classy Sassy Trendy",
+    "description": "Women's Clothing",
+    "phone": "(954) 404-9245",
+    "address": "730 W Hallandale Beach Blvd  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(305) 823-0900",
+    "address": "6800 Main St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "The Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(305) 266-9687",
+    "address": "370 W 78th Rd  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(954) 327-2034",
+    "address": "2660 W Broward Blvd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Zean's Hobby Shop",
+    "description": "Sporting Goods",
+    "phone": "(954) 541-3130",
+    "address": "101 SW 27th Ave Unit 5  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Broward Motorsports Bicycles Fort Lauderdale",
+    "description": "Bicycle Shops",
+    "phone": "(800) 878-1112",
+    "address": "2100 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Walmart Auto Care Centers",
+    "description": "General Merchandise",
+    "phone": "(305) 622-2780",
+    "address": "19501 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Agape Soccer Academy",
+    "description": "Soccer Clubs",
+    "phone": "(786) 443-3043",
+    "address": "6954 Bottlebrush Dr  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Discount Mugs",
+    "description": "General Merchandise-Wholesale",
+    "phone": "(800) 579-7152",
+    "address": "12610 NW 115th Ave Bldg 200  Medley, FL 33178",
+    "location": "Walton"
+  },
+  {
+    "name": "KenPhoo Bridal Bootcamp",
+    "description": "Sportswear",
+    "phone": "(954) 594-1397",
+    "address": "4000 Hollywood Blvd Ste 555s  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "A1 Five Star Inc.",
+    "description": "Meeting & Event Planning Services",
+    "phone": "(888) 775-7761",
+    "address": "4000 Hollywood Boulevard, Suite 555  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Phi Chi T-Shirts",
+    "description": "T-Shirts",
+    "phone": "(561) 526-3401",
+    "address": "740 SW 50th Ter  Margate, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "No Waist Allowed",
+    "description": "Women's Clothing",
+    "phone": "(786) 626-0976",
+    "address": "5091 NW 183rd St  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Pink",
+    "description": "Women's Clothing",
+    "phone": "(954) 796-9028",
+    "address": "9469 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Greg's Livery Services Inc",
+    "description": "Men's Clothing",
+    "phone": "(786) 642-9348",
+    "address": "1534 N 58th Ave  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Isaco International Corp",
+    "description": "Men's Clothing",
+    "phone": "(305) 594-4455",
+    "address": "5980 Miami Lakes Dr E  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Anthropologie",
+    "description": "Women's Clothing",
+    "phone": "(754) 231-8717",
+    "address": "149 N Pointe Dr  Dania Beach, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "9 to 5 Styles",
+    "description": "Shoe Stores",
+    "phone": "(305) 792-8639",
+    "address": "2632 Hollywood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "AtarahHats.com",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(305) 307-9998",
+    "address": "421 SW 10th Ter  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Discount Secrets Stores",
+    "description": "Department Stores",
+    "phone": "(954) 322-9060",
+    "address": "6331B Miramar Pkwy  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "South Point Sportwear",
+    "description": "Women's Clothing",
+    "phone": "(305) 885-3045",
+    "address": "11245 NW 131st St  Medley, FL 33178",
+    "location": "Walton"
+  },
+  {
+    "name": "Protokolo Inc",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(305) 827-7789",
+    "address": "3120 W 84th St Unit 9  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Amjc Corp",
+    "description": "Department Stores",
+    "phone": "(954) 963-4550",
+    "address": "5287 SW 34th Ter  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Health Formula Inc",
+    "description": "Department Stores",
+    "phone": "(954) 843-7529",
+    "address": "3325 Griffin Rd  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Movin On Inc",
+    "description": "Sportswear",
+    "phone": "(954) 733-0171",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Kids Stop",
+    "description": "Department Stores",
+    "phone": "(954) 676-5625",
+    "address": "2778 NW 31st Ave  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Touch and Match Sportswear",
+    "description": "Sportswear",
+    "phone": "(954) 484-0804",
+    "address": "2760 NW 30th Way  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Hammond Wholesale",
+    "description": "General Merchandise",
+    "phone": "(954) 585-8511",
+    "address": "129 NW 25th Ter  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Discount Palace",
+    "description": "Discount Stores",
+    "phone": "(954) 440-2650",
+    "address": "4398 NW 31st Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "City of Hollywood",
+    "description": "Discount Stores",
+    "phone": "(954) 967-4341",
+    "address": "3400 N 56th Ave  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Goulds",
+    "description": "Department Stores",
+    "phone": "(305) 558-6069",
+    "address": "5851 NW 177th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Loft 420 Dollar Plus",
+    "description": "Discount Stores",
+    "phone": "(954) 842-2245",
+    "address": "1183 N State Road 7  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar Plus",
+    "description": "Discount Stores",
+    "phone": "(305) 822-6786",
+    "address": "6886 NW 169th St  Hialeah, FL 33015",
+    "location": "Walton"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(954) 726-2771",
+    "address": "7300 W McNab Rd  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Anne Elite Dollar Store Inc",
+    "description": "Variety Stores",
+    "phone": "(954) 613-5473",
+    "address": "6663 Pembroke Rd  Pembroke Pines, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Silvestri Rosalie",
+    "description": "Department Stores",
+    "phone": "(954) 255-1135",
+    "address": "926 N University Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Management Inc",
+    "description": "Department Stores",
+    "phone": "(305) 625-0099",
+    "address": "4672 NW 183rd St  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(754) 260-6713",
+    "address": "301 S State Road 7  Hollywood, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Ego Sports Unlimited",
+    "description": "Sportswear",
+    "phone": "(305) 620-0605",
+    "address": "19654 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Overstock Mami",
+    "description": "Department Stores",
+    "phone": "(786) 320-6936",
+    "address": "16291 NW 57th Ave  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(954) 510-7545",
+    "address": "11426 W Sample Rd  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "CZ Wholesale Inc",
+    "description": "Department Stores",
+    "phone": "(305) 628-9677",
+    "address": "5680 NW 163rd St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Frank Cabrera Group",
+    "description": "Department Stores",
+    "phone": "(786) 241-8333",
+    "address": "5436 NW 163rd St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Power Broker Group",
+    "description": "Department Stores",
+    "phone": "(786) 916-5614",
+    "address": "4960 NW 165th St Unit B13  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Cooyah",
+    "description": "Sportswear",
+    "phone": "(954) 983-2770",
+    "address": "5855 SW 21st St  West Park, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Chung Enterprises Inc",
+    "description": "General Merchandise-Wholesale",
+    "phone": "(305) 625-6731",
+    "address": "4690 NW 167th St  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Buckaroo Dollar Saver Inc",
+    "description": "General Merchandise",
+    "phone": "(305) 624-4738",
+    "address": "4730 NW 165th St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Crozal Inc",
+    "description": "Sportswear",
+    "phone": "(786) 447-1539",
+    "address": "4000 Taft St  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "One Legend Sportswear Inc",
+    "description": "Sportswear",
+    "phone": "(954) 951-7762",
+    "address": "6041 Kimberly Blvd  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Miami Style Corp",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(305) 805-1168",
+    "address": "7480 NW 52nd Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "V360 ATHLETICS",
+    "description": "Sportswear",
+    "phone": "(305) 831-4200",
+    "address": "701 NW 214th St Apt 209  Miami, FL 33169",
+    "location": "Walton"
+  },
+  {
+    "name": "The Mighty Dollar",
+    "description": "Discount Stores",
+    "phone": "(954) 404-7002",
+    "address": "4419 Hollywood Blvd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "World Dollar Store",
+    "description": "Variety Stores",
+    "phone": "(305) 557-2205",
+    "address": "8200 W 33rd Ave  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Lago Dollar Store",
+    "description": "Variety Stores",
+    "phone": "(305) 819-7073",
+    "address": "3553 W 76th St, #8  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Simon's Carol City",
+    "description": "Sportswear",
+    "phone": "(786) 916-3929",
+    "address": "18200 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Lori Lulu",
+    "description": "Department Stores",
+    "phone": "(305) 456-5763",
+    "address": "8051 W 24th Ave  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Pure Power",
+    "description": "Department Stores",
+    "phone": "(954) 367-7776",
+    "address": "5628 SW 25th St  West Park, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "South Point Sportswear",
+    "description": "Sportswear",
+    "phone": "(305) 887-9277",
+    "address": "11525 NW 124th St  Medley, FL 33178",
+    "location": "Walton"
+  },
+  {
+    "name": "The Uniform Place",
+    "description": "Uniforms",
+    "phone": "(305) 827-8515",
+    "address": "2415 W 80th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Chesapeake Management II",
+    "description": "Department Stores",
+    "phone": "(954) 973-0080",
+    "address": "6846 W Atlantic Blvd  Margate, FL 33063",
+    "location": "Walton"
+  },
+  {
+    "name": "Nautica Water Sport Inc",
+    "description": "Sportswear",
+    "phone": "(305) 823-6644",
+    "address": "7725 W 26th Ave Unit 1  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "McBetter Buy",
+    "description": "Discount Stores",
+    "phone": "(305) 846-9069",
+    "address": "7760 W 20th Ave  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Century Designer Showroom",
+    "description": "Furniture Stores",
+    "phone": "(954) 929-5656",
+    "address": "1855 Griffin Rd  Dania Beach, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "Oturaniko",
+    "description": "Department Stores",
+    "phone": "(305) 821-8171",
+    "address": "6900 W 32nd Ave  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "Cali Sport Wear Corp",
+    "description": "Sportswear",
+    "phone": "(786) 491-2902",
+    "address": "1940 N 30th Rd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Grimco Inc",
+    "description": "Department Stores",
+    "phone": "(954) 966-7936",
+    "address": "3976 Pembroke Rd  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Simons Oakwood",
+    "description": "Sportswear",
+    "phone": "(954) 367-7864",
+    "address": "3881 Oakwood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Alisson Discounts",
+    "description": "Discount Stores",
+    "phone": "(305) 627-3392",
+    "address": "3001 NW 161st Ter  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar Star",
+    "description": "Variety Stores",
+    "phone": "(954) 922-8030",
+    "address": "3751 Oakwood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "M B Group of Florida",
+    "description": "Department Stores",
+    "phone": "(954) 639-7567",
+    "address": "3025 Johnson St  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Colon's Discount",
+    "description": "Department Stores",
+    "phone": "(305) 823-7723",
+    "address": "1665 W 68th St  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar House",
+    "description": "Variety Stores",
+    "phone": "(305) 827-1129",
+    "address": "1754 W 68th St  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Kelsey's Lounge",
+    "description": "Sportswear",
+    "phone": "(954) 251-2560",
+    "address": "3194 W Hallandale Beach Blvd Ste J  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Dollar Stuff",
+    "description": "Discount Stores",
+    "phone": "(305) 603-8783",
+    "address": "6851 W 4th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Exclusives By MSP",
+    "description": "Sportswear",
+    "phone": "(305) 685-7743",
+    "address": "13000 NW 42nd Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "H-Blue-O Sportswear",
+    "description": "Sportswear",
+    "phone": "(305) 681-7094",
+    "address": "1150 Ali Baba Ave  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Super Cheap Inc",
+    "description": "Discount Stores",
+    "phone": "(954) 362-7872",
+    "address": "305 W Ansin Blvd  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Upi ID",
+    "description": "Department Stores",
+    "phone": "(954) 404-6574",
+    "address": "1052 NW 3rd St  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Paradigm Brand",
+    "description": "Women's Clothing",
+    "phone": "(954) 393-8786",
+    "address": "4061 NW 34th St  Lauderdale Lakes, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "California Fashions",
+    "description": "Women's Clothing",
+    "phone": "(954) 484-7616",
+    "address": "3702 W Oakland Park Blvd  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Kamal Fashion of India",
+    "description": "Women's Clothing",
+    "phone": "(954) 316-2549",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "R & R Fashions",
+    "description": "Fabric Shops",
+    "phone": "(954) 797-7409",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Fashion Express Sunrise",
+    "description": "Women's Clothing",
+    "phone": "(954) 533-1247",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Super Ladies Fashion",
+    "description": "Women's Clothing",
+    "phone": "(954) 625-2163",
+    "address": "3291 W Sunrise Blvd  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Devine Fashions",
+    "description": "Women's Clothing",
+    "phone": "(954) 990-8563",
+    "address": "5359 N State Road 7  Fort Lauderdale, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Devine's Fashions",
+    "description": "Women's Clothing",
+    "phone": "(954) 765-6420",
+    "address": "5557 N State Road 7  Fort Lauderdale, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Obamacare and More",
+    "description": "Women's Clothing",
+    "phone": "(754) 779-7548",
+    "address": "5567 N State Road 7  Fort Lauderdale, FL 33319",
+    "location": "Walton"
+  },
+  {
+    "name": "Basement",
+    "description": "Men's Clothing",
+    "phone": "(754) 223-3065",
+    "address": "665 SW 27th Ave  Fort Lauderdale, FL 33312",
+    "location": "Walton"
+  },
+  {
+    "name": "Amy's Shop",
+    "description": "Women's Clothing",
+    "phone": "(954) 733-3376",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Dunnigan's Men's Wear",
+    "description": "Men's Clothing",
+    "phone": "(954) 486-7628",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Paek's Fashions",
+    "description": "Women's Clothing",
+    "phone": "(954) 731-4889",
+    "address": "3161 W Oakland Park Blvd  Oakland Park, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "CBIC Wholesale",
+    "description": "Men's Clothing",
+    "phone": "(954) 318-0472",
+    "address": "2750 NW 30th Way  Lauderdale Lakes, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Signature Trend",
+    "description": "Boutique Items",
+    "phone": "(954) 278-0127",
+    "address": "5540 NW 31st Ave  Fort Lauderdale, FL 33309",
+    "location": "Walton"
+  },
+  {
+    "name": "Tricia's Stay Fresh Urban Wear",
+    "description": "Women's Clothing",
+    "phone": "(954) 530-7282",
+    "address": "1601 NW 6th St  Fort Lauderdale, FL 33311",
+    "location": "Walton"
+  },
+  {
+    "name": "Baby Cam Clothing",
+    "description": "Men's Clothing",
+    "phone": "(786) 520-5866",
+    "address": "Po Box 551516  Opa Locka, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Shu Sha Boutique",
+    "description": "Women's Clothing",
+    "phone": "(954) 341-5106",
+    "address": "9493 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Kara Fashions",
+    "description": "Boutique Items",
+    "phone": "(954) 603-6301",
+    "address": "9469 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Express Worldbrand",
+    "description": "Women's Clothing",
+    "phone": "(954) 753-9756",
+    "address": "9469 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(954) 344-3610",
+    "address": "9469 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Unique Wear",
+    "description": "Women's Clothing",
+    "phone": "(954) 966-2873",
+    "address": "5421 Sheridan St  Hollywood, FL 33021",
+    "location": "Walton"
+  },
+  {
+    "name": "Maglovir Apparel Designs",
+    "description": "Women's Clothing",
+    "phone": "(954) 753-4995",
+    "address": "925 N University Dr  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Rio Inc.",
+    "description": "Women's Clothing",
+    "phone": "(954) 575-6164",
+    "address": "9231 W Atlantic Blvd  Pompano Beach, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "Soul To Sole",
+    "description": "Women's Clothing",
+    "phone": "(954) 227-8700",
+    "address": "9117 W Atlantic Blvd  Coral Springs, FL 33071",
+    "location": "Walton"
+  },
+  {
+    "name": "NAKS Nhiseana LLC",
+    "description": "Women's Clothing",
+    "phone": "(954) 824-2069",
+    "address": "16000 Pines Blvd #820254  Pembroke Pines, FL 33082",
+    "location": "Walton"
+  },
+  {
+    "name": "Bella Mafia",
+    "description": "Women's Clothing",
+    "phone": "(786) 355-0760",
+    "address": "4010 NW 187th Ter  Miami Gardens, FL 33055",
+    "location": "Walton"
+  },
+  {
+    "name": "Bling Bling Accessories",
+    "description": "Women's Clothing",
+    "phone": "(305) 824-0405",
+    "address": "15434 NW 77th Ct  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "fastmoneyco",
+    "description": "Men's Clothing",
+    "phone": "(754) 234-7935",
+    "address": "666 SW 75th Ave  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Luxxe One",
+    "description": "Women's Fashion Accessories",
+    "phone": "(786) 886-9944",
+    "address": "19756 NW 27th Ave  Opa Locka, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Undrgrnd Inc",
+    "description": "Men's Clothing",
+    "phone": "(305) 587-9710",
+    "address": "6805 Main St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Moondrops",
+    "description": "Women's Clothing",
+    "phone": "(305) 825-0029",
+    "address": "6767 Main St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Ana Fashions",
+    "description": "Women's Clothing",
+    "phone": "(305) 623-2999",
+    "address": "16402 NW 54th Ave  Hialeah, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Atlantic Hosiery Inc",
+    "description": "Hosiery",
+    "phone": "(305) 685-7617",
+    "address": "Op Lka  Opa Locka, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Peru Cotton Import",
+    "description": "Importers",
+    "phone": "(305) 887-6400",
+    "address": "5440 NW 161st St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Z D Market",
+    "description": "Perfume-Wholesale & Manufacturers",
+    "phone": "(786) 768-6244",
+    "address": "6180 Miramar Pkwy  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "Dress In Style",
+    "description": "Women's Clothing",
+    "phone": "(305) 825-0255",
+    "address": "3460 W 84th St Unit 110  Hialeah, FL 33018",
+    "location": "Walton"
+  },
+  {
+    "name": "799 or Less",
+    "description": "Women's Clothing",
+    "phone": "(954) 532-3048",
+    "address": "6041 Kimberly Blvd  North Lauderdale, FL 33068",
+    "location": "Walton"
+  },
+  {
+    "name": "Stylezfashions",
+    "description": "Women's Clothing",
+    "phone": "(305) 623-3377",
+    "address": "18589 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Rlfboutique",
+    "description": "Women's Clothing",
+    "phone": "(954) 621-6529",
+    "address": "6107 SW 35th Ct  Miramar, FL 33023",
+    "location": "Walton"
+  },
+  {
+    "name": "JYK Apparel, LLC.",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(305) 626-3525",
+    "address": "18383 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Creative Apparel Service Inc",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(305) 824-0012",
+    "address": "5759 NW 151st St  Miami Lakes, FL 33014",
+    "location": "Walton"
+  },
+  {
+    "name": "Skylimit Associates",
+    "description": "Women's Clothing",
+    "phone": "(954) 346-3403",
+    "address": "10211 W Sample Rd  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Nose For Clothes A",
+    "description": "Women's Clothing",
+    "phone": "(954) 753-0202",
+    "address": "2808 N University Dr  Coral Springs, FL 33065",
+    "location": "Walton"
+  },
+  {
+    "name": "Petit Pois By Viviana G",
+    "description": "Women's Clothing",
+    "phone": "(305) 826-7867",
+    "address": "2202 W 78th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Yours Truly Inc",
+    "description": "Women's Clothing",
+    "phone": "(954) 922-5456",
+    "address": "4100 N 29th Ter  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Holt Miami",
+    "description": "Online & Mail Order Shopping",
+    "phone": "(954) 850-4658",
+    "address": "1917 Tigertail Blvd  Dania, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "Posh Behavior Shoppe",
+    "description": "Women's Clothing",
+    "phone": "(786) 520-8975",
+    "address": "17325 NW 27th Ave Ste 201  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow Ladies Apparel",
+    "description": "Women's Clothing",
+    "phone": "(305) 626-9531",
+    "address": "17165 NW 27th Ave  Miami Gardens, FL 33056",
+    "location": "Walton"
+  },
+  {
+    "name": "Nurielle Nurielle",
+    "description": "Women's Clothing",
+    "phone": "(954) 400-8675",
+    "address": "4142 N 28th Ter  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Jalan Jalan Collection",
+    "description": "Women's Clothing",
+    "phone": "(754) 263-2812",
+    "address": "3790 N 28th Ter  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Karina Wild Fashion",
+    "description": "Women's Clothing",
+    "phone": "(305) 827-6060",
+    "address": "2033 W 73rd St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Lindbergh",
+    "description": "Men's Clothing",
+    "phone": "(754) 231-1029",
+    "address": "126 N Pointe Dr  Dania, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "Designers Market",
+    "description": "Women's Clothing",
+    "phone": "(954) 374-1938",
+    "address": "114 N Pointe Dr  Dania, FL 33004",
+    "location": "Walton"
+  },
+  {
+    "name": "JDA Fashion Inc",
+    "description": "Fashion Designers",
+    "phone": "(786) 360-1662",
+    "address": "2750 W 68th St  Hialeah, FL 33016",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow Stores",
+    "description": "Women's Clothing",
+    "phone": "(954) 929-9849",
+    "address": "3731 Oakwood Blvd  Hollywood, FL 33020",
+    "location": "Walton"
+  },
+  {
+    "name": "Gun Roller Paintball",
+    "description": "Men's Clothing",
+    "phone": "(954) 381-9476",
+    "address": "360 E Laurel Dr Apt F7  Margate, FL 33063",
+    "location": "Walton"
+  },
+  {
+    "name": "Dynasty Apparel",
+    "description": "Women's Clothing",
+    "phone": "(305) 953-1284",
+    "address": "4153 NW 135th St  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Las Olas International Fashion",
+    "description": "Women's Clothing",
+    "phone": "(305) 688-5865",
+    "address": "4144 NW 132nd St  Opa Locka, FL 33054",
+    "location": "Walton"
+  },
+  {
+    "name": "Kreations",
+    "description": "Women's Clothing",
+    "phone": "(954) 458-3344",
+    "address": "1086 NW 1st Ct  Hallandale Beach, FL 33009",
+    "location": "Walton"
+  },
+  {
+    "name": "Inas Alteration",
+    "description": "Clothing Alterations",
+    "phone": "(954) 977-8833",
+    "address": "1251 S Powerline Rd  Pompano Beach, FL 33069",
+    "location": "Walton"
+  },
+  {
+    "name": "Fitwell Custom Tailors",
+    "description": "Clothing Stores",
+    "phone": "(954) 471-2737",
+    "address": "2731 E Oakland Park Blvd  Fort Lauderdale, FL 33306",
+    "location": "Walton"
+  },
+  {
+    "name": "MAC Sports Supplies",
+    "description": "Clothing Stores",
+    "phone": "(786) 671-4291",
+    "address": "10756 SW 24th Street  Miami, FL 33165",
+    "location": "Walton"
+  },
+  {
+    "name": "Divaz Boutique",
+    "description": "Clothing Stores",
+    "phone": "(754) 800-4109",
+    "address": "43 S Pompano Pkwy  Pompano Beach, FL 33069",
+    "location": "Walton"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Clothing Stores",
+    "phone": "(954) 974-5516",
+    "address": "181 S Pompano Pkwy  Pompano Beach, FL 33069",
+    "location": "Walton"
+  },
+  {
+    "name": "Dot's",
+    "description": "Women's Clothing",
+    "phone": "(954) 971-7449",
+    "address": "179 S Pompano Pkwy  Pompano Beach, FL 33069",
+    "location": "Walton"
+  }
+]

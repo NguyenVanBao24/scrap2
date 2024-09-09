@@ -1,0 +1,961 @@
+[
+  {
+    "name": "Bloomin Deals Costume Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 615-8183",
+    "address": "821 King St  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(321) 448-0355",
+    "address": "801 Dixon Blvd Ste 1123  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "S & Q Clothing and Shoes LLC",
+    "description": "Clothing Stores",
+    "phone": "(321) 317-0442",
+    "address": "1417 Clearlake Rd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sweet Realities",
+    "description": "Clothing Stores",
+    "phone": "(321) 877-0025",
+    "address": "116 Harrison St  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Aqua Cowboy",
+    "description": "Clothing Stores",
+    "phone": "(321) 591-4389",
+    "address": "2550 fairfield dr  cocoa, FL 32926",
+    "location": "Hendry"
+  },
+  {
+    "name": "A Little Piece of Heaven for Children",
+    "description": "Clothing Stores",
+    "phone": "(321) 458-3731",
+    "address": "1199 Us Highway 1  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "My 1 Stop T-Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 507-0481",
+    "address": "507 A Ln  Cocoa, FL 32926",
+    "location": "Hendry"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-2814",
+    "address": "120 S Courtenay Pkwy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-8203",
+    "address": "248 Barton Blvd  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sandy Slippah's Aloha Wear",
+    "description": "Clothing Stores",
+    "phone": "(321) 252-0501",
+    "address": "392 Richard Rd  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-3880",
+    "address": "77 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sid's Mens Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6011",
+    "address": "77 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "DD's Discounts",
+    "description": "Clothing Stores",
+    "phone": "(321) 986-8374",
+    "address": "230 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Jimmy D's Custom T's",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2323",
+    "address": "119 Mustang Way Ste 1  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Handler Fishing Supply",
+    "description": "Clothing Stores",
+    "phone": "(321) 799-9708",
+    "address": "270 Borman Dr  merritt island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Vratim",
+    "description": "Clothing Stores",
+    "phone": "(321) 806-3249",
+    "address": "150 Venetian Way  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-5141",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3690",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-1245",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "EWC Clothing USA 4 Kids",
+    "description": "Clothing Stores",
+    "phone": "(321) 248-6041",
+    "address": "410 Palm Blvd  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Warmsley Jean",
+    "description": "Clothing Stores",
+    "phone": "(321) 455-2872",
+    "address": "1200 S Courtenay Pkwy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "AVON Independent Representative Lisa Waite",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-3620",
+    "address": "PO Box 000  Rockledge, FL 32956",
+    "location": "Hendry"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-1690",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "J Grace and Co",
+    "description": "Clothing Stores",
+    "phone": "(321) 369-9157",
+    "address": "2270 Town Center Ave Ste 109  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "It's Sew Adorable",
+    "description": "Clothing Stores",
+    "phone": "(321) 622-6815",
+    "address": "6059 Apple Ave  Cocoa, FL 32927",
+    "location": "Hendry"
+  },
+  {
+    "name": "Gerb USA",
+    "description": "Clothing Stores",
+    "phone": "(321) 525-1406",
+    "address": "5614 Jamaica Rd  Cocoa, FL 32927",
+    "location": "Hendry"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(321) 338-1078",
+    "address": "2281 Town Center Ave Ste 113  Viera, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-5252",
+    "address": "2251 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Catalyst",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-1530",
+    "address": "109 N Orlando Ave  Cocoa Beach, FL 32931",
+    "location": "Hendry"
+  },
+  {
+    "name": "Thee Brand USA",
+    "description": "Clothing Stores",
+    "phone": "(321) 795-9975",
+    "address": "100 E Central Blvd  Cape Canaveral, FL 32920",
+    "location": "Hendry"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(321) 259-5775",
+    "address": "4100 N Wickham Rd  Melbourne, FL 32935",
+    "location": "Hendry"
+  },
+  {
+    "name": "A & M Auto Salvage",
+    "description": "Clothing Stores",
+    "phone": "(321) 307-2310",
+    "address": "2617 Aurora Road  Melbourne, FL 32935",
+    "location": "Hendry"
+  },
+  {
+    "name": "Indian River Antique Mall",
+    "description": "Clothing Stores",
+    "phone": "(321) 759-6255",
+    "address": "1433 S Patrick Dr  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  },
+  {
+    "name": "Dots",
+    "description": "Clothing Stores",
+    "phone": "(321) 567-3527",
+    "address": "4424 S Hopkins Ave  Titusville, FL 32780",
+    "location": "Hendry"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(321) 342-3667",
+    "address": "4100 N Wickham Rd Ste 132  Melbourne, FL 32935",
+    "location": "Hendry"
+  },
+  {
+    "name": "The Yellow Gecko",
+    "description": "Clothing Stores",
+    "phone": "(321) 745-8903",
+    "address": "599 Sherwood Avenue #207  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  },
+  {
+    "name": "Bartman Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 259-4898",
+    "address": "2735 Center Pl  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(321) 633-6666",
+    "address": "1044 Clearlake Rd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "C-S Western Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 403-4450",
+    "address": "2130 King St  Cocoa, FL 32926",
+    "location": "Hendry"
+  },
+  {
+    "name": "The Remix",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-3888",
+    "address": "509 S Cocoa Blvd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sun Ray Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(321) 632-6666",
+    "address": "211 Willard St  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Frankly My Dear",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3327",
+    "address": "404 Brevard Ave Ste A  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Tropics",
+    "description": "Clothing Stores",
+    "phone": "(321) 632-1887",
+    "address": "118 Harrison St  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(321) 986-8278",
+    "address": "240 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Custom Prints",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3652",
+    "address": "1740 Huntington Ln  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-0475",
+    "address": "224 Barton Blvd  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(321) 638-0475",
+    "address": "224 Barton Blvd  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Masters Clothier",
+    "description": "Clothing Stores",
+    "phone": "(321) 576-0806",
+    "address": "1011 Rockledge Dr  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "U Design It Custom TS Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 301-4452",
+    "address": "1129 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-3665",
+    "address": "77 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Jimmy D's Custom T's and Sporting Goods",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2323",
+    "address": "124 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Karin Konnects",
+    "description": "Clothing Stores",
+    "phone": "(321) 474-0925",
+    "address": "420 Catamaran Dr Apt 88  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(321) 452-6811",
+    "address": "777 E Merritt Island Cswy Ste 210  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-6990",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(321) 455-6255",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-2375",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-5141",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(321) 454-1300",
+    "address": "777 E Merritt Island Cswy Ste 139  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Male Attractions Inc",
+    "description": "Clothing Stores",
+    "phone": "(321) 459-0996",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "On Deck",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-2809",
+    "address": "1735 N Banana River Dr  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(321) 636-4121",
+    "address": "2271 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(321) 639-8126",
+    "address": "2261 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-2400",
+    "address": "2281 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(321) 294-4658",
+    "address": "2261 Town Center Ave Ste 585  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(321) 212-7010",
+    "address": "2261 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(321) 637-0494",
+    "address": "2271 Town Center Ave Ste 119  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Pike Products, Inc. Space Shirts",
+    "description": "Clothing Stores",
+    "phone": "(321) 453-7453",
+    "address": "6116 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(321) 433-3647",
+    "address": "2251 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Beach Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(321) 784-3310",
+    "address": "3650 N Atlantic Ave  Cocoa Beach, FL 32931",
+    "location": "Hendry"
+  },
+  {
+    "name": "The Pier Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-7549",
+    "address": "401 Meade Ave  Cocoa Beach, FL 32931",
+    "location": "Hendry"
+  },
+  {
+    "name": "Tropical Threads Boutique",
+    "description": "Clothing Stores",
+    "phone": "(321) 783-7549",
+    "address": "401 Meade Ave  Cocoa Beach, FL 32931",
+    "location": "Hendry"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-3970",
+    "address": "6729 Colonnade Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(321) 631-0814",
+    "address": "7171 Lake Andrew Dr  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(321) 426-9198",
+    "address": "4100 N Wickham Rd  Melbourne, FL 32935",
+    "location": "Hendry"
+  },
+  {
+    "name": "U.S. Patriot",
+    "description": "Clothing Stores",
+    "phone": "(321) 425-5713",
+    "address": "1221 S Patrick Dr Ste 101  Patrick Afb, FL 32925",
+    "location": "Hendry"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(321) 264-1579",
+    "address": "3055 Columbia Blvd  Titusville, FL 32780",
+    "location": "Hendry"
+  },
+  {
+    "name": "Carlsen's Trophy Shop",
+    "description": "Clothing Stores",
+    "phone": "(321) 777-2381",
+    "address": "575 Jackson Ave  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  },
+  {
+    "name": "L & H Silkscreen",
+    "description": "Clothing Stores",
+    "phone": "(321) 773-0910",
+    "address": "517 Sheridan Ave  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  },
+  {
+    "name": "Brevard Team Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 639-8326",
+    "address": "606 S Cocoa Blvd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(321) 639-1610",
+    "address": "2700 Clearlake Rd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Fresh Street",
+    "description": "Department Stores",
+    "phone": "(321) 631-6464",
+    "address": "511 S Cocoa Blvd  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "warehouse216",
+    "description": "Women's Clothing",
+    "phone": "(321) 368-2307",
+    "address": "216 florida ave  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Michele Jonice",
+    "description": "Fashion Designers",
+    "phone": "(321) 544-2260",
+    "address": "226 King St Suite 150  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "New Look Boutique",
+    "description": "Women's Clothing",
+    "phone": "(321) 750-7704",
+    "address": "209 Brevard Ave  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Season Tickets Boutique",
+    "description": "Boutique Items",
+    "phone": "(321) 690-1919",
+    "address": "301 Brevard Ave  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Mangos",
+    "description": "Boutique Items",
+    "phone": "(321) 639-3292",
+    "address": "319 Brevard Ave  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Green Apples Inc",
+    "description": "Women's Clothing",
+    "phone": "(321) 635-8728",
+    "address": "111 Harrison St  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "Village Cycle Shoppe",
+    "description": "Bicycle Shops",
+    "phone": "(321) 806-3917",
+    "address": "4 Harrison St Suite 105  Cocoa, FL 32922",
+    "location": "Hendry"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(321) 452-4661",
+    "address": "320 W Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Warehouse On Grove",
+    "description": "Women's Clothing",
+    "phone": "(321) 417-5457",
+    "address": "255 N Grove St., Ste C  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Rebecca's Of Merritt Island",
+    "description": "Women's Clothing",
+    "phone": "(321) 452-5577",
+    "address": "150 N Grove St  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(321) 452-1014",
+    "address": "250 Crockett Blvd  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Dollar General Market",
+    "description": "Discount Stores",
+    "phone": "(321) 453-1983",
+    "address": "239 Crockett Blvd  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(321) 456-9902",
+    "address": "777 E Merritt Island Cswy Ste E7  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 452-7796",
+    "address": "150 E Merritt Island Cswy Ste B  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Finish Line Inc",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-7602",
+    "address": "1480 Mercury St  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "PIRATA Group LLC",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(877) 366-0616",
+    "address": "2460 N Courtenay Pkwy  Merritt Island, FL 32953",
+    "location": "Hendry"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(321) 452-9181",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(321) 456-5905",
+    "address": "777 E Merritt Island Cswy Spc H3  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sid's Mens Fashions",
+    "description": "Men's Clothing",
+    "phone": "(321) 452-6011",
+    "address": "777 E Merritt Island Cswy Ste 150  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(321) 452-6411",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(321) 453-2888",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(321) 459-1044",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sports Heaven",
+    "description": "Sportswear",
+    "phone": "(321) 456-5869",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(321) 452-0751",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Dollar Star",
+    "description": "Variety Stores",
+    "phone": "(321) 449-7316",
+    "address": "777 E Merritt Island Cswy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-9137",
+    "address": "777 E Merritt Island Cswy Space J-9  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Drift House Surf Shop",
+    "description": "Boutique Items",
+    "phone": "(321) 455-1522",
+    "address": "777 E Merritt Island Cswy Suite 126  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lewandowski Stanley",
+    "description": "Women's Clothing",
+    "phone": "(321) 455-2334",
+    "address": "1200 S Courtenay Pkwy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(321) 452-9554",
+    "address": "250 S Sykes Creek Pkwy  Merritt Island, FL 32952",
+    "location": "Hendry"
+  },
+  {
+    "name": "Elifeguard Inc",
+    "description": "Swimwear & Accessories",
+    "phone": "(321) 433-3630",
+    "address": "265 Barnes Blvd  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Stan Oley's Tennis Equipment Sales and Services",
+    "description": "Tennis Equipment & Supplies",
+    "phone": "(800) 352-6878",
+    "address": "4711 Chardonnay Dr  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "Vanity",
+    "description": "Women's Clothing",
+    "phone": "(321) 978-5444",
+    "address": "684 West Ave  Cocoa, FL 32927",
+    "location": "Hendry"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(321) 632-6674",
+    "address": "2281 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(321) 510-0609",
+    "address": "2271 Town Center Ave Ste 107  Viera, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(321) 482-5861",
+    "address": "2271 Town Center Ave Ste 103  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(321) 745-2169",
+    "address": "2271 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(321) 637-1290",
+    "address": "2271 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(321) 639-8805",
+    "address": "2271 Town Center Ave Ste 107  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(321) 636-1033",
+    "address": "2261 Town Center Ave Ste 131  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(321) 504-6330",
+    "address": "2261 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(321) 639-3200",
+    "address": "2261 Town Center Ave Ste 105  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(321) 639-8126",
+    "address": "2261 Town Center Ave Ste 101  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Finishline",
+    "description": "Shoe Stores",
+    "phone": "(321) 634-5139",
+    "address": "2251 Town Center Ave Ste 117  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Squishy Bath and Body Goods",
+    "description": "Cosmetics & Perfumes",
+    "phone": "(844) 200-2284",
+    "address": "2250 Town Center Ave Ste 109  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Patchington",
+    "description": "Women's Clothing",
+    "phone": "(321) 636-1717",
+    "address": "2270 Town Center Ave  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(321) 632-5382",
+    "address": "6670 Colonnade Ave  Viera, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Sins of Skin",
+    "description": "Women's Clothing",
+    "phone": "(321) 613-3999",
+    "address": "7011 N Atlantic Ave  Cape Canaveral, FL 32920",
+    "location": "Hendry"
+  },
+  {
+    "name": "Suntree Consignment Boutique",
+    "description": "Consignment Service",
+    "phone": "(321) 242-0016",
+    "address": "3199 Suntree Blvd Ste 4  Rockledge, FL 32955",
+    "location": "Hendry"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(321) 343-6435",
+    "address": "7201 Shoppes Dr  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Wal-Mart SuperCenter",
+    "description": "General Merchandise",
+    "phone": "(321) 242-0225",
+    "address": "8500 N Wickham Rd  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Patrick Air Force Base Exchange",
+    "description": "Department Stores",
+    "phone": "(321) 428-4560",
+    "address": "1221 S Patrick Dr  Patrick Afb, FL 32925",
+    "location": "Hendry"
+  },
+  {
+    "name": "Swanky Sole",
+    "description": "Shoe Stores",
+    "phone": "(321) 428-4915",
+    "address": "6395 N Wickham Rd  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "La Moda Boutique",
+    "description": "Boutique Items",
+    "phone": "(321) 773-5234",
+    "address": "6395 N Wickham Rd Ste 105  Melbourne, FL 32940",
+    "location": "Hendry"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(321) 269-2879",
+    "address": "3065 Columbia Blvd  Titusville, FL 32780",
+    "location": "Hendry"
+  },
+  {
+    "name": "Galls - Patriot Outfitters",
+    "description": "Sportswear",
+    "phone": "(321) 425-5713",
+    "address": "1221 S Patrick Dr  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  },
+  {
+    "name": "Oneliners Designs",
+    "description": "Men's Clothing",
+    "phone": "(321) 288-0627",
+    "address": "265 Jackson Ave  Satellite Beach, FL 32937",
+    "location": "Hendry"
+  }
+]

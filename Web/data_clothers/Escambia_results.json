@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Retail Therapy",
+    "description": "Clothing Stores",
+    "phone": "(850) 267-0990",
+    "address": "4552 US Highway 98 W  Santa Rosa Beach, FL 32459",
+    "location": "Escambia"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(850) 269-2600",
+    "address": "4443Cmnsdrestei-102&I-103  Destin, FL 32541",
+    "location": "Escambia"
+  },
+  {
+    "name": "Ralph Lauren",
+    "description": "Clothing Stores",
+    "phone": "(850) 650-5100",
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
+  },
+  {
+    "name": "School Spirit Supplies",
+    "description": "Clothing Stores",
+    "phone": "(866) 862-3222",
+    "address": "1580 Texas Pkwy  Crestview, FL 32536",
+    "location": "Escambia"
+  },
+  {
+    "name": "J & P Glitz & Glitter",
+    "description": "Clothing Stores",
+    "phone": "(850) 398-6999",
+    "address": "604 W James Lee Blvd  Crestview, FL 32536",
+    "location": "Escambia"
+  },
+  {
+    "name": "Oceana Blue",
+    "description": "Clothing Stores",
+    "phone": "(850) 622-0106",
+    "address": "56 Spires Ln Unit 17A  Santa Rosa Beach, FL 32459",
+    "location": "Escambia"
+  },
+  {
+    "name": "Kenneth Cole",
+    "description": "Clothing Stores",
+    "phone": "(850) 654-8789",
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
+  },
+  {
+    "name": "Taylor's Bridal Consulting & Dressmaking",
+    "description": "Clothing Stores",
+    "phone": "(850) 682-4909",
+    "address": "5936 Meadow Ln N  Crestview, FL 32539",
+    "location": "Escambia"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(850) 689-8500",
+    "address": "1133 Industrial Dr  Crestview, FL 32539",
+    "location": "Escambia"
+  },
+  {
+    "name": "Intimate Treasures",
+    "description": "Clothing Stores",
+    "phone": "(850) 423-1150",
+    "address": "478 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
+  },
+  {
+    "name": "Boca Boutique & Galeri",
+    "description": "Boutique Items",
+    "phone": "(850) 654-8810",
+    "address": "12889 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
+  },
+  {
+    "name": "Juicy Couture",
+    "description": "Women's Clothing",
+    "phone": "(850) 650-0332",
+    "address": "10562 US Highway 98 W  Miramar Beach, FL 32550",
+    "location": "Escambia"
+  },
+  {
+    "name": "Kindred",
+    "description": "Women's Clothing",
+    "phone": "(850) 537-2848",
+    "address": "1307 Georgia Ave  Baker, FL 32531",
+    "location": "Escambia"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(850) 689-3654",
+    "address": "219 Lakeview Dr  Crestview, FL 32536",
+    "location": "Escambia"
+  },
+  {
+    "name": "Cherokee Beach Factory Outlet",
+    "description": "Discount Stores",
+    "phone": "(850) 689-8000",
+    "address": "478 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
+  },
+  {
+    "name": "Born Country",
+    "description": "Department Stores",
+    "phone": "(850) 331-3124",
+    "address": "702 E James Lee Blvd  Crestview, FL 32539",
+    "location": "Escambia"
+  }
+]

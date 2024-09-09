@@ -9,8 +9,12 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
 
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 1500000 });
     console.log(' >> truy cập URL', url);
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 150000 });
+    console.log(' >> truy cập URL', url);
 
     await page.waitForSelector('#content-container', { timeout: 1500000 });
+    console.log(' >> web đã load xong');
+    await page.waitForSelector('#content-container', { timeout: 150000 });
     console.log(' >> web đã load xong');
 
     await page.evaluate(
@@ -28,11 +32,11 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
 
     await page.click('button[value="Find"]');
     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
+    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 150000 });
 
-    // page.on('console', (consoleObj) => console.log(consoleObj.text()));
+    page.on('console', (consoleObj) => console.log(consoleObj.text()));
 
     while (true) {
-      // Lấy dữ liệu trên trang hiện tại
       const shopsOnPage = await page.evaluate(() => {
         const elements = document.querySelectorAll('[data-ypid]');
         return Array.from(elements).map((el) => {
@@ -42,16 +46,16 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
             const phone = el.querySelector('.phones.phone');
             const street = el.querySelector('.adr > .street-address');
             const location = el.querySelector('.adr > .locality');
+
             return {
               name: name ? name.innerText : 'N/A',
               description: description ? description.innerText : 'N/A',
               phone: phone ? phone.innerText : 'N/A',
-              address: `street: ${street ? street.innerText : 'N/A'} location: ${location ? location.innerText : 'N/A'}`,
+              address: ` ${street ? street.innerText : 'N/A'} - ${location ? location.innerText : 'N/A'}`,
             };
           } catch (err) {
             console.error('Lỗi khi lấy dữ liệu của một phần tử:', err);
             return {
-              dataYpid: 'N/A',
               name: 'N/A',
               description: 'N/A',
               phone: 'N/A',
@@ -63,13 +67,14 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
 
       dataShop.push(...shopsOnPage);
 
-      // Kiểm tra số lượng trang và điều hướng đến trang tiếp theo nếu có
       const isNext = await page.$('.pagination .next.ajax-page');
       if (isNext) {
         await page.click('.pagination .next.ajax-page');
         await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
+        await page.click('.pagination .next.ajax-page');
+        console.log('first');
+        await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 150000 });
         currentPage++;
-        await new Promise((resolve) => setTimeout(resolve, 500)); // Đợi một chút trước khi tiếp tục
       } else {
         break;
       }

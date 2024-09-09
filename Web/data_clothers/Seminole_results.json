@@ -1,0 +1,3054 @@
+[
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-8832",
+    "address": "7351 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 395-0109",
+    "address": "7845 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": ".B.",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-0421",
+    "address": "11201 Park Blvd Ste N  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Your CBD Store - Seminole, FL",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-4223",
+    "address": "7182 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 398-2255",
+    "address": "7191 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "T & J Ministries and Thrift Store Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-0353",
+    "address": "5125 Seminole Blvd  Saint Petersburg, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0120",
+    "address": "7185 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0396",
+    "address": "7931 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Next Gifts",
+    "description": "Clothing Stores",
+    "phone": "(619) 274-3987",
+    "address": "10751 75th St  Seminole, FL 33777",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-0120",
+    "address": "7185 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-9792",
+    "address": "7919 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Talbots Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 214-1013",
+    "address": "7927 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-6809",
+    "address": "11201 Park Blvd Ste 50  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(863) 225-4407",
+    "address": "10086 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Island Traders Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "10490 75th St Ste A  Seminole, FL 33777",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bronze Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 319-9500",
+    "address": "6190 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cottonseed Casual Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-2437",
+    "address": "8920 118th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fantasy Planet Beach Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2776",
+    "address": "11235 Kapok Grand Cir  Saint Petersburg, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Manatee Bay Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(800) 444-6231",
+    "address": "6911 Bryan Dairy Rd  Seminole, FL 33777",
+    "location": "Seminole"
+  },
+  {
+    "name": "T J's Unique Boutique",
+    "description": "Consignment Service",
+    "phone": "(727) 397-1073",
+    "address": "9148 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(727) 319-0018",
+    "address": "7943 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(727) 347-1188",
+    "address": "10237 Bay Pines Blvd  Saint Petersburg, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(727) 393-9792",
+    "address": "7919 113th St  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Gator Haven",
+    "description": "Sportswear",
+    "phone": "(727) 541-9809",
+    "address": "7976 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Half Moon Direct Yoga Apparel & Accessories",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-2701",
+    "address": "P.O. Box 8007  Seminole, FL 33775",
+    "location": "Seminole"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(727) 393-7716",
+    "address": "10992 Park Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "Discount Palms & Plants",
+    "description": "Department Stores",
+    "phone": "(727) 385-7913",
+    "address": "9009 Seminole Blvd  Seminole, FL 33772",
+    "location": "Seminole"
+  },
+  {
+    "name": "JIM&apos;S BICYCLE SHOP",
+    "description": "Sporting Goods",
+    "phone": "(727) 263-4133",
+    "address": "5018 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "rue21- Closed",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-4163",
+    "address": "10500 Ulmerton Rd Ste 706-710  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Attitudes Dancewear Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-0447",
+    "address": "13002 Seminole Blvd  Largo, FL 33778",
+    "location": "Seminole"
+  },
+  {
+    "name": "Avon Largo Independent Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(727) 410-3224",
+    "address": "12100 Seminole Blvd Lot 205  Largo, FL 33778",
+    "location": "Seminole"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6423",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bay Pines Bait & Tackle",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2687",
+    "address": "9385 Bay Pines Blvd  Saint Petersburg, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Wild Time Island Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "12932 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Flaming Pearl Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-5683",
+    "address": "8016 31st Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Wild Style USA Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 391-8800",
+    "address": "12801 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tarpon Bay Trading Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-6191",
+    "address": "180 Johns Pass Boardwalk W  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Pants Towne",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-0099",
+    "address": "6000 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Great White Cus Tom Appare",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-5388",
+    "address": "13090 91st St  Largo, FL 33773",
+    "location": "Seminole"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(727) 797-3236",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Beautiful & Big",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2646",
+    "address": "6996 66th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sofresh Soclean Fits",
+    "description": "Clothing Stores",
+    "phone": "(727) 954-3942",
+    "address": "11561 Walsingham Rd Ste G  Largo, FL 33778",
+    "location": "Seminole"
+  },
+  {
+    "name": "1st Dance Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 490-1746",
+    "address": "5098 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bella Babies Consignment",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-2229",
+    "address": "7187 66th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Spencers Western World Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-2606",
+    "address": "7108 66th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cool Styles",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-2525",
+    "address": "12921 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-1531",
+    "address": "4820 Park St N  St Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Scrubs N Stuff",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-6750",
+    "address": "3993 Tyrone Blvd N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8004",
+    "address": "6000 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2088",
+    "address": "3700 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(727) 585-5587",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 541-5824",
+    "address": "7400 66th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(800) 469-4663",
+    "address": "4600 Park St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Alligator Alley",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-2789",
+    "address": "12901 Gulf Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "John's Pass Trading Co.",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-6910",
+    "address": "12901 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(727) 250-5192",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bonworth",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0639",
+    "address": "10500 Ulmerton Rd Ste 698  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-0543",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Surf West",
+    "description": "Clothing Stores",
+    "phone": "(727) 392-0211",
+    "address": "15327 Gulf Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Island Attitudes",
+    "description": "Clothing Stores",
+    "phone": "(727) 393-7966",
+    "address": "13003 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Wild Time Surf Shop",
+    "description": "Clothing Stores",
+    "phone": "(727) 397-5716",
+    "address": "12930 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Tee Hive",
+    "description": "Clothing Stores",
+    "phone": "(727) 601-4604",
+    "address": "9310 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Dollar Discount",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-1639",
+    "address": "5208 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-2160",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(727) 726-5214",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(727) 723-3860",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-3690",
+    "address": "4860 Park St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Royal Cothiers",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8000",
+    "address": "14219 Walsingham Rd  Largo, FL 33774",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sam's Club",
+    "description": "Department Stores",
+    "phone": "(727) 547-8955",
+    "address": "7001 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(727) 548-0400",
+    "address": "4450 Park St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 344-0601",
+    "address": "3942 Tyrone Blvd N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Colette's Fashions & Swimwear",
+    "description": "Women's Clothing",
+    "phone": "(727) 392-2796",
+    "address": "15033 Madeira Way  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(727) 513-8871",
+    "address": "4600 Park St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 587-0839",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Pheeney's Boutique",
+    "description": "Candles",
+    "phone": "(727) 565-0207",
+    "address": "14953 Gulf Blvd Ste A  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(727) 585-5485",
+    "address": "10357 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Seminole Sports and Apparel",
+    "description": "Sportswear",
+    "phone": "(727) 474-5009",
+    "address": "12561 Ulmerton Rd  Largo, FL 33774",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sports Fan Attic",
+    "description": "Sporting Goods",
+    "phone": "(727) 393-7941",
+    "address": "12929 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(727) 393-7941",
+    "address": "12929 Village Blvd  Madeira Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Hunt",
+    "description": "Department Stores",
+    "phone": "(727) 506-3200",
+    "address": "12690 Starkey Rd  Largo, FL 33773",
+    "location": "Seminole"
+  },
+  {
+    "name": "Pamela M",
+    "description": "Women's Clothing",
+    "phone": "(727) 319-2088",
+    "address": "16701 Gulf Blvd  North Redington Beach, FL 33708",
+    "location": "Seminole"
+  },
+  {
+    "name": "Solomon's Casual Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 541-1606",
+    "address": "7801 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 581-8994",
+    "address": "10500 Ulmerton Rd Ste 618  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Handbags",
+    "phone": "(727) 585-7548",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lush Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 914-3503",
+    "address": "5526 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Group USA",
+    "description": "Women's Clothing",
+    "phone": "(727) 685-5595",
+    "address": "4940 66th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(727) 796-3020",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fashion Imports",
+    "description": "Women's Clothing",
+    "phone": "(727) 584-7905",
+    "address": "3995 South Cir  Largo, FL 33774",
+    "location": "Seminole"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(727) 371-4927",
+    "address": "1279 S Missouri Ave  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "2399 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-3229",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(727) 322-6492",
+    "address": "3270 Central Ave  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Be Robin Hood",
+    "description": "Clothing Stores",
+    "phone": "(813) 444-8701",
+    "address": "204 4th Ave  Indian Rocks Beach, FL 33785",
+    "location": "Seminole"
+  },
+  {
+    "name": "ValRich Sports Paradise Golf",
+    "description": "Clothing Stores",
+    "phone": "(727) 240-0288",
+    "address": "7500 Ulmerton Rd Ste 30  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "The pants towne Army Navy Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-8804",
+    "address": "6000 49th St N  Saint Petersburg, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0720",
+    "address": "6901 Tyrone Sq Ste 230  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Embrace Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 424-9446",
+    "address": "7124 49th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Get Reel Get Fish",
+    "description": "Clothing Stores",
+    "phone": "(727) 528-2111",
+    "address": "4590 62nd Ave N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(727) 381-9701",
+    "address": "6969 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6484",
+    "address": "6933 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-0123",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-3336",
+    "address": "7500 Bayshore Dr  Treasure Island, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Star Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Patchington",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3561",
+    "address": "6399 142nd Ave N  Clearwater, FL 33760",
+    "location": "Seminole"
+  },
+  {
+    "name": "Criativity",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-4191",
+    "address": "720 9th Ave SW  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "lularoe.cathyadams.Find your UNICORN with the CAT",
+    "description": "Clothing Stores",
+    "phone": "(727) 804-9958",
+    "address": "8045 13th Ave S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Orvis",
+    "description": "Clothing Stores",
+    "phone": "(727) 576-4169",
+    "address": "9501 Us Highway 19 N  Pinellas Park, FL 33782",
+    "location": "Seminole"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-2230",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-1789",
+    "address": "2281 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tilly's",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6396",
+    "address": "1020 S Fort Harrison Ave  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "It's Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-5900",
+    "address": "1031 112th Avenue A  Treasure Island, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Elizabeth Bargain Bin Corp",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-2299",
+    "address": "6901 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Florida Jean Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 365-8440",
+    "address": "6418 107th Ter N  Pinellas Park, FL 33782",
+    "location": "Seminole"
+  },
+  {
+    "name": "Undergound by Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3462",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Snipes",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6276",
+    "address": "6901 22nd Ave N Spc 854B  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Jas-Lin's LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 313-4542",
+    "address": "7500 Ulmerton Rd Ste 10  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-8907",
+    "address": "6752 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Niles Dresses",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7602",
+    "address": "3703 141st Ave  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Ayeeshas African Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-0310",
+    "address": "5800 87th Ave N  Pinellas Park, FL 33782",
+    "location": "Seminole"
+  },
+  {
+    "name": "Couture'd Largo",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-5081",
+    "address": "910 W Bay Dr  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "12315 62nd St  Largo, FL 33773",
+    "location": "Seminole"
+  },
+  {
+    "name": "After Hour Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-5752",
+    "address": "12880 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "True Victory",
+    "description": "Clothing Stores",
+    "phone": "(843) 732-0316",
+    "address": "2600 Bay Blvd Apt A  Indian Rocks Beach, FL 33785",
+    "location": "Seminole"
+  },
+  {
+    "name": "Salted Air Mercantile",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5250",
+    "address": "596 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Champagne Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 588-4385",
+    "address": "940 Clearwater Largo Rd N  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sea Fear",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-6904",
+    "address": "14770 62nd St N  Clearwater, FL 33760",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tommy's",
+    "description": "Clothing Stores",
+    "phone": "(407) 694-7507",
+    "address": "16117 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Seyler Angelia",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7279",
+    "address": "7907 Sailboat Key Blvd S  South Pasadena, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Hydro Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 289-5619",
+    "address": "4505 131st Ave N  Clearwater, FL 33762",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fashion Scrub Depot St Petersburg",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8892",
+    "address": "5329 Central Ave  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "David & Goliath Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-6205",
+    "address": "1419 S Martin Luther King Jr Ave  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Outrageous Styles by Taye",
+    "description": "Clothing Stores",
+    "phone": "(833) 453-1862",
+    "address": "138 49th St S  St Petersburg, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Avalon Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3662",
+    "address": "2963 44th Ave N  Saint Petersburg, FL 33714",
+    "location": "Seminole"
+  },
+  {
+    "name": "Chrislee Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4600",
+    "address": "1211 Hamlet Ave  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "J & K Custom Ma De Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4278",
+    "address": "4750 10th Ave S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Galli Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 754-3018",
+    "address": "1310 S Belcher Rd  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sunset Sport",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Uzuri Kente",
+    "description": "Clothing Stores",
+    "phone": "(727) 329-6848",
+    "address": "1834 49th St S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Freaky Tiki Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2958",
+    "address": "5210 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "McFly Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4412",
+    "address": "1623 Gulf To Bay Blvd  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Girl Talk",
+    "description": "Clothing Stores",
+    "phone": "(727) 685-7422",
+    "address": "2510 20th Ave N Apt 2  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Jeffy Tees",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-6210",
+    "address": "5012 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Miami Access Direct",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-1615",
+    "address": "1863 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 527-2672",
+    "address": "7328 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Vonda's Passion For Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 623-0952",
+    "address": "6651 49th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Gs Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 420-4860",
+    "address": "118 49th St S  Saint Petersburg, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Wallstwear.com",
+    "description": "Clothing Stores",
+    "phone": "(727) 530-5901",
+    "address": "12600 Belcher Rd S  Largo, FL 33773",
+    "location": "Seminole"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6401",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Snowdonia",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "14100 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lucky Sew & Sew Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-1565",
+    "address": "1775 Woodridge Dr  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Frumenda Wear",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-7873",
+    "address": "620 28th St N  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-3066",
+    "address": "6826 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Express Factory Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-8311",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-6800",
+    "address": "6901 22nd Ave N Ste 476A  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Off The Rack",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-5508",
+    "address": "7500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Golfpendant",
+    "description": "Clothing Stores",
+    "phone": "(727) 687-1731",
+    "address": "702 Country Club Dr  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Reliable Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 449-1316",
+    "address": "807A Court St  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(727) 544-2578",
+    "address": "4501 66th St N  Kenneth City, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bridals and Tux",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-9926",
+    "address": "7250 Ulmerton Rd Suite A  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Supera-Tec Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 521-1294",
+    "address": "4491 62nd Ave N Ste 110  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Whitehouse Custom Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-7398",
+    "address": "7183 30th Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Big Sarge Hats",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-5147",
+    "address": "2265 6th Ave SW  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-2611",
+    "address": "7000 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 347-1170",
+    "address": "2036 66th St N  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(727) 344-7888",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Deko Source",
+    "description": "Clothing Stores",
+    "phone": "(800) 517-7780",
+    "address": "2810 Scherer Dr N Ste 135  Saint Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(727) 346-2300",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Shoe Palace",
+    "description": "Clothing Stores",
+    "phone": "(727) 456-1182",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-5434",
+    "address": "2288 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "6901 22nd Ave N  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(727) 855-4811",
+    "address": "400-490 Indian Rocks Road  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Surf Style 117: Surf, Swimwear, Sporting Goods in Treasure Island",
+    "description": "Clothing Stores",
+    "phone": "(954) 924-9779",
+    "address": "10701 Gulf Blvd  Treasure Island, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "For the Love of Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0700",
+    "address": "428 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Nilla Shields",
+    "description": "Clothing Stores",
+    "phone": "(727) 489-0305",
+    "address": "3051 Tech Dr N  Saint Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Liberty Creative | Screen Printing, Embroidery, Design, & Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-0444",
+    "address": "1299 Starkey Rd Ste 103  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cranial Creations",
+    "description": "Clothing Stores",
+    "phone": "(970) 390-5015",
+    "address": "PO Box 48643  Saint Petersburg, FL 33743",
+    "location": "Seminole"
+  },
+  {
+    "name": "Proforma Source1 Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 266-7559",
+    "address": "240 Sand Key Estates Dr Apt 78  Clearwater, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Breeza Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-1617",
+    "address": "6705 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Agora Leather Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 321-0707",
+    "address": "2101 28th St N  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-3239",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Aeropostale Factory Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4114",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fresh Rags",
+    "description": "Clothing Stores",
+    "phone": "(727) 803-6878",
+    "address": "7620 49th St N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Paris Isabella Clothing Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 545-4900",
+    "address": "4930 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Blu Spero",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-4119",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9585",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Latin Touch Salon",
+    "description": "Clothing Stores",
+    "phone": "(727) 547-5161",
+    "address": "5791 54th Ave N  Kenneth City, FL 33709",
+    "location": "Seminole"
+  },
+  {
+    "name": "Suzette's on the Rocks",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8700",
+    "address": "400 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Pj Design Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 525-0599",
+    "address": "2830 46th Ave N  Saint Petersburg, FL 33714",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sweet Rebel",
+    "description": "Clothing Stores",
+    "phone": "(727) 280-6239",
+    "address": "1106 34th St N  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Apparel World II Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 533-9331",
+    "address": "2101 34th Way  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Designers Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-9080",
+    "address": "2278 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(727) 302-0495",
+    "address": "6797 Tyrone Sq 22nd Ave  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Angies Bouticue",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7696",
+    "address": "1658 Missouri Ave N  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sheepskin and Things Ltd",
+    "description": "Clothing Stores",
+    "phone": "(250) 585-1600",
+    "address": "314 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Windsor Industries",
+    "description": "Clothing Stores",
+    "phone": "(727) 447-7142",
+    "address": "624 Pinellas St  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bikini Key",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5400",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-1717",
+    "address": "2008 66th St N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(727) 341-6401",
+    "address": "6901 22nd Ave N # 230  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(727) 345-6003",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(727) 343-4691",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Suzette's On The Rocks",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8700",
+    "address": "13042 Indian Rocks Rd  Largo, FL 33774",
+    "location": "Seminole"
+  },
+  {
+    "name": "Designer Exchange",
+    "description": "Consignment Service",
+    "phone": "(727) 345-1400",
+    "address": "7038 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Palm Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 596-0194",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Eye Doctor's Optical Outlets",
+    "description": "Optical Goods",
+    "phone": "(727) 547-4856",
+    "address": "3740 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-3345",
+    "address": "6754 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(727) 291-0015",
+    "address": "5251 110th Ave N Ste 120  Clearwater, FL 33760",
+    "location": "Seminole"
+  },
+  {
+    "name": "Advantage Yours Tennis",
+    "description": "Tennis Equipment & Supplies",
+    "phone": "(727) 442-7923",
+    "address": "1875 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cassi & Co",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "100 Indian Rocks Rd N Ste 3  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lu'nique Bridal & Fashion Boutique",
+    "description": "Bridal Shops",
+    "phone": "(727) 223-6498",
+    "address": "7230 Central Ave  Saint Petersburg, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(727) 344-4611",
+    "address": "6990 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 343-0179",
+    "address": "6738 Tyrone Sq Ste 270  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(727) 345-9520",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(727) 347-6748",
+    "address": "6901 22nd Ave N Spc 812  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 345-4165",
+    "address": "6978 Tyrone Sq Ste 776  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 347-4996",
+    "address": "6766 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 327-5701",
+    "address": "3235 Central Ave  St Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "6924 Tyrone Sq  St Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(727) 341-0111",
+    "address": "6924 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 347-7190",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-9833",
+    "address": "2480 66th St N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Simply Fab Dress",
+    "description": "Bridal Shops",
+    "phone": "(754) 260-8244",
+    "address": "13575 58th Street North #287  Clearwater, FL 33760",
+    "location": "Seminole"
+  },
+  {
+    "name": "Annabel's & Annabel's Petites",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-1534",
+    "address": "347 Corey Ave  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tom James Company Tampa Bay",
+    "description": "Men's Clothing",
+    "phone": "(727) 916-7848",
+    "address": "12100 31st Ct N Suite A  Saint Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fashionista Trendy Thrifty",
+    "description": "Men's Clothing",
+    "phone": "(727) 641-9970",
+    "address": "14099 Belcher Rd S Lot 1152  Largo, FL 33771",
+    "location": "Seminole"
+  },
+  {
+    "name": "Kingdom Stylz",
+    "description": "Men's Clothing",
+    "phone": "(727) 277-2199",
+    "address": "Po Box 11343  Saint Petersburg, FL 33733",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(727) 346-2300",
+    "address": "6899 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "SKECHERS Retail",
+    "description": "Shoe Stores",
+    "phone": "(727) 345-1061",
+    "address": "6901 22nd Ave N # 492a  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "St Pete Running Company",
+    "description": "Sporting Goods",
+    "phone": "(727) 800-5043",
+    "address": "6986 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sports Fan-Attic",
+    "description": "Sportswear",
+    "phone": "(727) 347-3595",
+    "address": "2367 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Locker Room By Lids",
+    "description": "Sporting Goods",
+    "phone": "(727) 347-3595",
+    "address": "2367 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(727) 381-3133",
+    "address": "2287 Tyrone Blvd N Ste 110  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Coast 2 Coast Bargain's",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(727) 226-7782",
+    "address": "447 6th Ave NE  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(727) 559-0978",
+    "address": "1111 Missouri Ave N  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Dollar Plus & Party Inc",
+    "description": "Discount Stores",
+    "phone": "(727) 530-0010",
+    "address": "4315 E Bay Dr  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Best Price Deals",
+    "description": "Discount Stores",
+    "phone": "(727) 954-8859",
+    "address": "9151 Us Highway 19 N  Pinellas Park, FL 33782",
+    "location": "Seminole"
+  },
+  {
+    "name": "Clothezline",
+    "description": "Department Stores",
+    "phone": "(727) 346-9000",
+    "address": "940 58th St N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fast Frontier",
+    "description": "Department Stores",
+    "phone": "(727) 601-5673",
+    "address": "13920 58th St N  Clearwater, FL 33760",
+    "location": "Seminole"
+  },
+  {
+    "name": "Walmart Health Center",
+    "description": "General Merchandise",
+    "phone": "(727) 369-2677",
+    "address": "8001 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bucs Stuff",
+    "description": "Sportswear",
+    "phone": "(727) 525-2827",
+    "address": "7101 US Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cerulean Blu",
+    "description": "Department Stores",
+    "phone": "(727) 498-8984",
+    "address": "3725 26th Ave N  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bargain Basement",
+    "description": "Discount Stores",
+    "phone": "(727) 527-3553",
+    "address": "2890 34th St N  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Consumers Companies of America Inc",
+    "description": "Department Stores",
+    "phone": "(727) 507-0525",
+    "address": "1458 S Belcher Rd  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fms Purchasing and Service Inc",
+    "description": "Department Stores",
+    "phone": "(727) 725-2909",
+    "address": "711 S Belcher Rd  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Warm Weather Wear",
+    "description": "Women's Clothing",
+    "phone": "(727) 367-7120",
+    "address": "845 115th Ave  Treasure Island, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(727) 343-3478",
+    "address": "6924 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-0491",
+    "address": "6901 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "L M T D",
+    "description": "Men's Clothing",
+    "phone": "(727) 346-9200",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-6003",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(727) 381-0046",
+    "address": "6901 22nd Ave N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Kickz N Lidz",
+    "description": "Men's Clothing",
+    "phone": "(727) 343-8330",
+    "address": "2353 Tyrone Sq  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(727) 344-6156",
+    "address": "2468 Tyrone Blvd N  Saint Petersburg, FL 33710",
+    "location": "Seminole"
+  },
+  {
+    "name": "Palms-Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 360-5400",
+    "address": "10671 Gulf Blvd  Treasure Island, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "The 802 Gypsy",
+    "description": "Women's Clothing",
+    "phone": "(727) 314-1980",
+    "address": "10365 Paradise Blvd  Saint Petersburg, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(727) 501-0432",
+    "address": "100 Indian Rocks Rd N Ste H  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Marsha Jay Uhle R",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "100 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sabella Boutique",
+    "description": "Boutique Items",
+    "phone": "(727) 800-9955",
+    "address": "4500 Park Blvd N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "La Panache",
+    "description": "Boutique Items",
+    "phone": "(727) 367-6188",
+    "address": "9524 Blind Pass Rd Ste 4  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Mizz Sunshine Dresses",
+    "description": "Women's Clothing",
+    "phone": "(727) 754-2788",
+    "address": "1600 Missouri Ave N Ste 40  Largo, FL 33770",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sil-O-Ette International Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 571-3338",
+    "address": "12890 Automobile Blvd  Clearwater, FL 33762",
+    "location": "Seminole"
+  },
+  {
+    "name": "Women of Royalty Designer Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 233-0114",
+    "address": "2159 Nursery Rd  Clearwater, FL 33764",
+    "location": "Seminole"
+  },
+  {
+    "name": "Island Treasure Gifts",
+    "description": "Gift Baskets",
+    "phone": "(727) 216-6770",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Dana's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(727) 517-9551",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Yes Fashions",
+    "description": "Women's Clothing",
+    "phone": "(727) 323-0363",
+    "address": "5005 Gulfport Blvd S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Shopbymale.com",
+    "description": "Men's Clothing",
+    "phone": "(844) 420-6253",
+    "address": "PO Box 56535  St Petersburg, FL 33732",
+    "location": "Seminole"
+  },
+  {
+    "name": "Curv Exchange Clearwater",
+    "description": "Women's Clothing",
+    "phone": "(727) 330-6925",
+    "address": "1916 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Madrag 67",
+    "description": "Women's Clothing",
+    "phone": "(727) 525-8080",
+    "address": "7332 Us Highway 19 N  Pinellas Park, FL 33781",
+    "location": "Seminole"
+  },
+  {
+    "name": "Eurofashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-4693",
+    "address": "55 Baymont St  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bum Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6107",
+    "address": "399 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "On Point Fashion Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 592-1955",
+    "address": "2132 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Arts and Graphics Beyond",
+    "description": "Clothing Stores",
+    "phone": "(727) 228-0143",
+    "address": "1215 Drew St  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "T.J.Maxx",
+    "description": "Clothing Stores",
+    "phone": "(727) 577-1350",
+    "address": "7701 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33702",
+    "location": "Seminole"
+  },
+  {
+    "name": "Paradiso Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 363-8831",
+    "address": "104 8th Ave  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(727) 821-4083",
+    "address": "163 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Fashion Spot",
+    "description": "Clothing Stores",
+    "phone": "(850) 687-5076",
+    "address": "1010 Central Ave Apt 103  St Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Elizabeth's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 254-9526",
+    "address": "4765 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lothian Kilt Rentals & Bagpipe Supplies",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-6838",
+    "address": "1570 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Celebrity",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-0298",
+    "address": "472 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Skinz Swimwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8789",
+    "address": "2027 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Watersister Dry Goods",
+    "description": "Clothing Stores",
+    "phone": "(727) 851-9987",
+    "address": "2259 2nd Ave S  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Step In Style",
+    "description": "Clothing Stores",
+    "phone": "(727) 866-1200",
+    "address": "2940 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Vintage Clothin",
+    "description": "Clothing Stores",
+    "phone": "(727) 253-4993",
+    "address": "357 Scotland St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Mirabella Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 288-2999",
+    "address": "481 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rose Garden Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 734-5052",
+    "address": "101 Main St Ste A  Safety Harbor, FL 34695",
+    "location": "Seminole"
+  },
+  {
+    "name": "Gioffrè",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4172",
+    "address": "8 S Fort Harrison Ave  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Shoetrapper",
+    "description": "Clothing Stores",
+    "phone": "(727) 400-5282",
+    "address": "3030 Central Ave  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Slimers Value Center",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-7409",
+    "address": "257 Valencia Cir  Saint Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Trinas Fashion & Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 256-8383",
+    "address": "1103 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "D'klaze",
+    "description": "Clothing Stores",
+    "phone": "(727) 488-5062",
+    "address": "PO Box 22791  Saint Petersburg, FL 33742",
+    "location": "Seminole"
+  },
+  {
+    "name": "Clothes to Kids",
+    "description": "Clothing Stores",
+    "phone": "(727) 327-7100",
+    "address": "2168 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Gjiapparel",
+    "description": "Clothing Stores",
+    "phone": "(858) 886-8658",
+    "address": "7901 4th St N Ste 300  St Petersburg, FL 33702",
+    "location": "Seminole"
+  },
+  {
+    "name": "La Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-6625",
+    "address": "134 Island Way  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Second Chances Thrift Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-2948",
+    "address": "174 13th St N  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Keep Sweatin Workout Gear",
+    "description": "Clothing Stores",
+    "phone": "(855) 581-6034",
+    "address": "1646 Harbor Dr  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "E & V Apparell L Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4028",
+    "address": "415 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Five Dollar Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-2610",
+    "address": "1650 N Hercules Ave Ste A  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Birch International Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-9184",
+    "address": "190 N Tessier Dr  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Clean Jeans",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-7940",
+    "address": "601C Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Racks727",
+    "description": "Clothing Stores",
+    "phone": "(727) 318-8663",
+    "address": "1512 16th St S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "August",
+    "description": "Clothing Stores",
+    "phone": "(941) 894-1648",
+    "address": "2250 20th St S  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Trunk Stylists",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6861",
+    "address": "651 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fresh Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 201-8307",
+    "address": "1400 18th Ave S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Florida Jean",
+    "description": "Clothing Stores",
+    "phone": "(727) 202-6922",
+    "address": "169 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tracy Negoshian & His",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-7913",
+    "address": "113 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Juxtapose Apparel Studio",
+    "description": "Clothing Stores",
+    "phone": "(727) 827-2831",
+    "address": "111 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "In Search of Balance",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-0320",
+    "address": "104 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cory's Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 275-0956",
+    "address": "2915 State Road 590  Clearwater, FL 33759",
+    "location": "Seminole"
+  },
+  {
+    "name": "Looking Good Alterations, Repairs, and Tailoring",
+    "description": "Clothing Stores",
+    "phone": "(727) 551-9061",
+    "address": "1125 38th Ave NE  Saint Petersburg, FL 33704",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lularoe Leggings",
+    "description": "Clothing Stores",
+    "phone": "(937) 838-1288",
+    "address": "5101 Dover St NE  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Good Karma Trading",
+    "description": "Clothing Stores",
+    "phone": "(727) 895-1900",
+    "address": "800 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Beautifully Defined",
+    "description": "Clothing Stores",
+    "phone": "(727) 914-6956",
+    "address": "520 26th Ave S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Backwater Provisions Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 357-3474",
+    "address": "230 Main St  Safety Harbor, FL 34695",
+    "location": "Seminole"
+  },
+  {
+    "name": "Chix From The Stix",
+    "description": "Clothing Stores",
+    "phone": "(727) 331-3770",
+    "address": "1497 Main St # 229  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-7525",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Retail For Cause LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-3595",
+    "address": "495 43rd Ave N  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(727) 797-6349",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "All N 1 Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5249",
+    "address": "1327 N Highland Ave  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sunkissed Enterprise",
+    "description": "Clothing Stores",
+    "phone": "(727) 461-7547",
+    "address": "1223 N Hercules Ave  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Premier Fitness Marketing",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6700",
+    "address": "21917 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-3134",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Revolve Clothing Exchange",
+    "description": "Clothing Stores",
+    "phone": "(727) 399-7788",
+    "address": "2000 4th St N  Saint Petersburg, FL 33704",
+    "location": "Seminole"
+  },
+  {
+    "name": "My Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-0011",
+    "address": "405 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Freaky Tiki Surf Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-6775",
+    "address": "458 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-4246",
+    "address": "107 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "On Pointe Dancewear & More",
+    "description": "Clothing Stores",
+    "phone": "(855) 238-6784",
+    "address": "2113 Central Ave  St Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Stellie Bellies",
+    "description": "Clothing Stores",
+    "phone": "(727) 894-0906",
+    "address": "3475 4th St N  Saint Petersburg, FL 33704",
+    "location": "Seminole"
+  },
+  {
+    "name": "DXL Big + Tall",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-0866",
+    "address": "2539 Countryside Blvd Ste 1  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Uniform City Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7100",
+    "address": "2472 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Nordstrom Rack Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-2525",
+    "address": "2435 State Road 580  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Swim & Play",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-1713",
+    "address": "4677 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "the unKAGEd Shop",
+    "description": "Clothing Stores",
+    "phone": "(813) 326-7383",
+    "address": "115 112th Ave NE  St Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Jackie Z Style Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4849",
+    "address": "113 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Anglo Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 526-5800",
+    "address": "689 Central Ave # 100-101  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(727) 898-8727",
+    "address": "103 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Charming Charlie",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6900",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Botiki Ladies Apparel & Gifts",
+    "description": "Clothing Stores",
+    "phone": "(727) 498-8757",
+    "address": "3015 Beach Blvd S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "Far Out Groovy & Kool",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-7600",
+    "address": "1032 4th St N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Stitch Logo",
+    "description": "Clothing Stores",
+    "phone": "(877) 652-8600",
+    "address": "2165 Sunnydale Blvd Ste H  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "NautiGirl Beachwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9380",
+    "address": "216 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-5066",
+    "address": "23668 Us Highway 19 N Unit 20  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Roma NYC",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-4466",
+    "address": "410 Cleveland St  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-4600",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Edinburgh Fringe",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-7359",
+    "address": "966 Douglas Ave Ste 102  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Urban Unit Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-2633",
+    "address": "1413 N Betty Ln  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Miami Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 867-8775",
+    "address": "2950 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Adventures in Paradise Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-4943",
+    "address": "40 Beach Dr NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 712-8676",
+    "address": "2420 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "St Pete Threads",
+    "description": "Clothing Stores",
+    "phone": "(727) 502-6850",
+    "address": "2622 Fairfield Ave S  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Suzette's On Central",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-8404",
+    "address": "2109 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Clothing Stores",
+    "phone": "(727) 328-8535",
+    "address": "2201 34th St S  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Oxford Clothing Compa",
+    "description": "Clothing Stores",
+    "phone": "(727) 317-3740",
+    "address": "4336 4th St N  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Matter of Fact",
+    "description": "Clothing Stores",
+    "phone": "(727) 826-0416",
+    "address": "1029 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Ashe Couture Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 828-9925",
+    "address": "1027 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Freshly Squeezed",
+    "description": "Clothing Stores",
+    "phone": "(727) 823-2197",
+    "address": "900 1st Ave N  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Aqua Dizayn",
+    "description": "Clothing Stores",
+    "phone": "(727) 557-4427",
+    "address": "100 Pierce St Apt 508  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "My Fashion World",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-0296",
+    "address": "1746 Drew St  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Jetwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 465-8888",
+    "address": "1754 Drew St  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Moda Vacuera",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-4237",
+    "address": "2095 Drew St  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Little Llamas Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 800-5216",
+    "address": "2319 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33704",
+    "location": "Seminole"
+  },
+  {
+    "name": "Kleid's Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-7900",
+    "address": "22075 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Fit 2 Run",
+    "description": "Clothing Stores",
+    "phone": "(727) 822-2786",
+    "address": "256 2nd St N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bamboozle Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 360-1166",
+    "address": "103 8th Ave Fl 33706  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Big Frog CustomT-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(866) 971-3764",
+    "address": "533 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Afryl's Accessories",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-5934",
+    "address": "Store #1031b 27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Hat Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7389",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "McB's",
+    "description": "Clothing Stores",
+    "phone": "(727) 258-4932",
+    "address": "1045 Central Ave  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "The T-Shirt Diner",
+    "description": "Clothing Stores",
+    "phone": "(727) 386-4195",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-1266",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Gooddess Closet",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-0303",
+    "address": "1558 16th St S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Rituals Aveda Salon",
+    "description": "Beauty Salons",
+    "phone": "(727) 797-2800",
+    "address": "2760 Gulf To Bay Blvd Ste B  Clearwater, FL 33759",
+    "location": "Seminole"
+  },
+  {
+    "name": "AB2B Boutique (All Brides 2 Be)",
+    "description": "Bridal Shops",
+    "phone": "(813) 406-0403",
+    "address": "27001 US Hwy 19 N Suite 2022  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "LottoBoat Club & Rental",
+    "description": "Amusement Places & Arcades",
+    "phone": "(727) 230-0990",
+    "address": "100 14th Ave S  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Sportswear",
+    "phone": "(727) 712-3281",
+    "address": "2753 Gulf To Bay Blvd  Clearwater, FL 33759",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bucs Stuff's Sports City",
+    "description": "Sportswear",
+    "phone": "(727) 209-2827",
+    "address": "211 1st St NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "American Running Company",
+    "description": "Sportswear",
+    "phone": "(727) 799-1227",
+    "address": "26024 Us Highway 19 N  Clearwater, FL 33763",
+    "location": "Seminole"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(727) 866-1829",
+    "address": "2930 54th Ave S  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Macy's Backstage",
+    "description": "Men's Clothing",
+    "phone": "(727) 724-7312",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Feet First",
+    "description": "Sporting Goods",
+    "phone": "(727) 898-1130",
+    "address": "4949 4th St N  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tampa Bay Team Fan Shop",
+    "description": "Caps",
+    "phone": "(727) 302-1600",
+    "address": "203 1st St NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(727) 791-8580",
+    "address": "26583 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(727) 725-9400",
+    "address": "27001 Us Highway 19 N Ste 1049  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(727) 669-7306",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tieguys.com Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 475-4452",
+    "address": "807 Park St  Clearwater, FL 33756",
+    "location": "Seminole"
+  },
+  {
+    "name": "Body'kon Fash'yon",
+    "description": "Women's Clothing",
+    "phone": "(727) 600-3210",
+    "address": "United States  Saint Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Marion's",
+    "description": "Women's Clothing",
+    "phone": "(727) 821-2345",
+    "address": "1301 4th St N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Superior Group of Companies, Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 397-9611",
+    "address": "200 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(727) 725-4038",
+    "address": "27001 Us Highway 19 N Ste 2019  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 796-1089",
+    "address": "27001 Us Highway 19 N Ste 1012  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(727) 527-9161",
+    "address": "5004 4th St N  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bartique",
+    "description": "Women's Clothing",
+    "phone": "(727) 290-6829",
+    "address": "648 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Surfing USA",
+    "description": "Sportswear",
+    "phone": "(727) 446-9173",
+    "address": "325 S Gulfview Blvd  Clearwater Beach, FL 33767",
+    "location": "Seminole"
+  },
+  {
+    "name": "Bohemian Reves",
+    "description": "Department Stores",
+    "phone": "(727) 873-6864",
+    "address": "1620 Central Ave  Saint Petersburg, FL 33712",
+    "location": "Seminole"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "description": "Sportswear",
+    "phone": "(727) 825-3487",
+    "address": "1 Tropicana Dr  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Justin Vannatter",
+    "description": "Sportswear",
+    "phone": "(727) 446-6224",
+    "address": "2096 Range Rd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Baker Boys Sport Apparel",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 712-8089",
+    "address": "21951 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(727) 906-4647",
+    "address": "3501 34th St S  St Petersburg, FL 33711",
+    "location": "Seminole"
+  },
+  {
+    "name": "Nacl H2o Sports",
+    "description": "Sportswear",
+    "phone": "(727) 528-1300",
+    "address": "420 Rotary Pl NE  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "Ny Hip Hop Clothing",
+    "description": "Department Stores",
+    "phone": "(727) 446-8800",
+    "address": "1889 N Highland Ave  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Merchant",
+    "description": "Department Stores",
+    "phone": "(727) 954-0117",
+    "address": "633 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(727) 820-4309",
+    "address": "175 2nd Ave N  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Talk Of The Town Shopping",
+    "description": "Department Stores",
+    "phone": "(727) 896-5400",
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Central Station Owner",
+    "description": "Department Stores",
+    "phone": "(727) 821-0147",
+    "address": "100 Central Ave  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(727) 516-4065",
+    "address": "23682 Us Highway 19 N  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sports Katz",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 723-9062",
+    "address": "2555 Blackburn St  Clearwater, FL 33763",
+    "location": "Seminole"
+  },
+  {
+    "name": "D & D Sales",
+    "description": "Department Stores",
+    "phone": "(727) 734-4220",
+    "address": "500 Douglas Ave  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Whitewood on Main",
+    "description": "Department Stores",
+    "phone": "(727) 281-9643",
+    "address": "801 Main St  Safety Harbor, FL 34695",
+    "location": "Seminole"
+  },
+  {
+    "name": "Safety Harbor Galleria",
+    "description": "Department Stores",
+    "phone": "(727) 799-1600",
+    "address": "123 2nd Ave S  Safety Harbor, FL 34695",
+    "location": "Seminole"
+  },
+  {
+    "name": "Karoll Brazil Sportswear",
+    "description": "Sportswear-Wholesale & Manufacturers",
+    "phone": "(727) 432-7145",
+    "address": "220 43rd Ave SE  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Pro Image Sports",
+    "description": "Sporting Goods",
+    "phone": "(215) 582-2025",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Skinz Masks",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 441-8789",
+    "address": "2027 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Seminole"
+  },
+  {
+    "name": "Avon South Tampa",
+    "description": "Hair Supplies & Accessories",
+    "phone": "(727) 641-3390",
+    "address": "4941 29th Ave S  Gulfport, FL 33707",
+    "location": "Seminole"
+  },
+  {
+    "name": "New Charisma Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 363-0228",
+    "address": "4227 Gulf Blvd  St Pete Beach, FL 33706",
+    "location": "Seminole"
+  },
+  {
+    "name": "Spinderella's Steals",
+    "description": "Women's Clothing",
+    "phone": "(727) 522-3325",
+    "address": "6393 Dr Martin Luther King Jr St N  Saint Petersburg, FL 33702",
+    "location": "Seminole"
+  },
+  {
+    "name": "Violet's Vanity",
+    "description": "Women's Clothing",
+    "phone": "(727) 329-8685",
+    "address": "2327 Central Ave  Saint Petersburg, FL 33713",
+    "location": "Seminole"
+  },
+  {
+    "name": "Men's Wearhouse & Tux",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(727) 726-2262",
+    "address": "2663 Gulf To Bay Blvd  Clearwater, FL 33759",
+    "location": "Seminole"
+  },
+  {
+    "name": "dressbarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 669-7143",
+    "address": "2729 Gulf To Bay Blvd Ste 310  Clearwater, FL 33759",
+    "location": "Seminole"
+  },
+  {
+    "name": "Live Fast Die Rich Studio",
+    "description": "Women's Clothing",
+    "phone": "(727) 400-4838",
+    "address": "1409 N Betty Ln  Clearwater, FL 33755",
+    "location": "Seminole"
+  },
+  {
+    "name": "Studs and Stones 4 U",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-5609",
+    "address": "10410 1st St N Unit 8  Saint Petersburg, FL 33716",
+    "location": "Seminole"
+  },
+  {
+    "name": "Miss Too Much",
+    "description": "Women's Clothing",
+    "phone": "(727) 202-6919",
+    "address": "1554 16th St S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "Luv Ya Style",
+    "description": "Women's Clothing",
+    "phone": "(727) 895-8642",
+    "address": "1558 16th St S  Saint Petersburg, FL 33705",
+    "location": "Seminole"
+  },
+  {
+    "name": "K Hendrix",
+    "description": "Women's Clothing",
+    "phone": "(727) 822-0902",
+    "address": "349 Grey Eagle Ct S  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Daniels",
+    "description": "Men's Clothing",
+    "phone": "(727) 498-8805",
+    "address": "111 2nd Ave NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Sartorial Inc",
+    "description": "Men's Clothing",
+    "phone": "(727) 290-6783",
+    "address": "400 Beach Dr NE Ste 169  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Five Fish",
+    "description": "Women's Clothing",
+    "phone": "(727) 823-3030",
+    "address": "300 Beach Dr NE  Saint Petersburg, FL 33701",
+    "location": "Seminole"
+  },
+  {
+    "name": "Retail Marketing Group Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 520-1210",
+    "address": "3127 Bayshore Blvd NE  Saint Petersburg, FL 33703",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Rose Garden",
+    "description": "Women's Clothing",
+    "phone": "(727) 734-5052",
+    "address": "737 Broadway  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Our House",
+    "description": "Women's Clothing",
+    "phone": "(727) 614-8198",
+    "address": "475 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Palm Latitudes",
+    "description": "Women's Clothing",
+    "phone": "(727) 733-7343",
+    "address": "322 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "M J Fashions & Gifts",
+    "description": "Women's Clothing",
+    "phone": "(727) 736-6276",
+    "address": "314 Main St  Dunedin, FL 34698",
+    "location": "Seminole"
+  },
+  {
+    "name": "Lolas Laces",
+    "description": "Women's Clothing",
+    "phone": "(727) 444-0947",
+    "address": "101 Main St Ste B  Safety Harbor, FL 34695",
+    "location": "Seminole"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(727) 799-2034",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Cc's Boutique Bridal & Prom",
+    "description": "Bridal Shops",
+    "phone": "(727) 614-9219",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(727) 726-8620",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "Confident Self Image",
+    "description": "Clothing Stores",
+    "phone": "(727) 444-0909",
+    "address": "2753 State Road 580 Ste 205A  Clearwater, FL 33761",
+    "location": "Seminole"
+  },
+  {
+    "name": "The Scrubs Store",
+    "description": "Men's Clothing",
+    "phone": "(813) 545-6789",
+    "address": "180 Race Track Rd N  Oldsmar, FL 34677",
+    "location": "Seminole"
+  }
+]

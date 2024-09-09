@@ -1,0 +1,807 @@
+[
+  {
+    "name": "Boardroompr",
+    "description": "Advertising Agencies",
+    "phone": "(561) 708-4683",
+    "address": " 777 S Flagler Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Pathos",
+    "description": "Advertising Agencies",
+    "phone": "(561) 688-2880",
+    "address": " 319 Clematis St Ste 110  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Loudr A Bottom Line Agency - West Palm Beach, FL",
+    "description": "Advertising Agencies",
+    "phone": "(561) 791-6295",
+    "address": " 100 S Dixie Hwy Ste 200-202  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Ryan William's Agency",
+    "description": "Advertising Agencies",
+    "phone": "(561) 588-6336",
+    "address": " 1016 Clare Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Think Freely Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(561) 293-3009",
+    "address": " 500 S Australian Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Ods Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(561) 670-2240",
+    "address": " 324 Datura St Ste 201  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Endeavor Global Marketing & Advertising Agency",
+    "description": "Advertising Agencies",
+    "phone": "(888) 503-7150",
+    "address": " 324 Datura St STE 207-209  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Rigstar Media",
+    "description": "Advertising Agencies",
+    "phone": "(855) 474-4782",
+    "address": " 401 N Rosemary Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Media Music Group",
+    "description": "Advertising Agencies",
+    "phone": "(561) 328-6874",
+    "address": " 1804 N Dixie Hwy  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Pringle & Assoc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 620-7798",
+    "address": " 350 S Ocean Blvd  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Bridges Worldwide Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 835-0780",
+    "address": " 205 Worth Ave Ste 201  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "List Company",
+    "description": "Advertising Agencies",
+    "phone": "(561) 833-6545",
+    "address": " 312 Worth Ave  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Board Governance Svc Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 835-8395",
+    "address": " 300 El Brillo Way  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Mediate.ly",
+    "description": "Advertising Agencies",
+    "phone": "(561) 868-9080",
+    "address": " 525 S Flagler Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Superior Virtual",
+    "description": "Advertising Agencies",
+    "phone": "(561) 623-5300",
+    "address": " 201 S Narcissus Ave Ste 2  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Sherwood International",
+    "description": "Advertising Agencies",
+    "phone": "(561) 832-3707",
+    "address": " 224 Datura St Ste 1007  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Equilead Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 805-9711",
+    "address": " 255 Evernia St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Lombardo & Partners",
+    "description": "Advertising Agencies",
+    "phone": "(561) 557-4950",
+    "address": " 222 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "New Epic Media",
+    "description": "Advertising Agencies",
+    "phone": "(561) 557-6704",
+    "address": " 225 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Evolutions Media",
+    "description": "Advertising Agencies",
+    "phone": "(561) 508-4996",
+    "address": " 324 Datura St Ste 100  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Creative Edge Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 835-0009",
+    "address": " 319 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "SoVi Digital",
+    "description": "Advertising Agencies",
+    "phone": "(561) 544-7999",
+    "address": " 319 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Wilesmith Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(561) 820-9196",
+    "address": " 222d N County Rd  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Big Cat Brandz",
+    "description": "Advertising Agencies",
+    "phone": "(561) 429-8692",
+    "address": " 400 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Sovi Digital Ventures",
+    "description": "Advertising Agencies",
+    "phone": "(561) 833-0256",
+    "address": " 400 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Omnicom Group Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 207-2200",
+    "address": " 525 Okeechobee Blvd  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Unique Visions",
+    "description": "Advertising Agencies",
+    "phone": "(561) 247-3630",
+    "address": " 1109 Florida Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Olympusat",
+    "description": "Advertising Agencies",
+    "phone": "(561) 684-5657",
+    "address": " 477 S Rosemary Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "DigitSIZE",
+    "description": "Advertising Agencies",
+    "phone": "(561) 281-6777",
+    "address": " 630 S Sapodilla Ave Apt 108  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Marketing Alchemy",
+    "description": "Advertising Agencies",
+    "phone": "(561) 990-5928",
+    "address": " 500 S Australian Ave Ste 600  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Ad Therapy Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 588-6336",
+    "address": " 1804 N Dixie Hwy  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "The Merchant Strategy Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 766-2052",
+    "address": " 1804 N Dixie Hwy  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "The MS Factor",
+    "description": "Advertising Agencies",
+    "phone": "(561) 588-6336",
+    "address": " 1804 N Dixie Hwy  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "The Strand Partners",
+    "description": "Advertising Agencies",
+    "phone": "(561) 520-2510",
+    "address": " 1473 N Ocean Blvd  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "O'Donnell Agency",
+    "description": "Advertising Agencies",
+    "phone": "(561) 832-3231",
+    "address": " 525 Okeechobee Blvd Ste 980  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Cepac",
+    "description": "Advertising Agencies",
+    "phone": "(561) 653-3266",
+    "address": " 215 S Olive Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Practice Makes Perfect",
+    "description": "Advertising Agencies",
+    "phone": "(561) 296-5678",
+    "address": " 330 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "CRL Media Multicultural Advertising & PR",
+    "description": "Advertising Agencies",
+    "phone": "(561) 855-2144",
+    "address": " 301 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Internet Marketing Services Inc.",
+    "description": "Advertising Agencies",
+    "phone": "(561) 370-7366",
+    "address": " 515 N Flagler Dr Ste P300  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Naked Digital",
+    "description": "Advertising Agencies",
+    "phone": "(561) 899-0761",
+    "address": " 410 Evernia St., Ste. 104  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Seongo",
+    "description": "Advertising Agencies",
+    "phone": "(973) 600-4468",
+    "address": " 2118 Florida Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Moving Minds",
+    "description": "Advertising Agencies",
+    "phone": "(800) 420-7026",
+    "address": " 700 S Rosemary Ave Ste 204  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Consult PR.net",
+    "description": "Advertising Agencies",
+    "phone": "(561) 444-7265",
+    "address": " 301 Clematis Street  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Adiste Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(561) 935-4852",
+    "address": " 301 Clematis St Ste 4000  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Inbound Authority",
+    "description": "Advertising Agencies",
+    "phone": "(561) 223-1736",
+    "address": " 1106 Florida Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Dima Marketing",
+    "description": "Advertising Agencies",
+    "phone": "(561) 249-6427",
+    "address": " 224 Datura St Ste 809  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Propelfolio A Web Design Company",
+    "description": "Advertising Agencies",
+    "phone": "(561) 880-8573",
+    "address": " 515 N Flagler Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Johnston Marketing Group",
+    "description": "Advertising Agencies",
+    "phone": "(561) 203-5630",
+    "address": " 700 S Rosemary Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Webmaster For Hire",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 822-9931",
+    "address": " 301 Clematis St Ste 3000  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Gps Public Relations",
+    "description": "Interactive Media",
+    "phone": "(561) 201-6021",
+    "address": " 610 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "BIP media",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(305) 340-2398",
+    "address": " 424 Hampton Rd  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Script Rx Incorporated",
+    "description": "Computer Software Publishers & Developers",
+    "phone": "(561) 805-5935",
+    "address": " 312 Clematis St Ste 301  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Media Giant Design",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 247-2894",
+    "address": " 700 S Rosemary Ave Ste 204L4  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Softline Solutions",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(888) 335-2226",
+    "address": " 700 S Rosemary Ave Ste 204-A1  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Reputation 1",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 249-6103",
+    "address": " Serving South East Florida  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Gorilla Digital",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 220-2336",
+    "address": " 724 Belvedere Rd  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Sir Speedy",
+    "description": "Printing Services-Commercial",
+    "phone": "(561) 833-9661",
+    "address": " 919 N Dixie Hwy  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Graphic Web Design, Inc.",
+    "description": "Web Site Design & Services",
+    "phone": "(561) 693-5777",
+    "address": " 1101 Clare Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Phil Rowe Signs",
+    "description": "Signs",
+    "phone": "(561) 832-8688",
+    "address": " 805 N Dixie Hwy  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Rsvp",
+    "description": "Direct Mail Advertising",
+    "phone": "(561) 832-1061",
+    "address": " 1640 Clare Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Lewis SEO",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 232-3635",
+    "address": " 400 Royal Palm Way  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Askart.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(800) 857-4301",
+    "address": " 211 Worth Ave  Palm Beach, FL 33480",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "SoFla Networking",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 827-5694",
+    "address": " 222 Lakeview Ave Ste 160-258  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Digital Elevator",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 692-3719",
+    "address": " 301 N Clematis St, #3000  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Collectors Net",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 318-6217",
+    "address": " 331 Clematis St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "1Db.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 515-3200",
+    "address": " 515 N Flagler Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Hiredyou.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 360-5964",
+    "address": " 515 N Flagler Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Construction Story",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 355-2368",
+    "address": " 205 N Dixie Hwy  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Art Tech Studio",
+    "description": "Internet Consultants",
+    "phone": "(561) 358-2259",
+    "address": " 460 S Rosemary Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "SEO Marketing Miami",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(786) 708-8111",
+    "address": " 524 Datura St  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "National Wealth Center",
+    "description": "Internet Consultants",
+    "phone": "(561) 876-3648",
+    "address": " P..O Box 4929  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "FunnelVision - Online Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 513-0236",
+    "address": " 300 S. Australian Ave., Suite 1503  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Palmbeachjewelers.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 655-0729",
+    "address": " 1803 N Flagler Dr  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Power Marketing Academy",
+    "description": "Marketing Consultants",
+    "phone": "(561) 650-1315",
+    "address": " 701 S Rosemary Ave Apt 313  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "American Printing & Signs",
+    "description": "Sign Lettering",
+    "phone": "(561) 841-9000",
+    "address": " 401 N Rosemary Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Advertising USA",
+    "description": "Advertising Specialties",
+    "phone": "(561) 766-1148",
+    "address": " 932 Belvedere Rd  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Roofing Unlimited & Sheet Metal",
+    "description": "Cranes",
+    "phone": "(561) 855-0335",
+    "address": " 1146 53rd Ct N  Mangonia Park, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "All Out Advertising Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 687-0365",
+    "address": " 1547 N Florida Mango Rd  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Minding My Business",
+    "description": "Advertising Agencies",
+    "phone": "(561) 463-0542",
+    "address": " 235 Courtney Lakes Cir  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Effectv",
+    "description": "Advertising Agencies",
+    "phone": "(888) 877-9799",
+    "address": " 1700 Palm Beach Lakes Blvd Ste 900  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "The Digital Intellect",
+    "description": "Advertising Agencies",
+    "phone": "(561) 677-9656",
+    "address": " 2090 Palm Beach Lakes Blvd Ste 800  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Lamar Advertising",
+    "description": "Advertising Agencies",
+    "phone": "(561) 835-8400",
+    "address": " 333 Southern Blvd  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "AM Media",
+    "description": "Advertising Agencies",
+    "phone": "(561) 242-8155",
+    "address": " 2475 Mercer Ave  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Amvtec",
+    "description": "Advertising Agencies",
+    "phone": "(561) 832-0404",
+    "address": " 535 22nd St  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Intelavise",
+    "description": "Advertising Agencies",
+    "phone": "(561) 899-9922",
+    "address": " 100 Flagler Ln  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Ldg Planning Consultants",
+    "description": "Advertising Agencies",
+    "phone": "(561) 863-5617",
+    "address": " 913 39th Ct  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Img Finance",
+    "description": "Advertising Agencies",
+    "phone": "(561) 904-6025",
+    "address": " 900 Osceola Dr  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Mozyup, Inc",
+    "description": "Advertising Agencies",
+    "phone": "(561) 729-3081",
+    "address": " 5400 N Flagler Dr Apt C17  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Knowledge Is Power",
+    "description": "Advertising Agencies",
+    "phone": "(561) 623-0219",
+    "address": " 5500 N Flagler Dr  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Corecare Associates",
+    "description": "Advertising Agencies",
+    "phone": "(561) 689-6321",
+    "address": " 400 Executive Center Dr  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "YP Marketing Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(561) 688-5500",
+    "address": " 2000 Palm Beach Lakes Blvd Ste 203  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Mao Web Solutions",
+    "description": "Advertising Agencies",
+    "phone": "(561) 906-8797",
+    "address": " 650 Pacific Grove Dr Unit 1  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Dsquared Media",
+    "description": "Advertising Agencies",
+    "phone": "(561) 654-0237",
+    "address": " 526 Northwood Rd  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "BSE Design & Communications",
+    "description": "Advertising Agencies",
+    "phone": "(561) 697-5160",
+    "address": " 2250 Palm Beach Lakes Blvd  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Custom Signs Today",
+    "description": "Signs",
+    "phone": "(561) 697-2380",
+    "address": " 2550 Okeechobee Blvd  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Ferrin Signs Inc",
+    "description": "Signs",
+    "phone": "(561) 802-4242",
+    "address": " 945 26th St  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "FedEx Office Print & Ship Center",
+    "description": "Copying & Duplicating Service",
+    "phone": "(561) 478-0600",
+    "address": " 2381 Palm Beach Lakes Blvd  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "That Agency",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 832-6262",
+    "address": " 2000 Palm Beach Lakes Blvd Ste 601  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Aner Signs Holdings Inc",
+    "description": "Signs",
+    "phone": "(561) 845-6677",
+    "address": " 1213 W. 50th Street  West Palm Beach, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "ilocal SEO",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(305) 239-8505",
+    "address": " Pine Terrace  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Viseo Marketing Solutions",
+    "description": "Marketing Programs & Services",
+    "phone": "(561) 203-4285",
+    "address": " 259 Courtney Lakes Cir Apt 206  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Onesta Digital Marketing",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 714-3898",
+    "address": " 201 Lainhart Ct  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Digital Emotions Agency",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 598-0087",
+    "address": " 2000 Presidential Way  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "West Palm Beach Website Design",
+    "description": "Web Site Design & Services",
+    "phone": "(561) 231-0080",
+    "address": " 2000 Palm Beach Lakes Blvd 2nd Fl  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Digital Arts Enterprises",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(877) 504-5682",
+    "address": " 2300 Palm Beach Lakes Blvd Suite 200F  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Signarama",
+    "description": "Signs",
+    "phone": "(561) 640-5570",
+    "address": " 1711 Worthington Rd  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Signs By Tomorrow",
+    "description": "Signs-Erectors & Hangers",
+    "phone": "(561) 688-9100",
+    "address": " 1300 N Florida Mango Rd Ste 20  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Hoover Architectural Products",
+    "description": "Awnings & Canopies",
+    "phone": "(561) 844-4444",
+    "address": " 5107 N Australian Ave  Mangonia Park, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "A Classified Marketplace",
+    "description": "Directory & Guide Advertising",
+    "phone": "(800) 914-4705",
+    "address": " Po Box 7432  West Palm Beach, FL 33405",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Aner Signs Hld",
+    "description": "Signs",
+    "phone": "(561) 845-6242",
+    "address": " 1213 50th St  Mangonia Park, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Macro Print",
+    "description": "Signs",
+    "phone": "(561) 882-6514",
+    "address": " 1243 52nd St  Mangonia Park, FL 33407",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "The Mailing Experts",
+    "description": "Mail & Shipping Services",
+    "phone": "(561) 432-1700",
+    "address": " 1495 Forest Hill Blvd  West Palm Beach, FL 33406",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Self Made Empire of Florida",
+    "description": "Employment Training",
+    "phone": "(561) 768-3710",
+    "address": " 1210 Palm Beach Lakes Blvd Apt E7  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Etrend",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(954) 300-1187",
+    "address": " 1645 Palm Beach Lakes Blvd  West Palm Beach, FL 33401",
+    "location": "Palm_Beach"
+  },
+  {
+    "name": "Pbapprs.com",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(561) 689-8608",
+    "address": " 1300 Old Congress Ave  West Palm Beach, FL 33409",
+    "location": "Palm_Beach"
+  }
+]

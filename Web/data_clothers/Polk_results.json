@@ -1,0 +1,1192 @@
+[
+  {
+    "name": "3 Blondes Graphics",
+    "description": "Clothing Stores",
+    "phone": "(352) 857-1424",
+    "address": "16176 Commonwealth Ave N  polk city, FL 33868",
+    "location": "Polk"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(863) 815-4512",
+    "address": "3900 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Trends",
+    "description": "Clothing Stores",
+    "phone": "(863) 268-8275",
+    "address": "106 Main St  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(863) 853-9259",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(863) 815-1069",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Bella Brazil",
+    "description": "Women's Clothing",
+    "phone": "(863) 859-4215",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(863) 967-4732",
+    "address": "422 Havendale Blvd  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Sophisticated Apparel",
+    "description": "Clothing Stores",
+    "phone": "(863) 875-5707",
+    "address": "422 E Derby Ave  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Alison W. Blair, Independent Stylist Lilla Rose",
+    "description": "Clothing Stores",
+    "phone": "(860) 942-4407",
+    "address": "7200 Lake Lowery Rd  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "Greg's Deals",
+    "description": "Clothing Stores",
+    "phone": "(863) 777-2686",
+    "address": "692 Arbor Glen Cir Apt 105  Lakeland, FL 33805",
+    "location": "Polk"
+  },
+  {
+    "name": "ATLA HAIR & MORE",
+    "description": "Clothing Stores",
+    "phone": "(863) 288-1887",
+    "address": "1132 Carefree Cove Dr  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(863) 967-4805",
+    "address": "460 Havendale Blvd  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(863) 967-4805",
+    "address": "460 Havendale Blvd  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Scott Riner T Shirts",
+    "description": "Clothing Stores",
+    "phone": "(863) 510-0105",
+    "address": "1052 US Highway 92 W  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(863) 967-1164",
+    "address": "2120 Us Highway 92 W  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Dollar General Market",
+    "description": "Discount Stores",
+    "phone": "(863) 816-1925",
+    "address": "6525 N Socrum Loop Rd  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Discount & Deli",
+    "description": "Department Stores",
+    "phone": "(863) 875-5593",
+    "address": "602 Pilaklakaha Ave  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "The Pink Ladybug",
+    "description": "Sportswear",
+    "phone": "(863) 965-7465",
+    "address": "106B Main St  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Bushwood Golf Shack",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(863) 656-5182",
+    "address": "1052 Us Highway 92 W  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "All in Athletics Apparel",
+    "description": "Sportswear",
+    "phone": "(863) 812-4544",
+    "address": "5085 Asbury Parke Dr  Lakeland, FL 33805",
+    "location": "Polk"
+  },
+  {
+    "name": "Caravan Fashions",
+    "description": "Women's Clothing",
+    "phone": "(863) 968-0932",
+    "address": "106 E Lake Ave  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Bonworth Inc",
+    "description": "Women's Clothing",
+    "phone": "(863) 815-9403",
+    "address": "5363 N Socrum Loop Rd  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Fabulously Fierce Boutique",
+    "description": "Boutique Items",
+    "phone": "(863) 845-2923",
+    "address": "418 E Derby Ave  Auburndale, FL 33823",
+    "location": "Polk"
+  },
+  {
+    "name": "Thr33andout",
+    "description": "Women's Clothing",
+    "phone": "(863) 777-2710",
+    "address": "5751 N Daughtery Rd  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Garrett's Medical Supply",
+    "description": "Clothing Stores",
+    "phone": "(863) 293-9747",
+    "address": "485 1st St N  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Orvis",
+    "description": "Clothing Stores",
+    "phone": "(800) 499-9890",
+    "address": "336 Magnolia Ave SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Nathan's Men's Store",
+    "description": "Clothing Stores",
+    "phone": "(863) 682-2811",
+    "address": "221 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(863) 853-4989",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Hatties Branches",
+    "description": "Clothing Stores",
+    "phone": "(863) 937-9193",
+    "address": "1224 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(863) 647-3258",
+    "address": "3615 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "D F Fashion",
+    "description": "Clothing Stores",
+    "phone": "(863) 291-4241",
+    "address": "158 Avenue T NE  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Il Forno Italian Restaurant",
+    "description": "Clothing Stores",
+    "phone": "(863) 607-6030",
+    "address": "3615 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Etoile Dancewear",
+    "description": "Clothing Stores",
+    "phone": "(863) 226-1295",
+    "address": "1835 E Edgewood Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(863) 424-4628",
+    "address": "2050 Posner Blvd  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Urban CowGurl's Tanning & Hair Saloon",
+    "description": "Clothing Stores",
+    "phone": "(863) 353-6899",
+    "address": "24 N 6th ST  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(863) 299-7458",
+    "address": "800 Cypress Gardens Blvd  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(863) 225-9404",
+    "address": "919 Lakeland Park Center Dr Unit 320  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Farrington's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(863) 279-0072",
+    "address": "4609 Creek Meadow Trl  Lakeland, FL 33810",
+    "location": "Polk"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(863) 858-5974",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(863) 853-9525",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(863) 853-5071",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Infamous Clothing",
+    "description": "Clothing Stores",
+    "phone": "(863) 859-0805",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Lord & Jems Couture",
+    "description": "Clothing Stores",
+    "phone": "(863) 292-0050",
+    "address": "2410 4th St NE  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Flare Clothing Inc",
+    "description": "Clothing Stores",
+    "phone": "(863) 859-1122",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Our Size Just",
+    "description": "Clothing Stores",
+    "phone": "(863) 940-4748",
+    "address": "3800 Us Highway 98 N Ste 398  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(863) 815-6425",
+    "address": "3800 Us Highway 98 N Ste 264  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "C & E Imprinted Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(863) 293-8747",
+    "address": "303 Commerce Ct  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(863) 858-7900",
+    "address": "3800 Us Highway 98 N Ste 200  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Dixie Heritage",
+    "description": "Clothing Stores",
+    "phone": "(863) 816-8000",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(863) 815-7027",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Marshalls & HomeGoods",
+    "description": "Clothing Stores",
+    "phone": "(863) 420-9969",
+    "address": "1191 Posner Blvd  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(863) 417-0995",
+    "address": "919 Lakeland Park Center Dr Unit 350  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(863) 859-8255",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(863) 853-4320",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Looking Good",
+    "description": "Clothing Stores",
+    "phone": "(863) 686-4718",
+    "address": "702 E Memorial Blvd  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(863) 648-1608",
+    "address": "3565 Lakeland Hills Blvd  Lakeland, FL 33805",
+    "location": "Polk"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(863) 858-9100",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(863) 858-6060",
+    "address": "4115 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(863) 859-7590",
+    "address": "919 Lakeland Park Center Dr  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(863) 816-7998",
+    "address": "3800 Us Highway 98 N Ste 392  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Park Avenue of Lakeland",
+    "description": "Clothing Stores",
+    "phone": "(863) 815-4677",
+    "address": "3800 Us Highway 98 N Ste 320  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(863) 853-4320",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "BRIDAL FASHION & FURNITURE",
+    "description": "Clothing Stores",
+    "phone": "(863) 288-8430",
+    "address": "2506 Avenue G NW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Anette's European Fashion",
+    "description": "Clothing Stores",
+    "phone": "(863) 709-1797",
+    "address": "2080 E Edgewood Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "360 Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(863) 683-0000",
+    "address": "911 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Shahdadpuri Inc",
+    "description": "Clothing Stores",
+    "phone": "(863) 686-4718",
+    "address": "702 E Memorial Blvd  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "m.marie",
+    "description": "Clothing Stores",
+    "phone": "(863) 318-9600",
+    "address": "337 W Central Ave  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(863) 297-6300",
+    "address": "231 Citi Ctr St  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Proud Gator",
+    "description": "Clothing Stores",
+    "phone": "(863) 683-3434",
+    "address": "700 S Florida Ave  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(863) 647-3316",
+    "address": "3615 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Andy Thornal Company",
+    "description": "Clothing Stores",
+    "phone": "(863) 299-9999",
+    "address": "336 Magnolia Ave SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Babe's Shoes & Apparel",
+    "description": "Clothing Stores",
+    "phone": "(863) 683-6900",
+    "address": "2537 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(863) 607-6736",
+    "address": "3615 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Lakeland Bargain Boutique",
+    "description": "Clothing Stores",
+    "phone": "(863) 937-4802",
+    "address": "2934 Lakeland Highlands Rd  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Three Sixty Unlimited",
+    "description": "Clothing Stores",
+    "phone": "(863) 683-0000",
+    "address": "911 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Co -Edikit",
+    "description": "Clothing Stores",
+    "phone": "(863) 606-0166",
+    "address": "307 W Main St  Lakeland, FL 33815",
+    "location": "Polk"
+  },
+  {
+    "name": "Fifth Avenue Men's Wear",
+    "description": "Clothing Stores",
+    "phone": "(863) 292-0731",
+    "address": "341 Cypress Gardens Blvd  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Mey Sports",
+    "description": "Clothing Stores",
+    "phone": "(863) 422-5703",
+    "address": "1693 E Hinson Ave  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "CJ'z Fashions",
+    "description": "Clothing Stores",
+    "phone": "(863) 284-1080",
+    "address": "105 W Oak Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Shoe Show",
+    "description": "Clothing Stores",
+    "phone": "(863) 209-1429",
+    "address": "1101 3rd St SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Image Wear",
+    "description": "Clothing Stores",
+    "phone": "(863) 937-9872",
+    "address": "3210 Winter Lake Rd.  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Pro Level Apparel",
+    "description": "Clothing Stores",
+    "phone": "(863) 295-5427",
+    "address": "3260 Dundee Rd  Winter Haven, FL 33884",
+    "location": "Polk"
+  },
+  {
+    "name": "Childrens Clothers Closet",
+    "description": "Clothing Stores",
+    "phone": "(863) 683-2086",
+    "address": "72 Lake Morton Dr  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Royal Tire Shop",
+    "description": "Tire Dealers",
+    "phone": "(863) 934-0538",
+    "address": "2027 Dundee Rd  Winter Haven, FL 33884",
+    "location": "Polk"
+  },
+  {
+    "name": "High fashion mens wear",
+    "description": "Men's Clothing",
+    "phone": "(863) 422-7295",
+    "address": "36186 Hwy 27  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "Edwards-Macy Women's Apparel",
+    "description": "Bridal Shops",
+    "phone": "(863) 688-1021",
+    "address": "120 E Main St  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Tracy & Company Hair Designers",
+    "description": "Beauty Salons",
+    "phone": "(863) 688-5962",
+    "address": "1211 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(863) 859-2000",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Belk",
+    "description": "Department Stores",
+    "phone": "(863) 401-9031",
+    "address": "253 Citi Ctr St  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(863) 853-1497",
+    "address": "919 Lakeland Park Center Dr  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(863) 859-7088",
+    "address": "3800 Us Highway 98 N Ste 541  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(863) 853-1007",
+    "address": "3800 Us Highway 98 N Ste 220  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(863) 424-4444",
+    "address": "1300 Posner Blvd  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(863) 644-2952",
+    "address": "3615 S Florida Ave Ste 120  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(863) 853-7810",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(863) 248-1200",
+    "address": "919 Lakeland Park Center Dr  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(863) 859-2037",
+    "address": "4275 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(863) 859-1622",
+    "address": "4005 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(863) 859-5701",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(863) 815-1069",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(863) 401-2500",
+    "address": "1107 3rd St SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Avon Independent Sales Representative",
+    "description": "Hair Supplies & Accessories",
+    "phone": "(863) 455-9331",
+    "address": "Randa Ridge  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(863) 859-7418",
+    "address": "3957 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(863) 858-7586",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "e-LeatherJackets.com",
+    "description": "Leather Apparel",
+    "phone": "(863) 686-2274",
+    "address": "2216 Lake Holloway Blvd  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Cato Fashions",
+    "description": "Women's Clothing",
+    "phone": "(863) 420-0223",
+    "address": "2400 Posner Blvd  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Apricot Lane Boutique",
+    "description": "Boutique Items",
+    "phone": "(863) 656-1334",
+    "address": "400 3rd St SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Princess of Purses",
+    "description": "Online & Mail Order Shopping",
+    "phone": "(863) 512-5972",
+    "address": "2050 E Edgewood Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "The Consignment Garden",
+    "description": "Consignment Service",
+    "phone": "(863) 701-7442",
+    "address": "3143 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Suit Man",
+    "description": "Men's Clothing",
+    "phone": "(863) 687-8418",
+    "address": "831 E Memorial Blvd  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Xtreme Supplements",
+    "description": "Gymnastics Supplies",
+    "phone": "(863) 399-3026",
+    "address": "1222 W daughtery rd  lakeland, FL 33810",
+    "location": "Polk"
+  },
+  {
+    "name": "Anything and Everything Bargain Store",
+    "description": "Variety Stores",
+    "phone": "(863) 875-2493",
+    "address": "840 6th St  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(863) 256-1649",
+    "address": "4900 N Ridge Trl  Davenport, FL 33897",
+    "location": "Polk"
+  },
+  {
+    "name": "Top Level Sportswear",
+    "description": "Sportswear",
+    "phone": "(321) 200-0305",
+    "address": "1810 Lakeland Hills Blvd  Lakeland, FL 33805",
+    "location": "Polk"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(863) 815-2371",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(863) 603-8033",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "T & Company Salon",
+    "description": "Beauty Salons",
+    "phone": "(863) 438-2737",
+    "address": "43350 Highway 27  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Gator Dollar",
+    "description": "Discount Stores",
+    "phone": "(863) 547-9742",
+    "address": "45665 Highway 27  Davenport, FL 33897",
+    "location": "Polk"
+  },
+  {
+    "name": "Sunshine Emporium",
+    "description": "Department Stores",
+    "phone": "(863) 547-8376",
+    "address": "43338 Highway 27  Davenport, FL 33837",
+    "location": "Polk"
+  },
+  {
+    "name": "Mobile Mart",
+    "description": "Electronic Equipment & Supplies-Repair & Service",
+    "phone": "(863) 229-5996",
+    "address": "1140 6th St NW  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Family Dollar Stores Inc",
+    "description": "Department Stores",
+    "phone": "(863) 294-7640",
+    "address": "2820 Recker Hwy  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Bargain Discount Store",
+    "description": "Discount Stores",
+    "phone": "(863) 816-5722",
+    "address": "1549 S Combee Rd  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Audy's Steelers Stuff",
+    "description": "Sportswear",
+    "phone": "(863) 665-5038",
+    "address": "2034 Edenfield Pl Ste 1  Lakeland, FL 33801",
+    "location": "Polk"
+  },
+  {
+    "name": "Studio Aquatics",
+    "description": "Department Stores",
+    "phone": "(863) 683-7333",
+    "address": "1419 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "One Stop Dollar Store",
+    "description": "Discount Stores",
+    "phone": "(863) 688-3131",
+    "address": "803 N Wabash Ave  Lakeland, FL 33815",
+    "location": "Polk"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(863) 294-9696",
+    "address": "621 Cypress Gardens Blvd  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Lady J Golf",
+    "description": "Women's Fashion Accessories",
+    "phone": "(863) 956-2808",
+    "address": "92 Newcastle Blvd  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(863) 858-7087",
+    "address": "919 Lakeland Park Center Dr Unit 350  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(863) 858-2431",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Flavaz",
+    "description": "Women's Clothing",
+    "phone": "(863) 859-1610",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Styles For Less",
+    "description": "Women's Clothing",
+    "phone": "(863) 858-4840",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(863) 859-6678",
+    "address": "3800 US Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(863) 859-6678",
+    "address": "3800 Us Highway 98 N Ste 348  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Beya Store",
+    "description": "Women's Clothing",
+    "phone": "(863) 868-2793",
+    "address": "3800 Us Highway 98 N  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "Christopher & Banks",
+    "description": "Women's Clothing",
+    "phone": "(863) 853-7005",
+    "address": "3800 US Highway 98 N Ste 264  Lakeland, FL 33809",
+    "location": "Polk"
+  },
+  {
+    "name": "World's Fashion Wear 2",
+    "description": "Women's Clothing",
+    "phone": "(863) 284-0591",
+    "address": "1805 N Florida Ave  Lakeland, FL 33805",
+    "location": "Polk"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(863) 299-1731",
+    "address": "1376 6th St NW  Winter Haven, FL 33881",
+    "location": "Polk"
+  },
+  {
+    "name": "Helen's Shop",
+    "description": "Women's Clothing",
+    "phone": "(863) 291-4567",
+    "address": "314 W Central Ave  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "De Lashons Fashions",
+    "description": "Women's Clothing",
+    "phone": "(863) 291-4138",
+    "address": "380 2nd St SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Krisclear Communication-2",
+    "description": "Women's Clothing",
+    "phone": "(941) 404-8803",
+    "address": "605 B Moore Rd  Haines City, FL 33844",
+    "location": "Polk"
+  },
+  {
+    "name": "House of Diva Boutique",
+    "description": "Boutique Items",
+    "phone": "(863) 934-4451",
+    "address": "2080 E Edgewood Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Women's Clothing",
+    "phone": "(863) 291-4539",
+    "address": "1516 3rd St SW  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Helen's Ladies Specialty Shoppe",
+    "description": "Women's Clothing",
+    "phone": "(863) 291-4567",
+    "address": "1511 6th St SE  Winter Haven, FL 33880",
+    "location": "Polk"
+  },
+  {
+    "name": "Kadesh Fashion",
+    "description": "Women's Clothing",
+    "phone": "(863) 866-2591",
+    "address": "130 Kersey St  Davenport, FL 33897",
+    "location": "Polk"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Handbags",
+    "phone": "(863) 607-6070",
+    "address": "3615 S Florida Ave  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(863) 680-1795",
+    "address": "1540 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Sportgymproducts.com",
+    "description": "Clothing Stores",
+    "phone": "(407) 994-8625",
+    "address": "7860 Lake Wilson rd  Davenport, FL 33896",
+    "location": "Polk"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(863) 687-2629",
+    "address": "1425 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(863) 688-3151",
+    "address": "1433 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Sparkle Skirts",
+    "description": "Clothing Stores",
+    "phone": "(863) 644-1807",
+    "address": "2500 Drane Field Rd Ste 110  Lakeland, FL 33811",
+    "location": "Polk"
+  },
+  {
+    "name": "Just Our Size",
+    "description": "Clothing Stores",
+    "phone": "(863) 648-0439",
+    "address": "2500 Drane Field Rd Ste 103  Lakeland, FL 33811",
+    "location": "Polk"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(863) 682-9790",
+    "address": "1531 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Risse Brothers School Uniforms",
+    "description": "Clothing Stores",
+    "phone": "(863) 940-9913",
+    "address": "2525 Drane Field Rd Ste 11  Lakeland, FL 33811",
+    "location": "Polk"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(863) 682-8989",
+    "address": "1401 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(863) 682-8174",
+    "address": "1479 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Pro Image",
+    "description": "Sportswear",
+    "phone": "(863) 937-9260",
+    "address": "1470 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(863) 802-5373",
+    "address": "1482 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Versona",
+    "description": "Women's Clothing",
+    "phone": "(863) 688-9307",
+    "address": "1424-1432 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(863) 683-5616",
+    "address": "1445 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(863) 683-4017",
+    "address": "1440 Town Center Dr # O-102  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Yates & Hagan",
+    "description": "Women's Clothing",
+    "phone": "(863) 603-7078",
+    "address": "1452 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(863) 683-7200",
+    "address": "1464 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(863) 680-3344",
+    "address": "1424 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(863) 688-3065",
+    "address": "1433 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(863) 904-3004",
+    "address": "1437 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Go Fish Clothing & Jewelry C",
+    "description": "Women's Clothing",
+    "phone": "(863) 802-1979",
+    "address": "1437 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(863) 616-9909",
+    "address": "1445 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Robyn Lynne",
+    "description": "Bridal Shops",
+    "phone": "(863) 682-1414",
+    "address": "3674 Harden Blvd  Lakeland, FL 33803",
+    "location": "Polk"
+  },
+  {
+    "name": "Joseph A Bank Clothiers Inc",
+    "description": "Men's Clothing",
+    "phone": "(863) 683-7200",
+    "address": "1464 Town Center Dr  Lakeland, FL 33803",
+    "location": "Polk"
+  }
+]

@@ -1,0 +1,5525 @@
+[
+  {
+    "name": "Johari West",
+    "description": "Clothing Stores",
+    "phone": "(813) 854-3024",
+    "address": "11940 Race Track Rd  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dress the Population",
+    "description": "Clothing Stores",
+    "phone": "(813) 328-1414",
+    "address": "13660 Wright Cir  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "80 Stitches' House of SWAG",
+    "description": "Clothing Stores",
+    "phone": "(813) 703-3280",
+    "address": "11617 Sheldon Rd  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Charlotte Russe",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-2047",
+    "address": "8021 Citrus Park Town Center Mall Fl 8076  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Children Clothes",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-0550",
+    "address": "8123 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aéropostale",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4819",
+    "address": "8081 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Abercrombie & Fitch",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-9632",
+    "address": "8089 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Old Navy",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-3158",
+    "address": "12581 Citrus Plaza Drive  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hot Topic",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-0955",
+    "address": "8201 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Buckle",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4349",
+    "address": "8021 Citrus Park Town Center Mall Ste 1040  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Agaci",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-5365",
+    "address": "8021 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "H&M",
+    "description": "Clothing Stores",
+    "phone": "(855) 466-7467",
+    "address": "8021 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Just Ink Shirt Company & Contract Screen Printer",
+    "description": "Clothing Stores",
+    "phone": "(888) 540-0003",
+    "address": "400 Douglas Rd E  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hollister",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-2829",
+    "address": "8089 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rue21",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-0527",
+    "address": "8146 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "PacSun",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-3464",
+    "address": "8115 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Eddie Bauer",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4990",
+    "address": "7911 Citrus Park Town Center Mall # 520  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Express",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-1064",
+    "address": "7926 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Entourage",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-2866",
+    "address": "7823 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J.Crew Factory",
+    "description": "Clothing Stores",
+    "phone": "(813) 726-2976",
+    "address": "12789 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Burlington Coat Factory",
+    "description": "Clothing Stores",
+    "phone": "(813) 616-6848",
+    "address": "12803 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-7300",
+    "address": "7801 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "American Eagle",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-3321",
+    "address": "8084 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Squad Goalz Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 709-9806",
+    "address": "4946 Pointe Cir  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Banana Republic",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4478",
+    "address": "7964 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gabi Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-2343",
+    "address": "10069 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashion Maggy's",
+    "description": "Clothing Stores",
+    "phone": "(813) 886-1973",
+    "address": "7031 W Hillsborough Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "OOH LA LA BOUTIQUE",
+    "description": "Clothing Stores",
+    "phone": "(813) 898-3063",
+    "address": "7530 W Waters Ave Ste G  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "SEXYFUTBOL INC.",
+    "description": "Clothing Stores",
+    "phone": "(813) 431-2931",
+    "address": "5438 Fulmar Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashion Factory",
+    "description": "Clothing Stores",
+    "phone": "(239) 645-8500",
+    "address": "8302 Fountain Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rainbow Shops",
+    "description": "Clothing Stores",
+    "phone": "(813) 890-3475",
+    "address": "7041 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Citi Trends",
+    "description": "Clothing Stores",
+    "phone": "(813) 395-9411",
+    "address": "8625 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "YAMI'S MULTISERVICES & FASHION INC.",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-8819",
+    "address": "6700 Hanley Rd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "This & That Gifts & Thrifts",
+    "description": "Clothing Stores",
+    "phone": "(813) 900-4485",
+    "address": "6710 Forrestvale Ln  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "C J Seidorap Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-4649",
+    "address": "5522 Hanley Rd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Con Couture",
+    "description": "Clothing Stores",
+    "phone": "(813) 843-4244",
+    "address": "15901 Countrybrook St  Tampa, FL 33624",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "T.J. Maxx",
+    "description": "Clothing Stores",
+    "phone": "(813) 885-1800",
+    "address": "7555 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Areamil",
+    "description": "Clothing Stores",
+    "phone": "(813) 304-0248",
+    "address": "4949 Marbrisa Dr  Tampa, FL 33624",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tanbarato",
+    "description": "Clothing Stores",
+    "phone": "(813) 609-4387",
+    "address": "7045 W Hillsborough Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "rewind co",
+    "description": "Clothing Stores",
+    "phone": "(813) 962-2537",
+    "address": "6176 Gunn Hwy  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Designs 301 Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-2700",
+    "address": "16829 Gunn Hwy  Odessa, FL 33556",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "AMC Sales Promotions Co Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 818-8555",
+    "address": "6502 Thoroughbred Loop  Odessa, FL 33556",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bealls Department Store",
+    "description": "Clothing Stores",
+    "phone": "(727) 784-2171",
+    "address": "3140 Tampa Rd  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Global Clothing & Fabrics Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 505-7266",
+    "address": "1372 Bay Harbor Dr  Palm Harbor, FL 34685",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Confident Self Image",
+    "description": "Clothing Stores",
+    "phone": "(727) 444-0909",
+    "address": "2753 State Road 580 Ste 205A  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Stein Mart",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-1850",
+    "address": "2522 N McMullen Booth Rd  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rose Garden Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 734-5052",
+    "address": "101 Main St Ste A  Safety Harbor, FL 34695",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Backwater Provisions Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 357-3474",
+    "address": "230 Main St  Safety Harbor, FL 34695",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Image Depot",
+    "description": "Clothing Stores",
+    "phone": "(813) 963-6964",
+    "address": "11771 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Clothes Mentor",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6101",
+    "address": "34888 Us Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hemp Kulture",
+    "description": "Clothing Stores",
+    "phone": "(813) 321-5650",
+    "address": "8270 Woodland Center Blvd  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bloise & Associates, Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 793-5176",
+    "address": "4733 W Waters Ave Apt 1435  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cuba Fashions Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-8737",
+    "address": "4350 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "5.11 Tactical",
+    "description": "Clothing Stores",
+    "phone": "(813) 265-0491",
+    "address": "14360 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Brie Nichole's Boutique and Resale",
+    "description": "Clothing Stores",
+    "phone": "(813) 606-5556",
+    "address": "13144 n dale mabry hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hidden Beach Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(866) 885-7752",
+    "address": "13014 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fitsique Fitness & Curvez",
+    "description": "Clothing Stores",
+    "phone": "(863) 399-4162",
+    "address": "13014 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Key West Collections",
+    "description": "Clothing Stores",
+    "phone": "(813) 341-2104",
+    "address": "5133 W Rio Vista Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "La Isla Fashons",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-5571",
+    "address": "4040 W Waters Ave Ste 107  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Black Boxxx Boutique And Lounge",
+    "description": "Clothing Stores",
+    "phone": "(813) 438-2079",
+    "address": "4040 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "R and T Group International Corp",
+    "description": "Clothing Stores",
+    "phone": "(813) 280-2981",
+    "address": "4023 W Waters Ave Ste 2  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Linnie's Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 888-6868",
+    "address": "3844 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Urbana Apparel",
+    "description": "Clothing Stores",
+    "phone": "(813) 935-4050",
+    "address": "3710 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "American Eagle Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(813) 252-7242",
+    "address": "7823 N Dale Mabry Hwy  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Spicy Tees Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 935-0661",
+    "address": "3608 Maloa Way  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Galli Shirts Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 754-3018",
+    "address": "2758 Summerdale Dr  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kategory 5 Surf Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 942-4070",
+    "address": "37160 Us Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Land's End",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-5201",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Material Girl",
+    "description": "Clothing Stores",
+    "phone": "(727) 372-8866",
+    "address": "9945 Trinity Blvd Ste 103  Trinity, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cory's Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 275-0956",
+    "address": "2915 State Road 590  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ThreadZ",
+    "description": "Clothing Stores",
+    "phone": "(727) 835-7538",
+    "address": "10720 State road 54  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Suits You Swimwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 784-0844",
+    "address": "29184 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Betsy's Closet Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 838-1744",
+    "address": "30143 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aeropostale",
+    "description": "Clothing Stores",
+    "phone": "(727) 725-3134",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tillys",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6396",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ravens And Rockers",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-0826",
+    "address": "14817 N Florida Ave  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fly Street Life",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-8885",
+    "address": "2223 N West Shore Blvd Ste 154  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "2DaysApparel",
+    "description": "Clothing Stores",
+    "phone": "(813) 444-7974",
+    "address": "3315 W Osborne Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Urban Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(813) 348-0083",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "the first lady of plus sizes",
+    "description": "Clothing Stores",
+    "phone": "(813) 398-4001",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mario Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-1389",
+    "address": "3309 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mens Style",
+    "description": "Clothing Stores",
+    "phone": "(813) 570-7886",
+    "address": "2901 W Busch Blvd  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DD's Discounts",
+    "description": "Clothing Stores",
+    "phone": "(813) 350-0130",
+    "address": "3960 W Hillsborough Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Grand Arena of Mind Expansion, Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 931-1000",
+    "address": "8900 N Armenia Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Extereme Collections Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 932-2200",
+    "address": "8102 N Armenia Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "BOSS Store",
+    "description": "Clothing Stores",
+    "phone": "(813) 354-7744",
+    "address": "2223 N West Shore Blvd Ste 238  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gap",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-1260",
+    "address": "2223 N West Shore Blvd Ste 142  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hugo Boss",
+    "description": "Clothing Stores",
+    "phone": "(813) 354-7744",
+    "address": "2223 N West Shore Blvd Ste 238  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Armani Exchange",
+    "description": "Clothing Stores",
+    "phone": "(813) 348-0768",
+    "address": "2223 N West Shore Blvd Ste 254A  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Saint Laurent",
+    "description": "Clothing Stores",
+    "phone": "(813) 261-4757",
+    "address": "2223 N West Shore Blvd Ste 227  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Guess",
+    "description": "Clothing Stores",
+    "phone": "(813) 354-5900",
+    "address": "2223 N West Shore Blvd Ste 209  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sapphire Couture Boutique.",
+    "description": "Clothing Stores",
+    "phone": "(813) 405-7606",
+    "address": "1005 W Busch Blvd Ste 208  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "UNTUCKit",
+    "description": "Clothing Stores",
+    "phone": "(813) 775-6410",
+    "address": "International Plaza Mall 2223 North Westshore Blvd Space #182  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mandee",
+    "description": "Clothing Stores",
+    "phone": "(813) 207-4887",
+    "address": "250 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cotton On",
+    "description": "Clothing Stores",
+    "phone": "(813) 287-1979",
+    "address": "250 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cornerstone Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 281-9300",
+    "address": "250 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rue 21",
+    "description": "Clothing Stores",
+    "phone": "(813) 288-8670",
+    "address": "253 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pants Towne",
+    "description": "Clothing Stores",
+    "phone": "(813) 207-0099",
+    "address": "216 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Republic of Couture",
+    "description": "Clothing Stores",
+    "phone": "(813) 287-9500",
+    "address": "250 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Closet of Classe",
+    "description": "Clothing Stores",
+    "phone": "(813) 930-7080",
+    "address": "13112 N Florida Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "La Isla Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-5571",
+    "address": "404 W Waters Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Malucia Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 321-1119",
+    "address": "3316 W Columbus Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ashe Decuba",
+    "description": "Clothing Stores",
+    "phone": "(813) 644-7261",
+    "address": "3304 W Columbus Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "1 Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 442-5206",
+    "address": "9023 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "High Classic Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 968-6154",
+    "address": "16147 Ravendale Dr  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "JenerationXYZ",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-5622",
+    "address": "4333 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lothian Kilt Rentals & Bagpipe Supplies",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-6838",
+    "address": "1570 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Chix From The Stix",
+    "description": "Clothing Stores",
+    "phone": "(727) 331-3770",
+    "address": "1497 Main St # 229  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Prana Gear",
+    "description": "Clothing Stores",
+    "phone": "(727) 771-2600",
+    "address": "2311 Alt 19  Palm Harbor, FL 34683",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Repeat the Chic",
+    "description": "Clothing Stores",
+    "phone": "(414) 698-3274",
+    "address": "3104 Town Ave Unit 106  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Five Dollar Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 637-2610",
+    "address": "1650 N Hercules Ave Ste A  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tropical Breeze Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 937-5000",
+    "address": "505 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mirabella Fashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 288-2999",
+    "address": "481 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "P & D Custom Designs",
+    "description": "Clothing Stores",
+    "phone": "(727) 735-5339",
+    "address": "3451 Seven Springs Blvd  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Vintage Clothin",
+    "description": "Clothing Stores",
+    "phone": "(727) 253-4993",
+    "address": "357 Scotland St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Skinz Swimwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-8789",
+    "address": "2027 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashion Scrubs",
+    "description": "Clothing Stores",
+    "phone": "(813) 872-0100",
+    "address": "5018 N Armenia Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Burberry",
+    "description": "Clothing Stores",
+    "phone": "(813) 876-0800",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Free People",
+    "description": "Clothing Stores",
+    "phone": "(813) 874-2631",
+    "address": "2223 N West Shore Blvd Ste 222  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J.Crew",
+    "description": "Clothing Stores",
+    "phone": "(656) 207-5432",
+    "address": "2223 N West Shore Blvd Ste 248  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "D'cache",
+    "description": "Clothing Stores",
+    "phone": "(813) 933-6020",
+    "address": "6924 N Armenia Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Premier Fitness Marketing",
+    "description": "Clothing Stores",
+    "phone": "(727) 669-6700",
+    "address": "21917 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sunkissed Enterprise",
+    "description": "Clothing Stores",
+    "phone": "(727) 461-7547",
+    "address": "1223 N Hercules Ave  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "All N 1 Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5249",
+    "address": "1327 N Highland Ave  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tommy Bahama",
+    "description": "Clothing Stores",
+    "phone": "(813) 319-8860",
+    "address": "2223 N West Shore Blvd Ste 133  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Orvis",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-1234",
+    "address": "3916 W Osborne Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Squaresville Vintage Clothing & Retro Home Decor",
+    "description": "Clothing Stores",
+    "phone": "(813) 259-9944",
+    "address": "3224 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Eurofashions",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-4693",
+    "address": "55 Baymont St  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fresh Threads",
+    "description": "Clothing Stores",
+    "phone": "(813) 449-3578",
+    "address": "4230 S Macdill Ave  Tampa, FL 33611",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Del Sol",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-9162",
+    "address": "615 Channelside Dr Ste 101B  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "All Uniform Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 405-3955",
+    "address": "6211 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "K & G Fashion Superstore",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-8705",
+    "address": "2255 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bum Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6107",
+    "address": "399 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "On Point",
+    "description": "Clothing Stores",
+    "phone": "(727) 859-0525",
+    "address": "4309 US Highway 19  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "rue21- Closed",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-4163",
+    "address": "10500 Ulmerton Rd Ste 706-710  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "A. A. Casey Co.",
+    "description": "Clothing Stores",
+    "phone": "(844) 372-6123",
+    "address": "5124 N Nebraska Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tampa Bay Smile Makers",
+    "description": "Clothing Stores",
+    "phone": "(813) 837-3476",
+    "address": "4208 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cushion Solutions, Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 253-2131",
+    "address": "802 N Rome Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Juxtapose Apparel & Studio",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-0099",
+    "address": "718 S Village Cir  tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Encore Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 406-4456",
+    "address": "5132 Land O Lakes Blvd Ste 107  Land O Lakes, FL 34639",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Express Tailor's USA",
+    "description": "Clothing Stores",
+    "phone": "(813) 226-0318",
+    "address": "201 E Twiggs St  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Creative Destruction Clothing",
+    "description": "Clothing Stores",
+    "phone": "(813) 443-5585",
+    "address": "500 S Howard Ave Ste E  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fast Lane Clothing Company",
+    "description": "Clothing Stores",
+    "phone": "(813) 879-3298",
+    "address": "5112 N 22nd St  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ethnic Extravaganza",
+    "description": "Clothing Stores",
+    "phone": "(813) 228-7272",
+    "address": "1409 Tampa Park Plaza St  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Glitter BoxXx Boutique & Salon",
+    "description": "Clothing Stores",
+    "phone": "(813) 438-2079",
+    "address": "11325 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "CJs Amor Couture",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-1112",
+    "address": "3312 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-9126",
+    "address": "11612 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hosanna Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 972-5138",
+    "address": "11311 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Florida Shirt Co",
+    "description": "Clothing Stores",
+    "phone": "(813) 837-4478",
+    "address": "3638 W Cypress St  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Flawless Fashion 101",
+    "description": "Clothing Stores",
+    "phone": "(330) 962-7710",
+    "address": "10935 N 14th St  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Alisha's Creations",
+    "description": "Clothing Stores",
+    "phone": "(813) 500-0366",
+    "address": "1517 E Fowler Ave Ste C  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Empire Streetwear Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 985-3800",
+    "address": "1925 E Fletcher Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Frolic Exchange",
+    "description": "Clothing Stores",
+    "phone": "(813) 237-2305",
+    "address": "4634 N Florida Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J. Crew",
+    "description": "Clothing Stores",
+    "phone": "(813) 279-5939",
+    "address": "2382 W Cypress St Suite 975  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Live Family. Live Happy.",
+    "description": "Clothing Stores",
+    "phone": "(813) 250-0627",
+    "address": "2310 W State St  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Underground Station",
+    "description": "Clothing Stores",
+    "phone": "(813) 866-7445",
+    "address": "2200 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Undergound by Journeys",
+    "description": "Clothing Stores",
+    "phone": "(813) 866-7445",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Man Alive",
+    "description": "Clothing Stores",
+    "phone": "(813) 975-9414",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Designer Closet Tampa Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 972-8114",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Holic",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-2300",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ward's Robe",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-1143",
+    "address": "1266 E Hillsborough Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Alico Fashion & Gifts Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 513-3050",
+    "address": "2814 E Bearss Ave  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bobbie Rose Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 325-2696",
+    "address": "P O Box 27542  Tampa, FL 33623",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Elijah Brook Lael",
+    "description": "Clothing Stores",
+    "phone": "(813) 618-3653",
+    "address": "Po Box 49003  tampa, FL 33646",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "La Nica Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 258-1910",
+    "address": "1301 W Cass St  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Alexandra Ross, CRNA",
+    "description": "Clothing Stores",
+    "phone": "(813) 615-7294",
+    "address": "3100 E Fletcher Ave  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Urban Body",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-5522",
+    "address": "715 S Howard Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DKM Accessories",
+    "description": "Clothing Stores",
+    "phone": "(813) 902-0044",
+    "address": "3104 W Palmira Ave  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Exclusive Clothing",
+    "description": "Clothing Stores",
+    "phone": "(813) 231-3000",
+    "address": "5202 N 22nd St # B  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kadlee",
+    "description": "Clothing Stores",
+    "phone": "(813) 495-1370",
+    "address": "3623 W Leona St  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Georgica Pine Clothiers",
+    "description": "Clothing Stores",
+    "phone": "(813) 254-3971",
+    "address": "1619 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Vineyard Vines",
+    "description": "Clothing Stores",
+    "phone": "(813) 250-0486",
+    "address": "1623 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rag & Bone",
+    "description": "Clothing Stores",
+    "phone": "(813) 687-4822",
+    "address": "1622 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Zimmermann",
+    "description": "Clothing Stores",
+    "phone": "(813) 344-3801",
+    "address": "1620 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The House of Threads",
+    "description": "Clothing Stores",
+    "phone": "(813) 839-5500",
+    "address": "3120 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hi Style Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 238-7000",
+    "address": "2311 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Surf Outfitter",
+    "description": "Clothing Stores",
+    "phone": "(844) 410-0176",
+    "address": "1413 S Howard Ave Ste 104  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Happy Bald Day",
+    "description": "Clothing Stores",
+    "phone": "(941) 915-1838",
+    "address": "4504 S Renellie Dr  Tampa, FL 33611",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Phive",
+    "description": "Clothing Stores",
+    "phone": "(813) 379-7056",
+    "address": "301 W Platt St  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "JM's ACCESSORIES",
+    "description": "Clothing Stores",
+    "phone": "(813) 421-9253",
+    "address": "13606 Avalon Heights Blvd  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashion Essence",
+    "description": "Clothing Stores",
+    "phone": "(813) 239-1101",
+    "address": "3016 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Grimey Goodz",
+    "description": "Clothing Stores",
+    "phone": "(813) 412-9159",
+    "address": "1528 Nuccio Pkwy  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kismet Inspired",
+    "description": "Clothing Stores",
+    "phone": "(813) 644-7443",
+    "address": "1909 N 19th St  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Greek Unique",
+    "description": "Clothing Stores",
+    "phone": "(813) 980-2137",
+    "address": "5025 E Fowler Ave Ste 17  Tampa, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "TRENDY T-SHIRT",
+    "description": "Clothing Stores",
+    "phone": "(813) 362-6843",
+    "address": "4115 E 10th Ave  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mariam's Bazaar",
+    "description": "Clothing Stores",
+    "phone": "(813) 850-6351",
+    "address": "7326 E Sligh Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bahiyah Epifania Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 712-0758",
+    "address": "8036 Fawnridge Cir  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Southerndoe",
+    "description": "Clothing Stores",
+    "phone": "(813) 949-9503",
+    "address": "104 Whitaker Rd  Lutz, FL 33549",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Haute Shop Lutz",
+    "description": "Clothing Stores",
+    "phone": "(813) 345-8479",
+    "address": "18875 State Road 54  Lutz, FL 33558",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Addicted Ta Dance",
+    "description": "Clothing Stores",
+    "phone": "(813) 803-2579",
+    "address": "2010 Land O Lakes Blvd Lot 7  Lutz, FL 33549",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Anarchist Closet",
+    "description": "Clothing Stores",
+    "phone": "(813) 280-9805",
+    "address": "12830 N 56th St  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ANS Coutorier Fashion Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 995-2121",
+    "address": "4710 Land O Lakes Blvd  Land O Lakes, FL 34639",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mozdy Clothiers",
+    "description": "Clothing Stores",
+    "phone": "(800) 392-1713",
+    "address": "8512 Lucuya Way  Temple Terrace, FL 33637",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Arts and Graphics Beyond",
+    "description": "Clothing Stores",
+    "phone": "(727) 228-0143",
+    "address": "1215 Drew St  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Attitudes Dancewear Etc",
+    "description": "Clothing Stores",
+    "phone": "(727) 586-0447",
+    "address": "13002 Seminole Blvd  Largo, FL 33778",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ValRich Sports Paradise Golf",
+    "description": "Clothing Stores",
+    "phone": "(727) 240-0288",
+    "address": "7500 Ulmerton Rd Ste 30  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Miami Access Direct",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-1615",
+    "address": "1863 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "On Point Fashion",
+    "description": "Clothing Stores",
+    "phone": "(727) 935-1114",
+    "address": "2412 Us Highway 19  Holiday, FL 34691",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "On Point Fashion Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 859-0525",
+    "address": "2512 Us Highway 19  Holiday, FL 34691",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "McFly Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4412",
+    "address": "1623 Gulf To Bay Blvd  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "TRACEY BOUTIQUE",
+    "description": "Clothing Stores",
+    "phone": "(727) 272-5860",
+    "address": "3724 Beechwood Dr  Holiday, FL 34691",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Keep Sweatin Workout Gear",
+    "description": "Clothing Stores",
+    "phone": "(855) 581-6034",
+    "address": "1646 Harbor Dr  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tommy's",
+    "description": "Clothing Stores",
+    "phone": "(407) 694-7507",
+    "address": "16117 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Just 4 U",
+    "description": "Clothing Stores",
+    "phone": "(813) 446-1633",
+    "address": "5919 Trouble Creek Rd  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Odd Sox",
+    "description": "Clothing Stores",
+    "phone": "(727) 538-8888",
+    "address": "1277 S Highland Ave  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sea Fear",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-6904",
+    "address": "14770 62nd St N  Clearwater, FL 33760",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Slimers Value Center",
+    "description": "Clothing Stores",
+    "phone": "(727) 367-7409",
+    "address": "257 Valencia Cir  Saint Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gioffrè",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4172",
+    "address": "8 S Fort Harrison Ave  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hydro Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 289-5619",
+    "address": "4505 131st Ave N  Clearwater, FL 33762",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Misolani Designs",
+    "description": "Clothing Stores",
+    "phone": "(727) 389-0032",
+    "address": "6624 Green Acres Blvd  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Patchington",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-3561",
+    "address": "6399 142nd Ave N  Clearwater, FL 33760",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "CR8 Designs By Tammy",
+    "description": "Clothing Stores",
+    "phone": "(727) 277-4812",
+    "address": "7221 Teruel Ave  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Four Corners Footwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 807-5997",
+    "address": "5500 Main Street, Unit 111  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Prime Medical Apparel",
+    "description": "Clothing Stores",
+    "phone": "(727) 999-2070",
+    "address": "13555 Automotive Blvd  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "David & Goliath Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-6205",
+    "address": "1419 S Martin Luther King Jr Ave  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tilly's",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-6396",
+    "address": "1020 S Fort Harrison Ave  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "La Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-6625",
+    "address": "134 Island Way  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Chrislee Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 442-4600",
+    "address": "1211 Hamlet Ave  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "After Hour Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 504-5752",
+    "address": "12880 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Clean Jeans",
+    "description": "Clothing Stores",
+    "phone": "(727) 290-7940",
+    "address": "601C Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Celebrity",
+    "description": "Clothing Stores",
+    "phone": "(727) 462-0298",
+    "address": "472 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Niles Dresses",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7602",
+    "address": "3703 141st Ave  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Afrodite Closet",
+    "description": "Clothing Stores",
+    "phone": "(727) 261-9100",
+    "address": "6317 Adams St  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "E & V Apparell L Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-4028",
+    "address": "415 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Jas-Lin's LLC",
+    "description": "Clothing Stores",
+    "phone": "(727) 313-4542",
+    "address": "7500 Ulmerton Rd Ste 10  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Champagne Couture",
+    "description": "Clothing Stores",
+    "phone": "(727) 588-4385",
+    "address": "940 Clearwater Largo Rd N  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Great White Cus Tom Appare",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-5388",
+    "address": "13090 91st St  Largo, FL 33773",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Star Beach",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sunset Sport",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5111",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Couture'd Largo",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-5081",
+    "address": "910 W Bay Dr  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Florida Jean Co",
+    "description": "Clothing Stores",
+    "phone": "(727) 365-8440",
+    "address": "6418 107th Ter N  Pinellas Park, FL 33782",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Criativity",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-4191",
+    "address": "720 9th Ave SW  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Salted Air Mercantile",
+    "description": "Clothing Stores",
+    "phone": "(727) 408-5250",
+    "address": "596 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Avon Largo Independent Sales Rep",
+    "description": "Clothing Stores",
+    "phone": "(727) 410-3224",
+    "address": "12100 Seminole Blvd Lot 205  Largo, FL 33778",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "True Victory",
+    "description": "Clothing Stores",
+    "phone": "(843) 732-0316",
+    "address": "2600 Bay Blvd Apt A  Indian Rocks Beach, FL 33785",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ccsc",
+    "description": "Clothing Stores",
+    "phone": "(813) 626-2266",
+    "address": "6409 N 47th St  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pirate Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 304-2436",
+    "address": "1711 W Kennedy Blvd  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Vince.",
+    "description": "Clothing Stores",
+    "phone": "(813) 259-1150",
+    "address": "2120 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "El Canonaso El Canonazo Clothing Lady",
+    "description": "Clothing Stores",
+    "phone": "(813) 874-2526",
+    "address": "3212 N Armenia Ave  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Monaco Fashion",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-1777",
+    "address": "2907 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Noble Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-8479",
+    "address": "1525 W Swann Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bonnie Bonet",
+    "description": "Clothing Stores",
+    "phone": "(813) 252-3964",
+    "address": "1543 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "BENNYBORRERO.AMAZINGWEBMALL",
+    "description": "Clothing Stores",
+    "phone": "(727) 645-7870",
+    "address": "7241 Cedar Point Dr  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wallstwear.com",
+    "description": "Clothing Stores",
+    "phone": "(727) 530-5901",
+    "address": "12600 Belcher Rd S  Largo, FL 33773",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lucky Sew & Sew Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 584-1565",
+    "address": "1775 Woodridge Dr  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Snowdonia",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "14100 Us Highway 19 N  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tommy Bahama - Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 258-8688",
+    "address": "1623 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Jimmy Jazz",
+    "description": "Clothing Stores",
+    "phone": "(813) 615-0457",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kirby's Men's Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 253-2681",
+    "address": "1707 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Apple & Eagle Apparel",
+    "description": "Clothing Stores",
+    "phone": "(813) 280-9932",
+    "address": "7802 Rideout Rd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "All the Way Live Designs",
+    "description": "Clothing Stores",
+    "phone": "(866) 727-6777",
+    "address": "2710 Causeway Center Dr  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New York Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 621-3705",
+    "address": "7831 Palm River Rd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Forever 21",
+    "description": "Clothing Stores",
+    "phone": "(813) 991-1114",
+    "address": "28210 Paseo Drive Unit #190 Building No Two  Wesley Chapel, FL 33544",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Zumiez",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-2816",
+    "address": "8126 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Journeys",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6429",
+    "address": "8122 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wet Seal",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-2869",
+    "address": "8111 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "JCPenney",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6288",
+    "address": "8104 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Justice",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6229",
+    "address": "8074 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "White House | Black Market",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-8251",
+    "address": "8070 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Chico's",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-8251",
+    "address": "8070 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "S.A. Elite",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-1550",
+    "address": "12601 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Limited Brands",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-1285",
+    "address": "8059 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Children's Place",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-2123",
+    "address": "8053 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Torrid",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4161",
+    "address": "8021 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New York & Company",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6934",
+    "address": "8112 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Oshkosh B'Gosh",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-1593",
+    "address": "12695 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Charming Charlie",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-1547",
+    "address": "12715 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Papaya Clothing",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-1150",
+    "address": "7940 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cache",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6511",
+    "address": "7936 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Limited",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-5972",
+    "address": "7918 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Structure",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-4929",
+    "address": "7918 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sears",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-6000",
+    "address": "7902 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "S.T Menswear",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-3152",
+    "address": "7829 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ross Dress for Less",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-7458",
+    "address": "12775 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Macy's",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-7300",
+    "address": "7801 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Five Below",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-4427",
+    "address": "12845 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Avenue",
+    "description": "Clothing Stores",
+    "phone": "(813) 926-2560",
+    "address": "12879 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DXL Big + Tall",
+    "description": "Clothing Stores",
+    "phone": "(813) 920-8774",
+    "address": "8015 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Emmabay Apparel Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 749-0881",
+    "address": "3800 Tampa Rd Ste 170  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Keen Coupons",
+    "description": "Clothing Stores",
+    "phone": "(800) 796-7453",
+    "address": "Po Box 147  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rainbow Apparel Store 846",
+    "description": "Clothing Stores",
+    "phone": "(813) 890-3475",
+    "address": "7061 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bealls",
+    "description": "Clothing Stores",
+    "phone": "(813) 886-8426",
+    "address": "7039 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bealls Outlet Stores",
+    "description": "Clothing Stores",
+    "phone": "(813) 886-8426",
+    "address": "7039 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Key Westionable T-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(305) 985-2102",
+    "address": "8528 Sandy Beach St  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Boot Barn",
+    "description": "Clothing Stores",
+    "phone": "(813) 869-3500",
+    "address": "8515 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Urban Exchange",
+    "description": "Clothing Stores",
+    "phone": "(727) 786-2121",
+    "address": "3150 Tampa Rd  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Marshalls",
+    "description": "Clothing Stores",
+    "phone": "(727) 771-7910",
+    "address": "3146 Tampa Rd  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ApparelnBags.com",
+    "description": "Clothing Stores",
+    "phone": "(813) 344-0919",
+    "address": "3030 N Rocky Point Dr W Ste 150  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Caite",
+    "description": "Clothing Stores",
+    "phone": "(813) 962-0900",
+    "address": "4899 W Waters Ave Ste J  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Perry Ellis",
+    "description": "Clothing Stores",
+    "phone": "(813) 249-2752",
+    "address": "4902 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Once Upon A Child - North Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 358-3123",
+    "address": "14317 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Running Center",
+    "description": "Clothing Stores",
+    "phone": "(813) 908-1960",
+    "address": "14427 N. Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tate & Tilly Too",
+    "description": "Clothing Stores",
+    "phone": "(813) 962-7878",
+    "address": "14349 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ultimate Products",
+    "description": "Clothing Stores",
+    "phone": "(813) 881-1575",
+    "address": "4121 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Scrub N Stuff",
+    "description": "Clothing Stores",
+    "phone": "(813) 265-4800",
+    "address": "15140 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "RENAS WILD WEAR",
+    "description": "Clothing Stores",
+    "phone": "(813) 884-5800",
+    "address": "4023 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bravo Promos",
+    "description": "Clothing Stores",
+    "phone": "(813) 804-8525",
+    "address": "8910 N Dale Mabry Hwy Ste 27  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Planet Accessories",
+    "description": "Clothing Stores",
+    "phone": "(813) 264-6633",
+    "address": "8910 N Dale Mabry Hwy  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Loft",
+    "description": "Clothing Stores",
+    "phone": "(727) 724-0312",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kmart",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-1035",
+    "address": "26996 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Artsy Dancewear",
+    "description": "Clothing Stores",
+    "phone": "(727) 781-8030",
+    "address": "31806 US Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nordstrom Rack Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-2525",
+    "address": "2435 State Road 580  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Afryl's Accessories",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-5934",
+    "address": "Store #1031b 27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hat Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7389",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "D212",
+    "description": "Clothing Stores",
+    "phone": "(727) 723-3860",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "GARAGE",
+    "description": "Clothing Stores",
+    "phone": "(727) 437-3923",
+    "address": "1520 N Mcmullen Booth Rd  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "SEPHORA at Kohl's",
+    "description": "Clothing Stores",
+    "phone": "(813) 269-9400",
+    "address": "3979 Van Dyke Rd  Lutz, FL 33558",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The T-Shirt Diner",
+    "description": "Clothing Stores",
+    "phone": "(727) 386-4195",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lucky Brand Jeans",
+    "description": "Clothing Stores",
+    "phone": "(813) 353-1102",
+    "address": "2223 N West Shore Blvd Ste 222  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Catherines Plus Sizes",
+    "description": "Clothing Stores",
+    "phone": "(813) 348-0720",
+    "address": "1558 N Dale Mabry Hwy  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Russell's Western Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 877-1363",
+    "address": "6027 N Dale Mabry Hwy  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New Balance",
+    "description": "Clothing Stores",
+    "phone": "(877) 628-2672",
+    "address": "211 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Jaks Apparel",
+    "description": "Clothing Stores",
+    "phone": "(813) 515-5257",
+    "address": "5027 N Lois Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Just My Expression",
+    "description": "Clothing Stores",
+    "phone": "(813) 930-6500",
+    "address": "2161 W Busch Blvd  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Boss Babies Boutique",
+    "description": "Clothing Stores",
+    "phone": "(719) 960-8810",
+    "address": "4404 N Grady Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bubba Army",
+    "description": "Clothing Stores",
+    "phone": "(813) 286-2300",
+    "address": "5402 W Laurel St  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tory Burch",
+    "description": "Clothing Stores",
+    "phone": "(813) 873-8569",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "AX Armani Exchange",
+    "description": "Clothing Stores",
+    "phone": "(813) 348-0768",
+    "address": "2223 N West Shore Blvd Ste 176  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Alterations at Nordstrom",
+    "description": "Clothing Stores",
+    "phone": "(813) 356-7985",
+    "address": "2223 N West Shore Blvd Ste A  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Calzedonia",
+    "description": "Clothing Stores",
+    "phone": "(813) 694-4116",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ray-Ban",
+    "description": "Clothing Stores",
+    "phone": "(813) 603-1481",
+    "address": "2223 N West Shore Blvd Ste 169  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "abercrombie kids",
+    "description": "Clothing Stores",
+    "phone": "(813) 402-3332",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Everything But Water",
+    "description": "Clothing Stores",
+    "phone": "(813) 871-5918",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Oakley Store",
+    "description": "Clothing Stores",
+    "phone": "(813) 872-1535",
+    "address": "2223 N West Shore Blvd Ste 169  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lilly Pulitzer",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-0481",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Athleta",
+    "description": "Clothing Stores",
+    "phone": "(813) 350-0103",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Altar'd State International Plaza",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-6560",
+    "address": "2223 N West Shore Blvd Ste 162  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Shoe Palace",
+    "description": "Clothing Stores",
+    "phone": "(813) 379-3029",
+    "address": "2223 N West Shore Blvd Ste 152  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Intimissimi",
+    "description": "Clothing Stores",
+    "phone": "(813) 694-8063",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "BOSS Menswear Store",
+    "description": "Clothing Stores",
+    "phone": "(813) 354-7744",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gilly Hicks",
+    "description": "Clothing Stores",
+    "phone": "(813) 402-3331",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Alo",
+    "description": "Clothing Stores",
+    "phone": "(813) 448-7141",
+    "address": "2223 N West Shore Blvd Ste 220  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aerie & OFFLINE Store",
+    "description": "Clothing Stores",
+    "phone": "(813) 337-5252",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Christian Louboutin Nordstrom Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 356-7909",
+    "address": "2223 N West Shore Blvd Ste 300  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Zara",
+    "description": "Clothing Stores",
+    "phone": "(813) 872-6847",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Quilted Handbags",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-9341",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Custo Barcelona",
+    "description": "Clothing Stores",
+    "phone": "(813) 873-7351",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Love Culture",
+    "description": "Clothing Stores",
+    "phone": "(813) 870-0219",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "True Religion Jeans",
+    "description": "Clothing Stores",
+    "phone": "(813) 873-8527",
+    "address": "2223 N West Shore Blvd Ste 234  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fabletics",
+    "description": "Clothing Stores",
+    "phone": "(321) 754-9471",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tullabee",
+    "description": "Clothing Stores",
+    "phone": "(813) 792-6560",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aritzia",
+    "description": "Clothing Stores",
+    "phone": "(656) 206-4891",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Versace",
+    "description": "Clothing Stores",
+    "phone": "(813) 954-7258",
+    "address": "2223 N West Shore Blvd Ste 224B  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Emporio Armani Uomo",
+    "description": "Clothing Stores",
+    "phone": "(813) 877-5700",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hombre Clothier",
+    "description": "Clothing Stores",
+    "phone": "(813) 875-3009",
+    "address": "2732 W Hillsborough Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ross",
+    "description": "Clothing Stores",
+    "phone": "(813) 752-7804",
+    "address": "2732 W Hillsborough Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Build-A-Shirt T-Shirt Emporium",
+    "description": "Clothing Stores",
+    "phone": "(813) 252-5151",
+    "address": "1817 W Sligh Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tom James Company",
+    "description": "Clothing Stores",
+    "phone": "(813) 204-9699",
+    "address": "2005 Pan Am Cir Ste 101  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Louis Vuitton Tampa Bay",
+    "description": "Clothing Stores",
+    "phone": "(813) 353-3713",
+    "address": "2223 N. Westshore Blvd International Plaza Level 2  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Season of Tampa Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 287-8700",
+    "address": "345 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Apricot Lane",
+    "description": "Clothing Stores",
+    "phone": "(813) 288-1822",
+    "address": "183 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Windsor",
+    "description": "Clothing Stores",
+    "phone": "(888) 495-4957",
+    "address": "250 N West Shore Blvd # A2  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tpf Menswear Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 915-5977",
+    "address": "14805 N Florida Ave Ste D  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nordstrom Rack in Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 422-7500",
+    "address": "1702 N Dale Mabry Hwy  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "LaSunShine Boutique LLC",
+    "description": "Clothing Stores",
+    "phone": "(813) 344-4437",
+    "address": "221 W Waters Ave STE C  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hip-Hop Ware",
+    "description": "Clothing Stores",
+    "phone": "(813) 936-9537",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hot Menswear",
+    "description": "Clothing Stores",
+    "phone": "(813) 849-2386",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Oh Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 915-1819",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Graphix Screen Printing",
+    "description": "Clothing Stores",
+    "phone": "(727) 937-6147",
+    "address": "720 E Tarpon Ave  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kleid's Enterprises Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 796-7900",
+    "address": "22075 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Stitch Logo",
+    "description": "Clothing Stores",
+    "phone": "(877) 652-8600",
+    "address": "2165 Sunnydale Blvd Ste H  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sunrays Apparel Manufacturing Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 935-4811",
+    "address": "705 Live Oak St Ste D  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Just Bargains Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 733-8806",
+    "address": "2636 Bayshore Blvd  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "SKECHERS Warehouse Outlet",
+    "description": "Clothing Stores",
+    "phone": "(727) 597-5910",
+    "address": "8944 Strength Ave  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Swim Assets",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-3722",
+    "address": "437 Causeway Blvd  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Uniform City Clearwater",
+    "description": "Clothing Stores",
+    "phone": "(727) 791-7100",
+    "address": "2472 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "5.7.9",
+    "description": "Clothing Stores",
+    "phone": "(727) 712-8676",
+    "address": "2420 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cottonseed Casual Wear Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 943-9378",
+    "address": "600 Athens St  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Direct Time Distributors",
+    "description": "Clothing Stores",
+    "phone": "(727) 934-3431",
+    "address": "713 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Blingin' Buddha",
+    "description": "Clothing Stores",
+    "phone": "(727) 938-6300",
+    "address": "735 Dodecanese Blvd Ste 7  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Caribongo",
+    "description": "Clothing Stores",
+    "phone": "(727) 944-5200",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Men's Room",
+    "description": "Clothing Stores",
+    "phone": "(727) 942-3789",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Moda Vacuera",
+    "description": "Clothing Stores",
+    "phone": "(727) 314-4237",
+    "address": "2095 Drew St  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Trinity Crossings",
+    "description": "Clothing Stores",
+    "phone": "(727) 372-1059",
+    "address": "3818 River Oaks Ct  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Big Frog CustomT-Shirts",
+    "description": "Clothing Stores",
+    "phone": "(866) 971-3764",
+    "address": "533 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kingdom Thread",
+    "description": "Clothing Stores",
+    "phone": "(727) 709-6178",
+    "address": "4544 Bartelt Rd  Holiday, FL 34690",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Edinburgh Fringe",
+    "description": "Clothing Stores",
+    "phone": "(727) 474-7359",
+    "address": "966 Douglas Ave Ste 102  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Jetwear",
+    "description": "Clothing Stores",
+    "phone": "(727) 465-8888",
+    "address": "1754 Drew St  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "My Fashion World",
+    "description": "Clothing Stores",
+    "phone": "(727) 656-0296",
+    "address": "1746 Drew St  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Stellie Bellies",
+    "description": "Clothing Stores",
+    "phone": "(727) 807-6987",
+    "address": "7649 State Road 54  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ragz",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-0364",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "A'propos",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-8180",
+    "address": "2102 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Smack Apparel",
+    "description": "Clothing Stores",
+    "phone": "(813) 250-0627",
+    "address": "2310 W State St  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Freaky Tiki Surf Shack",
+    "description": "Clothing Stores",
+    "phone": "(727) 466-6775",
+    "address": "458 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "My Lady Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 443-0011",
+    "address": "405 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Golfpendant",
+    "description": "Clothing Stores",
+    "phone": "(727) 687-1731",
+    "address": "702 Country Club Dr  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Off The Rack",
+    "description": "Clothing Stores",
+    "phone": "(727) 531-5508",
+    "address": "7500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Reliable Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 449-1316",
+    "address": "807A Court St  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "T Shirt Station Fl",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-1700",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Belly Scarf",
+    "description": "Clothing Stores",
+    "phone": "(813) 930-8700",
+    "address": "308 E Waters Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Its All About Rhinestones",
+    "description": "Clothing Stores",
+    "phone": "(813) 294-4959",
+    "address": "12811 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Uniform City Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 286-7880",
+    "address": "4045 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fully Promoted Tampa (South), FL",
+    "description": "Clothing Stores",
+    "phone": "(813) 878-2400",
+    "address": "3909 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Loop Urban Clothing Store",
+    "description": "Clothing Stores",
+    "phone": "(813) 464-5354",
+    "address": "1414 E Fletcher Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Love That",
+    "description": "Clothing Stores",
+    "phone": "(813) 872-7085",
+    "address": "310 S Dale Mabry Hwy  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dante Men's Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 282-1910",
+    "address": "2150 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Soul Train Kids Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 977-1303",
+    "address": "2136 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dance Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 968-8099",
+    "address": "808 S Dale Mabry Hwy Unit D  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New York New York Plus",
+    "description": "Clothing Stores",
+    "phone": "(813) 632-0353",
+    "address": "2221 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Baby Boomerang",
+    "description": "Clothing Stores",
+    "phone": "(813) 879-2146",
+    "address": "2902 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Element Accessories",
+    "description": "Clothing Stores",
+    "phone": "(813) 475-8032",
+    "address": "14401 N 22nd St  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mr Man",
+    "description": "Clothing Stores",
+    "phone": "(813) 977-2037",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fly By Night Speciality",
+    "description": "Clothing Stores",
+    "phone": "(813) 238-0323",
+    "address": "5114 N Nebraska Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kate McKenzie Clothiers",
+    "description": "Clothing Stores",
+    "phone": "(813) 258-1756",
+    "address": "1550 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sea Born",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-6200",
+    "address": "12245 University Mall Ct  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Work 'N Gear",
+    "description": "Clothing Stores",
+    "phone": "(813) 978-3257",
+    "address": "2266 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ivory & Birch Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 230-7463",
+    "address": "902 N Rome Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "I Q Outfitters",
+    "description": "Clothing Stores",
+    "phone": "(813) 975-2855",
+    "address": "2554 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bib N Tux",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-7575",
+    "address": "4206 N Nebraska Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Teamwork Imprinted Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(813) 258-0331",
+    "address": "2403 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Jchantal Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 858-7219",
+    "address": "PO Box 311883  Tampa, FL 33680",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Liz Murtagh Boutique Lmb",
+    "description": "Clothing Stores",
+    "phone": "(813) 570-7895",
+    "address": "815 S Howard Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Created Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 228-9412",
+    "address": "3102 N Nebraska Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bespoke & Co.",
+    "description": "Clothing Stores",
+    "phone": "(813) 902-1963",
+    "address": "3305 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Penelope T",
+    "description": "Clothing Stores",
+    "phone": "(813) 254-5740",
+    "address": "3310 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nike Well Collective - Hyde Park Village",
+    "description": "Clothing Stores",
+    "phone": "(813) 333-1718",
+    "address": "1520 W Swann Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Suitsupply Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 331-5013",
+    "address": "1525 W Swann Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J.McLaughlin",
+    "description": "Clothing Stores",
+    "phone": "(813) 374-9258",
+    "address": "1619 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Zadig & Voltaire",
+    "description": "Clothing Stores",
+    "phone": "(813) 734-8420",
+    "address": "1624 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bonobos",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-2021",
+    "address": "1612 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "White Closet Bridal Co",
+    "description": "Clothing Stores",
+    "phone": "(813) 249-4696",
+    "address": "3627 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rainbow",
+    "description": "Clothing Stores",
+    "phone": "(813) 234-8961",
+    "address": "2525 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Silly Dilly Tot Spot",
+    "description": "Clothing Stores",
+    "phone": "(813) 839-8687",
+    "address": "3217 S Macdill Ave  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Company Tom James",
+    "description": "Clothing Stores",
+    "phone": "(813) 222-8090",
+    "address": "101 E Kennedy Blvd  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "G Q Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 236-7814",
+    "address": "3010 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "BALANI Custom Suits Tampa",
+    "description": "Clothing Stores",
+    "phone": "(813) 551-1213",
+    "address": "401 E Jackson St Ste 3300  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wraelen",
+    "description": "Clothing Stores",
+    "phone": "(800) 563-7163",
+    "address": "100 S Ashley Dr Ste 600  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mona Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 234-3700",
+    "address": "4915 N 34th St  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Surf Down Under",
+    "description": "Clothing Stores",
+    "phone": "(813) 314-9100",
+    "address": "615 Channelside Dr  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Copeland's Mens Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 789-6414",
+    "address": "16057 Tampa Palms Blvd W  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Uniform Nametape Company, Inc.",
+    "description": "Clothing Stores",
+    "phone": "(813) 839-6737",
+    "address": "5701 S Dale Mabry Hwy  Tampa, FL 33611",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wholesale Club of Florida",
+    "description": "Clothing Stores",
+    "phone": "(813) 626-6668",
+    "address": "5128 Le Tourneau Cir  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Www.Ebrooklael.Com",
+    "description": "Clothing Stores",
+    "phone": "(305) 834-8488",
+    "address": "16350 Bruce B Downs Blvd Unit 49003  Tampa, FL 33646",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Elijah Brook Lael International",
+    "description": "Clothing Stores",
+    "phone": "(305) 834-8488",
+    "address": "16350 Bruce B Downs Blvd  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Thunder Shirts",
+    "description": "Clothing Stores",
+    "phone": "(813) 242-8337",
+    "address": "1100 N 50th St  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "U.S. Patriot",
+    "description": "Clothing Stores",
+    "phone": "(813) 344-0534",
+    "address": "3108 N Boundary Blvd Bldg 926  Tampa, FL 33621",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Brenn's Sexywear",
+    "description": "Clothing Stores",
+    "phone": "(813) 498-2233",
+    "address": "5617 E Adamo Dr  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "La Pink Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 972-2862",
+    "address": "18035 Highwoods Preserve Pkwy  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Under The Sun Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 949-2693",
+    "address": "1703 Dale Mabry Hwy  Lutz, FL 33548",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tdbowling.com",
+    "description": "Clothing Stores",
+    "phone": "(813) 949-3946",
+    "address": "1927 Brinson Rd  Lutz, FL 33558",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gro Styles",
+    "description": "Clothing Stores",
+    "phone": "(813) 843-9040",
+    "address": "10915 N 56th St  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Suitland Urban Ground",
+    "description": "Clothing Stores",
+    "phone": "(813) 988-9590",
+    "address": "9305 N 56th St  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "American Eagle & Aerie",
+    "description": "Clothing Stores",
+    "phone": "(813) 345-3969",
+    "address": "Suite 655 Bldg 6 2244 Grand Cypress Drive  Lutz, FL 33559",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Esmeralda's Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 996-0139",
+    "address": "6460 Land O Lakes Blvd  Land O Lakes, FL 34638",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bridals and Tux",
+    "description": "Clothing Stores",
+    "phone": "(727) 223-9926",
+    "address": "7250 Ulmerton Rd Suite A  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Big Sarge Hats",
+    "description": "Clothing Stores",
+    "phone": "(727) 458-5147",
+    "address": "2265 6th Ave SW  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Trouble Creek Sportswear",
+    "description": "Clothing Stores",
+    "phone": "(727) 841-8859",
+    "address": "5630 Trouble Creek Rd  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Urban Unit Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 446-2633",
+    "address": "1413 N Betty Ln  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sheepskin and Things Ltd",
+    "description": "Clothing Stores",
+    "phone": "(250) 585-1600",
+    "address": "314 US Highway 19 N  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "T-Shirts & Things",
+    "description": "Clothing Stores",
+    "phone": "(727) 842-2477",
+    "address": "3742 Us Highway 19  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nilla Shields",
+    "description": "Clothing Stores",
+    "phone": "(727) 489-0305",
+    "address": "3051 Tech Dr N  Saint Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Roma NYC",
+    "description": "Clothing Stores",
+    "phone": "(727) 441-4466",
+    "address": "410 Cleveland St  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Deko Source",
+    "description": "Clothing Stores",
+    "phone": "(800) 517-7780",
+    "address": "2810 Scherer Dr N Ste 135  Saint Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aqua Dizayn",
+    "description": "Clothing Stores",
+    "phone": "(727) 557-4427",
+    "address": "100 Pierce St Apt 508  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Windsor Industries",
+    "description": "Clothing Stores",
+    "phone": "(727) 447-7142",
+    "address": "624 Pinellas St  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "the unKAGEd Shop",
+    "description": "Clothing Stores",
+    "phone": "(813) 326-7383",
+    "address": "115 112th Ave NE  St Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Angies Bouticue",
+    "description": "Clothing Stores",
+    "phone": "(727) 270-7696",
+    "address": "1658 Missouri Ave N  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Monogram House",
+    "description": "Clothing Stores",
+    "phone": "(727) 845-1578",
+    "address": "5422 Main St Fl 34652  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Liberty Creative | Screen Printing, Embroidery, Design, & Promotional Products",
+    "description": "Clothing Stores",
+    "phone": "(727) 532-0444",
+    "address": "1299 Starkey Rd Ste 103  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Apparel World II Inc",
+    "description": "Clothing Stores",
+    "phone": "(727) 533-9331",
+    "address": "2101 34th Way  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Tee Hive",
+    "description": "Clothing Stores",
+    "phone": "(727) 601-4604",
+    "address": "9310 Ulmerton Rd  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bikini Key",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-5400",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Manatee Bay Enterprises",
+    "description": "Clothing Stores",
+    "phone": "(800) 444-6231",
+    "address": "6911 Bryan Dairy Rd  Seminole, FL 33777",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Next Gifts",
+    "description": "Clothing Stores",
+    "phone": "(619) 274-3987",
+    "address": "10751 75th St  Seminole, FL 33777",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bonworth",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0639",
+    "address": "10500 Ulmerton Rd Ste 698  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Maurices",
+    "description": "Clothing Stores",
+    "phone": "(727) 250-5192",
+    "address": "10500 Ulmerton Rd  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "For the Love of Boutique",
+    "description": "Clothing Stores",
+    "phone": "(727) 581-0700",
+    "address": "428 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Suzette's on the Rocks",
+    "description": "Clothing Stores",
+    "phone": "(727) 595-8700",
+    "address": "400 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Island Traders Clothing",
+    "description": "Clothing Stores",
+    "phone": "(727) 216-6419",
+    "address": "10490 75th St Ste A  Seminole, FL 33777",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Proforma Source1 Promotions",
+    "description": "Clothing Stores",
+    "phone": "(727) 266-7559",
+    "address": "240 Sand Key Estates Dr Apt 78  Clearwater, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pink Palm Boutique",
+    "description": "Clothing Stores",
+    "phone": "(813) 259-9780",
+    "address": "1532 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Greiners Clothing",
+    "description": "Clothing Stores",
+    "phone": "(813) 226-3207",
+    "address": "117 E Whiting St  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sun Fashions",
+    "description": "Clothing Stores",
+    "phone": "(813) 971-6436",
+    "address": "11612 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Brown's Trophies Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 837-9418",
+    "address": "3202 W Gandy Blvd  Tampa, FL 33611",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Don Me Now-Styling & Clothing",
+    "description": "Clothing Stores",
+    "phone": "(813) 253-8880",
+    "address": "1627 W Snow Cir  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Brooks Brothers",
+    "description": "Clothing Stores",
+    "phone": "(813) 251-6092",
+    "address": "700 S Dakota Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DeEric J.",
+    "description": "Clothing Stores",
+    "phone": "(813) 419-2726",
+    "address": "19046 Bruce B Downs Blvd  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Speedy Pros Inc",
+    "description": "Clothing Stores",
+    "phone": "(813) 324-8838",
+    "address": "725 Lidhia Binecrest Rd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "TeeMalls",
+    "description": "Clothing Stores",
+    "phone": "(888) 491-8876",
+    "address": "4618 Eagle Falls Pl  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Reds Team Sports",
+    "description": "Clothing Stores",
+    "phone": "(813) 612-5999",
+    "address": "4542 Eagle Falls Pl  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "GLJ Custom Tees",
+    "description": "Clothing Stores",
+    "phone": "(914) 804-8227",
+    "address": "19905 Tamiami Ave  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gotcha Covered Print Wear",
+    "description": "Clothing Stores",
+    "phone": "(813) 657-4300",
+    "address": "10236 Fisher Ave  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rink Side Sports",
+    "description": "Clothing Stores",
+    "phone": "(813) 643-6404",
+    "address": "10222 Elizabeth Pl  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Paparazzi",
+    "description": "Women's Clothing",
+    "phone": "(813) 814-4282",
+    "address": "12950 Race Track Rd  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Group Inc Couture",
+    "description": "Women's Clothing",
+    "phone": "(813) 448-7388",
+    "address": "14614 Coral Berry Dr  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bella Latina Swimwear",
+    "description": "Swimwear & Accessories",
+    "phone": "(813) 438-0474",
+    "address": "Pobox 262181  tampa, FL 33685",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lady Chameleon",
+    "description": "Women's Clothing",
+    "phone": "(813) 645-1964",
+    "address": "301 S US Highway 41  Ruskin, FL 33570",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Couture Boutique",
+    "description": "Consignment Service",
+    "phone": "(813) 926-9889",
+    "address": "10117 Montague St  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Couture USA",
+    "description": "Women's Clothing",
+    "phone": "(813) 926-9889",
+    "address": "10117 Montague St  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nine West",
+    "description": "Shoe Stores",
+    "phone": "(813) 926-4754",
+    "address": "12950 Sheldon Rd  Tampa, FL 33626",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dillard's",
+    "description": "Department Stores",
+    "phone": "(813) 926-4545",
+    "address": "8161 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "BCBGMAXAZRIA",
+    "description": "Women's Clothing",
+    "phone": "(813) 926-6382",
+    "address": "8161 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(813) 926-4620",
+    "address": "8139 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lids",
+    "description": "Hat Shops",
+    "phone": "(813) 926-2108",
+    "address": "8134 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DICK'S Sporting Goods",
+    "description": "Exercise & Fitness Equipment",
+    "phone": "(813) 920-5700",
+    "address": "8100 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Men's Wearhouse",
+    "description": "Men's Clothing",
+    "phone": "(813) 926-4216",
+    "address": "8099 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Soma Intimates",
+    "description": "Lingerie",
+    "phone": "(813) 792-0438",
+    "address": "8077 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Frederick's of Hollywood",
+    "description": "Lingerie",
+    "phone": "(813) 852-2612",
+    "address": "8073 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(813) 926-6339",
+    "address": "8059 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ann Taylor",
+    "description": "Women's Clothing",
+    "phone": "(813) 926-6302",
+    "address": "8054 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Motherhood Maternity",
+    "description": "Maternity Clothes",
+    "phone": "(813) 920-9689",
+    "address": "8021 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "JD Sports",
+    "description": "Shoe Stores",
+    "phone": "(813) 343-4382",
+    "address": "8021 Citrus Park Town Center Mall Spc 2401  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Vans",
+    "description": "Shoe Stores",
+    "phone": "(813) 920-0173",
+    "address": "8119 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Head 2 Toe Cheer",
+    "description": "Sporting Goods",
+    "phone": "(813) 814-2381",
+    "address": "359 Douglas Rd E Ste F  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Scrubs Store",
+    "description": "Men's Clothing",
+    "phone": "(813) 545-6789",
+    "address": "180 Race Track Rd N  Oldsmar, FL 34677",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Target",
+    "description": "General Merchandise",
+    "phone": "(813) 749-5961",
+    "address": "11627 W Hillsborough Ave  Tampa, FL 33635",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Crocs",
+    "description": "Shoe Stores",
+    "phone": "(813) 920-0639",
+    "address": "7957 Citrus Park Town Center Mall Spc 7957  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Francesca's",
+    "description": "Women's Clothing",
+    "phone": "(813) 749-3003",
+    "address": "7949 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Westfield Citrus Park",
+    "description": "Women's Clothing",
+    "phone": "(813) 920-9621",
+    "address": "7917 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Body Central",
+    "description": "Women's Clothing",
+    "phone": "(813) 920-5847",
+    "address": "7914 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DressBarn",
+    "description": "Women's Clothing",
+    "phone": "(813) 926-7041",
+    "address": "12789 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rack Room Shoes",
+    "description": "Shoe Stores",
+    "phone": "(813) 920-1591",
+    "address": "7803 Citrus Park Town Center Mall Spc 650  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Finish Line at Macy's",
+    "description": "Shoe Stores",
+    "phone": "(813) 926-7300",
+    "address": "7801 Citrus Park Town Center Mall  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "JoS. A. Bank",
+    "description": "Men's Clothing",
+    "phone": "(813) 920-0763",
+    "address": "12897 Citrus Plaza Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Casual Male XL",
+    "description": "Men's Clothing",
+    "phone": "(813) 920-8774",
+    "address": "8015 Citrus Park Dr  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Paysmart U S A",
+    "description": "Department Stores",
+    "phone": "(813) 814-0491",
+    "address": "6722 Marina Pointe Village Ct  Tampa, FL 33635",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "bebe",
+    "description": "Women's Clothing",
+    "phone": "(813) 289-8841",
+    "address": "250 Shore Pkwy  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Walmart Supercenter",
+    "description": "General Merchandise",
+    "phone": "(813) 968-6477",
+    "address": "6192 Gunn Hwy  Tampa, FL 33625",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cato",
+    "description": "Women's Clothing",
+    "phone": "(813) 290-9757",
+    "address": "7085 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Walmart",
+    "description": "General Merchandise",
+    "phone": "(813) 881-0402",
+    "address": "7011 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hair Expression",
+    "description": "Beauty Salons",
+    "phone": "(813) 269-1125",
+    "address": "12037 Anderson Rd  Tampa, FL 33624",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Big And Elegant",
+    "description": "Department Stores",
+    "phone": "(813) 884-1900",
+    "address": "6752 Memorial Hwy  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hsn Retail Outlet",
+    "description": "Department Stores",
+    "phone": "(813) 371-2900",
+    "address": "8515 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J's Fashion & Bridal Outlet",
+    "description": "Bridal Shops",
+    "phone": "(813) 900-3092",
+    "address": "8424 W Hillsborough Ave  Tampa, FL 33615",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Palm T's Sportswear",
+    "description": "Screen Printing",
+    "phone": "(813) 933-2333",
+    "address": "5113 Ehrlich Rd  Tampa, FL 33624",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashion Exchange",
+    "description": "Women's Clothing",
+    "phone": "(813) 969-3040",
+    "address": "5102 W Linebaugh Ave  Tampa, FL 33624",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Oteros Fashion & Shoes",
+    "description": "Women's Clothing",
+    "phone": "(813) 884-0417",
+    "address": "7031 W Hillsborough Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Walmart Grocery Pickup",
+    "description": "Department Stores",
+    "phone": "(727) 741-2691",
+    "address": "3400 E Lake Rd  Palm Harbor, FL 34685",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "School Spirit II Sportswear",
+    "description": "Sportswear",
+    "phone": "(727) 786-3766",
+    "address": "3913 Arlington Dr  Palm Harbor, FL 34685",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Talbots",
+    "description": "Women's Clothing",
+    "phone": "(727) 797-2299",
+    "address": "2570 N McMullen Booth Rd  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lolas Laces",
+    "description": "Women's Clothing",
+    "phone": "(727) 444-0947",
+    "address": "101 Main St Ste B  Safety Harbor, FL 34695",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Safety Harbor Galleria",
+    "description": "Department Stores",
+    "phone": "(727) 799-1600",
+    "address": "123 2nd Ave S  Safety Harbor, FL 34695",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Armani's",
+    "description": "Restaurants",
+    "phone": "(813) 207-6800",
+    "address": "2900 Bayport Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Apparel Distribution Center",
+    "description": "Women's Clothing",
+    "phone": "(813) 882-0200",
+    "address": "5709 Johns Rd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Red Alert Screen Printing",
+    "description": "Screen Printing",
+    "phone": "(813) 888-7722",
+    "address": "6121 Jet Port Industrial Blvd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tropical Sportswear International",
+    "description": "Sportswear",
+    "phone": "(813) 882-9258",
+    "address": "4902 W Waters Ave  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Diane Del Lago LTD Co",
+    "description": "Fashion Designers",
+    "phone": "(813) 890-8987",
+    "address": "6011 Benjamin Rd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Latin Fresh Market",
+    "description": "Discount Stores",
+    "phone": "(813) 269-0119",
+    "address": "4349 Gunn Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Heroes Haven",
+    "description": "General Merchandise",
+    "phone": "(813) 968-7700",
+    "address": "4329 Gunn Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Pink Cabana",
+    "description": "Women's Clothing",
+    "phone": "(813) 960-1940",
+    "address": "14361 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ahjaleah's European Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 963-7418",
+    "address": "14449 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Guido Fashions",
+    "description": "Women's Clothing",
+    "phone": "(813) 263-5094",
+    "address": "11234 Cedar Hollow Ln  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Palm Ts Sportswear Inc",
+    "description": "Sportswear",
+    "phone": "(813) 933-2333",
+    "address": "9420 Lazy Ln  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Action Merchandising",
+    "description": "General Merchandise",
+    "phone": "(813) 908-0708",
+    "address": "13018 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Play It Again Sports",
+    "description": "Sporting Goods",
+    "phone": "(813) 969-0855",
+    "address": "13131 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ruby Reds",
+    "description": "Women's Clothing",
+    "phone": "(813) 960-3221",
+    "address": "11626 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bem Brasil",
+    "description": "Department Stores",
+    "phone": "(813) 886-0300",
+    "address": "4040 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "El'lay Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 960-3221",
+    "address": "11005 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Aveda Salon Norrell",
+    "description": "Beauty Salons",
+    "phone": "(813) 265-2000",
+    "address": "10320 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hot Buckles Inc",
+    "description": "Department Stores",
+    "phone": "(813) 881-1201",
+    "address": "5416 Airport Blvd  Tampa, FL 33634",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bealls Florida",
+    "description": "Home Furnishings",
+    "phone": "(813) 968-1256",
+    "address": "15792 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sam's Club",
+    "description": "Department Stores",
+    "phone": "(813) 269-4764",
+    "address": "15835 N Dale Mabry Hwy  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wal-Mart",
+    "description": "General Merchandise",
+    "phone": "(813) 498-4095",
+    "address": "3617 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "RTR Group",
+    "description": "Women's Clothing",
+    "phone": "(813) 392-1607",
+    "address": "8405 N Himes Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Traveler Trader",
+    "description": "Department Stores",
+    "phone": "(813) 281-1903",
+    "address": "2900 Bayport Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "From Florida Trading Inc",
+    "description": "Sportswear",
+    "phone": "(813) 932-7312",
+    "address": "7211 N Dale Mabry Hwy  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mindworks",
+    "description": "Sportswear",
+    "phone": "(813) 396-3121",
+    "address": "4100 George J Bean Pkwy Main Terminal Level 3  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Curv Exchange N Dale Mabry",
+    "description": "Women's Clothing",
+    "phone": "(813) 898-2847",
+    "address": "6815 N Dale Mabry Hwy  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pure 32 Dba Tees By Tina",
+    "description": "Women's Clothing",
+    "phone": "(813) 792-9219",
+    "address": "7723 Still Lakes Dr  Odessa, FL 33556",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Melvet Boutique",
+    "description": "Women's Clothing",
+    "phone": "(877) 561-8575",
+    "address": "19623 Wyndmill Cir  Odessa, FL 33556",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ayala And Associates",
+    "description": "Department Stores",
+    "phone": "(813) 207-8915",
+    "address": "3030 N Rocky Point Dr W  Rocky Point, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lady Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 799-4481",
+    "address": "27001 Us Highway 19 N Ste 1005  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "AB2B Boutique (All Brides 2 Be)",
+    "description": "Bridal Shops",
+    "phone": "(813) 406-0403",
+    "address": "27001 US Hwy 19 N Suite 2022  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Whitewood on Main",
+    "description": "Department Stores",
+    "phone": "(727) 281-9643",
+    "address": "801 Main St  Safety Harbor, FL 34695",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Edwin Watts Golf",
+    "description": "Golf Equipment & Supplies",
+    "phone": "(727) 787-3370",
+    "address": "32257 Us Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Famous Footwear",
+    "description": "Shoe Stores",
+    "phone": "(727) 789-6681",
+    "address": "33521 Us Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nikki's Glitz and Glam Boutique",
+    "description": "Boutique Items",
+    "phone": "(727) 785-3399",
+    "address": "34246 Us Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bent Frame",
+    "description": "Women's Clothing",
+    "phone": "(727) 942-9930",
+    "address": "37160 US Highway 19 N  Palm Harbor, FL 34684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "American Running Company",
+    "description": "Sportswear",
+    "phone": "(727) 799-1227",
+    "address": "26024 Us Highway 19 N  Clearwater, FL 33763",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "description": "Sporting Goods",
+    "phone": "(727) 791-8580",
+    "address": "26583 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hibbett Sports",
+    "description": "Sporting Goods",
+    "phone": "(727) 669-7125",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Body Shop",
+    "description": "Women's Clothing",
+    "phone": "(727) 796-1232",
+    "address": "27001 US Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Footaction USA",
+    "description": "Shoe Stores",
+    "phone": "(727) 726-0434",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Champs Sports",
+    "description": "Sportswear",
+    "phone": "(727) 724-5785",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Foot Locker",
+    "description": "Shoe Stores",
+    "phone": "(727) 791-8191",
+    "address": "27001 Us Highway 19 N Ste 1053  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Victoria's Secret & PINK by Victoria's Secret",
+    "description": "Lingerie",
+    "phone": "(727) 796-1089",
+    "address": "27001 Us Highway 19 N Ste 1012  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Macy's Backstage",
+    "description": "Men's Clothing",
+    "phone": "(727) 724-7312",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pro Image Sports",
+    "description": "Sporting Goods",
+    "phone": "(215) 582-2025",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cc's Boutique Bridal & Prom",
+    "description": "Bridal Shops",
+    "phone": "(727) 614-9219",
+    "address": "27001 Us Highway 19 N  Clearwater, FL 33761",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sports Katz",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 723-9062",
+    "address": "2555 Blackburn St  Clearwater, FL 33763",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "pOpshelf",
+    "description": "Variety Stores",
+    "phone": "(727) 516-4065",
+    "address": "23682 Us Highway 19 N  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "My Sister's Closet 200",
+    "description": "Department Stores",
+    "phone": "(727) 939-1236",
+    "address": "39924 US Highway 19 N  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fearless Nation",
+    "description": "Women's Clothing",
+    "phone": "(727) 203-3838",
+    "address": "10720 State Road 54 Ste 109  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Carroll Apparel Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 932-6476",
+    "address": "11404 Orange Grove Dr  Tampa, FL 33618",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "AVON",
+    "description": "Closets & Accessories",
+    "phone": "(813) 394-3856",
+    "address": "6831 cavacade dr apt A  tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Calla Lily Rose Boutique",
+    "description": "Bridal Shops",
+    "phone": "(813) 935-8282",
+    "address": "2815 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ES Clothing & Accessories",
+    "description": "Women's Clothing",
+    "phone": "(813) 935-4306",
+    "address": "2718 W Waters Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "TYS Variety Co",
+    "description": "Men's Clothing",
+    "phone": "(813) 643-1515",
+    "address": "2312 W Waters Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "RH Tampa | The Gallery at International Plaza",
+    "description": "Shoe Stores",
+    "phone": "(813) 258-9062",
+    "address": "2223 N West Shore Blvd Ste B221  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kate Spade",
+    "description": "Women's Clothing",
+    "phone": "(813) 877-7014",
+    "address": "2223 N West Shore Blvd Ste 221  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Michael Kors",
+    "description": "Women's Clothing",
+    "phone": "(813) 348-0500",
+    "address": "2223 N West Shore Blvd Ste 224  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J. Jill",
+    "description": "Women's Clothing",
+    "phone": "(813) 877-1868",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lululemon",
+    "description": "Sportswear",
+    "phone": "(813) 872-6831",
+    "address": "2223 N West Shore Blvd Ste 264  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Robinson Sports Inc",
+    "description": "Sportswear",
+    "phone": "(813) 873-2786",
+    "address": "2223 N West Shore Blvd Ste 230C  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Flip Flop Shop",
+    "description": "Department Stores",
+    "phone": "(813) 443-0656",
+    "address": "2223 N West Shore Blvd Ste 5  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sigrid Olsen Store",
+    "description": "Women's Clothing",
+    "phone": "(813) 877-7079",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Quiksilver Boardriders Club",
+    "description": "Sportswear",
+    "phone": "(813) 353-1603",
+    "address": "2223 N West Shore Blvd Ste B212  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Just Hats",
+    "description": "Sportswear",
+    "phone": "(813) 877-7395",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Juicy Couture",
+    "description": "Women's Clothing",
+    "phone": "(813) 872-6876",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Skechers",
+    "description": "Shoe Stores",
+    "phone": "(813) 871-5970",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The PUMA Store",
+    "description": "Shoe Stores",
+    "phone": "(813) 873-2046",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Spanx - International Plaza",
+    "description": "Lingerie",
+    "phone": "(813) 873-2861",
+    "address": "2223 N West Shore Blvd Ste 134A  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pink",
+    "description": "Women's Clothing",
+    "phone": "(813) 877-8159",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Allen Edmonds",
+    "description": "Shoe Stores",
+    "phone": "(813) 439-6989",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Peloton - Tampa",
+    "description": "Sportswear",
+    "phone": "(813) 295-6989",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Soft Surroundings",
+    "description": "Women's Clothing",
+    "phone": "(813) 544-7638",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "AS Revival",
+    "description": "Sportswear",
+    "phone": "(813) 792-6560",
+    "address": "2223 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Johnston & Murphy",
+    "description": "Shoe Stores",
+    "phone": "(813) 353-2001",
+    "address": "2223 N West Shore Blvd Ste 168  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Integras Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 226-1860",
+    "address": "2202 N West Shore Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tam Barato",
+    "description": "Women's Clothing",
+    "phone": "(813) 513-3339",
+    "address": "6735 N Armenia Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Columbian Fashion",
+    "description": "Women's Clothing",
+    "phone": "(813) 374-2066",
+    "address": "6304 N Armenia Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Simply Fashion",
+    "description": "Women's Clothing",
+    "phone": "(813) 237-5150",
+    "address": "2525 W Hillsborough Ave  Tampa, FL 33614",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "PJ Sportswear",
+    "description": "Sportswear",
+    "phone": "(813) 874-3042",
+    "address": "3302 W Dr Martin Luther King Jr Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Buy Marijuana Online 247 Dispensary",
+    "description": "Department Stores",
+    "phone": "(305) 340-4301",
+    "address": "4210 W Union St  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lvlx",
+    "description": "Women's Clothing",
+    "phone": "(813) 287-1981",
+    "address": "334 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sports Fan Attic",
+    "description": "Sportswear",
+    "phone": "(813) 281-2321",
+    "address": "342 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lane Bryant",
+    "description": "Women's Clothing",
+    "phone": "(813) 371-0742",
+    "address": "299 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Luminosity",
+    "description": "Department Stores",
+    "phone": "(813) 287-1014",
+    "address": "301 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Arden Bridal & Boutique",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(813) 281-1295",
+    "address": "171 Westshore Plaza  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tiki Bikini Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 286-3413",
+    "address": "250 Westshore Plz  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Finish Line",
+    "description": "Shoe Stores",
+    "phone": "(813) 963-7000",
+    "address": "13647 N Florida Ave  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bloomingdale's",
+    "description": "Department Stores",
+    "phone": "(813) 933-1942",
+    "address": "11618 N Florida Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Si Teamwear",
+    "description": "Sportswear",
+    "phone": "(813) 961-5200",
+    "address": "14920 N Florida Ave  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Heads & Tails FSU-UF",
+    "description": "Sportswear",
+    "phone": "(813) 282-3783",
+    "address": "4524 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Caribe Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 374-9259",
+    "address": "3210 W Columbus Dr Ste A  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "M & M Elegance",
+    "description": "Women's Clothing",
+    "phone": "(813) 443-8290",
+    "address": "3117 W Columbus Dr Ste 210  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "West Marine",
+    "description": "Boat Equipment & Supplies",
+    "phone": "(813) 348-0521",
+    "address": "3905 W Cypress St  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Platinum Zipper",
+    "description": "Bridal Shops",
+    "phone": "(813) 756-1110",
+    "address": "2800 N Macdill Ave Ste N  tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "George Ltd",
+    "description": "Men's Clothing",
+    "phone": "(813) 877-1223",
+    "address": "4315 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Star Fashion",
+    "description": "Women's Clothing",
+    "phone": "(813) 935-2134",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "CAsa sun sportswear",
+    "description": "Sportswear",
+    "phone": "(813) 935-4540",
+    "address": "8330 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Golf Galaxy",
+    "description": "Sportswear",
+    "phone": "(813) 264-1241",
+    "address": "17649 N Dale Mabry Hwy  Lutz, FL 33548",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Princess Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 961-1100",
+    "address": "17671 N Dale Mabry Hwy  Lutz, FL 33548",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Target Stores",
+    "description": "General Merchandise",
+    "phone": "(813) 907-6687",
+    "address": "16400 State Road 54  Odessa, FL 33556",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rituals Aveda Salon",
+    "description": "Beauty Salons",
+    "phone": "(727) 797-2800",
+    "address": "2760 Gulf To Bay Blvd Ste B  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "ACME Vapor",
+    "description": "Coffee & Tea",
+    "phone": "(727) 938-2263",
+    "address": "719 S Pinellas Ave  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Baker Boys Sport Apparel",
+    "description": "Sporting Goods-Wholesale & Manufacturers",
+    "phone": "(727) 712-8089",
+    "address": "21951 US Highway 19 N  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Trend Setta",
+    "description": "Department Stores",
+    "phone": "(727) 938-9797",
+    "address": "19 S Walton Ave  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "For Haiti wth Love, inc.",
+    "description": "Medical Clinics",
+    "phone": "(727) 938-3245",
+    "address": "4767 Simcoe St  Palm Harbor, FL 34683",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "dressbarn",
+    "description": "Women's Clothing",
+    "phone": "(727) 669-7143",
+    "address": "2729 Gulf To Bay Blvd Ste 310  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tarapani's Dept Store",
+    "description": "Department Stores",
+    "phone": "(727) 937-5203",
+    "address": "128 E Tarpon Ave  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Nine West Outlet",
+    "description": "Shoe Stores",
+    "phone": "(727) 791-3490",
+    "address": "2679 Gulf To Bay Blvd  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Men's Wearhouse & Tux",
+    "description": "Formal Wear Rental & Sales",
+    "phone": "(727) 726-2262",
+    "address": "2663 Gulf To Bay Blvd  Clearwater, FL 33759",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Justin Vannatter",
+    "description": "Sportswear",
+    "phone": "(727) 446-6224",
+    "address": "2096 Range Rd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Eurasian Lady Boutique",
+    "description": "Women's Clothing",
+    "phone": "(727) 938-6171",
+    "address": "735 Dodecanese Blvd Ste 38  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cotton Patch Casuals",
+    "description": "Women's Clothing",
+    "phone": "(727) 940-2909",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Five Fish Inc",
+    "description": "Resale Shops",
+    "phone": "(727) 934-5252",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Casual Lady",
+    "description": "Women's Clothing",
+    "phone": "(727) 938-2260",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bijoux By Eurasian Lady",
+    "description": "Women's Clothing",
+    "phone": "(727) 945-1555",
+    "address": "735 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sahar's Handbags & Accessories",
+    "description": "Women's Clothing",
+    "phone": "(727) 945-8285",
+    "address": "813 Dodecanese Blvd  Tarpon Springs, FL 34689",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Greco Aluminum Railings USA Inc",
+    "description": "Aluminum Products",
+    "phone": "(727) 372-4545",
+    "address": "3610 Galileo Dr  Trinity, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Brawl Fight Gear",
+    "description": "Sportswear",
+    "phone": "(727) 597-4502",
+    "address": "8234 Night Owl Ct  New Port Richey, FL 34655",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fms Purchasing and Service Inc",
+    "description": "Department Stores",
+    "phone": "(727) 725-2909",
+    "address": "711 S Belcher Rd  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Our House",
+    "description": "Women's Clothing",
+    "phone": "(727) 614-8198",
+    "address": "475 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ny Hip Hop Clothing",
+    "description": "Department Stores",
+    "phone": "(727) 446-8800",
+    "address": "1889 N Highland Ave  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Claudia's Dancewear & Costumes",
+    "description": "Dancing Supplies",
+    "phone": "(727) 845-5321",
+    "address": "1900 Us Highway 19  Holiday, FL 34691",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Skinz Masks",
+    "description": "Women's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 441-8789",
+    "address": "2027 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Palm Latitudes",
+    "description": "Women's Clothing",
+    "phone": "(727) 733-7343",
+    "address": "322 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "M J Fashions & Gifts",
+    "description": "Women's Clothing",
+    "phone": "(727) 736-6276",
+    "address": "314 Main St  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Rose Garden",
+    "description": "Women's Clothing",
+    "phone": "(727) 734-5052",
+    "address": "737 Broadway  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "D & D Sales",
+    "description": "Department Stores",
+    "phone": "(727) 734-4220",
+    "address": "500 Douglas Ave  Dunedin, FL 34698",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Boo Maxx Corp",
+    "description": "Department Stores",
+    "phone": "(727) 807-3364",
+    "address": "8022 Old County Road 54  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Curv Exchange Clearwater",
+    "description": "Women's Clothing",
+    "phone": "(727) 330-6925",
+    "address": "1916 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Gucci - International Plaza and Bay Street",
+    "description": "Women's Clothing",
+    "phone": "(813) 348-2708",
+    "address": "2223 N West Shore Blvd Ste 268  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Swim & Play",
+    "description": "Women's Clothing",
+    "phone": "(727) 461-4499",
+    "address": "407 Mandalay Ave  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Malindy Elene",
+    "description": "Bridal Shops",
+    "phone": "(813) 251-4334",
+    "address": "2107 W Kennedy Blvd  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bentley Salon Inc",
+    "description": "Beauty Salons",
+    "phone": "(813) 877-9801",
+    "address": "3228 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "J's Fashion And Bridal Outlet",
+    "description": "Bridal Shops",
+    "phone": "(813) 237-0972",
+    "address": "1733 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Connies Connies Fashion Boutique Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 874-2526",
+    "address": "2526 W Tampa Bay Blvd  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "American Freight - Appliance, Furniture, Mattress",
+    "description": "Discount Stores",
+    "phone": "(813) 931-2277",
+    "address": "8245B N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sears Outlet",
+    "description": "Discount Stores",
+    "phone": "(813) 931-2277",
+    "address": "8245B N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rei",
+    "description": "Sporting Goods",
+    "phone": "(813) 582-4091",
+    "address": "1152 Assembly Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Forno Nardona",
+    "description": "Department Stores",
+    "phone": "(800) 251-3510",
+    "address": "13215 N Nebraska Ave Ste E  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Daime Dollar Discount",
+    "description": "Discount Stores",
+    "phone": "(813) 998-0271",
+    "address": "2917 W Columbus Dr  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Deni's Mens Wear",
+    "description": "Men's Clothing",
+    "phone": "(813) 977-6401",
+    "address": "11612 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fu-Bo Dollar Store",
+    "description": "Variety Stores",
+    "phone": "(813) 910-1493",
+    "address": "11612 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Park Sportswear",
+    "description": "Men's Clothing",
+    "phone": "(813) 631-8055",
+    "address": "11612 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "VIP Sports Wear",
+    "description": "Sportswear",
+    "phone": "(813) 512-8557",
+    "address": "934 E 124th Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Donna's Fashion",
+    "description": "Women's Clothing",
+    "phone": "(813) 977-0618",
+    "address": "11311 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "New York Fashion",
+    "description": "Women's Clothing",
+    "phone": "(813) 977-8370",
+    "address": "11311 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Pretty Woman",
+    "description": "Women's Clothing",
+    "phone": "(813) 977-0632",
+    "address": "11311 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wong Mi Kwon",
+    "description": "Department Stores",
+    "phone": "(813) 977-6708",
+    "address": "11311 N Nebraska Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Willie Larry Sports World Co",
+    "description": "Sportswear",
+    "phone": "(813) 288-8053",
+    "address": "4100 W Kennedy Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Dress Code",
+    "description": "Women's Clothing",
+    "phone": "(813) 636-8777",
+    "address": "4020 W Kennedy Blvd Ste 102  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Georgettes Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 254-1141",
+    "address": "141 S Dale Mabry Hwy  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Speedline Team Sports Inc",
+    "description": "Sporting Goods",
+    "phone": "(813) 876-0469",
+    "address": "1804 N Habana Ave  Tampa, FL 33607",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Truly Forever Bridal",
+    "description": "Bridal Shops",
+    "phone": "(813) 931-8991",
+    "address": "1102 E Busch Blvd  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Neiman Marcus",
+    "description": "Department Stores",
+    "phone": "(800) 388-5646",
+    "address": "2223 Westshore Plz Suite 600  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lady Mary Elle Jewelry",
+    "description": "Boutique Items",
+    "phone": "(813) 374-6877",
+    "address": "405 S Dale Mabry Hwy Suite 125  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "notasuspect",
+    "description": "Men's Clothing",
+    "phone": "(352) 415-5373",
+    "address": "8006 N 10th St  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Classic Gentlemen Boutique",
+    "description": "Men's Clothing",
+    "phone": "(813) 248-2676",
+    "address": "5407 N Florida Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Valhalla Resale, Inc.",
+    "description": "Women's Clothing",
+    "phone": "(813) 231-3344",
+    "address": "6112 N Central Ave  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Blooming Bird Consignment",
+    "description": "Women's Clothing",
+    "phone": "(813) 528-3044",
+    "address": "3641 Henderson Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Li Da La Consignment Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 831-7777",
+    "address": "3641 Henderson Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Amelias Abubut",
+    "description": "Women's Clothing",
+    "phone": "(813) 513-2906",
+    "address": "3644 Henderson Blvd  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "University Mall",
+    "description": "Shopping Centers & Malls",
+    "phone": "(813) 971-3465",
+    "address": "2200 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Camille La Vie",
+    "description": "Women's Clothing",
+    "phone": "(813) 972-0176",
+    "address": "2211 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ashley Stewart",
+    "description": "Women's Clothing",
+    "phone": "(813) 903-1018",
+    "address": "2219 University Square Mall  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Triage Consignment",
+    "description": "Consignment Service",
+    "phone": "(813) 805-7600",
+    "address": "4109 Henderson Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Disco Dolls",
+    "description": "Clothing-Collectible, Period, Vintage",
+    "phone": "(813) 451-1211",
+    "address": "4220 N Florida Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Grostyles",
+    "description": "Custom Made Men's Suits",
+    "phone": "(813) 903-8334",
+    "address": "2035 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Harold Pener Menswear",
+    "description": "Men's Clothing",
+    "phone": "(813) 977-3733",
+    "address": "2200 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "GITI 8 At University Mall",
+    "description": "Women's Clothing",
+    "phone": "(813) 866-7360",
+    "address": "2226 E Fowler Ave  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ckl",
+    "description": "Men's Clothing",
+    "phone": "(813) 977-6438",
+    "address": "12222 University Mall Ct  Tampa, FL 33612",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Boreal Mall Inc.",
+    "description": "Discount Stores",
+    "phone": "(888) 447-3823",
+    "address": "8119 N Hillsborough Ln  Tampa, FL 33604",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "KT Janes",
+    "description": "Department Stores",
+    "phone": "(813) 251-5090",
+    "address": "1718 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Clothes Friends",
+    "description": "Women's Clothing",
+    "phone": "(813) 254-1737",
+    "address": "1714 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Happy Everything",
+    "description": "Department Stores",
+    "phone": "(813) 533-0485",
+    "address": "1716 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Hart Schaffner & Marx",
+    "description": "Men's Clothing",
+    "phone": "(813) 253-2681",
+    "address": "1707 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Paradise Island Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 805-2060",
+    "address": "3316 S West Shore Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Keys Country",
+    "description": "Women's Clothing",
+    "phone": "(813) 253-5397",
+    "address": "1910 S Dale Mabry Hwy  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rehab",
+    "description": "Consignment Service",
+    "phone": "(813) 283-0301",
+    "address": "4225 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kit's",
+    "description": "Women's Clothing",
+    "phone": "(813) 871-5487",
+    "address": "3006 W Swann Ave  Tampa, FL 33609",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Shoptoska",
+    "description": "Women's Clothing",
+    "phone": "(813) 442-4324",
+    "address": "3433 S West Shore Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dunya Food Inc",
+    "description": "General Merchandise",
+    "phone": "(813) 237-6871",
+    "address": "4407 N Nebraska Ave  Tampa, FL 33603",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "RP Sales",
+    "description": "Department Stores",
+    "phone": "(813) 259-3793",
+    "address": "213 S Howard Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Bikini Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 906-8318",
+    "address": "202 S Howard Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "SunState Shirts",
+    "description": "T-Shirts",
+    "phone": "(813) 261-1188",
+    "address": "PO Box 153065  Tampa, FL 33684",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "DTLR",
+    "description": "Shoe Stores",
+    "phone": "(813) 631-5292",
+    "address": "13574 Bruce B Downs Blvd  Tampa, FL 33613",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Why Not Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 374-2394",
+    "address": "3423 W Bay To Bay Blvd  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Coton Colors",
+    "description": "Department Stores",
+    "phone": "(813) 254-1251",
+    "address": "1101 W Kennedy Blvd  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tom James",
+    "description": "Custom Made Men's Suits",
+    "phone": "(813) 204-9699",
+    "address": "403 E Oak Ave  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Look Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 835-5665",
+    "address": "2507 S Macdill Ave  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Anthropologie",
+    "description": "Women's Clothing",
+    "phone": "(813) 250-3600",
+    "address": "703 S Dakota Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Salt Pines",
+    "description": "Men's Clothing",
+    "phone": "(813) 644-5991",
+    "address": "1619 W Snow Cir  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Glam Chic Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 234-0293",
+    "address": "2241 E Hillsborough Ave  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Ancient Olive",
+    "description": "Department Stores",
+    "phone": "(321) 972-1899",
+    "address": "1621 W Snow Cir  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Scout & Molly's",
+    "description": "Women's Clothing",
+    "phone": "(813) 304-1746",
+    "address": "1603 W Snow Cir  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Veronica Beard Tampa",
+    "description": "Women's Clothing",
+    "phone": "(813) 725-3102",
+    "address": "1621 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Canvas Fashion Gallery",
+    "description": "Women's Clothing",
+    "phone": "(813) 251-2225",
+    "address": "1625 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Madewell",
+    "description": "Women's Clothing",
+    "phone": "(813) 250-1585",
+    "address": "1614 W Snow Ave  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bella Bridesmaid",
+    "description": "Bridal Shops",
+    "phone": "(813) 443-4984",
+    "address": "3215 S Macdill Ave Ste H  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fallen Angels",
+    "description": "Women's Clothing",
+    "phone": "(813) 443-8280",
+    "address": "3217 S Macdill Ave Ste C  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Plato's Closet",
+    "description": "Closets Designing & Remodeling",
+    "phone": "(813) 289-3333",
+    "address": "3924 Britton Plz  Tampa, FL 33611",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "LaSunShine Boutique",
+    "description": "Boutique Items",
+    "phone": "(813) 344-4437",
+    "address": "406 N Morgan St  Tampa, FL 33602",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lerner Austin",
+    "description": "Women's Clothing",
+    "phone": "(813) 251-1647",
+    "address": "345 Bayshore Blvd  Tampa, FL 33606",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Revolve Clothing Exchange",
+    "description": "Women's Clothing",
+    "phone": "(813) 242-5970",
+    "address": "1620 E 7th Ave  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "All About You",
+    "description": "Women's Clothing",
+    "phone": "(813) 988-8628",
+    "address": "4707 E Busch Blvd  Tampa, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Florida Wholesalers, Inc",
+    "description": "General Merchandise-Wholesale",
+    "phone": "(813) 627-8884",
+    "address": "3212 N 40th St  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "El Changarrito Mexicano",
+    "description": "Men's Clothing",
+    "phone": "(813) 531-1931",
+    "address": "1204 S 22nd St  Tampa, FL 33605",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Clark V T",
+    "description": "General Merchandise",
+    "phone": "(813) 839-9330",
+    "address": "8612 Interbay Blvd  Tampa, FL 33616",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Coze Fashion Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 626-7769",
+    "address": "5123 E Dr Martin Luther King Jr Blvd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rain Maker",
+    "description": "Department Stores",
+    "phone": "(813) 627-7805",
+    "address": "5223 Orient Rd  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Maceoo",
+    "description": "Men's Clothing",
+    "phone": "(813) 627-7625",
+    "address": "5223 Orient Rd  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Unity Store",
+    "description": "Department Stores",
+    "phone": "(813) 627-8150",
+    "address": "5223 Orient Rd  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fleet Feet",
+    "description": "Shoe Stores",
+    "phone": "(813) 428-6945",
+    "address": "8604 Hunters Village Rd  Tampa, FL 33647",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Imagine That!!!",
+    "description": "Women's Clothing",
+    "phone": "(813) 902-8428",
+    "address": "3417 S Manhattan Ave  Tampa, FL 33629",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Walmart Garden Center",
+    "description": "General Merchandise",
+    "phone": "(813) 949-4238",
+    "address": "1575 Land O Lakes Blvd  Lutz, FL 33549",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bella Bove",
+    "description": "Women's Clothing",
+    "phone": "(813) 949-9465",
+    "address": "19263 N Dale Mabry Hwy  Lutz, FL 33548",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lau Ladd Partnership",
+    "description": "General Merchandise",
+    "phone": "(813) 971-2734",
+    "address": "15402 N Nebraska Ave  Lutz, FL 33549",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Kaiya Designs",
+    "description": "Women's Clothing",
+    "phone": "(813) 501-4205",
+    "address": "21326 Coakley Ln  Land O Lakes, FL 34639",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Lili's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(813) 985-4939",
+    "address": "12850 N 56th St  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Men's Closet",
+    "description": "Department Stores",
+    "phone": "(813) 341-2500",
+    "address": "8851 N 56th St  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Air Sportswear Club",
+    "description": "Screen Printing",
+    "phone": "(813) 996-0886",
+    "address": "4400 Land O Lakes Blvd  Land O Lakes, FL 34639",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tyrrell & Laing International Inc",
+    "description": "Women's Clothing",
+    "phone": "(813) 980-1913",
+    "address": "6629 Baybrooks Cir  Temple Terrace, FL 33617",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dittmer's",
+    "description": "Department Stores",
+    "phone": "(727) 858-1209",
+    "address": "5146 South Rd  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Palm Palms",
+    "description": "Women's Clothing",
+    "phone": "(727) 596-0194",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Advantage Yours Tennis",
+    "description": "Tennis Equipment & Supplies",
+    "phone": "(727) 442-7923",
+    "address": "1875 Gulf To Bay Blvd  Clearwater, FL 33765",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dollar General Market",
+    "description": "Discount Stores",
+    "phone": "(727) 375-0568",
+    "address": "7241 State Road 54  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "One Stop Vinyl & T-Shirts Inc.",
+    "description": "T-Shirts",
+    "phone": "(727) 271-1348",
+    "address": "6841 State Road 54  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Rave",
+    "description": "Women's Clothing",
+    "phone": "(727) 372-9160",
+    "address": "4443 Weasel Dr  New Port Richey, FL 34653",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Consumers Companies of America Inc",
+    "description": "Department Stores",
+    "phone": "(727) 507-0525",
+    "address": "1458 S Belcher Rd  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Women of Royalty Designer Apparel",
+    "description": "Women's Clothing",
+    "phone": "(727) 233-0114",
+    "address": "2159 Nursery Rd  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Live Fast Die Rich Studio",
+    "description": "Women's Clothing",
+    "phone": "(727) 400-4838",
+    "address": "1409 N Betty Ln  Clearwater, FL 33755",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Reclaimio",
+    "description": "Department Stores",
+    "phone": "(727) 228-2613",
+    "address": "461 Daphne St  New Port Richey, FL 34652",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tieguys.com Inc",
+    "description": "Men's Clothing Wholesalers & Manufacturers",
+    "phone": "(727) 475-4452",
+    "address": "807 Park St  Clearwater, FL 33756",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dollar Plus & Party Inc",
+    "description": "Discount Stores",
+    "phone": "(727) 530-0010",
+    "address": "4315 E Bay Dr  Clearwater, FL 33764",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fast Frontier",
+    "description": "Department Stores",
+    "phone": "(727) 601-5673",
+    "address": "13920 58th St N  Clearwater, FL 33760",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Simply Fab Dress",
+    "description": "Bridal Shops",
+    "phone": "(754) 260-8244",
+    "address": "13575 58th Street North #287  Clearwater, FL 33760",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Sil-O-Ette International Inc",
+    "description": "Women's Clothing",
+    "phone": "(727) 571-3338",
+    "address": "12890 Automobile Blvd  Clearwater, FL 33762",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Tom James Company Tampa Bay",
+    "description": "Men's Clothing",
+    "phone": "(727) 916-7848",
+    "address": "12100 31st Ct N Suite A  Saint Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Fashionista Trendy Thrifty",
+    "description": "Men's Clothing",
+    "phone": "(727) 641-9970",
+    "address": "14099 Belcher Rd S Lot 1152  Largo, FL 33771",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Mizz Sunshine Dresses",
+    "description": "Women's Clothing",
+    "phone": "(727) 754-2788",
+    "address": "1600 Missouri Ave N Ste 40  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Bon Worth",
+    "description": "Women's Clothing",
+    "phone": "(727) 581-8680",
+    "address": "1399 Missouri Ave N  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Studs and Stones 4 U",
+    "description": "Women's Clothing",
+    "phone": "(727) 345-5609",
+    "address": "10410 1st St N Unit 8  Saint Petersburg, FL 33716",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Coast 2 Coast Bargain's",
+    "description": "Internet Marketing & Advertising",
+    "phone": "(727) 226-7782",
+    "address": "447 6th Ave NE  Largo, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Surfing USA",
+    "description": "Sportswear",
+    "phone": "(727) 446-9173",
+    "address": "325 S Gulfview Blvd  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Island Treasure Gifts",
+    "description": "Gift Baskets",
+    "phone": "(727) 216-6770",
+    "address": "1261 Gulf Blvd  Clearwater, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Dana's Boutique",
+    "description": "Women's Clothing",
+    "phone": "(727) 517-9551",
+    "address": "1261 Gulf Blvd  Clearwater Beach, FL 33767",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "The Hunt",
+    "description": "Department Stores",
+    "phone": "(727) 506-3200",
+    "address": "12690 Starkey Rd  Largo, FL 33773",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Cassi & Co",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "100 Indian Rocks Rd N Ste 3  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Eileen Fisher",
+    "description": "Women's Clothing",
+    "phone": "(727) 501-0432",
+    "address": "100 Indian Rocks Rd N Ste H  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Marsha Jay Uhle R",
+    "description": "Women's Clothing",
+    "phone": "(727) 585-2011",
+    "address": "100 Indian Rocks Rd N  Belleair Bluffs, FL 33770",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "B & E Products",
+    "description": "Department Stores",
+    "phone": "(813) 635-9707",
+    "address": "4800 N Us Highway 301  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Handbags by Jean",
+    "description": "Women's Clothing",
+    "phone": "(813) 626-2070",
+    "address": "4800 N Us Highway 301  Tampa, FL 33610",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Town & Country Industries",
+    "description": "Aluminum Products",
+    "phone": "(813) 626-7784",
+    "address": "9808 E Broadway Ave  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "TNT CLOTHING",
+    "description": "Men's Clothing",
+    "phone": "(813) 966-7933",
+    "address": "8216 Causeway Blvd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Urban Styles Shop",
+    "description": "Women's Clothing",
+    "phone": "(813) 672-8400",
+    "address": "5557 S 78th St  Tampa, FL 33619",
+    "location": "Hillsborough"
+  },
+  {
+    "name": "Wallace Sales Inc",
+    "description": "Department Stores",
+    "phone": "(813) 685-4622",
+    "address": "501 S Falkenburg Rd  Tampa, FL 33619",
+    "location": "Hillsborough"
+  }
+]
