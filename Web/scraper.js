@@ -1,19 +1,43 @@
-const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+
+puppeteer.use(StealthPlugin());
+
+const { userAgents, proxies } = require('../zoominfoLife/utils/ramdom');
+
+const getRandomElement = (array) => array[Math.floor(Math.random() * array.length)];
+
+const scrapeCategory = async (url, objectSearch, locationSearch) => {
   const dataShop = [];
   let currentPage = 1;
 
   try {
-    const page = await browser.newPage();
-    console.log(' >> mở tab mới');
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36');
+    const proxy = getRandomElement(proxies);
+    const userAgent = getRandomElement(userAgents);
 
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 1500000 });
-    console.log(' >> truy cập URL', url);
+    console.log('------------------------', `--proxy-server=http://${proxy.host}:${proxy.port}`);
+    console.log('------------------------', userAgent);
+    const browser = await puppeteer.launch({
+      args: ['--disable-setuid-sandbox'],
+      executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+      headless: true,
+      ignoreDefaultArgs: true,
+    });
+
+    console.log('proxy use ----------', browser);
+
+    const page = await browser.newPage();
+
+    await page.authenticate({ login, password });
+    console.log({ login, password });
+    page.setDefaultNavigationTimeout(300000); // 5 phút
+    page.setDefaultTimeout(300000); // 5 phút
+
+    console.log(' >> mở tab mới');
+    await page.setUserAgent(userAgent);
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 150000 });
     console.log(' >> truy cập URL', url);
 
-    await page.waitForSelector('#content-container', { timeout: 1500000 });
-    console.log(' >> web đã load xong');
     await page.waitForSelector('#content-container', { timeout: 150000 });
     console.log(' >> web đã load xong');
 
@@ -31,7 +55,6 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
     );
 
     await page.click('button[value="Find"]');
-    await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
     await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 150000 });
 
     page.on('console', (consoleObj) => console.log(consoleObj.text()));
@@ -46,16 +69,18 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
             const phone = el.querySelector('.phones.phone');
             const street = el.querySelector('.adr > .street-address');
             const location = el.querySelector('.adr > .locality');
-
+            const dataYpid = el.getAttribute('data-ypid');
             return {
+              dataYpid: dataYpid || 'N/A',
               name: name ? name.innerText : 'N/A',
               description: description ? description.innerText : 'N/A',
               phone: phone ? phone.innerText : 'N/A',
-              address: ` ${street ? street.innerText : 'N/A'} - ${location ? location.innerText : 'N/A'}`,
+              address: `street: ${street ? street.innerText : 'N/A'} location: ${location ? location.innerText : 'N/A'}`,
             };
           } catch (err) {
             console.error('Lỗi khi lấy dữ liệu của một phần tử:', err);
             return {
+              dataYpid: 'N/A',
               name: 'N/A',
               description: 'N/A',
               phone: 'N/A',
@@ -69,8 +94,6 @@ const scrapeCategory = async (browser, url, objectSearch, locationSearch) => {
 
       const isNext = await page.$('.pagination .next.ajax-page');
       if (isNext) {
-        await page.click('.pagination .next.ajax-page');
-        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 1500000 });
         await page.click('.pagination .next.ajax-page');
         console.log('first');
         await page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 150000 });

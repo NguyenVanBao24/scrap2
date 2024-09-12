@@ -4,15 +4,14 @@ dotenv.config();
 const StorePath = require('./storePath');
 const { names, locations, acronymLocation } = require('./nameOfSearch');
 
-const scrapeControllers = async (browserInstance) => {
+const scrapeControllers = async () => {
   const url = process.env.URL_YELLOW_PAGE;
 
   try {
-    let browser = await browserInstance;
     for (const name of names) {
       for (const location of locations) {
-        const categories = await scrapes.scrapeCategory(browser, url, name, `${location}, ${acronymLocation}`);
-        StorePath(location, categories);
+        const categories = await scrapes.scrapeCategory(url, name, `${location}, ${acronymLocation}`);
+        StorePath(location, categories, 'data_sport');
       }
     }
   } catch (error) {

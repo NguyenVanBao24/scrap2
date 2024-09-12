@@ -1,26 +1,30 @@
 const { names, locations } = require('./nameOfSearch');
 
+const { userAgents, proxies } = require('./utils/ramdom');
+
+const getRandomElement = (array) => array[Math.floor(Math.random() * array.length)];
 const scrapeCategory = async (browser, url) => {
   try {
+    const userAgent = getRandomElement(userAgents);
     const page = await browser.newPage();
-    console.log(' >> opening new tab');
+    await page.setUserAgent(userAgent);
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 150000 });
-
     await page.waitForNavigation({ timeout: 1200000 });
+    console.log(' >> Accessing URL:', url);
 
-    console.log(' >> access URL', url);
-
+    // Check if login is required
     const isLoginRequired = await page.evaluate(() => {
       return !!document.querySelector('#okta-regular-login');
     });
+
     if (isLoginRequired) {
-      await page.type('#okta-signin-username', 'prospector@ballerheadwear.com');
-      await page.type('#okta-signin-password', 'Prospector---2024');
+      await page.type('#okta-signin-username', 'caopro@ballerheadwear.com');
+      await page.type('#okta-signin-password', 'Pro----2024');
       await page.click('#okta-signin-submit');
-      console.log('login operation');
+      console.log(' >> Performing login operation');
     }
 
-    // Wait for page to load completely
+    // Wait for the page to fully load
     await page.waitForSelector('#zi-lite-shell', { timeout: 150000 });
     console.log(' >> Page loaded');
 
@@ -29,7 +33,7 @@ const scrapeCategory = async (browser, url) => {
     await page.type('#zic-input-text-0', locations[0]);
     console.log(' >> Entered location:', locations[0]);
 
-    // Wait for location dropdown and select first option
+    // Wait for location dropdown and select the first option
     await page.waitForSelector('div.filters-values.ng-star-inserted > ul', { timeout: 60000 });
     await page.evaluate(() => {
       const ulElement = document.querySelector('div.filters-values.ng-star-inserted > ul');
@@ -44,13 +48,13 @@ const scrapeCategory = async (browser, url) => {
     await page.click('div[data-onboarding="filter-wrapper:industry"]');
     console.log(' >> Opened industry filter popup');
 
-    // Input industries from names array
+    // Input industries from the names array
     for (let i = 0; i < names.length; i++) {
       console.log(` >> Entering industry: ${names[i]}`);
       await page.waitForSelector('input[id="zic-input-text-6"]', { timeout: 60000 });
       await page.type('input[id="zic-input-text-6"]', names[i]);
 
-      // Wait for dropdown and select second row
+      // Wait for dropdown and select the second row
       await page.waitForSelector('tbody.p-treetable-tbody', { timeout: 60000 });
       await new Promise((resolve) => setTimeout(resolve, 500)); // Small delay
       await page.click('tbody.p-treetable-tbody > tr:nth-child(2)');
@@ -62,7 +66,6 @@ const scrapeCategory = async (browser, url) => {
     }
 
     // Wait for results to load
-
     await page.waitForSelector('label.zic-counter-badge__label', { timeout: 60000 });
 
     const totalOfCompany = await page.evaluate(() => {
@@ -70,45 +73,41 @@ const scrapeCategory = async (browser, url) => {
       return label ? parseInt(label.textContent.trim().replace(/,/g, ''), 10) : 0;
     });
 
-    console.log(totalOfCompany); // In ra giá trị tổng công ty
-
     console.log(' >> Total companies found:', totalOfCompany);
 
-    await new Promise((resolve) => setTimeout(resolve, 2000));
-
     const allData = [];
-
     const arrFilter = [
-      '[data-automation-data="Company Name"]',
-      '[data-automation-data="Company Name"]',
-      '[data-automation-data="City, State"]',
-      '[data-automation-data="City, State"]',
-      '[data-automation-data="Employees"]',
-      '[data-automation-data="Employees"]',
-      '[data-automation-data="Revenue"]',
-      '[data-automation-data="Revenue"]',
-      '[data-automation-data="Website"]',
-      '[data-automation-data="Website"]',
+      // '[data-automation-data="Company Name"]',
+      // '[data-automation-data="Company Name"]',
+      // '[data-automation-data="City, State"]',
+      // '[data-automation-data="City, State"]',
+      // '[data-automation-data="Employees"]',
+      // '[data-automation-data="Employees"]',
+      // '[data-automation-data="Revenue"]',
+      // '[data-automation-data="Revenue"]',
+      // '[data-automation-data="Website"]',
+      // '[data-automation-data="Website"]',
     ];
 
     const numOfLoop = Math.min(Math.ceil(totalOfCompany / 25), 99); // Limit to 99 pages
+    console.log(' >> Number of loops:', numOfLoop);
 
-    console.log('number of loop is ', totalOfCompany, ' / 25', numOfLoop);
     // Pagination loop
     for (let j = -1; j < arrFilter.length; j++) {
       if (j > -1) {
         console.log(` >> Sorting by ${arrFilter[j]}`);
-        await new Promise((resolve) => setTimeout(resolve, 2000));
+        await new Promise((resolve) => setTimeout(resolve, 4000));
         await page.click(arrFilter[j]);
       }
 
       for (let i = 0; i < numOfLoop; i++) {
-        await new Promise((resolve) => setTimeout(resolve, 1000));
+        await new Promise((resolve) => setTimeout(resolve, 4000));
 
-        // Scrape data from current page
+        // Scrape data from the current page
         const data = await page.evaluate(() => {
           const rows = document.querySelectorAll('tr[zi-ax-table-row]');
           const result = [];
+
           rows.forEach((row) => {
             const companyName = row.querySelector('span[data-automation-id="company-search-company-name"]')?.textContent.trim();
             const location = row.querySelector('span[data-automation-id="company-search-location"]')?.textContent.trim();
@@ -132,6 +131,7 @@ const scrapeCategory = async (browser, url) => {
           return result;
         });
 
+        // Get phone and description for each company
         for (let k = 1; k < data.length; k++) {
           const companyRowIndex = k;
           await page.evaluate((index) => {
@@ -150,8 +150,8 @@ const scrapeCategory = async (browser, url) => {
           });
 
           const description = await page.evaluate(() => {
-            const phoneElement = document.querySelector('div[data-onboarding="profile-side-pane-container"] div[_ngcontent-ng-c3205106403]');
-            return phoneElement ? phoneElement.textContent.trim() : 'No data found';
+            const descriptionElement = document.querySelector('div[data-onboarding="profile-side-pane-container"] div[_ngcontent-ng-c3205106403]');
+            return descriptionElement ? descriptionElement.textContent.trim() : 'No data found';
           });
 
           data[k].phone = phone;
@@ -159,6 +159,8 @@ const scrapeCategory = async (browser, url) => {
         }
 
         allData.push(...data);
+
+        await new Promise((resolve) => setTimeout(resolve, 8000));
         await page.click('button.p-paginator-next');
       }
     }

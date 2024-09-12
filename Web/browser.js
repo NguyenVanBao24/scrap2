@@ -1,5 +1,5 @@
-const puppeteer = require("puppeteer-extra");
-const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+const puppeteer = require('puppeteer-extra');
+const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 
 puppeteer.use(StealthPlugin());
 
@@ -8,13 +8,13 @@ const startBrowser = async () => {
   try {
     browser = await puppeteer.launch({
       headless: true,
-      args: ["--disable-setuid-sandbox"],
+      args: ['--disable-setuid-sandbox'],
       ignoreDefaultArgs: true,
     });
 
     return browser;
   } catch (error) {
-    console.log("KHONG TAO DUOC BROWSER ERROR: " + error);
+    console.log('KHONG TAO DUOC BROWSER ERROR: ' + error);
   }
 };
 
